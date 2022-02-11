@@ -1,0 +1,63 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "li",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "Q2MmhdqAWWmqSI68ycQvMg==\n",
+    "height": 28,
+    "hier_level": 0,
+    "human_hash": "li_X985_Y759_W262_H28",
+    "human_readable": "li_985_759_262_28_li_ffffffffffffffff4fff4fff07ff07ff07ff07ff07ffffffffffffffffffffff_ec98d7b2453159b3b26a463e43160ecc",
+    "image_path": "ZTM4OWQwZjk4NzYwNGJiNWI2MTlkMmQxNzk1MzM4NTg.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-663",
+                "id": "menu-item-663"
+            },
+            "backend_node_id": 4147,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 28.0,
+            "key": "985_759_262_28_Men Jackets",
+            "tagName": "li",
+            "text": "Men Jackets",
+            "width": 262.0,
+            "x": 985.0,
+            "y": 759.0
+        },
+        "location": {
+            "x": 985.0,
+            "y": 759.0
+        },
+        "size": {
+            "height": 28.0,
+            "width": 262.0
+        },
+        "tag_name": "li",
+        "text": "Men Jackets"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "98664e211eb0215005e02f345b52dd29",
+    "scrollable": false,
+    "tag_name": "li",
+    "text": "Men Jackets",
+    "transformed": true,
+    "width": 262,
+    "x": 985,
+    "y": 759
+}

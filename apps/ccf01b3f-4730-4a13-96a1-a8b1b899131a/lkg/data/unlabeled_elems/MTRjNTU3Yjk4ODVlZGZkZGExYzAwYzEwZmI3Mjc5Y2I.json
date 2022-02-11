@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "FjIGtHyY3vRSgbcv6sdw9g==\n",
+    "height": 71,
+    "hier_level": 0,
+    "human_hash": "div_X360_Y15_W1200_H71",
+    "human_readable": "div_360_15_1200_71_div_0000000000008000a000e000e000e3ffe3ffe131e000e0008000000000000001_e38c7be9fd7d30be88e7839c37996bcf",
+    "image_path": "MTRjNTU3Yjk4ODVlZGZkZGExYzAwYzEwZmI3Mjc5Y2I.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ast-builder-grid-row ast-builder-grid-row-has-sides ast-builder-grid-row-no-center"
+            },
+            "backend_node_id": 171,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 71.0,
+            "key": "360_15_1200_71_Home Store Men Women Accessories Account About Contact Us \n\t\t\t\t\t\t\t\t\t0\t\t\t\t\t\t\t\t No products in the cart.",
+            "tagName": "div",
+            "text": "Home Store Men Women Accessories Account About Contact Us \n\t\t\t\t\t\t\t\t\t0\t\t\t\t\t\t\t\t No products in the cart.",
+            "width": 1200.0,
+            "x": 360.0,
+            "y": 15.0
+        },
+        "location": {
+            "x": 360.0,
+            "y": 15.0
+        },
+        "size": {
+            "height": 71.0,
+            "width": 1200.0
+        },
+        "tag_name": "div",
+        "text": "Home Store Men Women Accessories Account About Contact Us \n\t\t\t\t\t\t\t\t\t0\t\t\t\t\t\t\t\t No products in the cart."
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "5f413e1e858fba8e26874fc61fafba9e",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Home Store Men Women Accessories Account About Contact Us \n\t\t\t\t\t\t\t\t\t0\t\t\t\t\t\t\t\t No products in the cart.",
+    "transformed": true,
+    "width": 1200,
+    "x": 360,
+    "y": 15
+}

@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "1yOrjD9IFZBCZwhRAukovg==\n",
+    "height": 87,
+    "hier_level": 0,
+    "human_hash": "div_X1150_Y483_W195_H87",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "astra-shop-summary-wrap"
+            },
+            "backend_node_id": 3701,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 87.0,
+            "key": "1150_483_195_87_DNK Green Shoes \n\t\t\t\tMen\t\t\t $ 150.00 Rated  0  out of 5",
+            "tagName": "div",
+            "text": "DNK Green Shoes \n\t\t\t\tMen\t\t\t $ 150.00 Rated  0  out of 5",
+            "width": 195.0,
+            "x": 1150.0,
+            "y": 483.0
+        },
+        "location": {
+            "x": 1150.0,
+            "y": 483.0
+        },
+        "size": {
+            "height": 87.0,
+            "width": 195.0
+        },
+        "tag_name": "div",
+        "text": "DNK Green Shoes \n\t\t\t\tMen\t\t\t $ 150.00 Rated  0  out of 5"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "DNK Green Shoes \n\t\t\t\tMen\t\t\t $ 150.00 Rated  0  out of 5",
+    "transformed": true,
+    "width": 195,
+    "x": 1150,
+    "y": 483
+}

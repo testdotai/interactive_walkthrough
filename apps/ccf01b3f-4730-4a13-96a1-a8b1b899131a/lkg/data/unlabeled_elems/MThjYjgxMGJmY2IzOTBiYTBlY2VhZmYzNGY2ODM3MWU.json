@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "li",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "IrGNeSvVKiCooiFSzH2c+A==\n",
+    "height": 300,
+    "hier_level": 0,
+    "human_hash": "li_X1364_Y276_W195_H300",
+    "human_readable": "li_1364_276_195_300_li_fffffffffffff18f80038001c001fbdfffffffffffff000fffffffff0fffffff_2e4d0a9c094ab0efa6a82d9f51959965",
+    "image_path": "MThjYjgxMGJmY2IzOTBiYTBlY2VhZmYzNGY2ODM3MWU.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ast-col-sm-12 ast-article-post astra-woo-hover-swap product type-product post-2708 status-publish last instock product_cat-accessories product_cat-women has-post-thumbnail featured shipping-taxable purchasable product-type-simple"
+            },
+            "backend_node_id": 3725,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 300.0,
+            "key": "1364_276_195_300_Boho Bangle Bracelet \n\t\t\t\tAccessories\t\t\t $ 200.00 Rated  0  out of 5",
+            "tagName": "li",
+            "text": "Boho Bangle Bracelet \n\t\t\t\tAccessories\t\t\t $ 200.00 Rated  0  out of 5",
+            "width": 195.0,
+            "x": 1364.0,
+            "y": 276.0
+        },
+        "location": {
+            "x": 1364.0,
+            "y": 276.0
+        },
+        "size": {
+            "height": 300.0,
+            "width": 195.0
+        },
+        "tag_name": "li",
+        "text": "Boho Bangle Bracelet \n\t\t\t\tAccessories\t\t\t $ 200.00 Rated  0  out of 5"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "0fa295c9652c2468ead03ded1de10fb0",
+    "scrollable": false,
+    "tag_name": "li",
+    "text": "Boho Bangle Bracelet \n\t\t\t\tAccessories\t\t\t $ 200.00 Rated  0  out of 5",
+    "transformed": true,
+    "width": 195,
+    "x": 1364,
+    "y": 276
+}

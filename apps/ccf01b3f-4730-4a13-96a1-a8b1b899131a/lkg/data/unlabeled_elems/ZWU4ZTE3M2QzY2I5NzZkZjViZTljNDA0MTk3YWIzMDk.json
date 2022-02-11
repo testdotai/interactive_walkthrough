@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "/KMZrYw1yfLCOs859BbIjg==\n",
+    "height": 18,
+    "hier_level": 0,
+    "human_hash": "span_X435_Y497_W121_H18",
+    "human_readable": "span_435_497_121_18_span_fffffffffffffbef73ef7bef00800000000008000810081200101bfe9fff9fff_9fd176e0e8cf91661d9e1b9865efbd1d",
+    "image_path": "ZWU4ZTE3M2QzY2I5NzZkZjViZTljNDA0MTk3YWIzMDk.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product-title"
+            },
+            "backend_node_id": 1999,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 18.0,
+            "key": "435_497_121_18_Light Brown Purse",
+            "tagName": "span",
+            "text": "Light Brown Purse",
+            "width": 121.0,
+            "x": 435.0,
+            "y": 497.0
+        },
+        "location": {
+            "x": 435.0,
+            "y": 497.0
+        },
+        "size": {
+            "height": 18.0,
+            "width": 121.0
+        },
+        "tag_name": "span",
+        "text": "Light Brown Purse"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "b7e0b9e21b84b89ef40653b6a5e76acb",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "Light Brown Purse",
+    "transformed": true,
+    "width": 121,
+    "x": 435,
+    "y": 497
+}

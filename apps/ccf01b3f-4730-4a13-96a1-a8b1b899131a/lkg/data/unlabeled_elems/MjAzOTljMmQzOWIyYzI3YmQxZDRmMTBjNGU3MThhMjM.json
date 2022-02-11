@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "ckkk4+jq+PPsCe0FaLobnQ==\n",
+    "height": 45,
+    "hier_level": 0,
+    "human_hash": "span_X1092_Y626_W45_H45",
+    "human_readable": "span_1092_626_45_45_span_fc3ff00fc003c00380018001308833b80bf01fe080018001c003c003f00ffc3f_dcc792790ee55185f799e89a3ad22128",
+    "image_path": "MjAzOTljMmQzOWIyYzI3YmQxZDRmMTBjNGU3MThhMjM.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "onsale"
+            },
+            "backend_node_id": 2349,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 45.0,
+            "key": "1092_626_45_45_Sale!",
+            "tagName": "span",
+            "text": "Sale!",
+            "width": 45.0,
+            "x": 1092.0,
+            "y": 626.0
+        },
+        "location": {
+            "x": 1092.0,
+            "y": 626.0
+        },
+        "size": {
+            "height": 45.0,
+            "width": 45.0
+        },
+        "tag_name": "span",
+        "text": "Sale!"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "b7e0b9e21b84b89ef40653b6a5e76acb",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "Sale!",
+    "transformed": true,
+    "width": 45,
+    "x": 1092,
+    "y": 626
+}

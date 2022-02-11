@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "no8pQFW5aMpbnF4jU/dMMQ==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "span_X935_Y314_W195_H17",
+    "human_readable": "span_935_314_195_17_span_ffffffffffff7fff7fff3fff1fff1fff1fff1fff1fff1fff3fffffffffffffff_4cfd213d82c3360d355f819a111d11d0",
+    "image_path": "NWQ4N2E2Nzk4OGVlMTc0YmU4YmExYzZmODg1Zjk3OWM.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ast-woo-product-category"
+            },
+            "backend_node_id": 3900,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "935_314_195_17_Men",
+            "tagName": "span",
+            "text": "Men",
+            "width": 195.0,
+            "x": 935.0,
+            "y": 314.0
+        },
+        "location": {
+            "x": 935.0,
+            "y": 314.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 195.0
+        },
+        "tag_name": "span",
+        "text": "Men"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "98664e211eb0215005e02f345b52dd29",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "Men",
+    "transformed": true,
+    "width": 195,
+    "x": 935,
+    "y": 314
+}

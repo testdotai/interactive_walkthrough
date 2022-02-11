@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "PrbpZ+IVPbH2DaiR9QA5hg==\n",
+    "height": 52,
+    "hier_level": 0,
+    "human_hash": "div_X420_Y378_W293_H52",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "elementor-element elementor-element-1c6106f6 elementor-widget elementor-widget-text-editor",
+                "data-element_type": "widget",
+                "data-id": "1c6106f6",
+                "data-widget_type": "text-editor.default"
+            },
+            "backend_node_id": 2971,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 52.0,
+            "key": "420_378_293_52_Lorem ipsum dolor sit amet consec tetur.",
+            "tagName": "div",
+            "text": "Lorem ipsum dolor sit amet consec tetur.",
+            "width": 293.0,
+            "x": 420.0,
+            "y": 378.0
+        },
+        "location": {
+            "x": 420.0,
+            "y": 378.0
+        },
+        "size": {
+            "height": 52.0,
+            "width": 293.0
+        },
+        "tag_name": "div",
+        "text": "Lorem ipsum dolor sit amet consec tetur."
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Lorem ipsum dolor sit amet consec tetur.",
+    "transformed": true,
+    "width": 293,
+    "x": 420,
+    "y": 378
+}

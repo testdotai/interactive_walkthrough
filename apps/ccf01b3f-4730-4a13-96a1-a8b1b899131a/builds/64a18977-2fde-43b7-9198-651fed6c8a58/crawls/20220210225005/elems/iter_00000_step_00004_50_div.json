@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "W+b7cQzSp8mZtGevDqGp9A==\n",
+    "height": 15,
+    "hier_level": 0,
+    "human_hash": "div_X435_Y429_W81_H15",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "star-rating"
+            },
+            "backend_node_id": 1975,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 15.0,
+            "key": "435_429_81_15_Rated  0  out of 5",
+            "tagName": "div",
+            "text": "Rated  0  out of 5",
+            "width": 81.0,
+            "x": 435.0,
+            "y": 429.0
+        },
+        "location": {
+            "x": 435.0,
+            "y": 429.0
+        },
+        "size": {
+            "height": 15.0,
+            "width": 81.0
+        },
+        "tag_name": "div",
+        "text": "Rated  0  out of 5"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Rated  0  out of 5",
+    "transformed": true,
+    "width": 81,
+    "x": 435,
+    "y": 429
+}

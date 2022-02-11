@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "HFOM8SqAUyfpAMcn6bxVXA==\n",
+    "height": 22,
+    "hier_level": 0,
+    "human_hash": "a_X435_Y680_W164_H22",
+    "human_readable": "a_435_680_164_22_a_ffffffffffffffff077f077f080f000f000f000f000f000f600fffffffffffff_63cb7861f274f1998e2556659f5e5d9b",
+    "image_path": "MDZiZGZlMzNlMmE4YzIzMWVhMjYxMGMzYjIxNzAxYzI.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "https://testaistore.com/product/dnk-green-shoes/"
+            },
+            "backend_node_id": 2050,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 22.0,
+            "key": "435_680_164_22_DNK Green Shoes",
+            "tagName": "a",
+            "text": "DNK Green Shoes",
+            "width": 164.0,
+            "x": 435.0,
+            "y": 680.0
+        },
+        "location": {
+            "x": 435.0,
+            "y": 680.0
+        },
+        "size": {
+            "height": 22.0,
+            "width": 164.0
+        },
+        "tag_name": "a",
+        "text": "DNK Green Shoes"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "b7e0b9e21b84b89ef40653b6a5e76acb",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "DNK Green Shoes",
+    "transformed": true,
+    "width": 164,
+    "x": 435,
+    "y": 680
+}

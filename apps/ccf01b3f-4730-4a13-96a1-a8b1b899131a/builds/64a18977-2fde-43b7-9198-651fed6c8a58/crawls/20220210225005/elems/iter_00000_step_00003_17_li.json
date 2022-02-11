@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "li",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "RG47NaDLTSuW11k8ftMZ0w==\n",
+    "height": 71,
+    "hier_level": 0,
+    "human_hash": "li_X1038_Y15_W82_H71",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-267",
+                "id": "menu-item-267"
+            },
+            "backend_node_id": 12,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 71.0,
+            "key": "1038_15_82_71_Women",
+            "tagName": "li",
+            "text": "Women",
+            "width": 82.0,
+            "x": 1038.0,
+            "y": 15.0
+        },
+        "location": {
+            "x": 1038.0,
+            "y": 15.0
+        },
+        "size": {
+            "height": 71.0,
+            "width": 82.0
+        },
+        "tag_name": "li",
+        "text": "Women"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "li",
+    "text": "Women",
+    "transformed": true,
+    "width": 82,
+    "x": 1038,
+    "y": 15
+}

@@ -1,0 +1,255 @@
+[
+    {
+        "hash": "719f7e0f4712af3281721bb7d74144ea"
+    },
+    {
+        "action_info": {
+            "elem_class": "div",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "div",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "PR+5UEaG0k6yEXIYTdVHGQ==\n",
+                "height": 29,
+                "hier_level": 0,
+                "human_hash": "div_X1533_Y38_W27_H29",
+                "human_readable": "div_1533_38_27_29_div_7ffeffff842180018001818183c18241824183c18181800180018001ffff7ffe_f4ea5f46dd32b666be3f802dfe2982c2",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "ast-cart-menu-wrap"
+                        },
+                        "backend_node_id": 233,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 29.0,
+                        "key": "1533_38_27_29_0",
+                        "tagName": "div",
+                        "text": "0",
+                        "width": 27.0,
+                        "x": 1533.0,
+                        "y": 38.0
+                    },
+                    "location": {
+                        "x": 1533.0,
+                        "y": 38.0
+                    },
+                    "size": {
+                        "height": 29.0,
+                        "width": 27.0
+                    },
+                    "tag_name": "div",
+                    "text": "0"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "000000000020002016200060006010401000000000000000ffffffffffffffff",
+                "resource-id": "",
+                "screen_hash": "719f7e0f4712af3281721bb7d74144ea",
+                "scrollable": false,
+                "tag_name": "div",
+                "text": "0",
+                "transformed": true,
+                "width": 27,
+                "x": 1533,
+                "y": 38
+            },
+            "gesture": "hover",
+            "text": "hover"
+        },
+        "elem_hash": "NGNmMGY1NjY5NDk2YjIwOTlkOWJiOTM1ZWMyMjg0OWY"
+    },
+    {
+        "hash": "4aa7ef5de0a48709f6de7aa71bed447d"
+    },
+    {
+        "action_info": {
+            "elem_class": "a",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "a",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "F3qKcxDjUHL2WXLikC9xMA==\n",
+                "height": 70,
+                "hier_level": 0,
+                "human_hash": "a_X911_Y16_W69_H70",
+                "human_readable": "a_911_16_69_70_a_0000000000000000000000001ff81ff81ff81db8000000000000000000000000_7e969ed097f24f51534eeb756856e8ed",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "menu-link",
+                            "href": "https://testaistore.com/store/"
+                        },
+                        "backend_node_id": 201,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 70.0,
+                        "key": "911_16_69_70_Store",
+                        "tagName": "a",
+                        "text": "Store",
+                        "width": 69.0,
+                        "x": 911.0,
+                        "y": 16.0
+                    },
+                    "location": {
+                        "x": 911.0,
+                        "y": 16.0
+                    },
+                    "size": {
+                        "height": 70.0,
+                        "width": 69.0
+                    },
+                    "tag_name": "a",
+                    "text": "Store"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "000000180038002002200060006010401000000000000000ffffffffffffffff",
+                "resource-id": "",
+                "screen_hash": "4aa7ef5de0a48709f6de7aa71bed447d",
+                "scrollable": false,
+                "tag_name": "a",
+                "text": "Store",
+                "transformed": true,
+                "width": 69,
+                "x": 911,
+                "y": 16
+            },
+            "gesture": "tap",
+            "text": "tap"
+        },
+        "elem_hash": "YTRmNjgzZDNkZjdmNDBiYjEwNjRjZDA1ZDRhYTc3ODM"
+    },
+    {
+        "hash": "b7e0b9e21b84b89ef40653b6a5e76acb"
+    },
+    {
+        "action_info": {
+            "elem_class": "select",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "select",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "mCm+j41aYOpFsW1wzmpplg==\n",
+                "height": 37,
+                "hier_level": 0,
+                "human_hash": "select_X1361_Y201_W198_H37",
+                "human_readable": "select_1361_201_198_37_select_0000ffffffffffffffffffff16fe807c807c807f807fff7fffffffffffff0000_9d4568c009d203ab10e33ea9953a0264",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "aria-label": "Shop order",
+                            "class": "orderby",
+                            "name": "orderby"
+                        },
+                        "backend_node_id": 2178,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 37.0,
+                        "key": "1361_201_198_37_",
+                        "tagName": "select",
+                        "text": "",
+                        "width": 198.0,
+                        "x": 1361.0,
+                        "y": 201.0
+                    },
+                    "location": {
+                        "x": 1361.0,
+                        "y": 201.0
+                    },
+                    "size": {
+                        "height": 37.0,
+                        "width": 198.0
+                    },
+                    "tag_name": "select",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "ffffffffffffffffef5fed07ec07ec07ed7fefffefbfec07ec07fc07ed07ffff",
+                "resource-id": "",
+                "screen_hash": "b7e0b9e21b84b89ef40653b6a5e76acb",
+                "scrollable": false,
+                "tag_name": "select",
+                "text": "",
+                "transformed": true,
+                "width": 198,
+                "x": 1361,
+                "y": 201
+            },
+            "gesture": "select_dropdown_text",
+            "text": "Sort by popularity"
+        },
+        "elem_hash": "OGRkZDQ3MzY4YmUwYmEzNmZiNDI4MzNiMjBjZTdmZjQ"
+    },
+    {
+        "hash": "0fa295c9652c2468ead03ded1de10fb0"
+    },
+    {
+        "action_info": {
+            "elem_class": "screen",
+            "elem_info": {
+                "class": "screen",
+                "hash": "kWr84Jad8eBreHR8BZSlxA==\n",
+                "height": 931,
+                "hier_level": 0,
+                "human_hash": "screen_X0_Y0_W1920_H931",
+                "human_readable": "screen_0_0_1920_931_screen_fffffffffffffdffefffec07ec07ec07ec87efefefffec07ec07fc07e70fffbf_9d4568c009d203ab10e33ea9953a0264",
+                "index": -1,
+                "is_transformed": true,
+                "png_hash": "fffffffffffffdffefffec07ec07ec07ec87efefefffec07ec07fc07e70fffbf",
+                "screen_hash": "0fa295c9652c2468ead03ded1de10fb0",
+                "tag_name": "screen",
+                "text": "",
+                "width": 1920,
+                "x": 0,
+                "y": 0
+            },
+            "gesture": "swipe_up",
+            "text": "swipe_up"
+        },
+        "elem_hash": "YjY3YTdjZmNhMThlNTRiMmQwYTVlZmQzYTlhM2M3NDU"
+    },
+    {
+        "hash": "98664e211eb0215005e02f345b52dd29"
+    }
+]

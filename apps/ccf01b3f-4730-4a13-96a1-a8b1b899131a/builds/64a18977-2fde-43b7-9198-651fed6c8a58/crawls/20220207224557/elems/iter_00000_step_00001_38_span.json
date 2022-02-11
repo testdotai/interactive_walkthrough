@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "yQbAXCA1BJpG1RCZOqxl/g==\n",
+    "height": 18,
+    "hier_level": 0,
+    "human_hash": "span_X395_Y461_W80_H18",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "elementor-button-text"
+            },
+            "backend_node_id": 468,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 18.0,
+            "key": "395_461_80_18_Shop Now",
+            "tagName": "span",
+            "text": "Shop Now",
+            "width": 80.0,
+            "x": 395.0,
+            "y": 461.0
+        },
+        "location": {
+            "x": 395.0,
+            "y": 461.0
+        },
+        "size": {
+            "height": 18.0,
+            "width": 80.0
+        },
+        "tag_name": "span",
+        "text": "Shop Now"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "Shop Now",
+    "transformed": true,
+    "width": 80,
+    "x": 395,
+    "y": 461
+}

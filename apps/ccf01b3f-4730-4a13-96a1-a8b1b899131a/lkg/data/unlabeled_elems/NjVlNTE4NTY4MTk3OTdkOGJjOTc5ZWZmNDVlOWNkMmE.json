@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "figure",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "nFL0lXpxev+AqCIa5BeZUg==\n",
+    "height": 70,
+    "hier_level": 0,
+    "human_hash": "figure_X1081_Y825_W202_H70",
+    "human_readable": "figure_1081_825_202_70_figure_fdfff9fff9fff8fff89ff88ff84ff80fc903c103c103c083c003c103f817ffff_9d4568c009d203ab10e33ea9953a0264",
+    "image_path": "NjVlNTE4NTY4MTk3OTdkOGJjOTc5ZWZmNDVlOWNkMmE.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "swiper-slide-inner"
+            },
+            "backend_node_id": 541,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 70.0,
+            "key": "1081_825_202_70_",
+            "tagName": "figure",
+            "text": "",
+            "width": 202.0,
+            "x": 1081.0,
+            "y": 825.0
+        },
+        "location": {
+            "x": 1081.0,
+            "y": 825.0
+        },
+        "size": {
+            "height": 70.0,
+            "width": 202.0
+        },
+        "tag_name": "figure",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "719f7e0f4712af3281721bb7d74144ea",
+    "scrollable": false,
+    "tag_name": "figure",
+    "text": "",
+    "transformed": true,
+    "width": 202,
+    "x": 1081,
+    "y": 825
+}

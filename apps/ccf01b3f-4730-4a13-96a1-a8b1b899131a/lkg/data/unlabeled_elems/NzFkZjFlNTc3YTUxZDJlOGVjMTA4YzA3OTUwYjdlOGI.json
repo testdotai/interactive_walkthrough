@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "label",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "JHlxFrTPh/EwMi+rs2coTA==\n",
+    "height": 27,
+    "hier_level": 0,
+    "human_hash": "label_X394_Y839_W1132_H27",
+    "human_readable": "label_394_839_1132_27_label_ffffffff7fff7fff7fff7fff3fff3fff3fff3fff3fffffffffffffffffffffff_921d00a459003b97924d387cc4a7acd6",
+    "image_path": "NzFkZjFlNTc3YTUxZDJlOGVjMTA4YzA3OTUwYjdlOGI.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "woocommerce-form__label woocommerce-form__label-for-checkbox woocommerce-form-login__rememberme"
+            },
+            "backend_node_id": 1541,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 27.0,
+            "key": "394_839_1132_27_Remember me",
+            "tagName": "label",
+            "text": "Remember me",
+            "width": 1132.0,
+            "x": 394.0,
+            "y": 839.0
+        },
+        "location": {
+            "x": 394.0,
+            "y": 839.0
+        },
+        "size": {
+            "height": 27.0,
+            "width": 1132.0
+        },
+        "tag_name": "label",
+        "text": "Remember me"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "2b6db1d4ba7f23850646f8be7d6a961e",
+    "scrollable": false,
+    "tag_name": "label",
+    "text": "Remember me",
+    "transformed": true,
+    "width": 1132,
+    "x": 394,
+    "y": 839
+}

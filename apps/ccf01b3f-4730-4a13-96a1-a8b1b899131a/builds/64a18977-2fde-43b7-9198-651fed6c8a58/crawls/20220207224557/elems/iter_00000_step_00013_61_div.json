@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "clsTnXl/k6qYx5/VNsXLTw==\n",
+    "height": 25,
+    "hier_level": 0,
+    "human_hash": "div_X370_Y860_W25_H25",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Previous slide",
+                "class": "elementor-swiper-button elementor-swiper-button-prev",
+                "role": "button",
+                "tabindex": "0"
+            },
+            "backend_node_id": 2382,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 25.0,
+            "key": "370_860_25_25_Previous",
+            "tagName": "div",
+            "text": "Previous",
+            "width": 25.0,
+            "x": 370.0,
+            "y": 860.0
+        },
+        "location": {
+            "x": 370.0,
+            "y": 860.0
+        },
+        "size": {
+            "height": 25.0,
+            "width": 25.0
+        },
+        "tag_name": "div",
+        "text": "Previous"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Previous",
+    "transformed": true,
+    "width": 25,
+    "x": 370,
+    "y": 860
+}

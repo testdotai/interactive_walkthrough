@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "Mn1Dtk3D44JPQRie3M3gpw==\n",
+    "height": 18,
+    "hier_level": 0,
+    "human_hash": "a_X360_Y863_W78_H18",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "https://testaistore.com/product-category/accessories/"
+            },
+            "backend_node_id": 2081,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 18.0,
+            "key": "360_863_78_18_Accessories",
+            "tagName": "a",
+            "text": "Accessories",
+            "width": 78.0,
+            "x": 360.0,
+            "y": 863.0
+        },
+        "location": {
+            "x": 360.0,
+            "y": 863.0
+        },
+        "size": {
+            "height": 18.0,
+            "width": 78.0
+        },
+        "tag_name": "a",
+        "text": "Accessories"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Accessories",
+    "transformed": true,
+    "width": 78,
+    "x": 360,
+    "y": 863
+}

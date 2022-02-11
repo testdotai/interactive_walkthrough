@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "label",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "udTiJooT0x4eeS1LI0izXw==\n",
+    "height": 1,
+    "hier_level": 0,
+    "human_hash": "label_X1007_Y435_W1_H1",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "screen-reader-text",
+                "for": "quantity_6202083eae4cb"
+            },
+            "backend_node_id": 5518,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 1.0,
+            "key": "1007_435_1_1_Bright Red Bag quantity",
+            "tagName": "label",
+            "text": "Bright Red Bag quantity",
+            "width": 1.0,
+            "x": 1007.0,
+            "y": 435.0
+        },
+        "location": {
+            "x": 1007.0,
+            "y": 435.0
+        },
+        "size": {
+            "height": 1.0,
+            "width": 1.0
+        },
+        "tag_name": "label",
+        "text": "Bright Red Bag quantity"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "label",
+    "text": "Bright Red Bag quantity",
+    "transformed": true,
+    "width": 1,
+    "x": 1007,
+    "y": 435
+}

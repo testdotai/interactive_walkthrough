@@ -1,0 +1,61 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "Q/mpwteqsDJvqqoOJN4Ofg==\n",
+    "height": 88,
+    "hier_level": 0,
+    "human_hash": "img_X1551_Y825_W150_H88",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "img-contact",
+                "class": "swiper-slide-image",
+                "src": "https://testaistore.com/wp-content/uploads/elementor/thumbs/img-contact-1-p5v5tzqhvab6lit2mvpty0xknqpi98jy1vmbzzzeuo.png"
+            },
+            "backend_node_id": 2929,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 88.0,
+            "key": "1551_825_150_88_",
+            "tagName": "img",
+            "text": "",
+            "width": 150.0,
+            "x": 1551.0,
+            "y": 825.0
+        },
+        "location": {
+            "x": 1551.0,
+            "y": 825.0
+        },
+        "size": {
+            "height": 88.0,
+            "width": 150.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "transformed": true,
+    "width": 150,
+    "x": 1551,
+    "y": 825
+}

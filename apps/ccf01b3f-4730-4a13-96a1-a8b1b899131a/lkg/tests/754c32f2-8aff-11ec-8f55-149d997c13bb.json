@@ -1,0 +1,97 @@
+{
+    "06: Parameters and Data-Driven TCs": {
+        "description": "Add parameters to drive TCs from a data file",
+        "is_deactivated": false,
+        "parameters": "store_parameters.csv",
+        "steps": [
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "btn_store"
+                ],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "action",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "{search_term}",
+                "grep_count": null,
+                "input": "text_entry",
+                "label_count": null,
+                "labels": [
+                    "inp_search"
+                ],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "action",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "{item_label}"
+                ],
+                "stepIsOpen": true,
+                "timeout": null,
+                "type": "action",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "03a:subtest_add_to_cart",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "test_case",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [
+                    "{item_label}"
+                ],
+                "timeout": null,
+                "type": "verification",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "{item_name}",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "stepIsOpen": true,
+                "timeout": null,
+                "type": "verification",
+                "widget": ""
+            }
+        ],
+        "tags": [],
+        "temp_id": "754c32f2-8aff-11ec-8f55-149d997c13bb",
+        "title": "06: Parameters and Data-Driven TCs"
+    }
+}

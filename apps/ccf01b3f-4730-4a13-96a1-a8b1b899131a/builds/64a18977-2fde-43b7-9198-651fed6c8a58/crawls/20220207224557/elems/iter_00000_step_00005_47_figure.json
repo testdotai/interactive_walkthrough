@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "figure",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "DofRHmwqwdI2L341cBS6NQ==\n",
+    "height": 83,
+    "hier_level": 0,
+    "human_hash": "figure_X193_Y825_W202_H83",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "swiper-slide-inner"
+            },
+            "backend_node_id": 2916,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 83.0,
+            "key": "193_825_202_83_",
+            "tagName": "figure",
+            "text": "",
+            "width": 202.0,
+            "x": 193.0,
+            "y": 825.0
+        },
+        "location": {
+            "x": 193.0,
+            "y": 825.0
+        },
+        "size": {
+            "height": 83.0,
+            "width": 202.0
+        },
+        "tag_name": "figure",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "figure",
+    "text": "",
+    "transformed": true,
+    "width": 202,
+    "x": 193,
+    "y": 825
+}

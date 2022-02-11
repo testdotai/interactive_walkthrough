@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "PrGhZFTHyYA8qEP/NhA8VQ==\n",
+    "height": 71,
+    "hier_level": 0,
+    "human_hash": "div_X340_Y15_W1240_H71",
+    "human_readable": "div_340_15_1240_71_div_0000000000008000e000e000e000e3fee3fee132e000e0008000000000000000_7080a206450c6a85c539e64fcaa48c67",
+    "image_path": "OGZkYmFiNThhOWQ5MGI1N2U1MzBjNjhlYzE5OWZkZWY.png",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "site-primary-header-wrap ast-builder-grid-row-container site-header-focus-item ast-container",
+                "data-section": "section-primary-header-builder"
+            },
+            "backend_node_id": 168,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 71.0,
+            "key": "340_15_1240_71_Home Store Men Women Accessories Account About Contact Us \n\t\t\t\t\t\t\t\t\t0",
+            "tagName": "div",
+            "text": "Home Store Men Women Accessories Account About Contact Us \n\t\t\t\t\t\t\t\t\t0",
+            "width": 1240.0,
+            "x": 340.0,
+            "y": 15.0
+        },
+        "location": {
+            "x": 340.0,
+            "y": 15.0
+        },
+        "size": {
+            "height": 71.0,
+            "width": 1240.0
+        },
+        "tag_name": "div",
+        "text": "Home Store Men Women Accessories Account About Contact Us \n\t\t\t\t\t\t\t\t\t0"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "f1afee6cb5be3104710b848d47a988b5",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Home Store Men Women Accessories Account About Contact Us \n\t\t\t\t\t\t\t\t\t0",
+    "transformed": true,
+    "width": 1240,
+    "x": 340,
+    "y": 15
+}

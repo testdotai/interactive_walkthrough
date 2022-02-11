@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "h2",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "yk0x8ZAt18b1T0fngqEPWQ==\n",
+    "height": 20,
+    "hier_level": 0,
+    "human_hash": "h2_X935_Y840_W195_H20",
+    "human_readable": "h2_935_840_195_20_h2_ffffffffffff4cff4cff003f003f003f003f003f003f001fffffffffffffffff_38c0368612aac4eeb2d1a68db910d473",
+    "image_path": "ZWQ4YjNlMmY5YTdiNmVkNzg3OGU5OWNiN2FiNzI2ZWY.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "woocommerce-loop-product__title"
+            },
+            "backend_node_id": 2355,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 20.0,
+            "key": "935_840_195_20_Blue Denim Shorts",
+            "tagName": "h2",
+            "text": "Blue Denim Shorts",
+            "width": 195.0,
+            "x": 935.0,
+            "y": 840.0
+        },
+        "location": {
+            "x": 935.0,
+            "y": 840.0
+        },
+        "size": {
+            "height": 20.0,
+            "width": 195.0
+        },
+        "tag_name": "h2",
+        "text": "Blue Denim Shorts"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "b7e0b9e21b84b89ef40653b6a5e76acb",
+    "scrollable": false,
+    "tag_name": "h2",
+    "text": "Blue Denim Shorts",
+    "transformed": true,
+    "width": 195,
+    "x": 935,
+    "y": 840
+}

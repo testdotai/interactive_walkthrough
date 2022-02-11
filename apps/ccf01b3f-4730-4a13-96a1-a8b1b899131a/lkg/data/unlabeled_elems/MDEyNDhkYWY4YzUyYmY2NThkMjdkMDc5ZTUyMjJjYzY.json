@@ -1,0 +1,63 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "li",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "NqcnuTWm/U+H4JG3k3OUcw==\n",
+    "height": 28,
+    "hier_level": 0,
+    "human_hash": "li_X360_Y648_W262_H28",
+    "human_readable": "li_360_648_262_28_li_ffffffffffffffff7fff7fff1fff1fff1fff1fff1fffffffffffffffffffffff_4f113e6636baf9e2e6ab5f9a2d3031d2",
+    "image_path": "MDEyNDhkYWY4YzUyYmY2NThkMjdkMDc5ZTUyMjJjYzY.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-423",
+                "id": "menu-item-423"
+            },
+            "backend_node_id": 4065,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 28.0,
+            "key": "360_648_262_28_Home",
+            "tagName": "li",
+            "text": "Home",
+            "width": 262.0,
+            "x": 360.0,
+            "y": 648.0
+        },
+        "location": {
+            "x": 360.0,
+            "y": 648.0
+        },
+        "size": {
+            "height": 28.0,
+            "width": 262.0
+        },
+        "tag_name": "li",
+        "text": "Home"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "98664e211eb0215005e02f345b52dd29",
+    "scrollable": false,
+    "tag_name": "li",
+    "text": "Home",
+    "transformed": true,
+    "width": 262,
+    "x": 360,
+    "y": 648
+}

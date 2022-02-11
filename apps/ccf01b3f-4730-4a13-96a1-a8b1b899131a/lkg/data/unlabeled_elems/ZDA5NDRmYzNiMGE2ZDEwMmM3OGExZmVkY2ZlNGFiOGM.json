@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "zdKQ/cosVP/r+eb0/4j7BQ==\n",
+    "height": 18,
+    "hier_level": 0,
+    "human_hash": "span_X435_Y497_W141_H18",
+    "human_readable": "span_435_497_141_18_span_ffffffffffff77df739f77df00000000001000000045004500007a76fefffeff_7e4887c1231bc59a9dd185017178d7ca",
+    "image_path": "ZDA5NDRmYzNiMGE2ZDEwMmM3OGExZmVkY2ZlNGFiOGM.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product-title"
+            },
+            "backend_node_id": 4369,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 18.0,
+            "key": "435_497_141_18_Boho Bangle Bracelet",
+            "tagName": "span",
+            "text": "Boho Bangle Bracelet",
+            "width": 141.0,
+            "x": 435.0,
+            "y": 497.0
+        },
+        "location": {
+            "x": 435.0,
+            "y": 497.0
+        },
+        "size": {
+            "height": 18.0,
+            "width": 141.0
+        },
+        "tag_name": "span",
+        "text": "Boho Bangle Bracelet"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "bd8cad5817f82cf12579862d4dd775ae",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "Boho Bangle Bracelet",
+    "transformed": true,
+    "width": 141,
+    "x": 435,
+    "y": 497
+}

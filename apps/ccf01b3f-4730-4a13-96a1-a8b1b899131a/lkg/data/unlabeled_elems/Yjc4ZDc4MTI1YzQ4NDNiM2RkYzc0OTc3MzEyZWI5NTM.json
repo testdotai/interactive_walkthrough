@@ -1,0 +1,63 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "section",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "tVg+8Jv74CcC95yTUcQUSA==\n",
+    "height": 44,
+    "hier_level": 0,
+    "human_hash": "section_X1298_Y766_W262_H44",
+    "human_readable": "section_1298_766_262_44_section_07ff07ff07ff07ff07ff07ff07ff07ff07ff0fff07ff0fff07ff07ff07ff07ff_9d4568c009d203ab10e33ea9953a0264",
+    "image_path": "Yjc4ZDc4MTI1YzQ4NDNiM2RkYzc0OTc3MzEyZWI5NTM.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "widget widget_media_image",
+                "id": "media_image-3"
+            },
+            "backend_node_id": 4163,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 44.0,
+            "key": "1298_766_262_44_",
+            "tagName": "section",
+            "text": "",
+            "width": 262.0,
+            "x": 1298.0,
+            "y": 766.0
+        },
+        "location": {
+            "x": 1298.0,
+            "y": 766.0
+        },
+        "size": {
+            "height": 44.0,
+            "width": 262.0
+        },
+        "tag_name": "section",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "98664e211eb0215005e02f345b52dd29",
+    "scrollable": false,
+    "tag_name": "section",
+    "text": "",
+    "transformed": true,
+    "width": 262,
+    "x": 1298,
+    "y": 766
+}

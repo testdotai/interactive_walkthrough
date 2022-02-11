@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "q2w4aijk3SxOMmFNkkpVYw==\n",
+    "height": 428,
+    "hier_level": 0,
+    "human_hash": "div_X773_Y109_W373_H428",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "elementor-widget-wrap elementor-element-populated"
+            },
+            "backend_node_id": 2390,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 428.0,
+            "key": "773_109_373_428_Latest Eyewear For You Lorem ipsum dolor sit amet consec tetur. Shop Now",
+            "tagName": "div",
+            "text": "Latest Eyewear For You Lorem ipsum dolor sit amet consec tetur. Shop Now",
+            "width": 373.0,
+            "x": 773.0,
+            "y": 109.0
+        },
+        "location": {
+            "x": 773.0,
+            "y": 109.0
+        },
+        "size": {
+            "height": 428.0,
+            "width": 373.0
+        },
+        "tag_name": "div",
+        "text": "Latest Eyewear For You Lorem ipsum dolor sit amet consec tetur. Shop Now"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Latest Eyewear For You Lorem ipsum dolor sit amet consec tetur. Shop Now",
+    "transformed": true,
+    "width": 373,
+    "x": 773,
+    "y": 109
+}

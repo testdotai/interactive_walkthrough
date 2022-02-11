@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "dUhME87UqFK6x8D1e9btgw==\n",
+    "height": 40,
+    "hier_level": 0,
+    "human_hash": "span_X435_Y589_W152_H40",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product-title"
+            },
+            "backend_node_id": 4397,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 40.0,
+            "key": "435_589_152_40_Bright Gold Purse With Chain",
+            "tagName": "span",
+            "text": "Bright Gold Purse With Chain",
+            "width": 152.0,
+            "x": 435.0,
+            "y": 589.0
+        },
+        "location": {
+            "x": 435.0,
+            "y": 589.0
+        },
+        "size": {
+            "height": 40.0,
+            "width": 152.0
+        },
+        "tag_name": "span",
+        "text": "Bright Gold Purse With Chain"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "Bright Gold Purse With Chain",
+    "transformed": true,
+    "width": 152,
+    "x": 435,
+    "y": 589
+}

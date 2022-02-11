@@ -1,0 +1,63 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "FnAzCaAfSXdguhUlYM9XfA==\n",
+    "height": 70,
+    "hier_level": 0,
+    "human_hash": "img_X441_Y825_W150_H70",
+    "human_readable": "img_441_825_150_70_img_fbfff1fff1fff1fff1eff1a7f167f10799000188018805e009809180f00fffff_9d4568c009d203ab10e33ea9953a0264",
+    "image_path": "ODQ4MTQ2NDQxN2MyNzYyMTFhNjczZDVlZmIwM2E1OWI.png",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "img-botqa",
+                "class": "swiper-slide-image",
+                "src": "https://testaistore.com/wp-content/uploads/elementor/thumbs/img-botqa-3-p5v5snsq6qhk5eqpeszuwv12d39sco9mvackivyhj0.png"
+            },
+            "backend_node_id": 24,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 70.0,
+            "key": "441_825_150_70_",
+            "tagName": "img",
+            "text": "",
+            "width": 150.0,
+            "x": 441.0,
+            "y": 825.0
+        },
+        "location": {
+            "x": 441.0,
+            "y": 825.0
+        },
+        "size": {
+            "height": 70.0,
+            "width": 150.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "f1afee6cb5be3104710b848d47a988b5",
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "transformed": true,
+    "width": 150,
+    "x": 441,
+    "y": 825
+}

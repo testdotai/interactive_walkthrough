@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "bdi",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "JJT1VKdIjRZyKW+AUEFF8w==\n",
+    "height": 16,
+    "hier_level": 0,
+    "human_hash": "bdi_X720_Y533_W50_H16",
+    "human_readable": "bdi_720_533_50_16_bdi_ffffffffbfffad242824282022aa22aaa2aaa2aaa02020002104bfffffffffff_2d65804e2019650fcb8e8a178977f824",
+    "image_path": "OTg0ZjMwNTk0OWQ2OTg5OGI3ZjlmYzVhZGY4OWZhNTc.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 2220,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 16.0,
+            "key": "720_533_50_16_$ 100.00",
+            "tagName": "bdi",
+            "text": "$ 100.00",
+            "width": 50.0,
+            "x": 720.0,
+            "y": 533.0
+        },
+        "location": {
+            "x": 720.0,
+            "y": 533.0
+        },
+        "size": {
+            "height": 16.0,
+            "width": 50.0
+        },
+        "tag_name": "bdi",
+        "text": "$ 100.00"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "b7e0b9e21b84b89ef40653b6a5e76acb",
+    "scrollable": false,
+    "tag_name": "bdi",
+    "text": "$ 100.00",
+    "transformed": true,
+    "width": 50,
+    "x": 720,
+    "y": 533
+}

@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "li",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "KVbv7F7pRy55AfV0/qCT6A==\n",
+    "height": 320,
+    "hier_level": 0,
+    "human_hash": "li_X720_Y342_W195_H320",
+    "human_readable": "li_720_342_195_320_li_07e01fb87f3cfc0ee813c1217e0e7e3c0ff0fffc007f007f0fff0fff07ffffff_15c073a356f8dbabf49881b3b3ba94aa",
+    "image_path": "YTVjMGUyOThlYzZjM2E2N2UzNTk4ZGZkOTFhYTk2NzM.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ast-col-sm-12 ast-article-post astra-woo-hover-swap product type-product post-2707 status-publish first instock product_cat-accessories product_cat-women has-post-thumbnail featured shipping-taxable purchasable product-type-simple"
+            },
+            "backend_node_id": 4580,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 320.0,
+            "key": "720_342_195_320_Anchor Bracelet \n\t\t\t\tAccessories\t\t\t $ 100.00 Rated  0  out of 5",
+            "tagName": "li",
+            "text": "Anchor Bracelet \n\t\t\t\tAccessories\t\t\t $ 100.00 Rated  0  out of 5",
+            "width": 195.0,
+            "x": 720.0,
+            "y": 342.0
+        },
+        "location": {
+            "x": 720.0,
+            "y": 342.0
+        },
+        "size": {
+            "height": 320.0,
+            "width": 195.0
+        },
+        "tag_name": "li",
+        "text": "Anchor Bracelet \n\t\t\t\tAccessories\t\t\t $ 100.00 Rated  0  out of 5"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "bd8cad5817f82cf12579862d4dd775ae",
+    "scrollable": false,
+    "tag_name": "li",
+    "text": "Anchor Bracelet \n\t\t\t\tAccessories\t\t\t $ 100.00 Rated  0  out of 5",
+    "transformed": true,
+    "width": 195,
+    "x": 720,
+    "y": 342
+}

@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "Ijz56k/3r6neuPN592lM9g==\n",
+    "height": 15,
+    "hier_level": 0,
+    "human_hash": "span_X1232_Y466_W70_H15",
+    "human_readable": "span_1232_466_70_15_span_00000000e010e0b9a038bfabbfafbeafbeafbfafbaafbaafffbfff9700000000_e70599676dc3d6935e6798da82cd10ef",
+    "image_path": "ZDI5NDYzZmU2MDAwOTYyZDY2MTNlYTRlNDVkYjU1Mzg.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "elementor-button-text"
+            },
+            "backend_node_id": 3073,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 15.0,
+            "key": "1232_466_70_15_Check Out",
+            "tagName": "span",
+            "text": "Check Out",
+            "width": 70.0,
+            "x": 1232.0,
+            "y": 466.0
+        },
+        "location": {
+            "x": 1232.0,
+            "y": 466.0
+        },
+        "size": {
+            "height": 15.0,
+            "width": 70.0
+        },
+        "tag_name": "span",
+        "text": "Check Out"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "7668d8968ffa5f75df96f1f801efb50f",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "Check Out",
+    "transformed": true,
+    "width": 70,
+    "x": 1232,
+    "y": 466
+}

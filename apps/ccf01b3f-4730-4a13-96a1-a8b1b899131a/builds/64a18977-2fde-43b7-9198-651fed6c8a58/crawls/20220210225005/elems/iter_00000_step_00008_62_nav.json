@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "nav",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "2p+Pbm1pbJ2SGQWCrUFG2A==\n",
+    "height": 55,
+    "hier_level": 0,
+    "human_hash": "nav_X720_Y433_W839_H55",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "woocommerce-pagination"
+            },
+            "backend_node_id": 3977,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 55.0,
+            "key": "720_433_839_55_1 2 3 \u2192",
+            "tagName": "nav",
+            "text": "1 2 3 \u2192",
+            "width": 839.0,
+            "x": 720.0,
+            "y": 433.0
+        },
+        "location": {
+            "x": 720.0,
+            "y": 433.0
+        },
+        "size": {
+            "height": 55.0,
+            "width": 839.0
+        },
+        "tag_name": "nav",
+        "text": "1 2 3 \u2192"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "nav",
+    "text": "1 2 3 \u2192",
+    "transformed": true,
+    "width": 839,
+    "x": 720,
+    "y": 433
+}

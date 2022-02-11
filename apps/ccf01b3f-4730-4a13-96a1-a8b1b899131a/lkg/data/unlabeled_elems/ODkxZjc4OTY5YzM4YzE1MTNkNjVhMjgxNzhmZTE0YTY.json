@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "OVNWeR8d9iIWiYYAW0HKtQ==\n",
+    "height": 18,
+    "hier_level": 0,
+    "human_hash": "span_X435_Y589_W104_H18",
+    "human_readable": "span_435_589_104_18_span_ffffffffffff79df018f059f04200400004000400562040320007e5cffffffff_37317c82ec4d23c96a1715448bc74e93",
+    "image_path": "ODkxZjc4OTY5YzM4YzE1MTNkNjVhMjgxNzhmZTE0YTY.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product-title"
+            },
+            "backend_node_id": 2026,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 18.0,
+            "key": "435_589_104_18_DNK Red Shoes",
+            "tagName": "span",
+            "text": "DNK Red Shoes",
+            "width": 104.0,
+            "x": 435.0,
+            "y": 589.0
+        },
+        "location": {
+            "x": 435.0,
+            "y": 589.0
+        },
+        "size": {
+            "height": 18.0,
+            "width": 104.0
+        },
+        "tag_name": "span",
+        "text": "DNK Red Shoes"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "b7e0b9e21b84b89ef40653b6a5e76acb",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "DNK Red Shoes",
+    "transformed": true,
+    "width": 104,
+    "x": 435,
+    "y": 589
+}

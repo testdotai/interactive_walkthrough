@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "F3qKcxDjUHL2WXLikC9xMA==\n",
+    "height": 70,
+    "hier_level": 0,
+    "human_hash": "a_X911_Y16_W69_H70",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "menu-link",
+                "href": "https://testaistore.com/store/"
+            },
+            "backend_node_id": 201,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 70.0,
+            "key": "911_16_69_70_Store",
+            "tagName": "a",
+            "text": "Store",
+            "width": 69.0,
+            "x": 911.0,
+            "y": 16.0
+        },
+        "location": {
+            "x": 911.0,
+            "y": 16.0
+        },
+        "size": {
+            "height": 70.0,
+            "width": 69.0
+        },
+        "tag_name": "a",
+        "text": "Store"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Store",
+    "transformed": true,
+    "width": 69,
+    "x": 911,
+    "y": 16
+}

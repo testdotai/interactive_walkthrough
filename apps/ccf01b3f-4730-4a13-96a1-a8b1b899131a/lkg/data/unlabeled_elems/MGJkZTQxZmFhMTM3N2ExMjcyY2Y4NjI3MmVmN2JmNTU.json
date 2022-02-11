@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "h2",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "0j1neDEUL6pgDYmbFUj/LQ==\n",
+    "height": 109,
+    "hier_level": 0,
+    "human_hash": "h2_X420_Y249_W293_H109",
+    "human_readable": "h2_420_249_293_109_h2_0000e500ffc0ffb0ffb0ff70ff0000000000d600de00ffc0ffc0ffc0ff800100_ef332e3b41c531d9a5e8a0baf3ce02df",
+    "image_path": "MGJkZTQxZmFhMTM3N2ExMjcyY2Y4NjI3MmVmN2JmNTU.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "elementor-heading-title elementor-size-default"
+            },
+            "backend_node_id": 2966,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 109.0,
+            "key": "420_249_293_109_20% Off On Tank Tops",
+            "tagName": "h2",
+            "text": "20% Off On Tank Tops",
+            "width": 293.0,
+            "x": 420.0,
+            "y": 249.0
+        },
+        "location": {
+            "x": 420.0,
+            "y": 249.0
+        },
+        "size": {
+            "height": 109.0,
+            "width": 293.0
+        },
+        "tag_name": "h2",
+        "text": "20% Off On Tank Tops"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "7104867aaf4a049fdb3a5674019d40fd",
+    "scrollable": false,
+    "tag_name": "h2",
+    "text": "20% Off On Tank Tops",
+    "transformed": true,
+    "width": 293,
+    "x": 420,
+    "y": 249
+}

@@ -1,0 +1,63 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "li",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "tmID0cfYTsBkkCfjMd8epQ==\n",
+    "height": 28,
+    "hier_level": 0,
+    "human_hash": "li_X985_Y703_W262_H28",
+    "human_readable": "li_985_703_262_28_li_ffffffffffffffff5fff5fff07ff07ff07ff07ff07ffffffffffffffffffffff_51c3f8cdaa74fb6d4f8fe62ae8f91150",
+    "image_path": "NDRiYzQ5Yzc3ZTMxMjNhZGZmMWMxOTY3Nzc3YTY5Yjk.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-661",
+                "id": "menu-item-661"
+            },
+            "backend_node_id": 4139,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 28.0,
+            "key": "985_703_262_28_Men Shoes",
+            "tagName": "li",
+            "text": "Men Shoes",
+            "width": 262.0,
+            "x": 985.0,
+            "y": 703.0
+        },
+        "location": {
+            "x": 985.0,
+            "y": 703.0
+        },
+        "size": {
+            "height": 28.0,
+            "width": 262.0
+        },
+        "tag_name": "li",
+        "text": "Men Shoes"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "98664e211eb0215005e02f345b52dd29",
+    "scrollable": false,
+    "tag_name": "li",
+    "text": "Men Shoes",
+    "transformed": true,
+    "width": 262,
+    "x": 985,
+    "y": 703
+}

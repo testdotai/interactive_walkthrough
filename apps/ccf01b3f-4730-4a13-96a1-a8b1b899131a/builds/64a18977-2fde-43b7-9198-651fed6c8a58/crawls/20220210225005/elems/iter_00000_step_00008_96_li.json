@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "li",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "LS+MqJz4qc649XN9XDzgQA==\n",
+    "height": 28,
+    "hier_level": 0,
+    "human_hash": "li_X672_Y759_W262_H28",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-669",
+                "id": "menu-item-669"
+            },
+            "backend_node_id": 4114,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 28.0,
+            "key": "672_759_262_28_Women Accessories",
+            "tagName": "li",
+            "text": "Women Accessories",
+            "width": 262.0,
+            "x": 672.0,
+            "y": 759.0
+        },
+        "location": {
+            "x": 672.0,
+            "y": 759.0
+        },
+        "size": {
+            "height": 28.0,
+            "width": 262.0
+        },
+        "tag_name": "li",
+        "text": "Women Accessories"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "li",
+    "text": "Women Accessories",
+    "transformed": true,
+    "width": 262,
+    "x": 672,
+    "y": 759
+}

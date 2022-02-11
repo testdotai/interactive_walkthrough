@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "tWbPWXaKKSh9HynbzWAY1Q==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "span_X1364_Y847_W195_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ast-woo-product-category"
+            },
+            "backend_node_id": 3844,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "1364_847_195_17_Men",
+            "tagName": "span",
+            "text": "Men",
+            "width": 195.0,
+            "x": 1364.0,
+            "y": 847.0
+        },
+        "location": {
+            "x": 1364.0,
+            "y": 847.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 195.0
+        },
+        "tag_name": "span",
+        "text": "Men"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "Men",
+    "transformed": true,
+    "width": 195,
+    "x": 1364,
+    "y": 847
+}

@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "p",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "kVM/iy7363jQvJkPfW++Jg==\n",
+    "height": 21,
+    "hier_level": 0,
+    "human_hash": "p_X1301_Y106_W239_H21",
+    "human_readable": "p_1301_106_239_21_p_ffffffffffffffff7bff69ff007f007f007f007f007f007fffffffffffffffff_483d7568ad85c68f5eb20666d8af907f",
+    "image_path": "NGE4ZWE3N2I5MzFmZThiNDUyMmVkOTM4YmE4YjQ4ODE.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "woocommerce-mini-cart__empty-message"
+            },
+            "backend_node_id": 250,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 21.0,
+            "key": "1301_106_239_21_No products in the cart.",
+            "tagName": "p",
+            "text": "No products in the cart.",
+            "width": 239.0,
+            "x": 1301.0,
+            "y": 106.0
+        },
+        "location": {
+            "x": 1301.0,
+            "y": 106.0
+        },
+        "size": {
+            "height": 21.0,
+            "width": 239.0
+        },
+        "tag_name": "p",
+        "text": "No products in the cart."
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "5f413e1e858fba8e26874fc61fafba9e",
+    "scrollable": false,
+    "tag_name": "p",
+    "text": "No products in the cart.",
+    "transformed": true,
+    "width": 239,
+    "x": 1301,
+    "y": 106
+}

@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "li",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "17489/95WUZuuyf7dBFrBA==\n",
+    "height": 89,
+    "hier_level": 0,
+    "human_hash": "li_X360_Y486_W239_H89",
+    "human_readable": "li_360_486_239_89_li_ffffffffffff680798079fff9fff083f083f0fff0fff087f787ffeffffffffff_dd743d4d5303d481049385d21f8471b8",
+    "image_path": "MmI1ZmE1NjdkYjExZjE0NTUzMGIxMGRhOTI1MmE5Mzk.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 1991,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 89.0,
+            "key": "360_486_239_89_Light Brown Purse Rated  0  out of 5 $ 400.00",
+            "tagName": "li",
+            "text": "Light Brown Purse Rated  0  out of 5 $ 400.00",
+            "width": 239.0,
+            "x": 360.0,
+            "y": 486.0
+        },
+        "location": {
+            "x": 360.0,
+            "y": 486.0
+        },
+        "size": {
+            "height": 89.0,
+            "width": 239.0
+        },
+        "tag_name": "li",
+        "text": "Light Brown Purse Rated  0  out of 5 $ 400.00"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "b7e0b9e21b84b89ef40653b6a5e76acb",
+    "scrollable": false,
+    "tag_name": "li",
+    "text": "Light Brown Purse Rated  0  out of 5 $ 400.00",
+    "transformed": true,
+    "width": 239,
+    "x": 360,
+    "y": 486
+}

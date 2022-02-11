@@ -1,0 +1,63 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "li",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "SYlI6BVSom/BHVsD0y8toQ==\n",
+    "height": 28,
+    "hier_level": 0,
+    "human_hash": "li_X360_Y731_W262_H28",
+    "human_readable": "li_360_731_262_28_li_ffffffffffffffff7fff7fff3fff3fff3fff3fff3fffffffffffffffffffffff_8d610a0fe2394682be4a5bb49f067e33",
+    "image_path": "NWQwMWQyOWNmMWEyNGIzYzg1M2I2MzQ4MzUzYmE1MTc.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-389",
+                "id": "menu-item-389"
+            },
+            "backend_node_id": 4077,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 28.0,
+            "key": "360_731_262_28_Cart",
+            "tagName": "li",
+            "text": "Cart",
+            "width": 262.0,
+            "x": 360.0,
+            "y": 731.0
+        },
+        "location": {
+            "x": 360.0,
+            "y": 731.0
+        },
+        "size": {
+            "height": 28.0,
+            "width": 262.0
+        },
+        "tag_name": "li",
+        "text": "Cart"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "98664e211eb0215005e02f345b52dd29",
+    "scrollable": false,
+    "tag_name": "li",
+    "text": "Cart",
+    "transformed": true,
+    "width": 262,
+    "x": 360,
+    "y": 731
+}

@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "h3",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "aqS72y+7ilrYsn/f/7qazw==\n",
+    "height": 45,
+    "hier_level": 0,
+    "human_hash": "h3_X370_Y360_W580_H45",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "elementor-heading-title elementor-size-default"
+            },
+            "backend_node_id": 452,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 45.0,
+            "key": "370_360_580_45_25% Off On All Products",
+            "tagName": "h3",
+            "text": "25% Off On All Products",
+            "width": 580.0,
+            "x": 370.0,
+            "y": 360.0
+        },
+        "location": {
+            "x": 370.0,
+            "y": 360.0
+        },
+        "size": {
+            "height": 45.0,
+            "width": 580.0
+        },
+        "tag_name": "h3",
+        "text": "25% Off On All Products"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "h3",
+    "text": "25% Off On All Products",
+    "transformed": true,
+    "width": 580,
+    "x": 370,
+    "y": 360
+}

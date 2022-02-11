@@ -1,0 +1,63 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "li",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "qa0lKoQGun7FizE2hT+3SQ==\n",
+    "height": 28,
+    "hier_level": 0,
+    "human_hash": "li_X672_Y648_W262_H28",
+    "human_readable": "li_672_648_262_28_li_ffffffffffffffff6fff6fff03ff03ff03ff03ff03ffffffffffffffffffffff_d049268d6e56e921af5a5be740a5e1b3",
+    "image_path": "MjBlNzc4ZTZlOGUyN2FhZDA3MjczZDIyNjg2ODg4NGY.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-665",
+                "id": "menu-item-665"
+            },
+            "backend_node_id": 4098,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 28.0,
+            "key": "672_648_262_28_Women Jeans",
+            "tagName": "li",
+            "text": "Women Jeans",
+            "width": 262.0,
+            "x": 672.0,
+            "y": 648.0
+        },
+        "location": {
+            "x": 672.0,
+            "y": 648.0
+        },
+        "size": {
+            "height": 28.0,
+            "width": 262.0
+        },
+        "tag_name": "li",
+        "text": "Women Jeans"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "98664e211eb0215005e02f345b52dd29",
+    "scrollable": false,
+    "tag_name": "li",
+    "text": "Women Jeans",
+    "transformed": true,
+    "width": 262,
+    "x": 672,
+    "y": 648
+}

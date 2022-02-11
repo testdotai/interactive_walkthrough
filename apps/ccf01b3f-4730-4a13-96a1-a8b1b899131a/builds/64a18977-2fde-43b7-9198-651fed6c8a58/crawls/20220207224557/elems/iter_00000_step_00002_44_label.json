@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "label",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "ji/Zm+rKNCszstjXjmklVg==\n",
+    "height": 27,
+    "hier_level": 0,
+    "human_hash": "label_X394_Y757_W1132_H27",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "for": "password"
+            },
+            "backend_node_id": 2027,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 27.0,
+            "key": "394_757_1132_27_Password\u00a0 *",
+            "tagName": "label",
+            "text": "Password\u00a0 *",
+            "width": 1132.0,
+            "x": 394.0,
+            "y": 757.0
+        },
+        "location": {
+            "x": 394.0,
+            "y": 757.0
+        },
+        "size": {
+            "height": 27.0,
+            "width": 1132.0
+        },
+        "tag_name": "label",
+        "text": "Password\u00a0 *"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "label",
+    "text": "Password\u00a0 *",
+    "transformed": true,
+    "width": 1132,
+    "x": 394,
+    "y": 757
+}

@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "label",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "+kUKFFBsF1an3yT0mcR0fA==\n",
+    "height": 27,
+    "hier_level": 0,
+    "human_hash": "label_X394_Y676_W1132_H27",
+    "human_readable": "label_394_676_1132_27_label_ffffffffffffffffbfff9fff1fff1fff1fff1fff1fffffffffffffffffffffff_143d608826f22a37f714d6319a738dcc",
+    "image_path": "NTg0NTdiMzY5MzY0ZmVhODJlYTBiY2MzNTlmN2Q1ODI.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "for": "username"
+            },
+            "backend_node_id": 2015,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 27.0,
+            "key": "394_676_1132_27_Username or email address\u00a0 *",
+            "tagName": "label",
+            "text": "Username or email address\u00a0 *",
+            "width": 1132.0,
+            "x": 394.0,
+            "y": 676.0
+        },
+        "location": {
+            "x": 394.0,
+            "y": 676.0
+        },
+        "size": {
+            "height": 27.0,
+            "width": 1132.0
+        },
+        "tag_name": "label",
+        "text": "Username or email address\u00a0 *"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "2b6db1d4ba7f23850646f8be7d6a961e",
+    "scrollable": false,
+    "tag_name": "label",
+    "text": "Username or email address\u00a0 *",
+    "transformed": true,
+    "width": 1132,
+    "x": 394,
+    "y": 676
+}

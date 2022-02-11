@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "SyjWm8dvnYOShV+xso8RHQ==\n",
+    "height": 32,
+    "hier_level": 0,
+    "human_hash": "div_X360_Y228_W239_H32",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "price_slider_amount",
+                "data-step": "10"
+            },
+            "backend_node_id": 3557,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 32.0,
+            "key": "360_228_239_32_Filter \n\t\t\t\tPrice:  $100  \u2014  $400",
+            "tagName": "div",
+            "text": "Filter \n\t\t\t\tPrice:  $100  \u2014  $400",
+            "width": 239.0,
+            "x": 360.0,
+            "y": 228.0
+        },
+        "location": {
+            "x": 360.0,
+            "y": 228.0
+        },
+        "size": {
+            "height": 32.0,
+            "width": 239.0
+        },
+        "tag_name": "div",
+        "text": "Filter \n\t\t\t\tPrice:  $100  \u2014  $400"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Filter \n\t\t\t\tPrice:  $100  \u2014  $400",
+    "transformed": true,
+    "width": 239,
+    "x": 360,
+    "y": 228
+}

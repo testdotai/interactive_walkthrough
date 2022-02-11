@@ -1,0 +1,50 @@
+{
+    "elems": {
+        "a_1120_16_115_70_a_0000000000000000000000001ffc3ffe7ffe1ffc000000000000000000000000_1b96cccba0cbb6b1c26d4d6db1c72a5d": [
+            "btn_accessories"
+        ],
+        "a_1207_450_120_47_a_0000000000000000000000001de81ff81ff81ff8000000000000000000000000_e70599676dc3d6935e6798da82cd10ef": [
+            "btn_check_out_hover"
+        ],
+        "a_1207_450_120_47_a_ffffffffffffffffffffffffe217e007e007e007ffffffffffffffffffffffff_e70599676dc3d6935e6798da82cd10ef": [
+            "btn_check_out"
+        ],
+        "a_1236_16_93_70_a_0000000000000000000000002fac3ffd3ffd3fc8000400080000000000000000_15c8f168513989351f555c8d4a678216": [
+            "btn_account"
+        ],
+        "a_370_445_130_50_a_ffffffffffffffffffffffffe71fe007e007e007e0c7ffffffffffffffffffff_478aa403f26edda3ae69b0b3d8644256": [
+            "btn_shop_now"
+        ],
+        "a_843_16_68_70_a_fffffffffffffffffffffffffcc7e007e007ecc7ffffffffffffffffffffffff_4f113e6636baf9e2e6ab5f9a2d3031d2": [
+            "btn_home"
+        ],
+        "a_911_16_69_70_a_0000000000000000000000001ff81ff81ff81db8000000000000000000000000_7e969ed097f24f51534eeb756856e8ed": [
+            "btn_store"
+        ],
+        "div_1533_38_27_29_div_7ffeffff842180018001818183c18241824183c18181800180018001ffff7ffe_f4ea5f46dd32b666be3f802dfe2982c2": [
+            "btn_cart"
+        ],
+        "div_1533_38_27_29_div_800100007bde7ffe7ffe7e7e7c3e7dbe7dbe7c3e7e7e7ffe7ffe7ffe00008001_f4ea5f46dd32b666be3f802dfe2982c2": [
+            "btn_cart"
+        ],
+        "h3_370_360_580_45_h3_0000000000000000f400fe00ff80ff80ff80ff80ff80ff800000000000000000_227873e9282b7221c7b3bfa4b033261d": [
+            "txt_discount_message"
+        ],
+        "img_720_699_195_195_img_ffffffffff7ffebffd9ffddff9cff00fe007e007e007f007f007f03fffffffff_9d4568c009d203ab10e33ea9953a0264": [
+            "img_red_bag"
+        ],
+        "input_360_162_154_42_input_0000ffffffffffffffffffffbbaf8007800780038003ffffffffffffffffffff_9d4568c009d203ab10e33ea9953a0264": [
+            "inp_search"
+        ],
+        "input_394_703_1132_42_input_0000ffffffffffffffffffffffffffffffffffffffffffffffffffffffff0000_9d4568c009d203ab10e33ea9953a0264": [
+            "inp_username"
+        ],
+        "input_394_784_1132_42_input_0000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff_9d4568c009d203ab10e33ea9953a0264": [
+            "inp_password"
+        ],
+        "select_1361_267_198_37_select_0000ffffffffffffffffffff16fe807c807c807f807fff7fffffffffffff0000_9d4568c009d203ab10e33ea9953a0264": [
+            "ddl_sorting"
+        ]
+    },
+    "screens": {}
+}

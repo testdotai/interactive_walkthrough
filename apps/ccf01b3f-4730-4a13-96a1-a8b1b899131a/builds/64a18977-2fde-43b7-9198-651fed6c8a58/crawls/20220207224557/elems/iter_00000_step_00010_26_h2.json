@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "h2",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "ixCze0nGroSwbWf1UDKFKQ==\n",
+    "height": 55,
+    "hier_level": 0,
+    "human_hash": "h2_X270_Y767_W1380_H55",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "elementor-heading-title elementor-size-default"
+            },
+            "backend_node_id": 3109,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 55.0,
+            "key": "270_767_1380_55_Featured Products",
+            "tagName": "h2",
+            "text": "Featured Products",
+            "width": 1380.0,
+            "x": 270.0,
+            "y": 767.0
+        },
+        "location": {
+            "x": 270.0,
+            "y": 767.0
+        },
+        "size": {
+            "height": 55.0,
+            "width": 1380.0
+        },
+        "tag_name": "h2",
+        "text": "Featured Products"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "h2",
+    "text": "Featured Products",
+    "transformed": true,
+    "width": 1380,
+    "x": 270,
+    "y": 767
+}

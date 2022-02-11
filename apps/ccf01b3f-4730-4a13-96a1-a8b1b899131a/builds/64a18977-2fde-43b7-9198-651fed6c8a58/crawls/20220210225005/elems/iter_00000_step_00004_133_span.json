@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "ckkk4+jq+PPsCe0FaLobnQ==\n",
+    "height": 45,
+    "hier_level": 0,
+    "human_hash": "span_X1092_Y626_W45_H45",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "onsale"
+            },
+            "backend_node_id": 2349,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 45.0,
+            "key": "1092_626_45_45_Sale!",
+            "tagName": "span",
+            "text": "Sale!",
+            "width": 45.0,
+            "x": 1092.0,
+            "y": 626.0
+        },
+        "location": {
+            "x": 1092.0,
+            "y": 626.0
+        },
+        "size": {
+            "height": 45.0,
+            "width": 45.0
+        },
+        "tag_name": "span",
+        "text": "Sale!"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "Sale!",
+    "transformed": true,
+    "width": 45,
+    "x": 1092,
+    "y": 626
+}

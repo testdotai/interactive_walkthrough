@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "0277EBxzXz0+Z5MQmvGAyQ==\n",
+    "height": 18,
+    "hier_level": 0,
+    "human_hash": "a_X360_Y735_W30_H18",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "menu-link",
+                "href": "https://testaistore.com/cart/"
+            },
+            "backend_node_id": 4078,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 18.0,
+            "key": "360_735_30_18_Cart",
+            "tagName": "a",
+            "text": "Cart",
+            "width": 30.0,
+            "x": 360.0,
+            "y": 735.0
+        },
+        "location": {
+            "x": 360.0,
+            "y": 735.0
+        },
+        "size": {
+            "height": 18.0,
+            "width": 30.0
+        },
+        "tag_name": "a",
+        "text": "Cart"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Cart",
+    "transformed": true,
+    "width": 30,
+    "x": 360,
+    "y": 735
+}

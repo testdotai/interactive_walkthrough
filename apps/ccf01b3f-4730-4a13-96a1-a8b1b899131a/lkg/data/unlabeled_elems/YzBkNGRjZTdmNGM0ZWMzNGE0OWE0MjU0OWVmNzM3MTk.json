@@ -1,0 +1,61 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "h1",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "ET03P+l+GZ48r2y6w5sKMQ==\n",
+    "height": 79,
+    "hier_level": 0,
+    "human_hash": "h1_X370_Y240_W580_H79",
+    "human_readable": "h1_370_240_580_79_h1_000000000000019083b08190fefefefefefcfefef6defefcfefe000000000000_56a08a0883c848685f699c406b3d370b",
+    "image_path": "YzBkNGRjZTdmNGM0ZWMzNGE0OWE0MjU0OWVmNzM3MTk.png",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "elementor-heading-title elementor-size-default"
+            },
+            "backend_node_id": 444,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 79.0,
+            "key": "370_240_580_79_Home of The Bots",
+            "tagName": "h1",
+            "text": "Home of The Bots",
+            "width": 580.0,
+            "x": 370.0,
+            "y": 240.0
+        },
+        "location": {
+            "x": 370.0,
+            "y": 240.0
+        },
+        "size": {
+            "height": 79.0,
+            "width": 580.0
+        },
+        "tag_name": "h1",
+        "text": "Home of The Bots"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "f1afee6cb5be3104710b848d47a988b5",
+    "scrollable": false,
+    "tag_name": "h1",
+    "text": "Home of The Bots",
+    "transformed": true,
+    "width": 580,
+    "x": 370,
+    "y": 240
+}

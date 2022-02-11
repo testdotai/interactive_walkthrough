@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "kcqIBcj50ODL0ElpvIDvnw==\n",
+    "height": 18,
+    "hier_level": 0,
+    "human_hash": "span_X435_Y404_W106_H18",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product-title"
+            },
+            "backend_node_id": 4342,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 18.0,
+            "key": "435_404_106_18_Anchor Bracelet",
+            "tagName": "span",
+            "text": "Anchor Bracelet",
+            "width": 106.0,
+            "x": 435.0,
+            "y": 404.0
+        },
+        "location": {
+            "x": 435.0,
+            "y": 404.0
+        },
+        "size": {
+            "height": 18.0,
+            "width": 106.0
+        },
+        "tag_name": "span",
+        "text": "Anchor Bracelet"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "Anchor Bracelet",
+    "transformed": true,
+    "width": 106,
+    "x": 435,
+    "y": 404
+}

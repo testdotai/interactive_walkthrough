@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "fPYf/M6RGcnOL9TM5LD3cw==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "span_X720_Y314_W195_H17",
+    "human_readable": "span_720_314_195_17_span_ffffffffffff7fff3fff3fff0fff0fff0fff0fff0fff0fff0fffffffffffffff_f84743d892286b675f691d0613041893",
+    "image_path": "YjE1YjlhMzY1YzBhZTEyODUzYWRiZWIwOTU1MDczYTA.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ast-woo-product-category"
+            },
+            "backend_node_id": 3872,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "720_314_195_17_Women",
+            "tagName": "span",
+            "text": "Women",
+            "width": 195.0,
+            "x": 720.0,
+            "y": 314.0
+        },
+        "location": {
+            "x": 720.0,
+            "y": 314.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 195.0
+        },
+        "tag_name": "span",
+        "text": "Women"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "98664e211eb0215005e02f345b52dd29",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "Women",
+    "transformed": true,
+    "width": 195,
+    "x": 720,
+    "y": 314
+}

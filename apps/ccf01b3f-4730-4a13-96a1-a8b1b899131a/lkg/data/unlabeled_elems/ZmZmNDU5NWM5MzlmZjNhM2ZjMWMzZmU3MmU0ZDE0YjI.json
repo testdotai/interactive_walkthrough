@@ -1,0 +1,67 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "input",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "gWBiVBmmz//Vtdi8BdNCiQ==\n",
+    "height": 42,
+    "hier_level": 0,
+    "human_hash": "input_X360_Y162_W154_H42",
+    "human_readable": "input_360_162_154_42_input_0000ffffffffffffffffffffbbaf8007800780038003ffffffffffffffffffff_9d4568c009d203ab10e33ea9953a0264",
+    "image_path": "ZmZmNDU5NWM5MzlmZjNhM2ZjMWMzZmU3MmU0ZDE0YjI.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "search-field",
+                "id": "woocommerce-product-search-field-0",
+                "name": "s",
+                "placeholder": "Search products\u2026",
+                "type": "search",
+                "value": ""
+            },
+            "backend_node_id": 3359,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 42.0,
+            "key": "360_162_154_42_",
+            "tagName": "input",
+            "text": "",
+            "width": 154.0,
+            "x": 360.0,
+            "y": 162.0
+        },
+        "location": {
+            "x": 360.0,
+            "y": 162.0
+        },
+        "size": {
+            "height": 42.0,
+            "width": 154.0
+        },
+        "tag_name": "input",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "0fa295c9652c2468ead03ded1de10fb0",
+    "scrollable": false,
+    "tag_name": "input",
+    "text": "",
+    "transformed": true,
+    "width": 154,
+    "x": 360,
+    "y": 162
+}

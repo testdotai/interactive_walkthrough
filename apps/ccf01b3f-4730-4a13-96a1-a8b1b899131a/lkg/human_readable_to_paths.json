@@ -1,0 +1,45 @@
+{
+    "btn_accessories": [
+        "/Users/testai/test_ai/apps/ccf01b3f-4730-4a13-96a1-a8b1b899131a/builds/64a18977-2fde-43b7-9198-651fed6c8a58/crawls/20220207224557/elems/iter_00000_step_00013_18_a.png"
+    ],
+    "btn_account": [
+        "/Users/testai/test_ai/apps/ccf01b3f-4730-4a13-96a1-a8b1b899131a/builds/64a18977-2fde-43b7-9198-651fed6c8a58/crawls/20220207224557/elems/iter_00000_step_00013_20_a.png"
+    ],
+    "btn_cart": [
+        "MzRjMjc4ZDJlOTc2YTM4ODVmYjY0YmMyNmRmMzM3ODE.png",
+        "NGNmMGY1NjY5NDk2YjIwOTlkOWJiOTM1ZWMyMjg0OWY.png"
+    ],
+    "btn_check_out": [
+        "/Users/testai/test_ai/apps/ccf01b3f-4730-4a13-96a1-a8b1b899131a/builds/64a18977-2fde-43b7-9198-651fed6c8a58/crawls/20220207224557/elems/iter_00000_step_00010_24_a.png"
+    ],
+    "btn_check_out_hover": [
+        "/Users/testai/test_ai/apps/ccf01b3f-4730-4a13-96a1-a8b1b899131a/builds/64a18977-2fde-43b7-9198-651fed6c8a58/crawls/20220207224557/elems/iter_00000_step_00008_24_a.png"
+    ],
+    "btn_home": [
+        "/Users/testai/test_ai/apps/ccf01b3f-4730-4a13-96a1-a8b1b899131a/builds/64a18977-2fde-43b7-9198-651fed6c8a58/crawls/20220207224557/elems/iter_00000_step_00017_7_a.png"
+    ],
+    "btn_shop_now": [
+        "/Users/testai/test_ai/apps/ccf01b3f-4730-4a13-96a1-a8b1b899131a/builds/64a18977-2fde-43b7-9198-651fed6c8a58/crawls/20220207224557/elems/iter_00000_step_00011_39_a.png"
+    ],
+    "btn_store": [
+        "YTRmNjgzZDNkZjdmNDBiYjEwNjRjZDA1ZDRhYTc3ODM.png"
+    ],
+    "ddl_sorting": [
+        "ZDI2ZDFkNTI2N2NhZjdlYTkzMzQ4OGVlNjY1ODdkMjg.png"
+    ],
+    "img_red_bag": [
+        "/Users/testai/test_ai/apps/ccf01b3f-4730-4a13-96a1-a8b1b899131a/builds/64a18977-2fde-43b7-9198-651fed6c8a58/crawls/20220207224557/elems/iter_00000_step_00015_123_img.png"
+    ],
+    "inp_password": [
+        "/Users/testai/test_ai/apps/ccf01b3f-4730-4a13-96a1-a8b1b899131a/builds/64a18977-2fde-43b7-9198-651fed6c8a58/crawls/20220207224557/elems/iter_00000_step_00002_47_input.png"
+    ],
+    "inp_search": [
+        "ZmZmNDU5NWM5MzlmZjNhM2ZjMWMzZmU3MmU0ZDE0YjI.png"
+    ],
+    "inp_username": [
+        "/Users/testai/test_ai/apps/ccf01b3f-4730-4a13-96a1-a8b1b899131a/builds/64a18977-2fde-43b7-9198-651fed6c8a58/crawls/20220207224557/elems/iter_00000_step_00002_43_input.png"
+    ],
+    "txt_discount_message": [
+        "/Users/testai/test_ai/apps/ccf01b3f-4730-4a13-96a1-a8b1b899131a/builds/64a18977-2fde-43b7-9198-651fed6c8a58/crawls/20220207224557/elems/iter_00000_step_00013_36_h3.png"
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "HQVkBQj7kqVlhd3a0Mwt5Q==\n",
+    "height": 43,
+    "hier_level": 0,
+    "human_hash": "a_X456_Y793_W77_H43",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "#tab-reviews"
+            },
+            "backend_node_id": 5554,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 43.0,
+            "key": "456_793_77_43_Reviews (0)",
+            "tagName": "a",
+            "text": "Reviews (0)",
+            "width": 77.0,
+            "x": 456.0,
+            "y": 793.0
+        },
+        "location": {
+            "x": 456.0,
+            "y": 793.0
+        },
+        "size": {
+            "height": 43.0,
+            "width": 77.0
+        },
+        "tag_name": "a",
+        "text": "Reviews (0)"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Reviews (0)",
+    "transformed": true,
+    "width": 77,
+    "x": 456,
+    "y": 793
+}

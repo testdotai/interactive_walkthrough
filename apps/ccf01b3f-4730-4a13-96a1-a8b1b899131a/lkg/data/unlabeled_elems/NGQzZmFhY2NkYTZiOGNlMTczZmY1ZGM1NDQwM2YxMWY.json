@@ -1,0 +1,63 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "li",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "Ut7tmFBvNd5Ajrgp4usSQw==\n",
+    "height": 71,
+    "hier_level": 0,
+    "human_hash": "li_X1120_Y15_W115_H71",
+    "human_readable": "li_1120_15_115_71_li_fffffffffffffffffffffffff1b3c001c001c003ffffffffffffffffffffffff_1b96cccba0cbb6b1c26d4d6db1c72a5d",
+    "image_path": "NGQzZmFhY2NkYTZiOGNlMTczZmY1ZGM1NDQwM2YxMWY.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-671",
+                "id": "menu-item-671"
+            },
+            "backend_node_id": 1723,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 71.0,
+            "key": "1120_15_115_71_Accessories",
+            "tagName": "li",
+            "text": "Accessories",
+            "width": 115.0,
+            "x": 1120.0,
+            "y": 15.0
+        },
+        "location": {
+            "x": 1120.0,
+            "y": 15.0
+        },
+        "size": {
+            "height": 71.0,
+            "width": 115.0
+        },
+        "tag_name": "li",
+        "text": "Accessories"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "2b6db1d4ba7f23850646f8be7d6a961e",
+    "scrollable": false,
+    "tag_name": "li",
+    "text": "Accessories",
+    "transformed": true,
+    "width": 115,
+    "x": 1120,
+    "y": 15
+}

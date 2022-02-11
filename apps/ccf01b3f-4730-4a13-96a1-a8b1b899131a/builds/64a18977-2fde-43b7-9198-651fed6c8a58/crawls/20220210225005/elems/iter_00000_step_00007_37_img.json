@@ -1,0 +1,66 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "NwW2zdAAL//4DlnpoJsaow==\n",
+    "height": 60,
+    "hier_level": 0,
+    "human_hash": "img_X360_Y314_W60_H60",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "",
+                "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
+                "height": "300",
+                "loading": "lazy",
+                "sizes": "(max-width: 300px) 100vw, 300px",
+                "src": "https://testaistore.com/wp-content/uploads/2017/12/product-accessory3-1-300x300.jpg",
+                "srcset": "https://testaistore.com/wp-content/uploads/2017/12/product-accessory3-1-300x300.jpg 300w, https://testaistore.com/wp-content/uploads/2017/12/product-accessory3-1-1024x1024.jpg 1024w, https://testaistore.com/wp-content/uploads/2017/12/product-accessory3-1-150x150.jpg 150w, https://testaistore.com/wp-content/uploads/2017/12/product-accessory3-1-768x768.jpg 768w, https://testaistore.com/wp-content/uploads/2017/12/product-accessory3-1-600x600.jpg 600w, https://testaistore.com/wp-content/uploads/2017/12/product-accessory3-1-100x100.jpg 100w, https://testaistore.com/wp-content/uploads/2017/12/product-accessory3-1.jpg 1200w",
+                "width": "300"
+            },
+            "backend_node_id": 2969,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 60.0,
+            "key": "360_314_60_60_",
+            "tagName": "img",
+            "text": "",
+            "width": 60.0,
+            "x": 360.0,
+            "y": 314.0
+        },
+        "location": {
+            "x": 360.0,
+            "y": 314.0
+        },
+        "size": {
+            "height": 60.0,
+            "width": 60.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "transformed": true,
+    "width": 60,
+    "x": 360,
+    "y": 314
+}

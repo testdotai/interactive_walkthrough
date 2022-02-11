@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "/FftVCPmDUhZR03WXSmAZA==\n",
+    "height": 87,
+    "hier_level": 0,
+    "human_hash": "div_X1364_Y820_W195_H87",
+    "human_readable": "div_1364_820_195_87_div_0bff007f007fffffffff7fff3fff3fffffff0fff07ff0fffffffffff03ff03ff_f76e9e65b28df06c17120f3eedc8dcf2",
+    "image_path": "NWZkZmI2MThkYjJhMjI0YTU4MjRjMDcxOTE4ZWFmMTQ.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "astra-shop-summary-wrap"
+            },
+            "backend_node_id": 3839,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 87.0,
+            "key": "1364_820_195_87_DNK Red Shoes \n\t\t\t\tMen\t\t\t $ 150.00 Rated  0  out of 5",
+            "tagName": "div",
+            "text": "DNK Red Shoes \n\t\t\t\tMen\t\t\t $ 150.00 Rated  0  out of 5",
+            "width": 195.0,
+            "x": 1364.0,
+            "y": 820.0
+        },
+        "location": {
+            "x": 1364.0,
+            "y": 820.0
+        },
+        "size": {
+            "height": 87.0,
+            "width": 195.0
+        },
+        "tag_name": "div",
+        "text": "DNK Red Shoes \n\t\t\t\tMen\t\t\t $ 150.00 Rated  0  out of 5"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "0fa295c9652c2468ead03ded1de10fb0",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "DNK Red Shoes \n\t\t\t\tMen\t\t\t $ 150.00 Rated  0  out of 5",
+    "transformed": true,
+    "width": 195,
+    "x": 1364,
+    "y": 820
+}

@@ -1,0 +1,63 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "ul",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "LYMn56F1e3EUJXwhDR9+LQ==\n",
+    "height": 139,
+    "hier_level": 0,
+    "human_hash": "ul_X985_Y648_W262_H139",
+    "human_readable": "ul_985_648_262_139_ul_ffff07ff0fffffff07ff07ffffff07ff07ffffff01ff01ffffff67ff07ffffff_c9c8be0dcab3c3c89fac96bf8c38ef81",
+    "image_path": "ODM4YzQ3M2JkMmU3OTk3ZTdkYjVkNDFiMjQ0MTg2ZTg.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "menu",
+                "id": "menu-for-him"
+            },
+            "backend_node_id": 4130,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 139.0,
+            "key": "985_648_262_139_Men Jeans Men Shirts Men Shoes Men Accessories Men Jackets",
+            "tagName": "ul",
+            "text": "Men Jeans Men Shirts Men Shoes Men Accessories Men Jackets",
+            "width": 262.0,
+            "x": 985.0,
+            "y": 648.0
+        },
+        "location": {
+            "x": 985.0,
+            "y": 648.0
+        },
+        "size": {
+            "height": 139.0,
+            "width": 262.0
+        },
+        "tag_name": "ul",
+        "text": "Men Jeans Men Shirts Men Shoes Men Accessories Men Jackets"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "98664e211eb0215005e02f345b52dd29",
+    "scrollable": false,
+    "tag_name": "ul",
+    "text": "Men Jeans Men Shirts Men Shoes Men Accessories Men Jackets",
+    "transformed": true,
+    "width": 262,
+    "x": 985,
+    "y": 648
+}

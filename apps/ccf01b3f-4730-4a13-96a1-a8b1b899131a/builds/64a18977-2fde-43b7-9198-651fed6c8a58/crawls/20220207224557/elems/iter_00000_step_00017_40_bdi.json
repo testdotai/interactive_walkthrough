@@ -1,0 +1,57 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "bdi",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "YkW4tKCGVk0xM2mn1QdVKg==\n",
+    "height": 27,
+    "hier_level": 0,
+    "human_hash": "bdi_X1008_Y259_W83_H27",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 5501,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 27.0,
+            "key": "1008_259_83_27_$ 300.00",
+            "tagName": "bdi",
+            "text": "$ 300.00",
+            "width": 83.0,
+            "x": 1008.0,
+            "y": 259.0
+        },
+        "location": {
+            "x": 1008.0,
+            "y": 259.0
+        },
+        "size": {
+            "height": 27.0,
+            "width": 83.0
+        },
+        "tag_name": "bdi",
+        "text": "$ 300.00"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "bdi",
+    "text": "$ 300.00",
+    "transformed": true,
+    "width": 83,
+    "x": 1008,
+    "y": 259
+}

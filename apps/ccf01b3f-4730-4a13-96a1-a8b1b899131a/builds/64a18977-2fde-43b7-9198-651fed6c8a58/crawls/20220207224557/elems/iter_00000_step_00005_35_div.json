@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "m6gwNkTwZ1284N7La0Eb+A==\n",
+    "height": 274,
+    "hier_level": 0,
+    "human_hash": "div_X360_Y230_W1200_H274",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "elementor-container elementor-column-gap-default"
+            },
+            "backend_node_id": 2814,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 274.0,
+            "key": "360_230_1200_274_Home of The Bots 25% Off On All Products Shop Now Find More",
+            "tagName": "div",
+            "text": "Home of The Bots 25% Off On All Products Shop Now Find More",
+            "width": 1200.0,
+            "x": 360.0,
+            "y": 230.0
+        },
+        "location": {
+            "x": 360.0,
+            "y": 230.0
+        },
+        "size": {
+            "height": 274.0,
+            "width": 1200.0
+        },
+        "tag_name": "div",
+        "text": "Home of The Bots 25% Off On All Products Shop Now Find More"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Home of The Bots 25% Off On All Products Shop Now Find More",
+    "transformed": true,
+    "width": 1200,
+    "x": 360,
+    "y": 230
+}

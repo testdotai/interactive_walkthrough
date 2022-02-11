@@ -1,0 +1,63 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "ul",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "1ZBZfvPaqOWXf51YA+e9hw==\n",
+    "height": 139,
+    "hier_level": 0,
+    "human_hash": "ul_X672_Y648_W262_H139",
+    "human_readable": "ul_672_648_262_139_ul_ffff03ff03ffffff03ff03ffffff01ff01ffffff03ff03ffffff6fff00ffffff_f3c110d275eb0b26bd374f734c7d775b",
+    "image_path": "MGUwNjIyMTFjNWM4ODllODJkM2ZkM2VhYWQ1ZGI0Y2Y.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "menu",
+                "id": "menu-for-her"
+            },
+            "backend_node_id": 4097,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 139.0,
+            "key": "672_648_262_139_Women Jeans Tops and Shirts Women Jackets Heels and Flats Women Accessories",
+            "tagName": "ul",
+            "text": "Women Jeans Tops and Shirts Women Jackets Heels and Flats Women Accessories",
+            "width": 262.0,
+            "x": 672.0,
+            "y": 648.0
+        },
+        "location": {
+            "x": 672.0,
+            "y": 648.0
+        },
+        "size": {
+            "height": 139.0,
+            "width": 262.0
+        },
+        "tag_name": "ul",
+        "text": "Women Jeans Tops and Shirts Women Jackets Heels and Flats Women Accessories"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "98664e211eb0215005e02f345b52dd29",
+    "scrollable": false,
+    "tag_name": "ul",
+    "text": "Women Jeans Tops and Shirts Women Jackets Heels and Flats Women Accessories",
+    "transformed": true,
+    "width": 262,
+    "x": 672,
+    "y": 648
+}

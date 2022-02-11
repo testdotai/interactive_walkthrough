@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "p",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "iyKMstafzAjb2MGkt1IagA==\n",
+    "height": 28,
+    "hier_level": 0,
+    "human_hash": "p_X720_Y201_W177_H28",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "woocommerce-result-count"
+            },
+            "backend_node_id": 3609,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 28.0,
+            "key": "720_201_177_28_Showing 1\u201312 of 28 results",
+            "tagName": "p",
+            "text": "Showing 1\u201312 of 28 results",
+            "width": 177.0,
+            "x": 720.0,
+            "y": 201.0
+        },
+        "location": {
+            "x": 720.0,
+            "y": 201.0
+        },
+        "size": {
+            "height": 28.0,
+            "width": 177.0
+        },
+        "tag_name": "p",
+        "text": "Showing 1\u201312 of 28 results"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "p",
+    "text": "Showing 1\u201312 of 28 results",
+    "transformed": true,
+    "width": 177,
+    "x": 720,
+    "y": 201
+}

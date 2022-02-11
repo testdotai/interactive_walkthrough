@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "nav",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "MvmsHfIDUDFgQ+OmWqb0FA==\n",
+    "height": 26,
+    "hier_level": 0,
+    "human_hash": "nav_X720_Y162_W839_H26",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "woocommerce-breadcrumb"
+            },
+            "backend_node_id": 2163,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 26.0,
+            "key": "720_162_839_26_Home \u00a0/\u00a0Store",
+            "tagName": "nav",
+            "text": "Home \u00a0/\u00a0Store",
+            "width": 839.0,
+            "x": 720.0,
+            "y": 162.0
+        },
+        "location": {
+            "x": 720.0,
+            "y": 162.0
+        },
+        "size": {
+            "height": 26.0,
+            "width": 839.0
+        },
+        "tag_name": "nav",
+        "text": "Home \u00a0/\u00a0Store"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "nav",
+    "text": "Home \u00a0/\u00a0Store",
+    "transformed": true,
+    "width": 839,
+    "x": 720,
+    "y": 162
+}

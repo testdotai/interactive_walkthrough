@@ -1,0 +1,61 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "+f6rFJD3mO7RM+UeF5P7LA==\n",
+    "height": 95,
+    "hier_level": 0,
+    "human_hash": "div_X370_Y825_W1180_H95",
+    "human_readable": "div_370_825_1180_95_div_ffcfb7cdb7fd93cd93cd9249924912491249924996c9f6cbf24bfe59ffd9ffff_022107c187663a7206f57f5e979492d5",
+    "image_path": "M2U1ZjE3NmQwZmRiODhhYTZhYmI3YmM1NGZiN2NmOWU.png",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "elementor-widget-container"
+            },
+            "backend_node_id": 513,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 95.0,
+            "key": "370_825_1180_95_Previous  Next",
+            "tagName": "div",
+            "text": "Previous  Next",
+            "width": 1180.0,
+            "x": 370.0,
+            "y": 825.0
+        },
+        "location": {
+            "x": 370.0,
+            "y": 825.0
+        },
+        "size": {
+            "height": 95.0,
+            "width": 1180.0
+        },
+        "tag_name": "div",
+        "text": "Previous  Next"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "f1afee6cb5be3104710b848d47a988b5",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Previous  Next",
+    "transformed": true,
+    "width": 1180,
+    "x": 370,
+    "y": 825
+}

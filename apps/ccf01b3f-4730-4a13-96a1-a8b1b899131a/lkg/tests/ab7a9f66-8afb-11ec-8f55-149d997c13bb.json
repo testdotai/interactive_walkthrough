@@ -1,0 +1,97 @@
+{
+    "03: Working With Subtests": {
+        "description": "Creating and adding 'subtest_add_to_cart' to TC",
+        "is_deactivated": false,
+        "steps": [
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "btn_store"
+                ],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "action",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "bag",
+                "grep_count": null,
+                "input": "text_entry",
+                "label_count": null,
+                "labels": [
+                    "inp_search"
+                ],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "action",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "img_red_bag"
+                ],
+                "scrollIntoView": false,
+                "stepIsOpen": false,
+                "type": "action",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [
+                    "img_red_bag"
+                ],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "verification",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "Bright Red Bag",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "verification",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "03a:subtest_add_to_cart",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "stepIsOpen": true,
+                "timeout": null,
+                "type": "test_case",
+                "widget": ""
+            }
+        ],
+        "tags": [],
+        "temp_id": "ab7a9f66-8afb-11ec-8f55-149d997c13bb",
+        "title": "03: Working With Subtests"
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "jwPv8+Q0m3yq0Apy4TErjA==\n",
+    "height": 513,
+    "hier_level": 0,
+    "human_hash": "div_X360_Y246_W239_H513",
+    "human_readable": "div_360_246_239_513_div_001fffff981f087fffff080f087fffff081f087fffff081f087fffff083f087f_3c517f469043042b14f81d7491c0609f",
+    "image_path": "ZGY4NDRlNTE1YzU0MWIwNjk0ZjM2ZGYxMzU5ODM2NzE.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "widget woocommerce widget_top_rated_products",
+                "id": "woocommerce_top_rated_products-2"
+            },
+            "backend_node_id": 1929,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 513.0,
+            "key": "360_246_239_513_Our Best Sellers  Bright Red Bag Rated  0  out of 5 $ 300.00  Buddha Bracelet Rated  0  out of 5 $ 350.00  Light Brown Purse Rated  0  out of 5 $ 400.00  DNK Red Shoes Rated  0  out of 5 $ 150.00  DNK Green Shoes Rated  0  out of 5 $ 150.00",
+            "tagName": "div",
+            "text": "Our Best Sellers  Bright Red Bag Rated  0  out of 5 $ 300.00  Buddha Bracelet Rated  0  out of 5 $ 350.00  Light Brown Purse Rated  0  out of 5 $ 400.00  DNK Red Shoes Rated  0  out of 5 $ 150.00  DNK Green Shoes Rated  0  out of 5 $ 150.00",
+            "width": 239.0,
+            "x": 360.0,
+            "y": 246.0
+        },
+        "location": {
+            "x": 360.0,
+            "y": 246.0
+        },
+        "size": {
+            "height": 513.0,
+            "width": 239.0
+        },
+        "tag_name": "div",
+        "text": "Our Best Sellers  Bright Red Bag Rated  0  out of 5 $ 300.00  Buddha Bracelet Rated  0  out of 5 $ 350.00  Light Brown Purse Rated  0  out of 5 $ 400.00  DNK Red Shoes Rated  0  out of 5 $ 150.00  DNK Green Shoes Rated  0  out of 5 $ 150.00"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "b7e0b9e21b84b89ef40653b6a5e76acb",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Our Best Sellers  Bright Red Bag Rated  0  out of 5 $ 300.00  Buddha Bracelet Rated  0  out of 5 $ 350.00  Light Brown Purse Rated  0  out of 5 $ 400.00  DNK Red Shoes Rated  0  out of 5 $ 150.00  DNK Green Shoes Rated  0  out of 5 $ 150.00",
+    "transformed": true,
+    "width": 239,
+    "x": 360,
+    "y": 246
+}

@@ -1,0 +1,66 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "yaxh8cPtG+EBXJxODfAsZA==\n",
+    "height": 44,
+    "hier_level": 0,
+    "human_hash": "img_X1298_Y594_W145_H44",
+    "human_readable": "img_1298_594_145_44_img_00003fff1ffe3fff3fff3fff00000000ffffffffffffffffffffffffffffffff_9d4568c009d203ab10e33ea9953a0264",
+    "image_path": "ODYzMDlkMmQ1YjgzNjhjZjc3Zjk0MmQ5MDM2MDE0NDM.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "",
+                "class": "image ",
+                "height": "44",
+                "src": "https://testaistore.com/wp-content/uploads/2021/03/appstore-free-img-300x90-1.png",
+                "width": "145"
+            },
+            "backend_node_id": 4160,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 44.0,
+            "key": "1298_594_145_44_",
+            "tagName": "img",
+            "text": "",
+            "width": 145.0,
+            "x": 1298.0,
+            "y": 594.0
+        },
+        "location": {
+            "x": 1298.0,
+            "y": 594.0
+        },
+        "size": {
+            "height": 44.0,
+            "width": 145.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "98664e211eb0215005e02f345b52dd29",
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "transformed": true,
+    "width": 145,
+    "x": 1298,
+    "y": 594
+}

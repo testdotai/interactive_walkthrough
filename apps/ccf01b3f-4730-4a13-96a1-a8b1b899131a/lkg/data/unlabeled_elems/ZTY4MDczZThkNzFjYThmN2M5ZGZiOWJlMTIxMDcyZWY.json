@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "h2",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "ZeyDXrlw0fjiop/k5rTqLw==\n",
+    "height": 20,
+    "hier_level": 0,
+    "human_hash": "h2_X935_Y483_W195_H20",
+    "human_readable": "h2_935_483_195_20_h2_ffffffffffff4dff6dff007f007f007f007f007f007f007ffbfffbffffffffff_18f1f4c2ca2cf1867a5246ab1489dc6b",
+    "image_path": "ZTY4MDczZThkNzFjYThmN2M5ZGZiOWJlMTIxMDcyZWY.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "woocommerce-loop-product__title"
+            },
+            "backend_node_id": 1544,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 20.0,
+            "key": "935_483_195_20_Basic Gray Jeans",
+            "tagName": "h2",
+            "text": "Basic Gray Jeans",
+            "width": 195.0,
+            "x": 935.0,
+            "y": 483.0
+        },
+        "location": {
+            "x": 935.0,
+            "y": 483.0
+        },
+        "size": {
+            "height": 20.0,
+            "width": 195.0
+        },
+        "tag_name": "h2",
+        "text": "Basic Gray Jeans"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "b7e0b9e21b84b89ef40653b6a5e76acb",
+    "scrollable": false,
+    "tag_name": "h2",
+    "text": "Basic Gray Jeans",
+    "transformed": true,
+    "width": 195,
+    "x": 935,
+    "y": 483
+}

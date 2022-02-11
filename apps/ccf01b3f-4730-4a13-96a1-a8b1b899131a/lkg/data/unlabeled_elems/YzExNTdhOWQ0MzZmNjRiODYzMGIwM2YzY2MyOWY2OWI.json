@@ -1,0 +1,65 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "button",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "NsZNayS95o307bptVMULUw==\n",
+    "height": 47,
+    "hier_level": 0,
+    "human_hash": "button_X394_Y866_W89_H47",
+    "human_readable": "button_394_866_89_47_button_fffffffffffffffffffffffff3bff00ff00ff00ffe7fffffffffffffffffffff_600bb5b2e4d74ff57114363b8a101e42",
+    "image_path": "YzExNTdhOWQ0MzZmNjRiODYzMGIwM2YzY2MyOWY2OWI.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "woocommerce-button button woocommerce-form-login__submit",
+                "name": "login",
+                "type": "submit",
+                "value": "Log in"
+            },
+            "backend_node_id": 2050,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 47.0,
+            "key": "394_866_89_47_Log in",
+            "tagName": "button",
+            "text": "Log in",
+            "width": 89.0,
+            "x": 394.0,
+            "y": 866.0
+        },
+        "location": {
+            "x": 394.0,
+            "y": 866.0
+        },
+        "size": {
+            "height": 47.0,
+            "width": 89.0
+        },
+        "tag_name": "button",
+        "text": "Log in"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "2b6db1d4ba7f23850646f8be7d6a961e",
+    "scrollable": false,
+    "tag_name": "button",
+    "text": "Log in",
+    "transformed": true,
+    "width": 89,
+    "x": 394,
+    "y": 866
+}

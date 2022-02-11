@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "fvMUXERR1lwNoRmCZkDUHg==\n",
+    "height": 87,
+    "hier_level": 0,
+    "human_hash": "div_X935_Y840_W195_H87",
+    "human_readable": "div_935_840_195_87_div_6eff003f001fffffffffffff0fff1ffffffff0ff007f007fffff77ff03ff03ff_c47f26a787d460ee7e4a7b95154a9167",
+    "image_path": "NTVlMmJjZTM5NTA5NzA5M2Q4OTkzOTcyZWE2M2UwZDQ.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "astra-shop-summary-wrap"
+            },
+            "backend_node_id": 2353,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 87.0,
+            "key": "935_840_195_87_Blue Denim Shorts \n\t\t\t\tWomen\t\t\t $ 150.00 $ 130.00 Rated  0  out of 5",
+            "tagName": "div",
+            "text": "Blue Denim Shorts \n\t\t\t\tWomen\t\t\t $ 150.00 $ 130.00 Rated  0  out of 5",
+            "width": 195.0,
+            "x": 935.0,
+            "y": 840.0
+        },
+        "location": {
+            "x": 935.0,
+            "y": 840.0
+        },
+        "size": {
+            "height": 87.0,
+            "width": 195.0
+        },
+        "tag_name": "div",
+        "text": "Blue Denim Shorts \n\t\t\t\tWomen\t\t\t $ 150.00 $ 130.00 Rated  0  out of 5"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "b7e0b9e21b84b89ef40653b6a5e76acb",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Blue Denim Shorts \n\t\t\t\tWomen\t\t\t $ 150.00 $ 130.00 Rated  0  out of 5",
+    "transformed": true,
+    "width": 195,
+    "x": 935,
+    "y": 840
+}

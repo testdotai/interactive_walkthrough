@@ -1,0 +1,63 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "li",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "EsXLq03bunoIo+9A0rIrgA==\n",
+    "height": 28,
+    "hier_level": 0,
+    "human_hash": "li_X985_Y648_W262_H28",
+    "human_readable": "li_985_648_262_28_li_ffffffffffffffff5fff5fff07ff07ff07ff07ff07ffffffffffffffffffffff_9e3e2bd37eed29723e3294aac1de3e0b",
+    "image_path": "NjI5MjJhMmQ0YjcwNzMxNDkyNzE4NjgzNTM5ZjUxZTY.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-659",
+                "id": "menu-item-659"
+            },
+            "backend_node_id": 4131,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 28.0,
+            "key": "985_648_262_28_Men Jeans",
+            "tagName": "li",
+            "text": "Men Jeans",
+            "width": 262.0,
+            "x": 985.0,
+            "y": 648.0
+        },
+        "location": {
+            "x": 985.0,
+            "y": 648.0
+        },
+        "size": {
+            "height": 28.0,
+            "width": 262.0
+        },
+        "tag_name": "li",
+        "text": "Men Jeans"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "98664e211eb0215005e02f345b52dd29",
+    "scrollable": false,
+    "tag_name": "li",
+    "text": "Men Jeans",
+    "transformed": true,
+    "width": 262,
+    "x": 985,
+    "y": 648
+}

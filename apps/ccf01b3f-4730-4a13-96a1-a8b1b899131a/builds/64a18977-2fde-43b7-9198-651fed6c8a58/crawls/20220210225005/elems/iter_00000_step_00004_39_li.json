@@ -1,0 +1,57 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "li",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "Ohmt2oRIVwD1RgloiqmADQ==\n",
+    "height": 89,
+    "hier_level": 0,
+    "human_hash": "li_X360_Y300_W239_H89",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 1935,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 89.0,
+            "key": "360_300_239_89_Bright Red Bag Rated  0  out of 5 $ 300.00",
+            "tagName": "li",
+            "text": "Bright Red Bag Rated  0  out of 5 $ 300.00",
+            "width": 239.0,
+            "x": 360.0,
+            "y": 300.0
+        },
+        "location": {
+            "x": 360.0,
+            "y": 300.0
+        },
+        "size": {
+            "height": 89.0,
+            "width": 239.0
+        },
+        "tag_name": "li",
+        "text": "Bright Red Bag Rated  0  out of 5 $ 300.00"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "li",
+    "text": "Bright Red Bag Rated  0  out of 5 $ 300.00",
+    "transformed": true,
+    "width": 239,
+    "x": 360,
+    "y": 300
+}

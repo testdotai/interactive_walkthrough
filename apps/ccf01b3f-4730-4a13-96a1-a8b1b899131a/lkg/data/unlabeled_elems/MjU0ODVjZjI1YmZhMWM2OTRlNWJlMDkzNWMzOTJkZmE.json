@@ -1,0 +1,69 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "AUNg7GrurOCR8t5CbvsC0w==\n",
+    "height": 60,
+    "hier_level": 0,
+    "human_hash": "img_X360_Y708_W60_H60",
+    "human_readable": "img_360_708_60_60_img_ffffffffff7ffebffd9ffddff9cff00fe007e007e007f007f007f03fffffffff_9d4568c009d203ab10e33ea9953a0264",
+    "image_path": "MjU0ODVjZjI1YmZhMWM2OTRlNWJlMDkzNWMzOTJkZmE.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "",
+                "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
+                "height": "300",
+                "loading": "lazy",
+                "sizes": "(max-width: 300px) 100vw, 300px",
+                "src": "https://testaistore.com/wp-content/uploads/2017/12/product-bag3-1-300x300.jpg",
+                "srcset": "https://testaistore.com/wp-content/uploads/2017/12/product-bag3-1-300x300.jpg 300w, https://testaistore.com/wp-content/uploads/2017/12/product-bag3-1-1024x1024.jpg 1024w, https://testaistore.com/wp-content/uploads/2017/12/product-bag3-1-150x150.jpg 150w, https://testaistore.com/wp-content/uploads/2017/12/product-bag3-1-768x768.jpg 768w, https://testaistore.com/wp-content/uploads/2017/12/product-bag3-1-600x600.jpg 600w, https://testaistore.com/wp-content/uploads/2017/12/product-bag3-1-100x100.jpg 100w, https://testaistore.com/wp-content/uploads/2017/12/product-bag3-1.jpg 1200w",
+                "width": "300"
+            },
+            "backend_node_id": 4423,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 60.0,
+            "key": "360_708_60_60_",
+            "tagName": "img",
+            "text": "",
+            "width": 60.0,
+            "x": 360.0,
+            "y": 708.0
+        },
+        "location": {
+            "x": 360.0,
+            "y": 708.0
+        },
+        "size": {
+            "height": 60.0,
+            "width": 60.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "bd8cad5817f82cf12579862d4dd775ae",
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "transformed": true,
+    "width": 60,
+    "x": 360,
+    "y": 708
+}

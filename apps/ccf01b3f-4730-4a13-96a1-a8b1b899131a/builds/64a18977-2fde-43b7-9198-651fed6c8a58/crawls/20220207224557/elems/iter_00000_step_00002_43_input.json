@@ -1,0 +1,64 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "input",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "l+r1hC0h5xXwJbqXoI6nrA==\n",
+    "height": 42,
+    "hier_level": 0,
+    "human_hash": "input_X394_Y703_W1132_H42",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "autocomplete": "username",
+                "class": "woocommerce-Input woocommerce-Input--text input-text",
+                "id": "username",
+                "name": "username",
+                "type": "text",
+                "value": ""
+            },
+            "backend_node_id": 2020,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 42.0,
+            "key": "394_703_1132_42_",
+            "tagName": "input",
+            "text": "",
+            "width": 1132.0,
+            "x": 394.0,
+            "y": 703.0
+        },
+        "location": {
+            "x": 394.0,
+            "y": 703.0
+        },
+        "size": {
+            "height": 42.0,
+            "width": 1132.0
+        },
+        "tag_name": "input",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "input",
+    "text": "",
+    "transformed": true,
+    "width": 1132,
+    "x": 394,
+    "y": 703
+}

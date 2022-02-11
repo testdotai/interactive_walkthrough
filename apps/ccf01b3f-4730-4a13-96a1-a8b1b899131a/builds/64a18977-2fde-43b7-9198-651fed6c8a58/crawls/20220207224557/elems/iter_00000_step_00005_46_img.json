@@ -1,0 +1,61 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "2EA/fWTOis8khtOsxtEYbA==\n",
+    "height": 83,
+    "hier_level": 0,
+    "human_hash": "img_X219_Y825_W150_H83",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "img-appstore",
+                "class": "swiper-slide-image",
+                "src": "https://testaistore.com/wp-content/uploads/elementor/thumbs/img-appstore-4-p5v5u0oc24cgx4rphe4giip194kvgxnoe09th9y0n2.png"
+            },
+            "backend_node_id": 2396,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 83.0,
+            "key": "219_825_150_83_",
+            "tagName": "img",
+            "text": "",
+            "width": 150.0,
+            "x": 219.0,
+            "y": 825.0
+        },
+        "location": {
+            "x": 219.0,
+            "y": 825.0
+        },
+        "size": {
+            "height": 83.0,
+            "width": 150.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "transformed": true,
+    "width": 150,
+    "x": 219,
+    "y": 825
+}

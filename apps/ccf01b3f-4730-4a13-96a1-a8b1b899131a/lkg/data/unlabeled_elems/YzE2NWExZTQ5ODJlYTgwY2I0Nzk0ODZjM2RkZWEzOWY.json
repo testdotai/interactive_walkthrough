@@ -1,0 +1,65 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "VwW0DGD9e4lXcRvsJlmQpQ==\n",
+    "height": 448,
+    "hier_level": 0,
+    "human_hash": "div_X370_Y99_W393_H448",
+    "human_readable": "div_370_99_393_448_div_ffcf8001800180018001bf01bfa1bf01bf818001bfe18001be05be01be01ffff_0efe97344e5ed6095e52ba67c1671cf7",
+    "image_path": "YzE2NWExZTQ5ODJlYTgwY2I0Nzk0ODZjM2RkZWEzOWY.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-7020ec8e catClass",
+                "data-element_type": "column",
+                "data-id": "7020ec8e",
+                "data-settings": "{\"background_background\":\"classic\"}"
+            },
+            "backend_node_id": 2386,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 448.0,
+            "key": "370_99_393_448_20% Off On Tank Tops Lorem ipsum dolor sit amet consec tetur. Shop Now",
+            "tagName": "div",
+            "text": "20% Off On Tank Tops Lorem ipsum dolor sit amet consec tetur. Shop Now",
+            "width": 393.0,
+            "x": 370.0,
+            "y": 99.0
+        },
+        "location": {
+            "x": 370.0,
+            "y": 99.0
+        },
+        "size": {
+            "height": 448.0,
+            "width": 393.0
+        },
+        "tag_name": "div",
+        "text": "20% Off On Tank Tops Lorem ipsum dolor sit amet consec tetur. Shop Now"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "7104867aaf4a049fdb3a5674019d40fd",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "20% Off On Tank Tops Lorem ipsum dolor sit amet consec tetur. Shop Now",
+    "transformed": true,
+    "width": 393,
+    "x": 370,
+    "y": 99
+}

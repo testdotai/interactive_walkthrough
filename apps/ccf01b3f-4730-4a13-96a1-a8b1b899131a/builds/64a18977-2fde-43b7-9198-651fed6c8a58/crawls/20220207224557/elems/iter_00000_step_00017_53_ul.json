@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "ul",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "CPRBpBEqDJn3xbx4RGfW9w==\n",
+    "height": 44,
+    "hier_level": 0,
+    "human_hash": "ul_X360_Y792_W1200_H44",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "tabs wc-tabs",
+                "role": "tablist"
+            },
+            "backend_node_id": 5541,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 44.0,
+            "key": "360_792_1200_44_Description\t\t\t\t\t \n\t\t\t\t\t\tReviews (0)",
+            "tagName": "ul",
+            "text": "Description\t\t\t\t\t \n\t\t\t\t\t\tReviews (0)",
+            "width": 1200.0,
+            "x": 360.0,
+            "y": 792.0
+        },
+        "location": {
+            "x": 360.0,
+            "y": 792.0
+        },
+        "size": {
+            "height": 44.0,
+            "width": 1200.0
+        },
+        "tag_name": "ul",
+        "text": "Description\t\t\t\t\t \n\t\t\t\t\t\tReviews (0)"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "ul",
+    "text": "Description\t\t\t\t\t \n\t\t\t\t\t\tReviews (0)",
+    "transformed": true,
+    "width": 1200,
+    "x": 360,
+    "y": 792
+}

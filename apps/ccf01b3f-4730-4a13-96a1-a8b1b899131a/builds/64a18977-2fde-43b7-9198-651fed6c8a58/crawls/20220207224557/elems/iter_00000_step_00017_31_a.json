@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "GepePE1w1PIqmBd1xMGglw==\n",
+    "height": 36,
+    "hier_level": 0,
+    "human_hash": "a_X909_Y177_W36_H36",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "woocommerce-product-gallery__trigger",
+                "href": "#"
+            },
+            "backend_node_id": 5473,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 36.0,
+            "key": "909_177_36_36_\ud83d\udd0d",
+            "tagName": "a",
+            "text": "\ud83d\udd0d",
+            "width": 36.0,
+            "x": 909.0,
+            "y": 177.0
+        },
+        "location": {
+            "x": 909.0,
+            "y": 177.0
+        },
+        "size": {
+            "height": 36.0,
+            "width": 36.0
+        },
+        "tag_name": "a",
+        "text": "\ud83d\udd0d"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "\ud83d\udd0d",
+    "transformed": true,
+    "width": 36,
+    "x": 909,
+    "y": 177
+}

@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "li",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "nXgWMUtrr8sVVGDsjGOunA==\n",
+    "height": 300,
+    "hier_level": 0,
+    "human_hash": "li_X720_Y80_W195_H300",
+    "human_readable": "li_720_80_195_300_li_f80ff81ff81ffc1ffc1ffc1ffe3ffc7ff87fe83ffd7f007fffffffff0fffffff_e62475ef2c2268a69bbdced180bb1f3d",
+    "image_path": "M2M2ZGMyNDM1MjYzOTRiNmNhYjlkNGEwMjFiMmJkYzk.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ast-col-sm-12 ast-article-post astra-woo-hover-swap product type-product post-2716 status-publish first instock product_cat-women has-post-thumbnail featured shipping-taxable purchasable product-type-simple"
+            },
+            "backend_node_id": 3863,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 300.0,
+            "key": "720_80_195_300_Basic Gray Jeans \n\t\t\t\tWomen\t\t\t $ 150.00 Rated  0  out of 5",
+            "tagName": "li",
+            "text": "Basic Gray Jeans \n\t\t\t\tWomen\t\t\t $ 150.00 Rated  0  out of 5",
+            "width": 195.0,
+            "x": 720.0,
+            "y": 80.0
+        },
+        "location": {
+            "x": 720.0,
+            "y": 80.0
+        },
+        "size": {
+            "height": 300.0,
+            "width": 195.0
+        },
+        "tag_name": "li",
+        "text": "Basic Gray Jeans \n\t\t\t\tWomen\t\t\t $ 150.00 Rated  0  out of 5"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "98664e211eb0215005e02f345b52dd29",
+    "scrollable": false,
+    "tag_name": "li",
+    "text": "Basic Gray Jeans \n\t\t\t\tWomen\t\t\t $ 150.00 Rated  0  out of 5",
+    "transformed": true,
+    "width": 195,
+    "x": 720,
+    "y": 80
+}

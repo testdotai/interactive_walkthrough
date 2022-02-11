@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "label",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "707d87o8o/eBvasPZsm8Hg==\n",
+    "height": 1,
+    "hier_level": 0,
+    "human_hash": "label_X359_Y161_W1_H1",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "screen-reader-text",
+                "for": "woocommerce-product-search-field-0"
+            },
+            "backend_node_id": 1918,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 1.0,
+            "key": "359_161_1_1_Search for:",
+            "tagName": "label",
+            "text": "Search for:",
+            "width": 1.0,
+            "x": 359.0,
+            "y": 161.0
+        },
+        "location": {
+            "x": 359.0,
+            "y": 161.0
+        },
+        "size": {
+            "height": 1.0,
+            "width": 1.0
+        },
+        "tag_name": "label",
+        "text": "Search for:"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "label",
+    "text": "Search for:",
+    "transformed": true,
+    "width": 1,
+    "x": 359,
+    "y": 161
+}

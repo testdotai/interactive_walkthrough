@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "li",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "VPS1/NBbID6l0yE3kUOWdQ==\n",
+    "height": 40,
+    "hier_level": 0,
+    "human_hash": "li_X721_Y434_W40_H40",
+    "human_readable": "li_721_434_40_40_li_000000000000000000800000004000000240000000000000000000000000ffff_2f7bb230c70819aeb10b45a709bcf48f",
+    "image_path": "YTRjNDBkYjk3ZThjZmZkMjE4YTA2ZDliMWYzZjYxODU.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 3983,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 40.0,
+            "key": "721_434_40_40_1",
+            "tagName": "li",
+            "text": "1",
+            "width": 40.0,
+            "x": 721.0,
+            "y": 434.0
+        },
+        "location": {
+            "x": 721.0,
+            "y": 434.0
+        },
+        "size": {
+            "height": 40.0,
+            "width": 40.0
+        },
+        "tag_name": "li",
+        "text": "1"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "98664e211eb0215005e02f345b52dd29",
+    "scrollable": false,
+    "tag_name": "li",
+    "text": "1",
+    "transformed": true,
+    "width": 40,
+    "x": 721,
+    "y": 434
+}

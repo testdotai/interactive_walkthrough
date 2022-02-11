@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "uDcQasbeFdwhYML+F8vT4A==\n",
+    "height": 302,
+    "hier_level": 0,
+    "human_hash": "div_X360_Y594_W1200_H302",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ast-builder-footer-grid-columns site-primary-footer-inner-wrap ast-builder-grid-row"
+            },
+            "backend_node_id": 4053,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 302.0,
+            "key": "360_594_1200_302_Quick Links Home About My account Cart Contact Us For Her Women Jeans Tops and Shirts Women Jackets Heels and Flats Women Accessories For Him Men Jeans Men Shirts Men Shoes Men Accessories Men Jackets",
+            "tagName": "div",
+            "text": "Quick Links Home About My account Cart Contact Us For Her Women Jeans Tops and Shirts Women Jackets Heels and Flats Women Accessories For Him Men Jeans Men Shirts Men Shoes Men Accessories Men Jackets",
+            "width": 1200.0,
+            "x": 360.0,
+            "y": 594.0
+        },
+        "location": {
+            "x": 360.0,
+            "y": 594.0
+        },
+        "size": {
+            "height": 302.0,
+            "width": 1200.0
+        },
+        "tag_name": "div",
+        "text": "Quick Links Home About My account Cart Contact Us For Her Women Jeans Tops and Shirts Women Jackets Heels and Flats Women Accessories For Him Men Jeans Men Shirts Men Shoes Men Accessories Men Jackets"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Quick Links Home About My account Cart Contact Us For Her Women Jeans Tops and Shirts Women Jackets Heels and Flats Women Accessories For Him Men Jeans Men Shirts Men Shoes Men Accessories Men Jackets",
+    "transformed": true,
+    "width": 1200,
+    "x": 360,
+    "y": 594
+}

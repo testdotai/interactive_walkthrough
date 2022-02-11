@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "oBFemP7YG5K1/Is1T9To/g==\n",
+    "height": 52,
+    "hier_level": 0,
+    "human_hash": "div_X360_Y207_W239_H52",
+    "human_readable": "div_360_207_239_52_div_00007ffe7ffeffffffffffffffffffffffff9fe48f049f00ff84ffffffffffff_e77e2f1fc7601be7db89dc7102395a1e",
+    "image_path": "YzAyZTMwOTBmMTdiOTRiMjUwNDEwOGVlMDgwMjE3YTc.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "price_slider_wrapper"
+            },
+            "backend_node_id": 3550,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 52.0,
+            "key": "360_207_239_52_Filter \n\t\t\t\tPrice:  $100  \u2014  $400",
+            "tagName": "div",
+            "text": "Filter \n\t\t\t\tPrice:  $100  \u2014  $400",
+            "width": 239.0,
+            "x": 360.0,
+            "y": 207.0
+        },
+        "location": {
+            "x": 360.0,
+            "y": 207.0
+        },
+        "size": {
+            "height": 52.0,
+            "width": 239.0
+        },
+        "tag_name": "div",
+        "text": "Filter \n\t\t\t\tPrice:  $100  \u2014  $400"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "98664e211eb0215005e02f345b52dd29",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Filter \n\t\t\t\tPrice:  $100  \u2014  $400",
+    "transformed": true,
+    "width": 239,
+    "x": 360,
+    "y": 207
+}

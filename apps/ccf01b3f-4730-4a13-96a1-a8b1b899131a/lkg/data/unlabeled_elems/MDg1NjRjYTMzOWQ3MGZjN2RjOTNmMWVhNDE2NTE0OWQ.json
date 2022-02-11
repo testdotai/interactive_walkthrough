@@ -1,0 +1,63 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "li",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "utfDKtlzRcL1Ja5vUZSAhw==\n",
+    "height": 28,
+    "hier_level": 0,
+    "human_hash": "li_X985_Y675_W262_H28",
+    "human_readable": "li_985_675_262_28_li_ffffffffffffffff4fff4fff07ff07ff07ff07ff07ffffffffffffffffffffff_654ab2186befbc3d46d33e4549954c27",
+    "image_path": "MDg1NjRjYTMzOWQ3MGZjN2RjOTNmMWVhNDE2NTE0OWQ.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-660",
+                "id": "menu-item-660"
+            },
+            "backend_node_id": 4135,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 28.0,
+            "key": "985_675_262_28_Men Shirts",
+            "tagName": "li",
+            "text": "Men Shirts",
+            "width": 262.0,
+            "x": 985.0,
+            "y": 675.0
+        },
+        "location": {
+            "x": 985.0,
+            "y": 675.0
+        },
+        "size": {
+            "height": 28.0,
+            "width": 262.0
+        },
+        "tag_name": "li",
+        "text": "Men Shirts"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "98664e211eb0215005e02f345b52dd29",
+    "scrollable": false,
+    "tag_name": "li",
+    "text": "Men Shirts",
+    "transformed": true,
+    "width": 262,
+    "x": 985,
+    "y": 675
+}

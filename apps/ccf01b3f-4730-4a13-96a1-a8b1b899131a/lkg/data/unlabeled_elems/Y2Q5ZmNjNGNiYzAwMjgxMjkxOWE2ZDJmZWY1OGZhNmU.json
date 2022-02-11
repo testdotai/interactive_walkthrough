@@ -1,0 +1,64 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "A/GnMgkGTENyEVTUHQaK4A==\n",
+    "height": 25,
+    "hier_level": 0,
+    "human_hash": "div_X1525_Y860_W25_H25",
+    "human_readable": "div_1525_860_25_25_div_fffffffff1fff0fff87ffc3ffe1fff0fff0ffe1ffc3ff87ff0fff1ffffffffff_c0f44ba56073da5bdcd5af880cc4505e",
+    "image_path": "Y2Q5ZmNjNGNiYzAwMjgxMjkxOWE2ZDJmZWY1OGZhNmU.png",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Next slide",
+                "class": "elementor-swiper-button elementor-swiper-button-next",
+                "role": "button",
+                "tabindex": "0"
+            },
+            "backend_node_id": 18,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 25.0,
+            "key": "1525_860_25_25_Next",
+            "tagName": "div",
+            "text": "Next",
+            "width": 25.0,
+            "x": 1525.0,
+            "y": 860.0
+        },
+        "location": {
+            "x": 1525.0,
+            "y": 860.0
+        },
+        "size": {
+            "height": 25.0,
+            "width": 25.0
+        },
+        "tag_name": "div",
+        "text": "Next"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "f1afee6cb5be3104710b848d47a988b5",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Next",
+    "transformed": true,
+    "width": 25,
+    "x": 1525,
+    "y": 860
+}

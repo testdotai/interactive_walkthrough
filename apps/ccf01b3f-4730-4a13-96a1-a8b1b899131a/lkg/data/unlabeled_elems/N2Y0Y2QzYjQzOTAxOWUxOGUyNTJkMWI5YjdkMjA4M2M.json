@@ -1,0 +1,63 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "MB+B1kDhCQU3oy99SNUbFg==\n",
+    "height": 18,
+    "hier_level": 0,
+    "human_hash": "a_X985_Y735_W111_H18",
+    "human_readable": "a_985_735_111_18_a_ffffffffffffffff3bfb3bff080000000900010020c204434000dc0cffffffff_ba1dcc123f8f39b2127b59e0bdb493f3",
+    "image_path": "N2Y0Y2QzYjQzOTAxOWUxOGUyNTJkMWI5YjdkMjA4M2M.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "menu-link",
+                "href": "#"
+            },
+            "backend_node_id": 4144,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 18.0,
+            "key": "985_735_111_18_Men Accessories",
+            "tagName": "a",
+            "text": "Men Accessories",
+            "width": 111.0,
+            "x": 985.0,
+            "y": 735.0
+        },
+        "location": {
+            "x": 985.0,
+            "y": 735.0
+        },
+        "size": {
+            "height": 18.0,
+            "width": 111.0
+        },
+        "tag_name": "a",
+        "text": "Men Accessories"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "98664e211eb0215005e02f345b52dd29",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Men Accessories",
+    "transformed": true,
+    "width": 111,
+    "x": 985,
+    "y": 735
+}

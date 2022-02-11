@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "z8JbQNk2ebbkNkH7igqzcA==\n",
+    "height": 22,
+    "hier_level": 0,
+    "human_hash": "a_X435_Y495_W164_H22",
+    "human_readable": "a_435_495_164_22_a_ffffffffffffffff277f677f000f000f000f000f000f000f038fbfffbfffffff_9fd176e0e8cf91661d9e1b9865efbd1d",
+    "image_path": "MWIzNWJmYjk5NDE0YzRlMTVhODU2Yjg5Y2ZmODBkMWM.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "https://testaistore.com/product/light-brown-purse/"
+            },
+            "backend_node_id": 1995,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 22.0,
+            "key": "435_495_164_22_Light Brown Purse",
+            "tagName": "a",
+            "text": "Light Brown Purse",
+            "width": 164.0,
+            "x": 435.0,
+            "y": 495.0
+        },
+        "location": {
+            "x": 435.0,
+            "y": 495.0
+        },
+        "size": {
+            "height": 22.0,
+            "width": 164.0
+        },
+        "tag_name": "a",
+        "text": "Light Brown Purse"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "b7e0b9e21b84b89ef40653b6a5e76acb",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Light Brown Purse",
+    "transformed": true,
+    "width": 164,
+    "x": 435,
+    "y": 495
+}

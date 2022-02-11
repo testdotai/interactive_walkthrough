@@ -1,0 +1,63 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "2pIq01D18PD54F9AflO/oQ==\n",
+    "height": 38,
+    "hier_level": 0,
+    "human_hash": "a_X766_Y435_W38_H38",
+    "human_readable": "a_766_435_38_38_a_7fff7fff7fff7fff7fff7e3f7c3f7f3f7e7f7c3f7c3f7fff7fff7fff7fff0000_39c6844c921cf69656adaa2a8e4aea0c",
+    "image_path": "YjBkMmE2NzUyYjIzNTA2M2RhYjJmMWExYjUwZDYwYjQ.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "page-numbers",
+                "href": "https://testaistore.com/store/page/2/?orderby=popularity"
+            },
+            "backend_node_id": 3988,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 38.0,
+            "key": "766_435_38_38_2",
+            "tagName": "a",
+            "text": "2",
+            "width": 38.0,
+            "x": 766.0,
+            "y": 435.0
+        },
+        "location": {
+            "x": 766.0,
+            "y": 435.0
+        },
+        "size": {
+            "height": 38.0,
+            "width": 38.0
+        },
+        "tag_name": "a",
+        "text": "2"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "98664e211eb0215005e02f345b52dd29",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "2",
+    "transformed": true,
+    "width": 38,
+    "x": 766,
+    "y": 435
+}

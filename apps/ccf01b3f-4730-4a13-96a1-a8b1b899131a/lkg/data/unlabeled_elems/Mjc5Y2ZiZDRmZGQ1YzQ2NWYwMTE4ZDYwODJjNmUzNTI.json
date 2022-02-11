@@ -1,0 +1,61 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "91kh5YBz3hn5rjn81OrJkA==\n",
+    "height": 274,
+    "hier_level": 0,
+    "human_hash": "div_X960_Y230_W600_H274",
+    "human_readable": "div_960_230_600_274_div_01c003f00ff01ff01fe01ff01fe01fc01fc01f801f201f601de03fe01ec01e60_9d4568c009d203ab10e33ea9953a0264",
+    "image_path": "Mjc5Y2ZiZDRmZGQ1YzQ2NWYwMTE4ZDYwODJjNmUzNTI.png",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "elementor-widget-wrap"
+            },
+            "backend_node_id": 4,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 274.0,
+            "key": "960_230_600_274_",
+            "tagName": "div",
+            "text": "",
+            "width": 600.0,
+            "x": 960.0,
+            "y": 230.0
+        },
+        "location": {
+            "x": 960.0,
+            "y": 230.0
+        },
+        "size": {
+            "height": 274.0,
+            "width": 600.0
+        },
+        "tag_name": "div",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "f1afee6cb5be3104710b848d47a988b5",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "",
+    "transformed": true,
+    "width": 600,
+    "x": 960,
+    "y": 230
+}

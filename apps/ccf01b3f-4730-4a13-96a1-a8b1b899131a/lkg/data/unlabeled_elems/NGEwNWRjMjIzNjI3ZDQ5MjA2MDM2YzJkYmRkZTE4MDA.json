@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "aEuYRIbhiGl2KT5bLXLBAw==\n",
+    "height": 22,
+    "hier_level": 0,
+    "human_hash": "a_X435_Y309_W164_H22",
+    "human_readable": "a_435_309_164_22_a_ffffffffffffffff56ff76ff003f003f003f003f003f003f083fdf3fdfbfffff_90eb6c4ba74b6192d2d30fb4e51d8a28",
+    "image_path": "NGEwNWRjMjIzNjI3ZDQ5MjA2MDM2YzJkYmRkZTE4MDA.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "https://testaistore.com/product/bright-red-bag/"
+            },
+            "backend_node_id": 1939,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 22.0,
+            "key": "435_309_164_22_Bright Red Bag",
+            "tagName": "a",
+            "text": "Bright Red Bag",
+            "width": 164.0,
+            "x": 435.0,
+            "y": 309.0
+        },
+        "location": {
+            "x": 435.0,
+            "y": 309.0
+        },
+        "size": {
+            "height": 22.0,
+            "width": 164.0
+        },
+        "tag_name": "a",
+        "text": "Bright Red Bag"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "b7e0b9e21b84b89ef40653b6a5e76acb",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Bright Red Bag",
+    "transformed": true,
+    "width": 164,
+    "x": 435,
+    "y": 309
+}

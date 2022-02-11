@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "tX7oLEhBbwB0MVxUCCvqhA==\n",
+    "height": 95,
+    "hier_level": 0,
+    "human_hash": "div_X415_Y825_W1090_H95",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "elementor-image-carousel-wrapper swiper-container swiper-container-initialized swiper-container-horizontal",
+                "dir": "ltr"
+            },
+            "backend_node_id": 515,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 95.0,
+            "key": "415_825_1090_95_Previous  Next",
+            "tagName": "div",
+            "text": "Previous  Next",
+            "width": 1090.0,
+            "x": 415.0,
+            "y": 825.0
+        },
+        "location": {
+            "x": 415.0,
+            "y": 825.0
+        },
+        "size": {
+            "height": 95.0,
+            "width": 1090.0
+        },
+        "tag_name": "div",
+        "text": "Previous  Next"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Previous  Next",
+    "transformed": true,
+    "width": 1090,
+    "x": 415,
+    "y": 825
+}

@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "h2",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "j51LiDgQXpBOTJ42ocoiEw==\n",
+    "height": 39,
+    "hier_level": 0,
+    "human_hash": "h2_X1150_Y820_W195_H39",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "woocommerce-loop-product__title"
+            },
+            "backend_node_id": 3813,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 39.0,
+            "key": "1150_820_195_39_Bright Gold Purse With Chain",
+            "tagName": "h2",
+            "text": "Bright Gold Purse With Chain",
+            "width": 195.0,
+            "x": 1150.0,
+            "y": 820.0
+        },
+        "location": {
+            "x": 1150.0,
+            "y": 820.0
+        },
+        "size": {
+            "height": 39.0,
+            "width": 195.0
+        },
+        "tag_name": "h2",
+        "text": "Bright Gold Purse With Chain"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "h2",
+    "text": "Bright Gold Purse With Chain",
+    "transformed": true,
+    "width": 195,
+    "x": 1150,
+    "y": 820
+}

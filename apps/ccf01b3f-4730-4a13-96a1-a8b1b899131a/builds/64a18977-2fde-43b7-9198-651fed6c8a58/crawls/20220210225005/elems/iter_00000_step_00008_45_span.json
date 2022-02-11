@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "Osa3eKqotB0LzJ6i8Pl0YA==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "span_X1150_Y314_W195_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ast-woo-product-category"
+            },
+            "backend_node_id": 3929,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "1150_314_195_17_Women",
+            "tagName": "span",
+            "text": "Women",
+            "width": 195.0,
+            "x": 1150.0,
+            "y": 314.0
+        },
+        "location": {
+            "x": 1150.0,
+            "y": 314.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 195.0
+        },
+        "tag_name": "span",
+        "text": "Women"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "Women",
+    "transformed": true,
+    "width": 195,
+    "x": 1150,
+    "y": 314
+}

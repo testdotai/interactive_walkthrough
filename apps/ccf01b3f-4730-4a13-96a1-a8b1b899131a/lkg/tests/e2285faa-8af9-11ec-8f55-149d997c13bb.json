@@ -1,0 +1,68 @@
+{
+    "01: Basic Test Case": {
+        "description": "Basic TC - navigation, text entry, and labeling",
+        "is_deactivated": false,
+        "steps": [
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "btn_store"
+                ],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "action",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "bag",
+                "grep_count": null,
+                "input": "text_entry",
+                "label_count": null,
+                "labels": [
+                    "inp_search"
+                ],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "action",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "img_red_bag"
+                ],
+                "scrollIntoView": false,
+                "stepIsOpen": false,
+                "type": "action",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "text_entry",
+                "label_count": null,
+                "labels": [],
+                "timeout": null,
+                "type": "action",
+                "widget": ""
+            }
+        ],
+        "tags": [],
+        "temp_id": "e2285faa-8af9-11ec-8f55-149d997c13bb",
+        "title": "01: Basic Test Case"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "Mk6MmXvUzRm2nPuLeJ0SYg==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "span_X935_Y847_W195_H17",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ast-woo-product-category"
+            },
+            "backend_node_id": 3789,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "935_847_195_17_Accessories",
+            "tagName": "span",
+            "text": "Accessories",
+            "width": 195.0,
+            "x": 935.0,
+            "y": 847.0
+        },
+        "location": {
+            "x": 935.0,
+            "y": 847.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 195.0
+        },
+        "tag_name": "span",
+        "text": "Accessories"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "Accessories",
+    "transformed": true,
+    "width": 195,
+    "x": 935,
+    "y": 847
+}

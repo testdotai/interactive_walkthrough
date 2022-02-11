@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "h2",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "K+JUlEd+cJAXmCPKXl/qBg==\n",
+    "height": 20,
+    "hier_level": 0,
+    "human_hash": "h2_X720_Y483_W195_H20",
+    "human_readable": "h2_720_483_195_20_h2_ffffffffffff56ff56ff007f007f007f007f007f007f007fffffffffffffffff_0d3c46f857b38ae714978815784badae",
+    "image_path": "NjdjZDY2NmU3NzM4YTI3YzY2ZDQ5ZGY0NWQ4YTY3NDE.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "woocommerce-loop-product__title"
+            },
+            "backend_node_id": 2212,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 20.0,
+            "key": "720_483_195_20_Anchor Bracelet",
+            "tagName": "h2",
+            "text": "Anchor Bracelet",
+            "width": 195.0,
+            "x": 720.0,
+            "y": 483.0
+        },
+        "location": {
+            "x": 720.0,
+            "y": 483.0
+        },
+        "size": {
+            "height": 20.0,
+            "width": 195.0
+        },
+        "tag_name": "h2",
+        "text": "Anchor Bracelet"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "b7e0b9e21b84b89ef40653b6a5e76acb",
+    "scrollable": false,
+    "tag_name": "h2",
+    "text": "Anchor Bracelet",
+    "transformed": true,
+    "width": 195,
+    "x": 720,
+    "y": 483
+}

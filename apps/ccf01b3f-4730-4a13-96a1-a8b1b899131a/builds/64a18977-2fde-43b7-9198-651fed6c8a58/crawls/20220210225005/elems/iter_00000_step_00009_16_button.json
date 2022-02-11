@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "button",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "zV/D/4F42UclsJat6xNNNw==\n",
+    "height": 28,
+    "hier_level": 0,
+    "human_hash": "button_X360_Y228_W65_H28",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "button",
+                "type": "submit"
+            },
+            "backend_node_id": 3563,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 28.0,
+            "key": "360_228_65_28_Filter",
+            "tagName": "button",
+            "text": "Filter",
+            "width": 65.0,
+            "x": 360.0,
+            "y": 228.0
+        },
+        "location": {
+            "x": 360.0,
+            "y": 228.0
+        },
+        "size": {
+            "height": 28.0,
+            "width": 65.0
+        },
+        "tag_name": "button",
+        "text": "Filter"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "button",
+    "text": "Filter",
+    "transformed": true,
+    "width": 65,
+    "x": 360,
+    "y": 228
+}

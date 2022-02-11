@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "li",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "U11/qBoM8bNnlpYjHqbYTw==\n",
+    "height": 300,
+    "hier_level": 0,
+    "human_hash": "li_X935_Y276_W195_H300",
+    "human_readable": "li_935_276_195_300_li_ffffff7ffebffddff00fe007e007e007f00ff9ffffff00ffffffffff0fffffff_f94605cafcc3968b42fe9a832b2e6752",
+    "image_path": "ZTA2NWRjYjllNzQ3Y2FkODBiYjNmNTE5YTk0YWE5ZTU.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ast-col-sm-12 ast-article-post astra-woo-hover-swap product type-product post-2696 status-publish instock product_cat-accessories product_cat-women has-post-thumbnail shipping-taxable purchasable product-type-simple"
+            },
+            "backend_node_id": 3670,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 300.0,
+            "key": "935_276_195_300_Bright Red Bag \n\t\t\t\tAccessories\t\t\t $ 300.00 Rated  0  out of 5",
+            "tagName": "li",
+            "text": "Bright Red Bag \n\t\t\t\tAccessories\t\t\t $ 300.00 Rated  0  out of 5",
+            "width": 195.0,
+            "x": 935.0,
+            "y": 276.0
+        },
+        "location": {
+            "x": 935.0,
+            "y": 276.0
+        },
+        "size": {
+            "height": 300.0,
+            "width": 195.0
+        },
+        "tag_name": "li",
+        "text": "Bright Red Bag \n\t\t\t\tAccessories\t\t\t $ 300.00 Rated  0  out of 5"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "0fa295c9652c2468ead03ded1de10fb0",
+    "scrollable": false,
+    "tag_name": "li",
+    "text": "Bright Red Bag \n\t\t\t\tAccessories\t\t\t $ 300.00 Rated  0  out of 5",
+    "transformed": true,
+    "width": 195,
+    "x": 935,
+    "y": 276
+}

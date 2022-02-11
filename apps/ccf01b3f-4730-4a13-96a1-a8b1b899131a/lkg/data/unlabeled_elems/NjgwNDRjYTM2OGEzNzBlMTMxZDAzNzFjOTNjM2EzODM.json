@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "h2",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "u1u1tD6lmNf1Jx/WenKIIw==\n",
+    "height": 20,
+    "hier_level": 0,
+    "human_hash": "h2_X1150_Y483_W195_H20",
+    "human_readable": "h2_1150_483_195_20_h2_ffffffffffff4dff4dff01ff00ff00ff00ff01ff01ff00ffffffffffffffffff_9cec3f5233ef951cb75cad15ac4deff7",
+    "image_path": "NjgwNDRjYTM2OGEzNzBlMTMxZDAzNzFjOTNjM2EzODM.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "woocommerce-loop-product__title"
+            },
+            "backend_node_id": 2268,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 20.0,
+            "key": "1150_483_195_20_Black Hoodie",
+            "tagName": "h2",
+            "text": "Black Hoodie",
+            "width": 195.0,
+            "x": 1150.0,
+            "y": 483.0
+        },
+        "location": {
+            "x": 1150.0,
+            "y": 483.0
+        },
+        "size": {
+            "height": 20.0,
+            "width": 195.0
+        },
+        "tag_name": "h2",
+        "text": "Black Hoodie"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "b7e0b9e21b84b89ef40653b6a5e76acb",
+    "scrollable": false,
+    "tag_name": "h2",
+    "text": "Black Hoodie",
+    "transformed": true,
+    "width": 195,
+    "x": 1150,
+    "y": 483
+}

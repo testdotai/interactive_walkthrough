@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "7SRWKBNOoBpzvg/izWWtCw==\n",
+    "height": 87,
+    "hier_level": 0,
+    "human_hash": "div_X1364_Y483_W195_H87",
+    "human_readable": "div_1364_483_195_87_div_6eff000f000ffbffffffffff03ff07ffffff0fff07ff0fffffffffff03ff03ff_2e4d0a9c094ab0efa6a82d9f51959965",
+    "image_path": "ZGVlNDk2Mzc4YTNhYjVkZTA3NjVkMzFjZGEyY2RmYmY.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "astra-shop-summary-wrap"
+            },
+            "backend_node_id": 3729,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 87.0,
+            "key": "1364_483_195_87_Boho Bangle Bracelet \n\t\t\t\tAccessories\t\t\t $ 200.00 Rated  0  out of 5",
+            "tagName": "div",
+            "text": "Boho Bangle Bracelet \n\t\t\t\tAccessories\t\t\t $ 200.00 Rated  0  out of 5",
+            "width": 195.0,
+            "x": 1364.0,
+            "y": 483.0
+        },
+        "location": {
+            "x": 1364.0,
+            "y": 483.0
+        },
+        "size": {
+            "height": 87.0,
+            "width": 195.0
+        },
+        "tag_name": "div",
+        "text": "Boho Bangle Bracelet \n\t\t\t\tAccessories\t\t\t $ 200.00 Rated  0  out of 5"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "0fa295c9652c2468ead03ded1de10fb0",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Boho Bangle Bracelet \n\t\t\t\tAccessories\t\t\t $ 200.00 Rated  0  out of 5",
+    "transformed": true,
+    "width": 195,
+    "x": 1364,
+    "y": 483
+}

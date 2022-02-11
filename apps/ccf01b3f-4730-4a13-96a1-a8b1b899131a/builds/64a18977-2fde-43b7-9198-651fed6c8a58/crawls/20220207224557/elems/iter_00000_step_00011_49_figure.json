@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "figure",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "RFe0Y6DsB9gwBXklFW7mYQ==\n",
+    "height": 70,
+    "hier_level": 0,
+    "human_hash": "figure_X415_Y825_W202_H70",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "swiper-slide-inner"
+            },
+            "backend_node_id": 2922,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 70.0,
+            "key": "415_825_202_70_",
+            "tagName": "figure",
+            "text": "",
+            "width": 202.0,
+            "x": 415.0,
+            "y": 825.0
+        },
+        "location": {
+            "x": 415.0,
+            "y": 825.0
+        },
+        "size": {
+            "height": 70.0,
+            "width": 202.0
+        },
+        "tag_name": "figure",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "figure",
+    "text": "",
+    "transformed": true,
+    "width": 202,
+    "x": 415,
+    "y": 825
+}

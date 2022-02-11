@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "P8CObNoewno4cof0bQGvFw==\n",
+    "height": 22,
+    "hier_level": 0,
+    "human_hash": "a_X435_Y587_W164_H22",
+    "human_readable": "a_435_587_164_22_a_ffffffffffffffff04ff04ff003f003f003f003f003f003f503fffffffffffff_37317c82ec4d23c96a1715448bc74e93",
+    "image_path": "MmI4MDcxZmJlYTdlZmRhOTM3OTU3MjM5ZjQ5Nzg2ODg.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "https://testaistore.com/product/dnk-red-shoes/"
+            },
+            "backend_node_id": 2023,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 22.0,
+            "key": "435_587_164_22_DNK Red Shoes",
+            "tagName": "a",
+            "text": "DNK Red Shoes",
+            "width": 164.0,
+            "x": 435.0,
+            "y": 587.0
+        },
+        "location": {
+            "x": 435.0,
+            "y": 587.0
+        },
+        "size": {
+            "height": 22.0,
+            "width": 164.0
+        },
+        "tag_name": "a",
+        "text": "DNK Red Shoes"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "b7e0b9e21b84b89ef40653b6a5e76acb",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "DNK Red Shoes",
+    "transformed": true,
+    "width": 164,
+    "x": 435,
+    "y": 587
+}

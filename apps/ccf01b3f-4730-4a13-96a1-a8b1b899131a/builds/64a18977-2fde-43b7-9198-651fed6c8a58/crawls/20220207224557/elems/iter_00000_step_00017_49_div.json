@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "fY3NTClsWklzr+Vg4zcXEA==\n",
+    "height": 40,
+    "hier_level": 0,
+    "human_hash": "div_X1008_Y489_W552_H40",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product_meta"
+            },
+            "backend_node_id": 5528,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 40.0,
+            "key": "1008_489_552_40_Categories:  Accessories ,  Women",
+            "tagName": "div",
+            "text": "Categories:  Accessories ,  Women",
+            "width": 552.0,
+            "x": 1008.0,
+            "y": 489.0
+        },
+        "location": {
+            "x": 1008.0,
+            "y": 489.0
+        },
+        "size": {
+            "height": 40.0,
+            "width": 552.0
+        },
+        "tag_name": "div",
+        "text": "Categories:  Accessories ,  Women"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Categories:  Accessories ,  Women",
+    "transformed": true,
+    "width": 552,
+    "x": 1008,
+    "y": 489
+}

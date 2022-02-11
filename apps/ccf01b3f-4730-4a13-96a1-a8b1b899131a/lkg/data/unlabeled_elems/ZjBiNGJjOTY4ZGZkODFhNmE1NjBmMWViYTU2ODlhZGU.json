@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "MHiHOwjfOoiXMREDtP1Muw==\n",
+    "height": 16,
+    "hier_level": 0,
+    "human_hash": "span_X410_Y844_W88_H16",
+    "human_readable": "span_410_844_88_16_span_ffffffffffff7f7f3f7f3f7f0000000000080008201900080008ffffffffffff_921d00a459003b97924d387cc4a7acd6",
+    "image_path": "ZjBiNGJjOTY4ZGZkODFhNmE1NjBmMWViYTU2ODlhZGU.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 2043,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 16.0,
+            "key": "410_844_88_16_Remember me",
+            "tagName": "span",
+            "text": "Remember me",
+            "width": 88.0,
+            "x": 410.0,
+            "y": 844.0
+        },
+        "location": {
+            "x": 410.0,
+            "y": 844.0
+        },
+        "size": {
+            "height": 16.0,
+            "width": 88.0
+        },
+        "tag_name": "span",
+        "text": "Remember me"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "2b6db1d4ba7f23850646f8be7d6a961e",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "Remember me",
+    "transformed": true,
+    "width": 88,
+    "x": 410,
+    "y": 844
+}

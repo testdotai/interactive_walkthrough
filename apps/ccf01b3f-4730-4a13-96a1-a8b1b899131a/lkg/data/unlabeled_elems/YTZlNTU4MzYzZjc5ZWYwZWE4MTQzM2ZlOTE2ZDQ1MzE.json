@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "Lg3l3awabkqeow6tLL88gg==\n",
+    "height": 18,
+    "hier_level": 0,
+    "human_hash": "span_X435_Y311_W98_H18",
+    "human_readable": "span_435_311_98_18_span_ffffffffffff7ef73e733e77010800000214021002500a40200067b4effeeffe_90eb6c4ba74b6192d2d30fb4e51d8a28",
+    "image_path": "YTZlNTU4MzYzZjc5ZWYwZWE4MTQzM2ZlOTE2ZDQ1MzE.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product-title"
+            },
+            "backend_node_id": 1943,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 18.0,
+            "key": "435_311_98_18_Bright Red Bag",
+            "tagName": "span",
+            "text": "Bright Red Bag",
+            "width": 98.0,
+            "x": 435.0,
+            "y": 311.0
+        },
+        "location": {
+            "x": 435.0,
+            "y": 311.0
+        },
+        "size": {
+            "height": 18.0,
+            "width": 98.0
+        },
+        "tag_name": "span",
+        "text": "Bright Red Bag"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "b7e0b9e21b84b89ef40653b6a5e76acb",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "Bright Red Bag",
+    "transformed": true,
+    "width": 98,
+    "x": 435,
+    "y": 311
+}

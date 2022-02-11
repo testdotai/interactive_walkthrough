@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "F6BFDVumAIkGmjG5WcD3Bg==\n",
+    "height": 195,
+    "hier_level": 0,
+    "human_hash": "div_X935_Y633_W195_H195",
+    "human_readable": "div_935_633_195_195_div_fc78fc70f878f87dfc7ffc3ffc1ffc9ffc9ffd3ffd3ffc7ffc7ffc7ff87ff83f_dcc792790ee55185f799e89a3ad22128",
+    "image_path": "NDE3YzNmM2U2NTNlNTJjOWYyNTNiOTFjYzkwM2Y1NmE.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "astra-shop-thumbnail-wrap"
+            },
+            "backend_node_id": 2347,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 195.0,
+            "key": "935_633_195_195_Sale!",
+            "tagName": "div",
+            "text": "Sale!",
+            "width": 195.0,
+            "x": 935.0,
+            "y": 633.0
+        },
+        "location": {
+            "x": 935.0,
+            "y": 633.0
+        },
+        "size": {
+            "height": 195.0,
+            "width": 195.0
+        },
+        "tag_name": "div",
+        "text": "Sale!"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "b7e0b9e21b84b89ef40653b6a5e76acb",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Sale!",
+    "transformed": true,
+    "width": 195,
+    "x": 935,
+    "y": 633
+}

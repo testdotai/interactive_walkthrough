@@ -1,0 +1,63 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "input",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "8lOawc1lQ04nRXvtLQYH6Q==\n",
+    "height": 13,
+    "hier_level": 0,
+    "human_hash": "input_X394_Y844_W13_H13",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "woocommerce-form__input woocommerce-form__input-checkbox",
+                "id": "rememberme",
+                "name": "rememberme",
+                "type": "checkbox",
+                "value": "forever"
+            },
+            "backend_node_id": 2041,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 13.0,
+            "key": "394_844_13_13_",
+            "tagName": "input",
+            "text": "",
+            "width": 13.0,
+            "x": 394.0,
+            "y": 844.0
+        },
+        "location": {
+            "x": 394.0,
+            "y": 844.0
+        },
+        "size": {
+            "height": 13.0,
+            "width": 13.0
+        },
+        "tag_name": "input",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "input",
+    "text": "forever",
+    "transformed": true,
+    "width": 13,
+    "x": 394,
+    "y": 844
+}

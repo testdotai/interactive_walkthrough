@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "li",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "Pz5Ig2ycLEr7HJJZ4ij2Dg==\n",
+    "height": 300,
+    "hier_level": 0,
+    "human_hash": "li_X1364_Y80_W195_H300",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ast-col-sm-12 ast-article-post astra-woo-hover-swap product type-product post-2717 status-publish last instock product_cat-women has-post-thumbnail featured shipping-taxable purchasable product-type-simple"
+            },
+            "backend_node_id": 3948,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 300.0,
+            "key": "1364_80_195_300_Blue Denim Jeans \n\t\t\t\tWomen\t\t\t $ 150.00 Rated  0  out of 5",
+            "tagName": "li",
+            "text": "Blue Denim Jeans \n\t\t\t\tWomen\t\t\t $ 150.00 Rated  0  out of 5",
+            "width": 195.0,
+            "x": 1364.0,
+            "y": 80.0
+        },
+        "location": {
+            "x": 1364.0,
+            "y": 80.0
+        },
+        "size": {
+            "height": 300.0,
+            "width": 195.0
+        },
+        "tag_name": "li",
+        "text": "Blue Denim Jeans \n\t\t\t\tWomen\t\t\t $ 150.00 Rated  0  out of 5"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "li",
+    "text": "Blue Denim Jeans \n\t\t\t\tWomen\t\t\t $ 150.00 Rated  0  out of 5",
+    "transformed": true,
+    "width": 195,
+    "x": 1364,
+    "y": 80
+}

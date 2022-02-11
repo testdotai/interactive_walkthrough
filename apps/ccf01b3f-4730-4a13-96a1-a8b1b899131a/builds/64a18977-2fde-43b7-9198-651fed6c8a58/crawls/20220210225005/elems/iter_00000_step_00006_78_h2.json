@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "h2",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "LOytaIXS+pRCjGZ4eNpyxw==\n",
+    "height": 37,
+    "hier_level": 0,
+    "human_hash": "h2_X360_Y801_W239_H37",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "widget-title"
+            },
+            "backend_node_id": 3511,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 37.0,
+            "key": "360_801_239_37_Browse by Categories",
+            "tagName": "h2",
+            "text": "Browse by Categories",
+            "width": 239.0,
+            "x": 360.0,
+            "y": 801.0
+        },
+        "location": {
+            "x": 360.0,
+            "y": 801.0
+        },
+        "size": {
+            "height": 37.0,
+            "width": 239.0
+        },
+        "tag_name": "h2",
+        "text": "Browse by Categories"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "h2",
+    "text": "Browse by Categories",
+    "transformed": true,
+    "width": 239,
+    "x": 360,
+    "y": 801
+}

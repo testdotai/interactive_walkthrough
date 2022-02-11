@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "li",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "w3dtU8yB+Up9Dw3dvV1N8w==\n",
+    "height": 89,
+    "hier_level": 0,
+    "human_hash": "li_X360_Y486_W239_H89",
+    "human_readable": "li_360_486_239_89_li_fffffffffabf080f780fcfff8fff083f083f0fff4fff787f087ff8ffffffffff_655fe27c45f69ae6739aac29c8b15e81",
+    "image_path": "OTJkYWFmZDBjN2FmMTc4NWY0YmQ1MGViMWEzNzU0MzI.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 3427,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 89.0,
+            "key": "360_486_239_89_DNK Red Shoes Rated  0  out of 5 $ 150.00",
+            "tagName": "li",
+            "text": "DNK Red Shoes Rated  0  out of 5 $ 150.00",
+            "width": 239.0,
+            "x": 360.0,
+            "y": 486.0
+        },
+        "location": {
+            "x": 360.0,
+            "y": 486.0
+        },
+        "size": {
+            "height": 89.0,
+            "width": 239.0
+        },
+        "tag_name": "li",
+        "text": "DNK Red Shoes Rated  0  out of 5 $ 150.00"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "0fa295c9652c2468ead03ded1de10fb0",
+    "scrollable": false,
+    "tag_name": "li",
+    "text": "DNK Red Shoes Rated  0  out of 5 $ 150.00",
+    "transformed": true,
+    "width": 239,
+    "x": 360,
+    "y": 486
+}

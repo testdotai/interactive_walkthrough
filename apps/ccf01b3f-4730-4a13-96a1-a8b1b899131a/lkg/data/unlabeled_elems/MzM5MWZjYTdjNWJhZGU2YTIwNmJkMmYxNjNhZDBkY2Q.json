@@ -1,0 +1,63 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "li",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "8Wylxru7hJnJ/b0WVnfyvw==\n",
+    "height": 28,
+    "hier_level": 0,
+    "human_hash": "li_X360_Y703_W262_H28",
+    "human_readable": "li_360_703_262_28_li_ffffffffffffffff7fff77ff07ff07ff07ff07ff07ff3fffffffffffffffffff_d6625b204897386bbbfcf6e64f092be3",
+    "image_path": "MzM5MWZjYTdjNWJhZGU2YTIwNmJkMmYxNjNhZDBkY2Q.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-388",
+                "id": "menu-item-388"
+            },
+            "backend_node_id": 4073,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 28.0,
+            "key": "360_703_262_28_My account",
+            "tagName": "li",
+            "text": "My account",
+            "width": 262.0,
+            "x": 360.0,
+            "y": 703.0
+        },
+        "location": {
+            "x": 360.0,
+            "y": 703.0
+        },
+        "size": {
+            "height": 28.0,
+            "width": 262.0
+        },
+        "tag_name": "li",
+        "text": "My account"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "98664e211eb0215005e02f345b52dd29",
+    "scrollable": false,
+    "tag_name": "li",
+    "text": "My account",
+    "transformed": true,
+    "width": 262,
+    "x": 360,
+    "y": 703
+}

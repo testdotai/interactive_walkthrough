@@ -1,0 +1,68 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "/kzZ1J1CZQqS5Sjf2puz9g==\n",
+    "height": 44,
+    "hier_level": 0,
+    "human_hash": "img_X1298_Y766_W73_H44",
+    "human_readable": "img_1298_766_73_44_img_000000000000739b7fff7df68000103817bfbfbfbfdf2fbf0d91000000000000_9d4568c009d203ab10e33ea9953a0264",
+    "image_path": "OTJjM2Q2NjI0NzM5YTUyYjk2Y2IwOWZkMmU1NzY3ZTM.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "",
+                "class": "image wp-image-2732  attachment-145x44 size-145x44",
+                "height": "44",
+                "loading": "lazy",
+                "src": "https://testaistore.com/wp-content/uploads/2021/04/appstore-free-img-300x90-1-150x90.png",
+                "style": "max-width: 100%; height: auto;",
+                "width": "73"
+            },
+            "backend_node_id": 4164,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 44.0,
+            "key": "1298_766_73_44_",
+            "tagName": "img",
+            "text": "",
+            "width": 73.0,
+            "x": 1298.0,
+            "y": 766.0
+        },
+        "location": {
+            "x": 1298.0,
+            "y": 766.0
+        },
+        "size": {
+            "height": 44.0,
+            "width": 73.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "98664e211eb0215005e02f345b52dd29",
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "transformed": true,
+    "width": 73,
+    "x": 1298,
+    "y": 766
+}

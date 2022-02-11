@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "he4P+V1mr/BaKl3iYekibg==\n",
+    "height": 16,
+    "hier_level": 0,
+    "human_hash": "span_X935_Y890_W8_H16",
+    "human_readable": "span_935_890_8_16_span_fffffffffe3ff00fc003843f803fc03f0000fc43fcc30003c00ff8fffdffffff_a705f61ec6c5bb7c687b66c953d1af74",
+    "image_path": "ODk1YjM0YzFmODdjYmEyZDRkYWZhOTE0ZDRjNWYwZGE.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "woocommerce-Price-currencySymbol"
+            },
+            "backend_node_id": 2364,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 16.0,
+            "key": "935_890_8_16_$",
+            "tagName": "span",
+            "text": "$",
+            "width": 8.0,
+            "x": 935.0,
+            "y": 890.0
+        },
+        "location": {
+            "x": 935.0,
+            "y": 890.0
+        },
+        "size": {
+            "height": 16.0,
+            "width": 8.0
+        },
+        "tag_name": "span",
+        "text": "$"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "b7e0b9e21b84b89ef40653b6a5e76acb",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "$",
+    "transformed": true,
+    "width": 8,
+    "x": 935,
+    "y": 890
+}

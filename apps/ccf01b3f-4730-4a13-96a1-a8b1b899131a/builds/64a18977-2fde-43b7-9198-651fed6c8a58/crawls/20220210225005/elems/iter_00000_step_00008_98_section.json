@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "section",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "EJcwEtZl3Cko5iTW08umXA==\n",
+    "height": 193,
+    "hier_level": 0,
+    "human_hash": "section_X985_Y594_W262_H193",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "widget widget_nav_menu",
+                "id": "nav_menu-6"
+            },
+            "backend_node_id": 4126,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 193.0,
+            "key": "985_594_262_193_For Him Men Jeans Men Shirts Men Shoes Men Accessories Men Jackets",
+            "tagName": "section",
+            "text": "For Him Men Jeans Men Shirts Men Shoes Men Accessories Men Jackets",
+            "width": 262.0,
+            "x": 985.0,
+            "y": 594.0
+        },
+        "location": {
+            "x": 985.0,
+            "y": 594.0
+        },
+        "size": {
+            "height": 193.0,
+            "width": 262.0
+        },
+        "tag_name": "section",
+        "text": "For Him Men Jeans Men Shirts Men Shoes Men Accessories Men Jackets"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "section",
+    "text": "For Him Men Jeans Men Shirts Men Shoes Men Accessories Men Jackets",
+    "transformed": true,
+    "width": 262,
+    "x": 985,
+    "y": 594
+}

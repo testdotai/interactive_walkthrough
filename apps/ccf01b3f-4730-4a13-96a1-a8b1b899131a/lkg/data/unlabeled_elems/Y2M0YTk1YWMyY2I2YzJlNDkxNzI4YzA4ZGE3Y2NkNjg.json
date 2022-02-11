@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "ODcHhjNzgEO4QqcjderPRA==\n",
+    "height": 16,
+    "hier_level": 0,
+    "human_hash": "span_X455_Y762_W5_H16",
+    "human_readable": "span_455_762_5_16_span_ffffffffff3ff000c000c000e000fe0fffffffffffffffffffffffffffffffff_a27e1c118a21e773f70e6e99310e6ab6",
+    "image_path": "Y2M0YTk1YWMyY2I2YzJlNDkxNzI4YzA4ZGE3Y2NkNjg.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "required"
+            },
+            "backend_node_id": 2029,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 16.0,
+            "key": "455_762_5_16_*",
+            "tagName": "span",
+            "text": "*",
+            "width": 5.0,
+            "x": 455.0,
+            "y": 762.0
+        },
+        "location": {
+            "x": 455.0,
+            "y": 762.0
+        },
+        "size": {
+            "height": 16.0,
+            "width": 5.0
+        },
+        "tag_name": "span",
+        "text": "*"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "2b6db1d4ba7f23850646f8be7d6a961e",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "*",
+    "transformed": true,
+    "width": 5,
+    "x": 455,
+    "y": 762
+}

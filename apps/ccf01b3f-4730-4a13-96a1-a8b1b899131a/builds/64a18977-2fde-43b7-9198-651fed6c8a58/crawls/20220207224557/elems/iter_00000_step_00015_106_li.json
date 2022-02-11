@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "li",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "mr+HZaqm1eFqHA7vw+yXmA==\n",
+    "height": 320,
+    "hier_level": 0,
+    "human_hash": "li_X1150_Y342_W195_H320",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ast-col-sm-12 ast-article-post astra-woo-hover-swap product type-product post-2708 status-publish instock product_cat-accessories product_cat-women has-post-thumbnail featured shipping-taxable purchasable product-type-simple"
+            },
+            "backend_node_id": 4636,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 320.0,
+            "key": "1150_342_195_320_Boho Bangle Bracelet \n\t\t\t\tAccessories\t\t\t $ 200.00 Rated  0  out of 5",
+            "tagName": "li",
+            "text": "Boho Bangle Bracelet \n\t\t\t\tAccessories\t\t\t $ 200.00 Rated  0  out of 5",
+            "width": 195.0,
+            "x": 1150.0,
+            "y": 342.0
+        },
+        "location": {
+            "x": 1150.0,
+            "y": 342.0
+        },
+        "size": {
+            "height": 320.0,
+            "width": 195.0
+        },
+        "tag_name": "li",
+        "text": "Boho Bangle Bracelet \n\t\t\t\tAccessories\t\t\t $ 200.00 Rated  0  out of 5"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "li",
+    "text": "Boho Bangle Bracelet \n\t\t\t\tAccessories\t\t\t $ 200.00 Rated  0  out of 5",
+    "transformed": true,
+    "width": 195,
+    "x": 1150,
+    "y": 342
+}

@@ -1,0 +1,57 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "li",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "aMhphmKhQ3V0ElSvgcd98w==\n",
+    "height": 40,
+    "hier_level": 0,
+    "human_hash": "li_X766_Y434_W40_H40",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 3987,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 40.0,
+            "key": "766_434_40_40_2",
+            "tagName": "li",
+            "text": "2",
+            "width": 40.0,
+            "x": 766.0,
+            "y": 434.0
+        },
+        "location": {
+            "x": 766.0,
+            "y": 434.0
+        },
+        "size": {
+            "height": 40.0,
+            "width": 40.0
+        },
+        "tag_name": "li",
+        "text": "2"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "li",
+    "text": "2",
+    "transformed": true,
+    "width": 40,
+    "x": 766,
+    "y": 434
+}

@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "p",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "Kq7lom62RjW6dn/c37tvvw==\n",
+    "height": 42,
+    "hier_level": 0,
+    "human_hash": "p_X1008_Y252_W552_H42",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "price"
+            },
+            "backend_node_id": 5499,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 42.0,
+            "key": "1008_252_552_42_$ 300.00",
+            "tagName": "p",
+            "text": "$ 300.00",
+            "width": 552.0,
+            "x": 1008.0,
+            "y": 252.0
+        },
+        "location": {
+            "x": 1008.0,
+            "y": 252.0
+        },
+        "size": {
+            "height": 42.0,
+            "width": 552.0
+        },
+        "tag_name": "p",
+        "text": "$ 300.00"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "p",
+    "text": "$ 300.00",
+    "transformed": true,
+    "width": 552,
+    "x": 1008,
+    "y": 252
+}

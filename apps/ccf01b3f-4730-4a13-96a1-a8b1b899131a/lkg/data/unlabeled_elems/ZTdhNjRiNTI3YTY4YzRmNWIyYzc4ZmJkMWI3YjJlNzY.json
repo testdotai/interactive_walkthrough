@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "BEL/EgQu1e28TNet5mt1Nw==\n",
+    "height": 22,
+    "hier_level": 0,
+    "human_hash": "a_X435_Y402_W164_H22",
+    "human_readable": "a_435_402_164_22_a_ffffffffffffffff4bff4bff001f001f001f001f003f001f001fffffffffffff_08060d52c88a6d002a2f0ef460f5297e",
+    "image_path": "ZTdhNjRiNTI3YTY4YzRmNWIyYzc4ZmJkMWI3YjJlNzY.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "https://testaistore.com/product/buddha-bracelet/"
+            },
+            "backend_node_id": 1967,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 22.0,
+            "key": "435_402_164_22_Buddha Bracelet",
+            "tagName": "a",
+            "text": "Buddha Bracelet",
+            "width": 164.0,
+            "x": 435.0,
+            "y": 402.0
+        },
+        "location": {
+            "x": 435.0,
+            "y": 402.0
+        },
+        "size": {
+            "height": 22.0,
+            "width": 164.0
+        },
+        "tag_name": "a",
+        "text": "Buddha Bracelet"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "b7e0b9e21b84b89ef40653b6a5e76acb",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Buddha Bracelet",
+    "transformed": true,
+    "width": 164,
+    "x": 435,
+    "y": 402
+}

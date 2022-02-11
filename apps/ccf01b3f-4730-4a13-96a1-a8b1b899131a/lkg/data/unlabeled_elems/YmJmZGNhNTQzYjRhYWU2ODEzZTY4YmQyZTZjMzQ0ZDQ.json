@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "t/pdICko6Uc1g1Yo4hWuKw==\n",
+    "height": 18,
+    "hier_level": 0,
+    "human_hash": "span_X1150_Y337_W195_H18",
+    "human_readable": "span_1150_337_195_18_span_ffffffff0fff0fff07ff0fff07ff07ff0fff07ff07ff0fffffffffffffffffff_b1668376614ab738f4d8c1a39c7c01f9",
+    "image_path": "YmJmZGNhNTQzYjRhYWU2ODEzZTY4YmQyZTZjMzQ0ZDQ.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "price"
+            },
+            "backend_node_id": 3932,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 18.0,
+            "key": "1150_337_195_18_$ 150.00",
+            "tagName": "span",
+            "text": "$ 150.00",
+            "width": 195.0,
+            "x": 1150.0,
+            "y": 337.0
+        },
+        "location": {
+            "x": 1150.0,
+            "y": 337.0
+        },
+        "size": {
+            "height": 18.0,
+            "width": 195.0
+        },
+        "tag_name": "span",
+        "text": "$ 150.00"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "98664e211eb0215005e02f345b52dd29",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "$ 150.00",
+    "transformed": true,
+    "width": 195,
+    "x": 1150,
+    "y": 337
+}

@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "ABDoISjZw0HQ3H3OLx6wTA==\n",
+    "height": 448,
+    "hier_level": 0,
+    "human_hash": "div_X370_Y99_W1180_H448",
+    "human_readable": "div_370_99_1180_448_div_eff90438803880388039c439e7fcc638e63d843dc63d843dc63fc73fc03ffcff_ea94a0bfdcc38d78910c643e1441521d",
+    "image_path": "YmQwNmZkNGRmZWYzNTc1ZDdjY2Q2NDZlNWI4MTg2OTk.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "elementor-container elementor-column-gap-default"
+            },
+            "backend_node_id": 2385,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 448.0,
+            "key": "370_99_1180_448_20% Off On Tank Tops Lorem ipsum dolor sit amet consec tetur. Shop Now  Latest Eyewear For You Lorem ipsum dolor sit amet consec tetur. Shop Now  Let's Lorem Suit Up! Lorem ipsum dolor sit amet consec tetur. Check Out",
+            "tagName": "div",
+            "text": "20% Off On Tank Tops Lorem ipsum dolor sit amet consec tetur. Shop Now  Latest Eyewear For You Lorem ipsum dolor sit amet consec tetur. Shop Now  Let's Lorem Suit Up! Lorem ipsum dolor sit amet consec tetur. Check Out",
+            "width": 1180.0,
+            "x": 370.0,
+            "y": 99.0
+        },
+        "location": {
+            "x": 370.0,
+            "y": 99.0
+        },
+        "size": {
+            "height": 448.0,
+            "width": 1180.0
+        },
+        "tag_name": "div",
+        "text": "20% Off On Tank Tops Lorem ipsum dolor sit amet consec tetur. Shop Now  Latest Eyewear For You Lorem ipsum dolor sit amet consec tetur. Shop Now  Let's Lorem Suit Up! Lorem ipsum dolor sit amet consec tetur. Check Out"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "7104867aaf4a049fdb3a5674019d40fd",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "20% Off On Tank Tops Lorem ipsum dolor sit amet consec tetur. Shop Now  Latest Eyewear For You Lorem ipsum dolor sit amet consec tetur. Shop Now  Let's Lorem Suit Up! Lorem ipsum dolor sit amet consec tetur. Check Out",
+    "transformed": true,
+    "width": 1180,
+    "x": 370,
+    "y": 99
+}

@@ -1,0 +1,63 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "gYYcVEy84NDzALT0S52RaQ==\n",
+    "height": 18,
+    "hier_level": 0,
+    "human_hash": "a_X360_Y707_W77_H18",
+    "human_readable": "a_360_707_77_18_a_ffffffffffffffff5fff5ffe080000000d000900090008004800ea16efffffff_d6625b204897386bbbfcf6e64f092be3",
+    "image_path": "NzNjM2JiOTU0ZjAyNTVlOTEwNGNkNGRlZWNmZmQ2YzA.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "menu-link",
+                "href": "https://testaistore.com/my-account/"
+            },
+            "backend_node_id": 4074,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 18.0,
+            "key": "360_707_77_18_My account",
+            "tagName": "a",
+            "text": "My account",
+            "width": 77.0,
+            "x": 360.0,
+            "y": 707.0
+        },
+        "location": {
+            "x": 360.0,
+            "y": 707.0
+        },
+        "size": {
+            "height": 18.0,
+            "width": 77.0
+        },
+        "tag_name": "a",
+        "text": "My account"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "98664e211eb0215005e02f345b52dd29",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "My account",
+    "transformed": true,
+    "width": 77,
+    "x": 360,
+    "y": 707
+}

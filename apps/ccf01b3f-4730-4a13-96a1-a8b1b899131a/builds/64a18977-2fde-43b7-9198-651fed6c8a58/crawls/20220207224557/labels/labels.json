@@ -1,0 +1,35 @@
+{
+    "elems": {
+        "iter_00000_step_00002_43_input.png": [
+            "inp_username"
+        ],
+        "iter_00000_step_00002_47_input.png": [
+            "inp_password"
+        ],
+        "iter_00000_step_00008_24_a.png": [
+            "btn_check_out_hover"
+        ],
+        "iter_00000_step_00010_24_a.png": [
+            "btn_check_out"
+        ],
+        "iter_00000_step_00011_39_a.png": [
+            "btn_shop_now"
+        ],
+        "iter_00000_step_00013_18_a.png": [
+            "btn_accessories"
+        ],
+        "iter_00000_step_00013_20_a.png": [
+            "btn_account"
+        ],
+        "iter_00000_step_00013_36_h3.png": [
+            "txt_discount_message"
+        ],
+        "iter_00000_step_00015_123_img.png": [
+            "img_red_bag"
+        ],
+        "iter_00000_step_00017_7_a.png": [
+            "btn_home"
+        ]
+    },
+    "screens": {}
+}

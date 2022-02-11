@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "ul",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "3Cg69+jda3MVsG0pgCZvGw==\n",
+    "height": 44,
+    "hier_level": 0,
+    "human_hash": "ul_X721_Y434_W178_H44",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "page-numbers"
+            },
+            "backend_node_id": 3979,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 44.0,
+            "key": "721_434_178_44_1 2 3 \u2192",
+            "tagName": "ul",
+            "text": "1 2 3 \u2192",
+            "width": 178.0,
+            "x": 721.0,
+            "y": 434.0
+        },
+        "location": {
+            "x": 721.0,
+            "y": 434.0
+        },
+        "size": {
+            "height": 44.0,
+            "width": 178.0
+        },
+        "tag_name": "ul",
+        "text": "1 2 3 \u2192"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "ul",
+    "text": "1 2 3 \u2192",
+    "transformed": true,
+    "width": 178,
+    "x": 721,
+    "y": 434
+}

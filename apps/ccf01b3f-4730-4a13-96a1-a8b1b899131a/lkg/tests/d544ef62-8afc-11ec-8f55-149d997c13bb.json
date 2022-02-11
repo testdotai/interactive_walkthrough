@@ -1,0 +1,94 @@
+{
+    "04: Step Actions and Element Filters": {
+        "description": "TC to learn element filters and other test step actions ",
+        "is_deactivated": false,
+        "steps": [
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "hover",
+                "label_count": null,
+                "labels": [
+                    "btn_cart"
+                ],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "action",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "No products in the cart",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "verification",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "btn_store"
+                ],
+                "stepIsOpen": true,
+                "timeout": null,
+                "type": "action",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "Sort by popularity",
+                "grep_count": null,
+                "input": "select_dropdown_text",
+                "label_count": null,
+                "labels": [
+                    "ddl_sorting"
+                ],
+                "timeout": null,
+                "type": "action",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "swipe_up",
+                "label_count": null,
+                "labels": [],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "action",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "no_op",
+                "label_count": null,
+                "labels": [],
+                "stepIsOpen": true,
+                "timeout": null,
+                "type": "action",
+                "widget": ""
+            }
+        ],
+        "tags": [],
+        "temp_id": "d544ef62-8afc-11ec-8f55-149d997c13bb",
+        "title": "04: Step Actions and Element Filters"
+    }
+}

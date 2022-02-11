@@ -1,0 +1,85 @@
+{
+    "05: Dynamic Content": {
+        "description": "Use dynamic elements to validate the cart logo independent of # of items",
+        "is_deactivated": false,
+        "steps": [
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "btn_accessories"
+                ],
+                "stepIsOpen": false,
+                "type": "action",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "img_red_bag"
+                ],
+                "scrollIntoView": false,
+                "stepIsOpen": false,
+                "type": "action",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "hover",
+                "label_count": null,
+                "labels": [
+                    "btn_cart"
+                ],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "action",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "btn_add_to_cart"
+                ],
+                "stepIsOpen": true,
+                "timeout": null,
+                "type": "action",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "hover",
+                "label_count": null,
+                "labels": [
+                    "btn_cart"
+                ],
+                "stepIsOpen": true,
+                "timeout": null,
+                "type": "action",
+                "widget": ""
+            }
+        ],
+        "tags": [],
+        "temp_id": "f08bb2f6-88a4-11ec-9613-149d997c13bb",
+        "title": "05: Dynamic Content"
+    }
+}

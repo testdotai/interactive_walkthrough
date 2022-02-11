@@ -1,0 +1,58 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "h1",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "ET03P+l+GZ48r2y6w5sKMQ==\n",
+    "height": 79,
+    "hier_level": 0,
+    "human_hash": "h1_X370_Y240_W580_H79",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "elementor-heading-title elementor-size-default"
+            },
+            "backend_node_id": 443,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 79.0,
+            "key": "370_240_580_79_Home of The Bots",
+            "tagName": "h1",
+            "text": "Home of The Bots",
+            "width": 580.0,
+            "x": 370.0,
+            "y": 240.0
+        },
+        "location": {
+            "x": 370.0,
+            "y": 240.0
+        },
+        "size": {
+            "height": 79.0,
+            "width": 580.0
+        },
+        "tag_name": "h1",
+        "text": "Home of The Bots"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "h1",
+    "text": "Home of The Bots",
+    "transformed": true,
+    "width": 580,
+    "x": 370,
+    "y": 240
+}

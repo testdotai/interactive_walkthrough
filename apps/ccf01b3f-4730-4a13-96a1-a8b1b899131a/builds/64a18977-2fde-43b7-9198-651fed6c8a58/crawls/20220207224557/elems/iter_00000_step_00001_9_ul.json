@@ -1,0 +1,61 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "ul",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "EsG+MAkUxp33Ij+D4W53CA==\n",
+    "height": 71,
+    "hier_level": 0,
+    "human_hash": "ul_X843_Y15_W670_H71",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-expanded": "false",
+                "class": "main-header-menu ast-nav-menu ast-flex  submenu-with-border astra-menu-animation-slide-up  stack-on-mobile",
+                "id": "ast-hf-menu-1"
+            },
+            "backend_node_id": 8,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 71.0,
+            "key": "843_15_670_71_Home Store Men Women Accessories Account About Contact Us",
+            "tagName": "ul",
+            "text": "Home Store Men Women Accessories Account About Contact Us",
+            "width": 670.0,
+            "x": 843.0,
+            "y": 15.0
+        },
+        "location": {
+            "x": 843.0,
+            "y": 15.0
+        },
+        "size": {
+            "height": 71.0,
+            "width": 670.0
+        },
+        "tag_name": "ul",
+        "text": "Home Store Men Women Accessories Account About Contact Us"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "ul",
+    "text": "Home Store Men Women Accessories Account About Contact Us",
+    "transformed": true,
+    "width": 670,
+    "x": 843,
+    "y": 15
+}

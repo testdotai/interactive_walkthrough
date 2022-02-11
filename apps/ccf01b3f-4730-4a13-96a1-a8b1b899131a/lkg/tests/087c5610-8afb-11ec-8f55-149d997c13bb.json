@@ -1,0 +1,83 @@
+{
+    "02: Element Labeling and Validation": {
+        "description": "Additional labeling and validation exercise",
+        "is_deactivated": false,
+        "steps": [
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "btn_store"
+                ],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "action",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "bag",
+                "grep_count": null,
+                "input": "text_entry",
+                "label_count": null,
+                "labels": [
+                    "inp_search"
+                ],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "action",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "img_red_bag"
+                ],
+                "scrollIntoView": false,
+                "stepIsOpen": false,
+                "type": "action",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [
+                    "img_red_bag"
+                ],
+                "stepIsOpen": true,
+                "timeout": null,
+                "type": "verification",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "Bright Red Bag",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "timeout": null,
+                "type": "verification",
+                "widget": ""
+            }
+        ],
+        "tags": [],
+        "temp_id": "087c5610-8afb-11ec-8f55-149d997c13bb",
+        "title": "02: Element Labeling and Validation"
+    }
+}

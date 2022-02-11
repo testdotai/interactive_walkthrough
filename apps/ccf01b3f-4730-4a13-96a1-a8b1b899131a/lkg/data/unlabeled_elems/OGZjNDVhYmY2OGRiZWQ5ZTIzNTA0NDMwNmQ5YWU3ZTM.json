@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "bUOzs+UVjrDetmra8Ga2yw==\n",
+    "height": 18,
+    "hier_level": 0,
+    "human_hash": "span_X435_Y404_W109_H18",
+    "human_readable": "span_435_404_109_18_span_ffffffffffff7f7f737b7b7f00000000022000000009000900005577ffffffff_08060d52c88a6d002a2f0ef460f5297e",
+    "image_path": "OGZjNDVhYmY2OGRiZWQ5ZTIzNTA0NDMwNmQ5YWU3ZTM.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product-title"
+            },
+            "backend_node_id": 1971,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 18.0,
+            "key": "435_404_109_18_Buddha Bracelet",
+            "tagName": "span",
+            "text": "Buddha Bracelet",
+            "width": 109.0,
+            "x": 435.0,
+            "y": 404.0
+        },
+        "location": {
+            "x": 435.0,
+            "y": 404.0
+        },
+        "size": {
+            "height": 18.0,
+            "width": 109.0
+        },
+        "tag_name": "span",
+        "text": "Buddha Bracelet"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "b7e0b9e21b84b89ef40653b6a5e76acb",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "Buddha Bracelet",
+    "transformed": true,
+    "width": 109,
+    "x": 435,
+    "y": 404
+}

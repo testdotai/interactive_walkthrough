@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "9DwFVuSozorWVwA+EyqmQg==\n",
+    "height": 18,
+    "hier_level": 0,
+    "human_hash": "span_X435_Y682_W119_H18",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product-title"
+            },
+            "backend_node_id": 2054,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 18.0,
+            "key": "435_682_119_18_DNK Green Shoes",
+            "tagName": "span",
+            "text": "DNK Green Shoes",
+            "width": 119.0,
+            "x": 435.0,
+            "y": 682.0
+        },
+        "location": {
+            "x": 435.0,
+            "y": 682.0
+        },
+        "size": {
+            "height": 18.0,
+            "width": 119.0
+        },
+        "tag_name": "span",
+        "text": "DNK Green Shoes"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "DNK Green Shoes",
+    "transformed": true,
+    "width": 119,
+    "x": 435,
+    "y": 682
+}

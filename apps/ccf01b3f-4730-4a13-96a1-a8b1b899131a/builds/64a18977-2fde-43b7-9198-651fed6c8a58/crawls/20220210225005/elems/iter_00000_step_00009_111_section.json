@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "section",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "2NrK0KYfNeNqUp1GKGAujw==\n",
+    "height": 44,
+    "hier_level": 0,
+    "human_hash": "section_X1298_Y594_W262_H44",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "widget widget_media_image",
+                "id": "media_image-1"
+            },
+            "backend_node_id": 4159,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 44.0,
+            "key": "1298_594_262_44_",
+            "tagName": "section",
+            "text": "",
+            "width": 262.0,
+            "x": 1298.0,
+            "y": 594.0
+        },
+        "location": {
+            "x": 1298.0,
+            "y": 594.0
+        },
+        "size": {
+            "height": 44.0,
+            "width": 262.0
+        },
+        "tag_name": "section",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "section",
+    "text": "",
+    "transformed": true,
+    "width": 262,
+    "x": 1298,
+    "y": 594
+}

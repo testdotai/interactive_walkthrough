@@ -1,0 +1,57 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "MHiHOwjfOoiXMREDtP1Muw==\n",
+    "height": 16,
+    "hier_level": 0,
+    "human_hash": "span_X410_Y844_W88_H16",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 2043,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 16.0,
+            "key": "410_844_88_16_Remember me",
+            "tagName": "span",
+            "text": "Remember me",
+            "width": 88.0,
+            "x": 410.0,
+            "y": 844.0
+        },
+        "location": {
+            "x": 410.0,
+            "y": 844.0
+        },
+        "size": {
+            "height": 16.0,
+            "width": 88.0
+        },
+        "tag_name": "span",
+        "text": "Remember me"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "Remember me",
+    "transformed": true,
+    "width": 88,
+    "x": 410,
+    "y": 844
+}

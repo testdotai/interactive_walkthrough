@@ -1,0 +1,40 @@
+{
+    "03a:subtest_add_to_cart": {
+        "description": "Subtest for exercise 3",
+        "is_deactivated": true,
+        "steps": [
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "btn_add_to_cart"
+                ],
+                "stepIsOpen": true,
+                "timeout": null,
+                "type": "action",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "btn_view_cart"
+                ],
+                "timeout": null,
+                "type": "action",
+                "widget": ""
+            }
+        ],
+        "tags": [],
+        "temp_id": "b2e79006-8afb-11ec-8f55-149d997c13bb",
+        "title": "03a:subtest_add_to_cart"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "nav",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "2p+Pbm1pbJ2SGQWCrUFG2A==\n",
+    "height": 55,
+    "hier_level": 0,
+    "human_hash": "nav_X720_Y433_W839_H55",
+    "human_readable": "nav_720_433_839_55_nav_0fff7fff5fff5fff1fff0fff0fff1fff5fff5fff5fff0fffffffffffffffffff_d3509fc987fdfd0fe00bde0e5f92e9be",
+    "image_path": "OGU4M2FiYzZmYTYxMWQwNTI5MzY4Y2QyOWIxM2Q2YmQ.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "woocommerce-pagination"
+            },
+            "backend_node_id": 3977,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 55.0,
+            "key": "720_433_839_55_1 2 3 \u2192",
+            "tagName": "nav",
+            "text": "1 2 3 \u2192",
+            "width": 839.0,
+            "x": 720.0,
+            "y": 433.0
+        },
+        "location": {
+            "x": 720.0,
+            "y": 433.0
+        },
+        "size": {
+            "height": 55.0,
+            "width": 839.0
+        },
+        "tag_name": "nav",
+        "text": "1 2 3 \u2192"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "98664e211eb0215005e02f345b52dd29",
+    "scrollable": false,
+    "tag_name": "nav",
+    "text": "1 2 3 \u2192",
+    "transformed": true,
+    "width": 839,
+    "x": 720,
+    "y": 433
+}

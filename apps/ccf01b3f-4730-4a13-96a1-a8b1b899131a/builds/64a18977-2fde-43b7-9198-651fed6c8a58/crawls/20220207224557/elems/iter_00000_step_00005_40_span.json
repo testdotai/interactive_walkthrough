@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "8eDuGUC0GB9XCyRiHfSjNA==\n",
+    "height": 18,
+    "hier_level": 0,
+    "human_hash": "span_X536_Y461_W82_H18",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "elementor-button-text"
+            },
+            "backend_node_id": 2866,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 18.0,
+            "key": "536_461_82_18_Find More",
+            "tagName": "span",
+            "text": "Find More",
+            "width": 82.0,
+            "x": 536.0,
+            "y": 461.0
+        },
+        "location": {
+            "x": 536.0,
+            "y": 461.0
+        },
+        "size": {
+            "height": 18.0,
+            "width": 82.0
+        },
+        "tag_name": "span",
+        "text": "Find More"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "Find More",
+    "transformed": true,
+    "width": 82,
+    "x": 536,
+    "y": 461
+}

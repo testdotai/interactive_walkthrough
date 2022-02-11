@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "G5wE/CigNIl+RcB22AASuQ==\n",
+    "height": 62,
+    "hier_level": 0,
+    "human_hash": "div_X1280_Y86_W280_H62",
+    "human_readable": "div_1280_86_280_62_div_0000ffffffffffffffffffffbdff807f807fc67fffffffffffffffffffff0000_483d7568ad85c68f5eb20666d8af907f",
+    "image_path": "ZmRmN2U1ZjM2MmVjNWFmZDgyMGQxNDMwYTY0NDg0YmQ.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "widget woocommerce widget_shopping_cart"
+            },
+            "backend_node_id": 245,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 62.0,
+            "key": "1280_86_280_62_No products in the cart.",
+            "tagName": "div",
+            "text": "No products in the cart.",
+            "width": 280.0,
+            "x": 1280.0,
+            "y": 86.0
+        },
+        "location": {
+            "x": 1280.0,
+            "y": 86.0
+        },
+        "size": {
+            "height": 62.0,
+            "width": 280.0
+        },
+        "tag_name": "div",
+        "text": "No products in the cart."
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "5f413e1e858fba8e26874fc61fafba9e",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "No products in the cart.",
+    "transformed": true,
+    "width": 280,
+    "x": 1280,
+    "y": 86
+}

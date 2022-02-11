@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "li",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "wno6tiXhyFxiNy77PYVAPw==\n",
+    "height": 89,
+    "hier_level": 0,
+    "human_hash": "li_X360_Y393_W239_H89",
+    "human_readable": "li_360_393_239_89_li_ffffffffffff6807780fffff0fff083f083f0fff9fff787f487ff8ffffffffff_5fa2e611f06bb435dcd593aebc5796c4",
+    "image_path": "YjY0N2I4NTEwYWU1MGIwMDVhYTFhMGE4Mjg5NjViZWM.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 1963,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 89.0,
+            "key": "360_393_239_89_Buddha Bracelet Rated  0  out of 5 $ 350.00",
+            "tagName": "li",
+            "text": "Buddha Bracelet Rated  0  out of 5 $ 350.00",
+            "width": 239.0,
+            "x": 360.0,
+            "y": 393.0
+        },
+        "location": {
+            "x": 360.0,
+            "y": 393.0
+        },
+        "size": {
+            "height": 89.0,
+            "width": 239.0
+        },
+        "tag_name": "li",
+        "text": "Buddha Bracelet Rated  0  out of 5 $ 350.00"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "b7e0b9e21b84b89ef40653b6a5e76acb",
+    "scrollable": false,
+    "tag_name": "li",
+    "text": "Buddha Bracelet Rated  0  out of 5 $ 350.00",
+    "transformed": true,
+    "width": 239,
+    "x": 360,
+    "y": 393
+}

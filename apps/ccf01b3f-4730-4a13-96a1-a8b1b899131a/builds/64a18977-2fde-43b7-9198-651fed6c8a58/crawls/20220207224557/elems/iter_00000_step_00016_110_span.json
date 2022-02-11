@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "PYtzMq/OX0cRyLTKTySdvQ==\n",
+    "height": 16,
+    "hier_level": 0,
+    "human_hash": "span_X1150_Y599_W8_H16",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "woocommerce-Price-currencySymbol"
+            },
+            "backend_node_id": 4651,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 16.0,
+            "key": "1150_599_8_16_$",
+            "tagName": "span",
+            "text": "$",
+            "width": 8.0,
+            "x": 1150.0,
+            "y": 599.0
+        },
+        "location": {
+            "x": 1150.0,
+            "y": 599.0
+        },
+        "size": {
+            "height": 16.0,
+            "width": 8.0
+        },
+        "tag_name": "span",
+        "text": "$"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "$",
+    "transformed": true,
+    "width": 8,
+    "x": 1150,
+    "y": 599
+}

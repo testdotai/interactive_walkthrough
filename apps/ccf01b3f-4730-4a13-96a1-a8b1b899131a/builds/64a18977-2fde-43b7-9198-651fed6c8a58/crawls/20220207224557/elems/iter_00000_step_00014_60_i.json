@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "i",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "w6kR/tilgzph/epGdIyF1A==\n",
+    "height": 25,
+    "hier_level": 0,
+    "human_hash": "i_X1525_Y860_W25_H25",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-hidden": "true",
+                "class": "eicon-chevron-right"
+            },
+            "backend_node_id": 2946,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 25.0,
+            "key": "1525_860_25_25_",
+            "tagName": "i",
+            "text": "",
+            "width": 25.0,
+            "x": 1525.0,
+            "y": 860.0
+        },
+        "location": {
+            "x": 1525.0,
+            "y": 860.0
+        },
+        "size": {
+            "height": 25.0,
+            "width": 25.0
+        },
+        "tag_name": "i",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "i",
+    "text": "",
+    "transformed": true,
+    "width": 25,
+    "x": 1525,
+    "y": 860
+}

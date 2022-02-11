@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "h2",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "LBSF5vr4j+lTdWrXL+YsiA==\n",
+    "height": 20,
+    "hier_level": 0,
+    "human_hash": "h2_X720_Y840_W195_H20",
+    "human_readable": "h2_720_840_195_20_h2_ffffffffffff4bff4fff003f003f003f003f003f003f003fffffffffffffffff_26c532014404aafadf04b1df697811e5",
+    "image_path": "MWU4YmRkZGNhM2ZjZDNkNjYzZTk4MDBiZGJkZWZiYjM.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "woocommerce-loop-product__title"
+            },
+            "backend_node_id": 2324,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 20.0,
+            "key": "720_840_195_20_Blue Denim Jeans",
+            "tagName": "h2",
+            "text": "Blue Denim Jeans",
+            "width": 195.0,
+            "x": 720.0,
+            "y": 840.0
+        },
+        "location": {
+            "x": 720.0,
+            "y": 840.0
+        },
+        "size": {
+            "height": 20.0,
+            "width": 195.0
+        },
+        "tag_name": "h2",
+        "text": "Blue Denim Jeans"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "b7e0b9e21b84b89ef40653b6a5e76acb",
+    "scrollable": false,
+    "tag_name": "h2",
+    "text": "Blue Denim Jeans",
+    "transformed": true,
+    "width": 195,
+    "x": 720,
+    "y": 840
+}

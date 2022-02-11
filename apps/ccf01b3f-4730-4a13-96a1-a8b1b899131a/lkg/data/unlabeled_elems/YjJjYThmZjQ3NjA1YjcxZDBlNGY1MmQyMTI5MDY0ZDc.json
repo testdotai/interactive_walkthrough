@@ -1,0 +1,64 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "bLSe/GiXgULV5Vc/AKiTDA==\n",
+    "height": 95,
+    "hier_level": 0,
+    "human_hash": "img_X120_Y825_W150_H95",
+    "human_readable": "img_120_825_150_95_img_0000000000000000000000000000000000000000000000000000000000000000_9d4568c009d203ab10e33ea9953a0264",
+    "image_path": "YjJjYThmZjQ3NjA1YjcxZDBlNGY1MmQyMTI5MDY0ZDc.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "img-gaming",
+                "class": "swiper-slide-image",
+                "src": "https://testaistore.com/wp-content/uploads/elementor/thumbs/img-gaming-3-p5v5u0oc24cgx4rphe4giip194kvgxnoe09th9y0qe.png"
+            },
+            "backend_node_id": 33,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 95.0,
+            "key": "120_825_150_95_",
+            "tagName": "img",
+            "text": "",
+            "width": 150.0,
+            "x": 120.0,
+            "y": 825.0
+        },
+        "location": {
+            "x": 120.0,
+            "y": 825.0
+        },
+        "size": {
+            "height": 95.0,
+            "width": 150.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "4aa7ef5de0a48709f6de7aa71bed447d",
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "transformed": true,
+    "width": 150,
+    "x": 120,
+    "y": 825
+}

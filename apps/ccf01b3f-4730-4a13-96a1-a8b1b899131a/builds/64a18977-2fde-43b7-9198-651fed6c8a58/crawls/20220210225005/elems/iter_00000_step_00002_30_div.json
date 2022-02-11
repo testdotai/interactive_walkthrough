@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "KenZZR2FD/pIFeR0m0LFfA==\n",
+    "height": 70,
+    "hier_level": 0,
+    "human_hash": "div_X1523_Y16_W37_H70",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ast-builder-layout-element site-header-focus-item ast-header-woo-cart",
+                "data-section": "section-header-woo-cart"
+            },
+            "backend_node_id": 224,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 70.0,
+            "key": "1523_16_37_70_0\t\t\t\t\t\t\t\t No products in the cart.",
+            "tagName": "div",
+            "text": "0\t\t\t\t\t\t\t\t No products in the cart.",
+            "width": 37.0,
+            "x": 1523.0,
+            "y": 16.0
+        },
+        "location": {
+            "x": 1523.0,
+            "y": 16.0
+        },
+        "size": {
+            "height": 70.0,
+            "width": 37.0
+        },
+        "tag_name": "div",
+        "text": "0\t\t\t\t\t\t\t\t No products in the cart."
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "0\t\t\t\t\t\t\t\t No products in the cart.",
+    "transformed": true,
+    "width": 37,
+    "x": 1523,
+    "y": 16
+}

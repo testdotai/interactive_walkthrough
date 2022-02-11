@@ -1,0 +1,60 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "Ce7c6ECRR6ugMYonBnhzNA==\n",
+    "height": 106,
+    "hier_level": 0,
+    "human_hash": "div_X360_Y153_W239_H106",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "widget woocommerce widget_price_filter",
+                "id": "woocommerce_price_filter-4"
+            },
+            "backend_node_id": 3542,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 106.0,
+            "key": "360_153_239_106_Filter by Price    Filter \n\t\t\t\tPrice:  $100  \u2014  $400",
+            "tagName": "div",
+            "text": "Filter by Price    Filter \n\t\t\t\tPrice:  $100  \u2014  $400",
+            "width": 239.0,
+            "x": 360.0,
+            "y": 153.0
+        },
+        "location": {
+            "x": 360.0,
+            "y": 153.0
+        },
+        "size": {
+            "height": 106.0,
+            "width": 239.0
+        },
+        "tag_name": "div",
+        "text": "Filter by Price    Filter \n\t\t\t\tPrice:  $100  \u2014  $400"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Filter by Price    Filter \n\t\t\t\tPrice:  $100  \u2014  $400",
+    "transformed": true,
+    "width": 239,
+    "x": 360,
+    "y": 153
+}

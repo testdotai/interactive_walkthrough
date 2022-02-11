@@ -1,0 +1,63 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "xkZBRmPupVNAXF5EJMmO8g==\n",
+    "height": 70,
+    "hier_level": 0,
+    "human_hash": "a_X1038_Y16_W82_H70",
+    "human_readable": "a_1038_16_82_70_a_fffffffffffffffffffffffff9cfc003c003edcfffffffffffffffffffffffff_f84743d892286b675f691d0613041893",
+    "image_path": "MjM3YmFiYTcyYTZmZjM2N2U3NzViYTg1ZWU3MTI2Nzg.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "menu-link",
+                "href": "https://testaistore.com/product-category/women/"
+            },
+            "backend_node_id": 1720,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 70.0,
+            "key": "1038_16_82_70_Women",
+            "tagName": "a",
+            "text": "Women",
+            "width": 82.0,
+            "x": 1038.0,
+            "y": 16.0
+        },
+        "location": {
+            "x": 1038.0,
+            "y": 16.0
+        },
+        "size": {
+            "height": 70.0,
+            "width": 82.0
+        },
+        "tag_name": "a",
+        "text": "Women"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "2b6db1d4ba7f23850646f8be7d6a961e",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Women",
+    "transformed": true,
+    "width": 82,
+    "x": 1038,
+    "y": 16
+}

@@ -1,0 +1,64 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "FwUN2MRrYalaEfJk0LkXBQ==\n",
+    "height": 18,
+    "hier_level": 0,
+    "human_hash": "a_X1533_Y42_W27_H18",
+    "human_readable": "a_1533_42_27_18_a_73de7bde7ffe7ffe7ffe7e7e7c3e7dbe7dbe7dbe7dbe7c3e7c3e7e7e7ffe7ffe_f4ea5f46dd32b666be3f802dfe2982c2",
+    "image_path": "ODY4YmIxY2I1OTQwNzBhNWU2ZWI0ZTNjZGQ2MjI0OGI.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "cart-container",
+                "href": "https://testaistore.com/cart/",
+                "title": "View your shopping cart"
+            },
+            "backend_node_id": 1748,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 18.0,
+            "key": "1533_42_27_18_0",
+            "tagName": "a",
+            "text": "0",
+            "width": 27.0,
+            "x": 1533.0,
+            "y": 42.0
+        },
+        "location": {
+            "x": 1533.0,
+            "y": 42.0
+        },
+        "size": {
+            "height": 18.0,
+            "width": 27.0
+        },
+        "tag_name": "a",
+        "text": "0"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "2b6db1d4ba7f23850646f8be7d6a961e",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "0",
+    "transformed": true,
+    "width": 27,
+    "x": 1533,
+    "y": 42
+}

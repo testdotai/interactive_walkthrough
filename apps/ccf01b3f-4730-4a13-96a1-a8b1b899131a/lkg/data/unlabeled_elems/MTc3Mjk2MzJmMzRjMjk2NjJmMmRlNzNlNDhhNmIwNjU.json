@@ -1,0 +1,63 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "section",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "jXdtRGjReGG8mRJnLn/SHQ==\n",
+    "height": 193,
+    "hier_level": 0,
+    "human_hash": "section_X360_Y594_W262_H193",
+    "human_readable": "section_360_594_262_193_section_67ff00ff00ffffffffff1fffbfff1fff1fff47ff07ffffff3fffffff07ff07ff_38ad93647d373b06a5ed229ec2cba470",
+    "image_path": "MTc3Mjk2MzJmMzRjMjk2NjJmMmRlNzNlNDhhNmIwNjU.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "widget widget_nav_menu",
+                "id": "nav_menu-4"
+            },
+            "backend_node_id": 4060,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 193.0,
+            "key": "360_594_262_193_Quick Links Home About My account Cart Contact Us",
+            "tagName": "section",
+            "text": "Quick Links Home About My account Cart Contact Us",
+            "width": 262.0,
+            "x": 360.0,
+            "y": 594.0
+        },
+        "location": {
+            "x": 360.0,
+            "y": 594.0
+        },
+        "size": {
+            "height": 193.0,
+            "width": 262.0
+        },
+        "tag_name": "section",
+        "text": "Quick Links Home About My account Cart Contact Us"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "98664e211eb0215005e02f345b52dd29",
+    "scrollable": false,
+    "tag_name": "section",
+    "text": "Quick Links Home About My account Cart Contact Us",
+    "transformed": true,
+    "width": 262,
+    "x": 360,
+    "y": 594
+}

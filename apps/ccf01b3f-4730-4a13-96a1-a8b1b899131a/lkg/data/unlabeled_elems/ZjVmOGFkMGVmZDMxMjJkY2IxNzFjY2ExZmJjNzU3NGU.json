@@ -1,0 +1,62 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "li",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "9zYRNnpQEc0nQW0FC/In1g==\n",
+    "height": 34,
+    "hier_level": 0,
+    "human_hash": "li_X360_Y2_W239_H34",
+    "human_readable": "li_360_2_239_34_li_ffffffffffffffffffff7ffc3ffc1ffc3ffc1ffc3ffcfffcffffffffffffffff_a343dce674e5d6a50266aad6cd97eb40",
+    "image_path": "ZjVmOGFkMGVmZDMxMjJkY2IxNzFjY2ExZmJjNzU3NGU.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "cat-item cat-item-35"
+            },
+            "backend_node_id": 3521,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 34.0,
+            "key": "360_2_239_34_Men (12)",
+            "tagName": "li",
+            "text": "Men (12)",
+            "width": 239.0,
+            "x": 360.0,
+            "y": 2.0
+        },
+        "location": {
+            "x": 360.0,
+            "y": 2.0
+        },
+        "size": {
+            "height": 34.0,
+            "width": 239.0
+        },
+        "tag_name": "li",
+        "text": "Men (12)"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "98664e211eb0215005e02f345b52dd29",
+    "scrollable": false,
+    "tag_name": "li",
+    "text": "Men (12)",
+    "transformed": true,
+    "width": 239,
+    "x": 360,
+    "y": 2
+}
