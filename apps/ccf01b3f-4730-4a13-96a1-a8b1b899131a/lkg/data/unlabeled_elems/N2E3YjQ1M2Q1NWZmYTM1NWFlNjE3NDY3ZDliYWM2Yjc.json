@@ -1,0 +1,66 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "elem_shot_file_path": "/Users/testai/test_ai/apps/ccf01b3f-4730-4a13-96a1-a8b1b899131a/builds/64a18977-2fde-43b7-9198-651fed6c8a58/test_runs/20220217221625/tmpZ/123145532633088/a_X909_Y287_W36_H36.png",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "sKew6NLrQs4bmYatvin7cw==\n",
+    "height": 36,
+    "hier_level": 0,
+    "human_hash": "a_X909_Y287_W36_H36",
+    "human_readable": "a_909_287_36_36_a_0ff01ff83ffc7ffef83ff13ff79ff79ff33ff01ffc8fffcf7ffe3ffc1ff80ff0_4bb38a012838b4177c734ab5f619e30b",
+    "image_path": "N2E3YjQ1M2Q1NWZmYTM1NWFlNjE3NDY3ZDliYWM2Yjc.png",
+    "img_hash": "380926148f3de64b66ac24df405c1607",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "woocommerce-product-gallery__trigger",
+                "href": "#"
+            },
+            "backend_node_id": 5429,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 36.0,
+            "key": "909_287_36_36_\ud83d\udd0d",
+            "tagName": "a",
+            "text": "\ud83d\udd0d",
+            "width": 36.0,
+            "x": 909.0,
+            "y": 287.0
+        },
+        "location": {
+            "x": 909.0,
+            "y": 287.0
+        },
+        "size": {
+            "height": 36.0,
+            "width": 36.0
+        },
+        "tag_name": "a",
+        "text": "\ud83d\udd0d"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "2fc6f1fc1ffeff2e27bfecc111a6d249",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "\ud83d\udd0d",
+    "text_hash": "4bb38a012838b4177c734ab5f619e30b",
+    "transformed": true,
+    "width": 36,
+    "x": 909,
+    "y": 287
+}

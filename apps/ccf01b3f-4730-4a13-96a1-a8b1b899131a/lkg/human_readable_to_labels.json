@@ -12,6 +12,9 @@
         "a_1236_16_93_70_a_0000000000000000000000002fac3ffd3ffd3fc8000400080000000000000000_15c8f168513989351f555c8d4a678216": [
             "btn_account"
         ],
+        "a_1416_180_114_47_a_ffffffffffffffffffffffffe3e7e007e007e007ffffffffffffffffffffffff_a2d2e1101d5d693efbb74910328eec89": [
+            "btn_view_cart"
+        ],
         "a_370_445_130_50_a_ffffffffffffffffffffffffe71fe007e007e007e0c7ffffffffffffffffffff_478aa403f26edda3ae69b0b3d8644256": [
             "btn_shop_now"
         ],
@@ -20,6 +23,9 @@
         ],
         "a_911_16_69_70_a_0000000000000000000000001ff81ff81ff81db8000000000000000000000000_7e969ed097f24f51534eeb756856e8ed": [
             "btn_store"
+        ],
+        "button_1066_436_155_35_button_fffffffffffffffffffff1fff08ff00ff00ff00ff00fffffffffffffffffffff_6c3a0afb731563650d40e33825afb452": [
+            "btn_add_to_cart"
         ],
         "div_1533_38_27_29_div_7ffeffff842180018001818183c18241824183c18181800180018001ffff7ffe_f4ea5f46dd32b666be3f802dfe2982c2": [
             "btn_cart"
@@ -41,6 +47,9 @@
         ],
         "input_394_784_1132_42_input_0000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff_9d4568c009d203ab10e33ea9953a0264": [
             "inp_password"
+        ],
+        "select_1361_201_198_37_select_0000ffffffffffffffffffff16fe807c807c807f807fff7fffffffffffff0000_9d4568c009d203ab10e33ea9953a0264": [
+            "ddl_sorting"
         ],
         "select_1361_267_198_37_select_0000ffffffffffffffffffff16fe807c807c807f807fff7fffffffffffff0000_9d4568c009d203ab10e33ea9953a0264": [
             "ddl_sorting"

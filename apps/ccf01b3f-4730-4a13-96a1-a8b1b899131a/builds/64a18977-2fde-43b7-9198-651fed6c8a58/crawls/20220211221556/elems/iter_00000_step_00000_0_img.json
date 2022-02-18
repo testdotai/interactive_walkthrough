@@ -1,0 +1,64 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "FompWpAsFvJ/HwBZZsTbUQ==\n",
+    "height": 56,
+    "hier_level": 0,
+    "human_hash": "img_X360_Y22_W247_H56",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "test.ai | Store | QA | test automation",
+                "class": "custom-logo",
+                "height": "56",
+                "sizes": "(max-width: 247px) 100vw, 247px",
+                "src": "https://testaistore.com/wp-content/uploads/2021/04/Test.ai_logo_transp_White_500x114-247x56.png",
+                "srcset": "https://testaistore.com/wp-content/uploads/2021/04/Test.ai_logo_transp_White_500x114-247x56.png 1x, https://testaistore.com/wp-content/uploads/2021/04/Test.ai_logo_transp_White_500x114.png 2x",
+                "width": "247"
+            },
+            "backend_node_id": 178,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 56.0,
+            "key": "360_22_247_56_",
+            "tagName": "img",
+            "text": "",
+            "width": 247.0,
+            "x": 360.0,
+            "y": 22.0
+        },
+        "location": {
+            "x": 360.0,
+            "y": 22.0
+        },
+        "size": {
+            "height": 56.0,
+            "width": 247.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "transformed": true,
+    "width": 247,
+    "x": 360,
+    "y": 22
+}

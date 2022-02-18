@@ -1,0 +1,65 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "elem_shot_file_path": "/Users/testai/test_ai/apps/ccf01b3f-4730-4a13-96a1-a8b1b899131a/builds/64a18977-2fde-43b7-9198-651fed6c8a58/test_runs/20220217221625/tmpZ/123145599791104/a_X1055_Y276_W71_H17.png",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "LYduQisV3DXxSdIH4g76qQ==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "a_X1055_Y276_W71_H17",
+    "human_readable": "a_1055_276_71_17_a_ffffffffffffffff3ff73fff20000000000008000a0202824000ffffffffffff_1b96cccba0cbb6b1c26d4d6db1c72a5d",
+    "image_path": "MjIxOGNmNDUwNDI1MDNjYTQwMjAzNzI0Yjk1ODYwZDc.png",
+    "img_hash": "3f89c119acdbb59a3c07c73946c70650",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "https://testaistore.com/product-category/accessories/"
+            },
+            "backend_node_id": 5450,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "1055_276_71_17_Accessories",
+            "tagName": "a",
+            "text": "Accessories",
+            "width": 71.0,
+            "x": 1055.0,
+            "y": 276.0
+        },
+        "location": {
+            "x": 1055.0,
+            "y": 276.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 71.0
+        },
+        "tag_name": "a",
+        "text": "Accessories"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "2fc6f1fc1ffeff2e27bfecc111a6d249",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Accessories",
+    "text_hash": "1b96cccba0cbb6b1c26d4d6db1c72a5d",
+    "transformed": true,
+    "width": 71,
+    "x": 1055,
+    "y": 276
+}

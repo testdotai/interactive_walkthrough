@@ -1,0 +1,61 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "K+9zM7ovn3cmjH+b0rCMBw==\n",
+    "height": 43,
+    "hier_level": 0,
+    "human_hash": "a_X360_Y793_W79_H43",
+    "human_readable": "a_360_793_79_43_a_0000ffffffffffffffffffff3f6f000000000000ff3fffffffffffffffffffff_bf8ee20414b2976894849b42ed2346e3",
+    "image_path": "NGQyYWUzNDZkMjBiNjAzNWI3NzA3ZmQyZmI3Mjc4Mzk.png",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "#tab-description"
+            },
+            "backend_node_id": 4331,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 43.0,
+            "key": "360_793_79_43_Description",
+            "tagName": "a",
+            "text": "Description",
+            "width": 79.0,
+            "x": 360.0,
+            "y": 793.0
+        },
+        "location": {
+            "x": 360.0,
+            "y": 793.0
+        },
+        "size": {
+            "height": 43.0,
+            "width": 79.0
+        },
+        "tag_name": "a",
+        "text": "Description"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "17e15d5d4126019c51f098001255eb31",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Description",
+    "transformed": true,
+    "width": 79,
+    "x": 360,
+    "y": 793
+}

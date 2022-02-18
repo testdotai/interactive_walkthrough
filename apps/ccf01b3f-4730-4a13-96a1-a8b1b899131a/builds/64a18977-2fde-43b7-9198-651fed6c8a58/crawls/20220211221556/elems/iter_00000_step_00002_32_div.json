@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "sNaCN3gCZT4Pe566S2b/eg==\n",
+    "height": 21,
+    "hier_level": 0,
+    "human_hash": "div_X1282_Y106_W276_H21",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "widget_shopping_cart_content"
+            },
+            "backend_node_id": 254,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 21.0,
+            "key": "1282_106_276_21_No products in the cart.",
+            "tagName": "div",
+            "text": "No products in the cart.",
+            "width": 276.0,
+            "x": 1282.0,
+            "y": 106.0
+        },
+        "location": {
+            "x": 1282.0,
+            "y": 106.0
+        },
+        "size": {
+            "height": 21.0,
+            "width": 276.0
+        },
+        "tag_name": "div",
+        "text": "No products in the cart."
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "No products in the cart.",
+    "transformed": true,
+    "width": 276,
+    "x": 1282,
+    "y": 106
+}

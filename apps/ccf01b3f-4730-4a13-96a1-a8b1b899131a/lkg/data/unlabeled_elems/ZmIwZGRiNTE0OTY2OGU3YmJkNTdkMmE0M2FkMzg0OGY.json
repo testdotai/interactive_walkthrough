@@ -1,0 +1,65 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "elem_shot_file_path": "/Users/testai/test_ai/apps/ccf01b3f-4730-4a13-96a1-a8b1b899131a/builds/64a18977-2fde-43b7-9198-651fed6c8a58/test_runs/20220217221625/tmpZ/123145583001600/div_X1008_Y546_W54_H35.png",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "AGnCMiLJs+8+uwrVlVAlsg==\n",
+    "height": 35,
+    "hier_level": 0,
+    "human_hash": "div_X1008_Y546_W54_H35",
+    "human_readable": "div_1008_546_54_35_div_00007ffe7ffe7ffe7ffe7dfe79fe79fe79fe79fe79fe79fe7ffe7ffe7ffe0000_9345ef8fb541763b18a1dd826b3ba926",
+    "image_path": "ZmIwZGRiNTE0OTY2OGU3YmJkNTdkMmE0M2FkMzg0OGY.png",
+    "img_hash": "ccf72eba2977575a4d77a4b83135f22f",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "quantity"
+            },
+            "backend_node_id": 5472,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 35.0,
+            "key": "1008_546_54_35_Bright Red Bag quantity",
+            "tagName": "div",
+            "text": "Bright Red Bag quantity",
+            "width": 54.0,
+            "x": 1008.0,
+            "y": 546.0
+        },
+        "location": {
+            "x": 1008.0,
+            "y": 546.0
+        },
+        "size": {
+            "height": 35.0,
+            "width": 54.0
+        },
+        "tag_name": "div",
+        "text": "Bright Red Bag quantity"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "2fc6f1fc1ffeff2e27bfecc111a6d249",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Bright Red Bag quantity",
+    "text_hash": "9345ef8fb541763b18a1dd826b3ba926",
+    "transformed": true,
+    "width": 54,
+    "x": 1008,
+    "y": 546
+}

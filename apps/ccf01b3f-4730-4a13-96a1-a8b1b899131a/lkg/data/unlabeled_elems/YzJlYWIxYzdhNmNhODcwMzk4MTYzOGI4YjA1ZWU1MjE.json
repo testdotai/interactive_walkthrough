@@ -1,0 +1,65 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "span",
+    "clickable": true,
+    "content-desc": "",
+    "elem_shot_file_path": "/Users/testai/test_ai/apps/ccf01b3f-4730-4a13-96a1-a8b1b899131a/builds/64a18977-2fde-43b7-9198-651fed6c8a58/test_runs/20220217221625/tmpZ/123145532633088/span_X1533_Y39_W27_H27.png",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "w41B3ijD2rxjmu2J7b14Iw==\n",
+    "height": 27,
+    "hier_level": 0,
+    "human_hash": "span_X1533_Y39_W27_H27",
+    "human_readable": "span_1533_39_27_27_span_000033dc7bde7ffe7ffe7e7e7e7e7f7e7f7e7e7e7e3e7ffe7ffe7ffe3ffc0000_2f7bb230c70819aeb10b45a709bcf48f",
+    "image_path": "YzJlYWIxYzdhNmNhODcwMzk4MTYzOGI4YjA1ZWU1MjE.png",
+    "img_hash": "07610adbf55f351f0c38126362deca90",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "count"
+            },
+            "backend_node_id": 5158,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 27.0,
+            "key": "1533_39_27_27_1",
+            "tagName": "span",
+            "text": "1",
+            "width": 27.0,
+            "x": 1533.0,
+            "y": 39.0
+        },
+        "location": {
+            "x": 1533.0,
+            "y": 39.0
+        },
+        "size": {
+            "height": 27.0,
+            "width": 27.0
+        },
+        "tag_name": "span",
+        "text": "1"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "2fc6f1fc1ffeff2e27bfecc111a6d249",
+    "scrollable": false,
+    "tag_name": "span",
+    "text": "1",
+    "text_hash": "2f7bb230c70819aeb10b45a709bcf48f",
+    "transformed": true,
+    "width": 27,
+    "x": 1533,
+    "y": 39
+}

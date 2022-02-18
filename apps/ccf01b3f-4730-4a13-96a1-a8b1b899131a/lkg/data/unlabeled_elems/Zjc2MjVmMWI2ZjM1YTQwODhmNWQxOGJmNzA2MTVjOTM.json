@@ -1,0 +1,61 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "p",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "Kq7lom62RjW6dn/c37tvvw==\n",
+    "height": 42,
+    "hier_level": 0,
+    "human_hash": "p_X1008_Y252_W552_H42",
+    "human_readable": "p_1008_252_552_42_p_ffffffffffffffff3fff1fff1fff1fff1fff1fff1fff3fffffffffffffffffff_b28c0725ba5a6805a198793b4184b72f",
+    "image_path": "Zjc2MjVmMWI2ZjM1YTQwODhmNWQxOGJmNzA2MTVjOTM.png",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "price"
+            },
+            "backend_node_id": 4283,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 42.0,
+            "key": "1008_252_552_42_$ 300.00",
+            "tagName": "p",
+            "text": "$ 300.00",
+            "width": 552.0,
+            "x": 1008.0,
+            "y": 252.0
+        },
+        "location": {
+            "x": 1008.0,
+            "y": 252.0
+        },
+        "size": {
+            "height": 42.0,
+            "width": 552.0
+        },
+        "tag_name": "p",
+        "text": "$ 300.00"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "17e15d5d4126019c51f098001255eb31",
+    "scrollable": false,
+    "tag_name": "p",
+    "text": "$ 300.00",
+    "transformed": true,
+    "width": 552,
+    "x": 1008,
+    "y": 252
+}

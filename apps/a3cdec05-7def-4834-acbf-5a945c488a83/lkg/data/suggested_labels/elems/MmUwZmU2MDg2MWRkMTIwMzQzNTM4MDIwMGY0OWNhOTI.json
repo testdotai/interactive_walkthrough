@@ -1,0 +1,9 @@
+{
+    "cart": {
+        "all_scores": {
+            "kirfuzz-general-classifier:v2": 0.9382624626159668
+        },
+        "score": 0.9382624626159668,
+        "source": "kirfuzz-general-classifier:v2"
+    }
+}

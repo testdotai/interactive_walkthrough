@@ -1,0 +1,13 @@
+[
+    "android.view.View",
+    "android.view.ViewGroup",
+    "android.widget.Button",
+    "android.widget.FrameLayout",
+    "android.widget.GridLayout",
+    "android.widget.ImageView",
+    "android.widget.LinearLayout",
+    "android.widget.RelativeLayout",
+    "android.widget.ScrollView",
+    "android.widget.TextView",
+    "TemplateMatchElement"
+]

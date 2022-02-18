@@ -13,12 +13,13 @@
     "human_hash": "div_X1533_Y38_W27_H29",
     "human_readable": "div_1533_38_27_29_div_7ffeffff842180018001818183c18241824183c18181800180018001ffff7ffe_f4ea5f46dd32b666be3f802dfe2982c2",
     "image_path": "NGNmMGY1NjY5NDk2YjIwOTlkOWJiOTM1ZWMyMjg0OWY.png",
+    "index": -1,
     "internal": {
         "elem_dict": {
             "attributes": {
                 "class": "ast-cart-menu-wrap"
             },
-            "backend_node_id": 234,
+            "backend_node_id": 2614,
             "flags": {
                 "checkable": false,
                 "clickable": true,
@@ -50,7 +51,7 @@
     "package": "",
     "password": false,
     "resource-id": "",
-    "screen_hash": "f1afee6cb5be3104710b848d47a988b5",
+    "screen_hash": "e74a51bdc477a73417ffb98e021ebea0",
     "scrollable": false,
     "tag_name": "div",
     "text": "0",

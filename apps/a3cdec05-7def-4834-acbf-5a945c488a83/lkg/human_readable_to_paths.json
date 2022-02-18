@@ -1,0 +1,15 @@
+{
+    "btn_add_to_cart": [
+        "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220216173018/elems/iter_00000_step_00002_259_android.widget.TextView.png"
+    ],
+    "btn_cart": [
+        "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220216173018/elems/iter_00000_step_00004_215_android.widget.TextView.png"
+    ],
+    "fashion_accessories": [
+        "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220216173018/elems/iter_00000_step_00000_53_android.widget.TextView.png",
+        "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214105047/elems/iter_00000_step_00000_53_android.widget.TextView.png"
+    ],
+    "img_anchor_bracelet": [
+        "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220216173018/elems/iter_00000_step_00001_157_android.widget.ImageView.png"
+    ]
+}

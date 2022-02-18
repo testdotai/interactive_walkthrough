@@ -1,0 +1,468 @@
+2022-02-17 22:14:37,757 INFO     carbon_tasks.regress_app_task -- Remote host address: http://localhost:8083
+2022-02-17 22:14:37,765 INFO     carbon_tasks.process_crawl_task -- processing master crawl: (app: ccf01b3f-4730-4a13-96a1-a8b1b899131a)
+2022-02-17 22:14:37,900 INFO     carbon_tasks.generate_auto_labels_task -- getting data for crawl: master
+2022-02-17 22:14:37,910 INFO     carbon_tasks.generate_auto_labels_task -- processing crawl: master
+2022-02-17 22:14:37,920 INFO     carbon_tasks.generate_auto_labels_task -- writing merged, suggested labels for crawl: master
+2022-02-17 22:14:37,925 INFO     carbon_tasks.generate_auto_labels_task -- writing applied hashes to labels to file: /Users/testai/test_ai/apps/ccf01b3f-4730-4a13-96a1-a8b1b899131a/lkg/hashes_to_labels.json
+2022-02-17 22:14:37,926 INFO     carbon_tasks.generate_auto_labels_task -- writing applied human readable to labels to file: /Users/testai/test_ai/apps/ccf01b3f-4730-4a13-96a1-a8b1b899131a/lkg/human_readable_to_labels.json
+2022-02-17 22:14:37,926 INFO     carbon_tasks.generate_auto_labels_task -- writing label to hash dicts to file: /Users/testai/test_ai/apps/ccf01b3f-4730-4a13-96a1-a8b1b899131a/lkg/label_to_hash_dicts.json
+2022-02-17 22:14:37,927 INFO     carbon_tasks.generate_auto_labels_task -- writing human readable to paths to file: /Users/testai/test_ai/apps/ccf01b3f-4730-4a13-96a1-a8b1b899131a/lkg/human_readable_to_paths.json
+2022-02-17 22:14:38,122 INFO     carbon_tasks.regress_app_task -- running regress for test case: 05: Dynamic Content - 01fcf2a9-361f-4ad0-bc34-70e5d018ed94
+2022-02-17 22:14:38,123 INFO     carbon_tasks.regress_app_task -- steps required for test: 10
+2022-02-17 22:14:38,123 INFO     carbon_test_case.carbon_tests -- using hard cap of: 10 steps
+2022-02-17 22:14:38,123 INFO     carbon_tasks.regress_app_task -- effective_max_steps: 10
+2022-02-17 22:14:38,124 INFO     carbon_explore.explore -- **************************************************
+2022-02-17 22:14:38,124 INFO     carbon_explore.explore -- **************************************************
+2022-02-17 22:14:38,124 INFO     carbon_explore.explore -- *                                                *
+2022-02-17 22:14:38,124 INFO     carbon_explore.explore -- *                   BRAIN                    *
+2022-02-17 22:14:38,125 INFO     carbon_explore.explore -- *                                                *
+2022-02-17 22:14:38,125 INFO     carbon_explore.explore -- **************************************************
+2022-02-17 22:14:38,125 INFO     carbon_explore.explore -- **************************************************
+2022-02-17 22:14:38,125 INFO     carbon_initialization.initialization -- Random seed: 1645161277
+2022-02-17 22:14:38,127 INFO     carbon_initialization.initialization -- ````````````````````````````````````````````````````````````````````````````````
+2022-02-17 22:14:38,128 INFO     carbon_initialization.initialization --                   PACKAGE: ccf01b3f-4730-4a13-96a1-a8b1b899131a
+2022-02-17 22:14:38,128 INFO     carbon_initialization.initialization -- ````````````````````````````````````````````````````````````````````````````````
+2022-02-17 22:14:38,128 INFO     carbon_initialization.initialization -- platform: DESKTOP_CHROME
+2022-02-17 22:14:38,128 INFO     carbon_initialization.initialization -- using crawl_directory: /Users/testai/test_ai/apps/ccf01b3f-4730-4a13-96a1-a8b1b899131a/builds/64a18977-2fde-43b7-9198-651fed6c8a58/test_runs/20220217221437
+2022-02-17 22:14:38,128 INFO     carbon_botio.bot_io -- retrieving bot IO for app: ccf01b3f-4730-4a13-96a1-a8b1b899131a
+2022-02-17 22:14:38,128 INFO     carbon_botio.bot_io -- ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2022-02-17 22:14:38,128 INFO     carbon_botio.bot_io -- botio_filepath: /Users/testai/test_ai/apps/ccf01b3f-4730-4a13-96a1-a8b1b899131a/lkg/botio.json
+2022-02-17 22:14:38,128 INFO     carbon_botio.bot_io -- use_snapshot: False
+2022-02-17 22:14:38,128 INFO     carbon_botio.bot_io -- no botIO found for app: ccf01b3f-4730-4a13-96a1-a8b1b899131a
+2022-02-17 22:14:38,129 INFO     carbon_dao.carbon_data -- loading models from LKG dir
+2022-02-17 22:14:38,130 INFO     carbon_dao.carbon_data -- loading models from LKG dir
+2022-02-17 22:14:38,132 INFO     carbon_utils.simulator_tools -- preparing clean iteration state...
+2022-02-17 22:14:38,132 INFO     carbon_utils.simulator_tools -- starting appium, platform: DESKTOP_CHROME
+2022-02-17 22:14:38,132 INFO     carbon_utils.simulator_tools -- starting appium/webdriver for desktop chrome
+2022-02-17 22:14:38,133 INFO     carbon_automation.automator -- Creating Automator Singleton
+2022-02-17 22:14:38,133 INFO     carbon_automation.automator -- Using automator over http as execution platform
+2022-02-17 22:14:40,833 INFO     carbon_automation.driver -- Screen density: 1.0
+2022-02-17 22:14:41,098 INFO     carbon_utils.simulator_tools -- going to https://testaistore.com
+2022-02-17 22:14:42,625 INFO     carbon_utils.simulator_tools -- completed setting url, additional time: 1.525550
+2022-02-17 22:14:44,949 INFO     carbon_initialization.initialization -- starting dom stability
+2022-02-17 22:14:44,976 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:14:45,106 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:14:45,231 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:14:45,358 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:14:45,482 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:14:45,482 INFO     carbon_actions.carbon_actions -- Seen the same screen the max amount (5)
+2022-02-17 22:14:45,483 INFO     carbon_explore.explore_utils -- Saving screenshot.
+2022-02-17 22:14:46,213 INFO     carbon_explore.explore_utils -- Screenshot file path: /var/folders/17/q1j6t1zn26b777q0qcpy69sw0000gn/T/tmp-screenshot-i1qanw1n.png
+2022-02-17 22:14:46,238 INFO     carbon_initialization.initialization -- current package sent in as: ccf01b3f-4730-4a13-96a1-a8b1b899131a
+2022-02-17 22:14:46,238 INFO     carbon_initialization.initialization -- ended dom stability
+2022-02-17 22:14:46,239 INFO     carbon_explore.explore -- package is set to: ccf01b3f-4730-4a13-96a1-a8b1b899131a
+2022-02-17 22:14:46,239 INFO     carbon_explore.explore -- 
+2022-02-17 22:14:46,239 INFO     carbon_explore.explore -- ********************************************************************************
+2022-02-17 22:14:46,239 INFO     carbon_explore.explore -- * Beginning step: 0, Test completed: False, Total steps: 9
+2022-02-17 22:14:46,239 INFO     carbon_explore.explore -- * Description: 
+2022-02-17 22:14:46,240 INFO     carbon_explore.explore -- ********************************************************************************
+2022-02-17 22:14:46,240 INFO     carbon_explore.explore -- 
+2022-02-17 22:14:46,406 INFO     carbon_utils.scrape_utils -- Screen density: 1.0
+2022-02-17 22:14:46,412 INFO     carbon_utils.scrape_utils -- Time to get snapshot: 0.11087566800006243
+2022-02-17 22:14:46,412 INFO     carbon_utils.scrape_utils -- Time to get document: 0.034521799999993164
+2022-02-17 22:14:46,412 INFO     carbon_utils.scrape_utils -- Time to determine visibility: 0.023542610999925273
+2022-02-17 22:14:46,412 INFO     carbon_utils.scrape_utils -- Time to determine text: 0.024545906999946965
+2022-02-17 22:14:46,412 INFO     carbon_utils.scrape_utils -- Time to prune: 0.00018914099996436562
+2022-02-17 22:14:46,412 INFO     carbon_utils.scrape_utils -- Time to convert: 0.0002856610000208093
+2022-02-17 22:14:46,412 INFO     carbon_utils.scrape_utils -- Total scraped elements: 314
+2022-02-17 22:14:46,450 INFO     carbon_explore.explore -- Determining active labels.
+2022-02-17 22:14:46,450 INFO     carbon_explore.explore -- Determining active models.
+2022-02-17 22:14:46,450 INFO     carbon_explore.explore_utils -- Classifying elements on the screen
+2022-02-17 22:14:47,579 INFO     carbon_classifiers.textual.textual_classifier -- Loading TextualClassifier.
+2022-02-17 22:14:48,567 INFO     carbon_classifiers.screen_similarity.screen_similarity_classifier -- No labeled screens.
+2022-02-17 22:14:48,567 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2022-02-17 22:14:48,665 INFO     carbon_classifiers.perceptual.nn_classifier -- elem classified: btn_cart, score: 1.0
+2022-02-17 22:14:48,666 WARNING  carbon_classifiers.template_matching.template_matching_classifier -- No template directory exists at /Users/testai/test_ai/templates
+2022-02-17 22:14:48,666 INFO     carbon_classifiers.textual.textual_classifier -- Classifying screen with TextualClassifier.
+2022-02-17 22:14:48,669 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 1.0892184829999678 seconds
+2022-02-17 22:14:48,669 INFO     carbon_explore.explore -- Completed getting labels for screen
+2022-02-17 22:14:48,669 INFO     carbon_explore.explore -- Handling test step type: Action
+2022-02-17 22:14:48,669 INFO     carbon_explore.explore -- found all labels
+2022-02-17 22:14:48,670 INFO     carbon_explore.explore -- found elem: {'content-desc': '', 'hier_level': 0, 'package': '', 'password': False, 'resource-id': '', 'enabled': True, 'human_hash': 'div_X1525_Y860_W25_H25', 'behavior': '', 'is_transformed': True, 'transformed': True, 'x': 1525, 'y': 860, 'width': 25, 'height': 25, 'tag_name': 'div', 'class': 'div', 'text': 'Next', 'hash': 'A/GnMgkGTENyEVTUHQaK4A==\n', 'checkable': False, 'focusable': True, 'clickable': True, 'focused': False, 'scrollable': False, 'internal': {'location': {'x': 1525.0, 'y': 860.0}, 'size': {'width': 25.0, 'height': 25.0}, 'tag_name': 'div', 'text': 'Next', 'elem_dict': {'x': 1525.0, 'y': 860.0, 'width': 25.0, 'height': 25.0, 'tagName': 'div', 'attributes': {'class': 'elementor-swiper-button elementor-swiper-button-next', 'tabindex': '0', 'role': 'button', 'aria-label': 'Next slide'}, 'flags': {'enabled': True, 'checkable': False, 'focusable': True, 'clickable': True, 'focused': False, 'scrollable': False}, 'text': 'Next', 'backend_node_id': 18, 'key': '1525_860_25_25_Next'}}, 'index': -1, 'elem_shot_file_path': '/Users/testai/test_ai/apps/ccf01b3f-4730-4a13-96a1-a8b1b899131a/builds/64a18977-2fde-43b7-9198-651fed6c8a58/test_runs/20220217221437/tmpZ/123145583001600/div_X1525_Y860_W25_H25.png', 'img_hash': '078e8f317af84b05fca54b6885bba605', 'text_hash': 'c0f44ba56073da5bdcd5af880cc4505e', 'human_readable': 'div_1525_860_25_25_div_fffffffff1fff0fff87ffc3ffe1fff0fff0ffe1ffc3ff87ff0fff1ffffffffff_c0f44ba56073da5bdcd5af880cc4505e'}, input: hover
+2022-02-17 22:14:48,752 INFO     carbon_explore.explore -- Gesture: hover
+2022-02-17 22:14:48,754 INFO     carbon_utils.action_utils -- Action: Hover
+2022-02-17 22:14:48,754 INFO     carbon_utils.action_utils --    On Element: div_X1533_Y38_W27_H29
+2022-02-17 22:14:48,754 INFO     carbon_utils.action_utils --    Sending cx: 1546 cy: 52
+2022-02-17 22:14:48,754 INFO     carbon_automation.driver -- Issuing hover
+2022-02-17 22:14:49,112 INFO     carbon_explore.explore -- DOM stability timing: pre
+2022-02-17 22:14:49,136 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:14:49,266 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:14:49,391 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:14:49,517 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:14:49,643 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:14:49,769 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:14:49,770 INFO     carbon_actions.carbon_actions -- Seen the same screen the max amount (5)
+2022-02-17 22:14:49,770 INFO     carbon_explore.explore_utils -- Saving screenshot.
+2022-02-17 22:14:50,549 INFO     carbon_explore.explore_utils -- Screenshot file path: /var/folders/17/q1j6t1zn26b777q0qcpy69sw0000gn/T/tmp-screenshot-0s4_eega.png
+2022-02-17 22:14:50,573 INFO     carbon_explore.explore -- DOM stability timing: post
+2022-02-17 22:14:50,573 INFO     carbon_explore.explore -- Step: 0 complete
+2022-02-17 22:14:50,574 INFO     carbon_explore.explore -- 
+2022-02-17 22:14:50,574 INFO     carbon_explore.explore -- ********************************************************************************
+2022-02-17 22:14:50,574 INFO     carbon_explore.explore -- * Beginning step: 1, Test completed: False, Total steps: 9
+2022-02-17 22:14:50,574 INFO     carbon_explore.explore -- * Description: 
+2022-02-17 22:14:50,574 INFO     carbon_explore.explore -- ********************************************************************************
+2022-02-17 22:14:50,574 INFO     carbon_explore.explore -- 
+2022-02-17 22:14:50,675 INFO     carbon_utils.scrape_utils -- Screen density: 1.0
+2022-02-17 22:14:50,681 INFO     carbon_utils.scrape_utils -- Time to get snapshot: 0.05843075699999645
+2022-02-17 22:14:50,682 INFO     carbon_utils.scrape_utils -- Time to get document: 0.02911946500000795
+2022-02-17 22:14:50,682 INFO     carbon_utils.scrape_utils -- Time to determine visibility: 0.01619870100000753
+2022-02-17 22:14:50,682 INFO     carbon_utils.scrape_utils -- Time to determine text: 0.017228871999918738
+2022-02-17 22:14:50,682 INFO     carbon_utils.scrape_utils -- Time to prune: 0.0001886000000013155
+2022-02-17 22:14:50,682 INFO     carbon_utils.scrape_utils -- Time to convert: 0.00033966000000873464
+2022-02-17 22:14:50,682 INFO     carbon_utils.scrape_utils -- Total scraped elements: 318
+2022-02-17 22:14:50,717 INFO     carbon_explore.explore -- Determining active labels.
+2022-02-17 22:14:50,717 INFO     carbon_explore.explore -- Determining active models.
+2022-02-17 22:14:50,718 INFO     carbon_explore.explore_utils -- Classifying elements on the screen
+2022-02-17 22:14:50,718 INFO     carbon_classifiers.textual.textual_classifier -- Loading TextualClassifier.
+2022-02-17 22:14:51,622 INFO     carbon_classifiers.screen_similarity.screen_similarity_classifier -- No labeled screens.
+2022-02-17 22:14:51,623 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2022-02-17 22:14:51,714 INFO     carbon_classifiers.perceptual.nn_classifier -- elem classified: btn_store, score: 1.0
+2022-02-17 22:14:51,714 WARNING  carbon_classifiers.template_matching.template_matching_classifier -- No template directory exists at /Users/testai/test_ai/templates
+2022-02-17 22:14:51,715 INFO     carbon_classifiers.textual.textual_classifier -- Classifying screen with TextualClassifier.
+2022-02-17 22:14:51,717 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 0.9986149259999593 seconds
+2022-02-17 22:14:51,717 INFO     carbon_explore.explore -- Completed getting labels for screen
+2022-02-17 22:14:51,717 INFO     carbon_explore.explore -- Handling test step type: Action
+2022-02-17 22:14:51,717 INFO     carbon_explore.explore -- found all labels
+2022-02-17 22:14:51,717 INFO     carbon_explore.explore -- found elem: {'content-desc': '', 'hier_level': 0, 'package': '', 'password': False, 'resource-id': '', 'enabled': True, 'human_hash': 'div_X1525_Y860_W25_H25', 'behavior': '', 'is_transformed': True, 'transformed': True, 'x': 1525, 'y': 860, 'width': 25, 'height': 25, 'tag_name': 'div', 'class': 'div', 'text': 'Next', 'hash': 'A/GnMgkGTENyEVTUHQaK4A==\n', 'checkable': False, 'focusable': True, 'clickable': True, 'focused': False, 'scrollable': False, 'internal': {'location': {'x': 1525.0, 'y': 860.0}, 'size': {'width': 25.0, 'height': 25.0}, 'tag_name': 'div', 'text': 'Next', 'elem_dict': {'x': 1525.0, 'y': 860.0, 'width': 25.0, 'height': 25.0, 'tagName': 'div', 'attributes': {'class': 'elementor-swiper-button elementor-swiper-button-next', 'tabindex': '0', 'role': 'button', 'aria-label': 'Next slide'}, 'flags': {'enabled': True, 'checkable': False, 'focusable': True, 'clickable': True, 'focused': False, 'scrollable': False}, 'text': 'Next', 'backend_node_id': 18, 'key': '1525_860_25_25_Next'}}, 'index': -1, 'elem_shot_file_path': '/Users/testai/test_ai/apps/ccf01b3f-4730-4a13-96a1-a8b1b899131a/builds/64a18977-2fde-43b7-9198-651fed6c8a58/test_runs/20220217221437/tmpZ/123145515843584/div_X1525_Y860_W25_H25.png', 'img_hash': '078e8f317af84b05fca54b6885bba605', 'text_hash': 'c0f44ba56073da5bdcd5af880cc4505e', 'human_readable': 'div_1525_860_25_25_div_fffffffff1fff0fff87ffc3ffe1fff0fff0ffe1ffc3ff87ff0fff1ffffffffff_c0f44ba56073da5bdcd5af880cc4505e'}, input: tap
+2022-02-17 22:14:51,793 INFO     carbon_explore.explore -- Gesture: tap
+2022-02-17 22:14:51,794 INFO     carbon_utils.action_utils -- Action: Tap
+2022-02-17 22:14:51,794 INFO     carbon_utils.action_utils --    On Element: a_X911_Y16_W69_H70
+2022-02-17 22:14:51,795 INFO     carbon_utils.action_utils --    Sending cx: 945 cy: 51
+2022-02-17 22:14:52,516 INFO     carbon_explore.explore -- DOM stability timing: pre
+2022-02-17 22:14:52,538 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:14:52,662 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:14:52,788 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:14:52,912 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:14:53,040 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:14:53,166 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:14:53,166 INFO     carbon_actions.carbon_actions -- Seen the same screen the max amount (5)
+2022-02-17 22:14:53,166 INFO     carbon_explore.explore_utils -- Saving screenshot.
+2022-02-17 22:14:53,585 INFO     carbon_explore.explore_utils -- Screenshot file path: /var/folders/17/q1j6t1zn26b777q0qcpy69sw0000gn/T/tmp-screenshot-rhsmtmvb.png
+2022-02-17 22:14:53,608 INFO     carbon_explore.explore -- DOM stability timing: post
+2022-02-17 22:14:53,609 INFO     carbon_explore.explore -- Step: 1 complete
+2022-02-17 22:14:53,609 INFO     carbon_explore.explore -- 
+2022-02-17 22:14:53,609 INFO     carbon_explore.explore -- ********************************************************************************
+2022-02-17 22:14:53,609 INFO     carbon_explore.explore -- * Beginning step: 2, Test completed: False, Total steps: 9
+2022-02-17 22:14:53,609 INFO     carbon_explore.explore -- * Description: 
+2022-02-17 22:14:53,609 INFO     carbon_explore.explore -- ********************************************************************************
+2022-02-17 22:14:53,609 INFO     carbon_explore.explore -- 
+2022-02-17 22:14:53,703 INFO     carbon_utils.scrape_utils -- Screen density: 1.0
+2022-02-17 22:14:53,709 INFO     carbon_utils.scrape_utils -- Time to get snapshot: 0.05561058299997512
+2022-02-17 22:14:53,709 INFO     carbon_utils.scrape_utils -- Time to get document: 0.02532861400004549
+2022-02-17 22:14:53,709 INFO     carbon_utils.scrape_utils -- Time to determine visibility: 0.015159949000008055
+2022-02-17 22:14:53,709 INFO     carbon_utils.scrape_utils -- Time to determine text: 0.01626296699998875
+2022-02-17 22:14:53,709 INFO     carbon_utils.scrape_utils -- Time to prune: 0.00019713699998646916
+2022-02-17 22:14:53,709 INFO     carbon_utils.scrape_utils -- Time to convert: 0.0007612020000351549
+2022-02-17 22:14:53,709 INFO     carbon_utils.scrape_utils -- Total scraped elements: 331
+2022-02-17 22:14:53,743 INFO     carbon_explore.explore -- Determining active labels.
+2022-02-17 22:14:53,743 INFO     carbon_explore.explore -- Determining active models.
+2022-02-17 22:14:53,743 INFO     carbon_explore.explore_utils -- Classifying elements on the screen
+2022-02-17 22:14:53,743 INFO     carbon_classifiers.textual.textual_classifier -- Loading TextualClassifier.
+2022-02-17 22:14:54,768 INFO     carbon_classifiers.screen_similarity.screen_similarity_classifier -- No labeled screens.
+2022-02-17 22:14:54,768 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2022-02-17 22:14:54,866 INFO     carbon_classifiers.perceptual.nn_classifier -- elem classified: inp_search, score: 1.0
+2022-02-17 22:14:54,866 WARNING  carbon_classifiers.template_matching.template_matching_classifier -- No template directory exists at /Users/testai/test_ai/templates
+2022-02-17 22:14:54,867 INFO     carbon_classifiers.textual.textual_classifier -- Classifying screen with TextualClassifier.
+2022-02-17 22:14:54,870 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 1.1264227880000135 seconds
+2022-02-17 22:14:54,870 INFO     carbon_explore.explore -- Completed getting labels for screen
+2022-02-17 22:14:54,870 INFO     carbon_explore.explore -- Handling test step type: Action
+2022-02-17 22:14:54,870 INFO     carbon_explore.explore -- found all labels
+2022-02-17 22:14:54,870 INFO     carbon_explore.explore -- found elem: {'content-desc': '', 'hier_level': 0, 'package': '', 'password': False, 'resource-id': '', 'enabled': True, 'human_hash': 'div_X1364_Y914_W69_H13', 'behavior': '', 'is_transformed': True, 'transformed': True, 'x': 1364, 'y': 914, 'width': 69, 'height': 13, 'tag_name': 'div', 'class': 'div', 'text': 'Rated  0  out of 5', 'hash': 'LTVKnWNUicLW6iNRHWUfzw==\n', 'checkable': False, 'focusable': True, 'clickable': True, 'focused': False, 'scrollable': False, 'internal': {'location': {'x': 1364.0, 'y': 914.0}, 'size': {'width': 69.0, 'height': 13.0}, 'tag_name': 'div', 'text': 'Rated  0  out of 5', 'elem_dict': {'x': 1364.0, 'y': 914.0, 'width': 69.0, 'height': 13.0, 'tagName': 'div', 'attributes': {'class': 'star-rating'}, 'flags': {'enabled': True, 'checkable': False, 'focusable': True, 'clickable': True, 'focused': False, 'scrollable': False}, 'text': 'Rated  0  out of 5', 'backend_node_id': 2432, 'key': '1364_914_69_13_Rated  0  out of 5'}}, 'index': -1, 'elem_shot_file_path': '/Users/testai/test_ai/apps/ccf01b3f-4730-4a13-96a1-a8b1b899131a/builds/64a18977-2fde-43b7-9198-651fed6c8a58/test_runs/20220217221437/tmpZ/123145448685568/div_X1364_Y914_W69_H13.png', 'img_hash': '75b41afd9f67fbe20841296f02066a45', 'text_hash': 'fc720444fe954c9db751cfef1d2dd6ba', 'human_readable': 'div_1364_914_69_13_div_b6cdb64db6cd9249000049b64db649b7fffffffff7ff924912491249ffffffff_fc720444fe954c9db751cfef1d2dd6ba'}, input: text_entry
+2022-02-17 22:14:54,947 INFO     carbon_explore.explore -- Gesture: bag
+2022-02-17 22:14:54,949 INFO     carbon_utils.action_utils -- Action: text entry
+2022-02-17 22:14:54,949 INFO     carbon_utils.action_utils --    Sending text: bag
+2022-02-17 22:14:56,197 INFO     carbon_explore.explore -- DOM stability timing: pre
+2022-02-17 22:14:56,215 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:14:56,340 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:14:56,464 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:14:56,584 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:14:56,704 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:14:56,823 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:14:56,824 INFO     carbon_actions.carbon_actions -- Seen the same screen the max amount (5)
+2022-02-17 22:14:56,824 INFO     carbon_explore.explore_utils -- Saving screenshot.
+2022-02-17 22:14:57,140 INFO     carbon_explore.explore_utils -- Screenshot file path: /var/folders/17/q1j6t1zn26b777q0qcpy69sw0000gn/T/tmp-screenshot-8afs559i.png
+2022-02-17 22:14:57,159 INFO     carbon_explore.explore -- DOM stability timing: post
+2022-02-17 22:14:57,159 INFO     carbon_explore.explore -- Step: 2 complete
+2022-02-17 22:14:57,160 INFO     carbon_explore.explore -- 
+2022-02-17 22:14:57,160 INFO     carbon_explore.explore -- ********************************************************************************
+2022-02-17 22:14:57,160 INFO     carbon_explore.explore -- * Beginning step: 3, Test completed: False, Total steps: 9
+2022-02-17 22:14:57,160 INFO     carbon_explore.explore -- * Description: 
+2022-02-17 22:14:57,160 INFO     carbon_explore.explore -- ********************************************************************************
+2022-02-17 22:14:57,160 INFO     carbon_explore.explore -- 
+2022-02-17 22:14:57,236 INFO     carbon_utils.scrape_utils -- Screen density: 1.0
+2022-02-17 22:14:57,239 INFO     carbon_utils.scrape_utils -- Time to get snapshot: 0.04030748299999232
+2022-02-17 22:14:57,239 INFO     carbon_utils.scrape_utils -- Time to get document: 0.020942619000038576
+2022-02-17 22:14:57,240 INFO     carbon_utils.scrape_utils -- Time to determine visibility: 0.01451127199993607
+2022-02-17 22:14:57,240 INFO     carbon_utils.scrape_utils -- Time to determine text: 0.015147881999951096
+2022-02-17 22:14:57,240 INFO     carbon_utils.scrape_utils -- Time to prune: 0.00011645699999007775
+2022-02-17 22:14:57,240 INFO     carbon_utils.scrape_utils -- Time to convert: 0.00021365500003867055
+2022-02-17 22:14:57,240 INFO     carbon_utils.scrape_utils -- Total scraped elements: 196
+2022-02-17 22:14:57,266 INFO     carbon_explore.explore -- Determining active labels.
+2022-02-17 22:14:57,266 INFO     carbon_explore.explore -- Determining active models.
+2022-02-17 22:14:57,266 INFO     carbon_explore.explore_utils -- Classifying elements on the screen
+2022-02-17 22:14:57,267 INFO     carbon_classifiers.textual.textual_classifier -- Loading TextualClassifier.
+2022-02-17 22:14:57,894 INFO     carbon_classifiers.screen_similarity.screen_similarity_classifier -- No labeled screens.
+2022-02-17 22:14:57,894 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2022-02-17 22:14:57,971 INFO     carbon_classifiers.perceptual.nn_classifier -- elem classified: img_red_bag, score: 0.99
+2022-02-17 22:14:57,971 WARNING  carbon_classifiers.template_matching.template_matching_classifier -- No template directory exists at /Users/testai/test_ai/templates
+2022-02-17 22:14:57,971 INFO     carbon_classifiers.textual.textual_classifier -- Classifying screen with TextualClassifier.
+2022-02-17 22:14:57,973 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 0.7067187080000394 seconds
+2022-02-17 22:14:57,974 INFO     carbon_explore.explore -- Completed getting labels for screen
+2022-02-17 22:14:57,974 INFO     carbon_explore.explore -- Handling test step type: Action
+2022-02-17 22:14:57,974 INFO     carbon_explore.explore -- found all labels
+2022-02-17 22:14:57,974 INFO     carbon_explore.explore -- found elem: {'content-desc': '', 'hier_level': 0, 'package': '', 'password': False, 'resource-id': '', 'enabled': True, 'human_hash': 'div_X935_Y557_W69_H13', 'behavior': '', 'is_transformed': True, 'transformed': True, 'x': 935, 'y': 557, 'width': 69, 'height': 13, 'tag_name': 'div', 'class': 'div', 'text': 'Rated  0  out of 5', 'hash': 'bHcnUguswytudXdyxprukQ==\n', 'checkable': False, 'focusable': True, 'clickable': True, 'focused': False, 'scrollable': False, 'internal': {'location': {'x': 935.0, 'y': 557.0}, 'size': {'width': 69.0, 'height': 13.0}, 'tag_name': 'div', 'text': 'Rated  0  out of 5', 'elem_dict': {'x': 935.0, 'y': 557.0, 'width': 69.0, 'height': 13.0, 'tagName': 'div', 'attributes': {'class': 'star-rating'}, 'flags': {'enabled': True, 'checkable': False, 'focusable': True, 'clickable': True, 'focused': False, 'scrollable': False}, 'text': 'Rated  0  out of 5', 'backend_node_id': 3561, 'key': '935_557_69_13_Rated  0  out of 5'}}, 'index': -1, 'elem_shot_file_path': '/Users/testai/test_ai/apps/ccf01b3f-4730-4a13-96a1-a8b1b899131a/builds/64a18977-2fde-43b7-9198-651fed6c8a58/test_runs/20220217221437/tmpZ/123145448685568/div_X935_Y557_W69_H13.png', 'img_hash': '375a36081ce54101a07c1a66ca4dbfb0', 'text_hash': 'fc720444fe954c9db751cfef1d2dd6ba', 'human_readable': 'div_935_557_69_13_div_b6d9b6c9b6d932490000493649b649377ffffffffeff324902491249ffffffff_fc720444fe954c9db751cfef1d2dd6ba'}, input: tap
+2022-02-17 22:14:58,039 INFO     carbon_explore.explore -- Gesture: tap
+2022-02-17 22:14:58,041 INFO     carbon_utils.action_utils -- Action: Tap
+2022-02-17 22:14:58,041 INFO     carbon_utils.action_utils --    On Element: img_X360_Y615_W60_H60
+2022-02-17 22:14:58,041 INFO     carbon_utils.action_utils --    Sending cx: 390 cy: 645
+2022-02-17 22:14:59,220 INFO     carbon_explore.explore -- DOM stability timing: pre
+2022-02-17 22:14:59,241 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:14:59,365 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:14:59,496 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:14:59,616 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:14:59,741 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:14:59,867 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:14:59,867 INFO     carbon_actions.carbon_actions -- Seen the same screen the max amount (5)
+2022-02-17 22:14:59,867 INFO     carbon_explore.explore_utils -- Saving screenshot.
+2022-02-17 22:15:00,222 INFO     carbon_explore.explore_utils -- Screenshot file path: /var/folders/17/q1j6t1zn26b777q0qcpy69sw0000gn/T/tmp-screenshot-5q4vqby5.png
+2022-02-17 22:15:00,245 INFO     carbon_explore.explore -- DOM stability timing: post
+2022-02-17 22:15:00,245 INFO     carbon_explore.explore -- Step: 3 complete
+2022-02-17 22:15:00,245 INFO     carbon_explore.explore -- 
+2022-02-17 22:15:00,246 INFO     carbon_explore.explore -- ********************************************************************************
+2022-02-17 22:15:00,246 INFO     carbon_explore.explore -- * Beginning step: 4, Test completed: False, Total steps: 9
+2022-02-17 22:15:00,246 INFO     carbon_explore.explore -- * Description: 
+2022-02-17 22:15:00,246 INFO     carbon_explore.explore -- ********************************************************************************
+2022-02-17 22:15:00,246 INFO     carbon_explore.explore -- 
+2022-02-17 22:15:00,332 INFO     carbon_utils.scrape_utils -- Screen density: 1.0
+2022-02-17 22:15:00,336 INFO     carbon_utils.scrape_utils -- Time to get snapshot: 0.05394270099998266
+2022-02-17 22:15:00,336 INFO     carbon_utils.scrape_utils -- Time to get document: 0.020632852999938223
+2022-02-17 22:15:00,336 INFO     carbon_utils.scrape_utils -- Time to determine visibility: 0.012022363000028236
+2022-02-17 22:15:00,336 INFO     carbon_utils.scrape_utils -- Time to determine text: 0.012648558000023513
+2022-02-17 22:15:00,336 INFO     carbon_utils.scrape_utils -- Time to prune: 0.0001348719999896275
+2022-02-17 22:15:00,336 INFO     carbon_utils.scrape_utils -- Time to convert: 0.00019030299995392852
+2022-02-17 22:15:00,336 INFO     carbon_utils.scrape_utils -- Total scraped elements: 170
+2022-02-17 22:15:00,360 INFO     carbon_explore.explore -- Determining active labels.
+2022-02-17 22:15:00,360 INFO     carbon_explore.explore -- Determining active models.
+2022-02-17 22:15:00,361 INFO     carbon_explore.explore_utils -- Classifying elements on the screen
+2022-02-17 22:15:00,361 INFO     carbon_classifiers.textual.textual_classifier -- Loading TextualClassifier.
+2022-02-17 22:15:00,731 INFO     carbon_classifiers.screen_similarity.screen_similarity_classifier -- No labeled screens.
+2022-02-17 22:15:00,731 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2022-02-17 22:15:00,774 INFO     carbon_classifiers.perceptual.nn_classifier -- elem classified: img_red_bag, score: 1.0
+2022-02-17 22:15:00,774 WARNING  carbon_classifiers.template_matching.template_matching_classifier -- No template directory exists at /Users/testai/test_ai/templates
+2022-02-17 22:15:00,774 INFO     carbon_classifiers.textual.textual_classifier -- Classifying screen with TextualClassifier.
+2022-02-17 22:15:00,776 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 0.41500148599993736 seconds
+2022-02-17 22:15:00,776 INFO     carbon_explore.explore -- Completed getting labels for screen
+2022-02-17 22:15:00,777 INFO     carbon_explore.explore -- 9 -- 4
+2022-02-17 22:15:00,777 INFO     carbon_explore.explore -- Handling test step type: Verification
+2022-02-17 22:15:00,777 INFO     carbon_explore.explore -- curr_step: {'continue_on_failure': False, 'description': '', 'grep': '', 'grep_count': None, 'input': '', 'label_count': None, 'labels': ['img_red_bag'], 'stepIsOpen': False, 'timeout': None, 'type': 'verification', 'widget': '', 'is_imported': False}
+2022-02-17 22:15:00,777 INFO     carbon_explore.explore -- found label(s) ['img_red_bag'], None times, verification passed
+2022-02-17 22:15:01,205 INFO     carbon_explore.explore -- 9 -- 5
+2022-02-17 22:15:01,206 INFO     carbon_explore.explore -- Handling test step type: Verification
+2022-02-17 22:15:01,206 INFO     carbon_explore.explore -- curr_step: {'continue_on_failure': False, 'description': '', 'grep': 'Bright Red Bag', 'grep_count': None, 'input': '', 'label_count': None, 'labels': [], 'stepIsOpen': False, 'timeout': None, 'type': 'verification', 'widget': '', 'is_imported': False}
+2022-02-17 22:15:01,206 INFO     carbon_explore.explore -- found label(s) [], None times, verification passed
+2022-02-17 22:15:01,666 INFO     carbon_explore.explore -- Gesture: no_op
+2022-02-17 22:15:01,667 INFO     carbon_explore.explore -- action: NoOp
+2022-02-17 22:15:01,668 INFO     carbon_explore.explore -- DOM stability timing: pre
+2022-02-17 22:15:01,688 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:15:01,814 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:15:01,937 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:15:02,061 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:15:02,185 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:15:02,307 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:15:02,307 INFO     carbon_actions.carbon_actions -- Seen the same screen the max amount (5)
+2022-02-17 22:15:02,307 INFO     carbon_explore.explore_utils -- Saving screenshot.
+2022-02-17 22:15:02,655 INFO     carbon_explore.explore_utils -- Screenshot file path: /var/folders/17/q1j6t1zn26b777q0qcpy69sw0000gn/T/tmp-screenshot-sm3u90if.png
+2022-02-17 22:15:02,676 INFO     carbon_explore.explore -- DOM stability timing: post
+2022-02-17 22:15:02,677 INFO     carbon_explore.explore -- Step: 5 complete
+2022-02-17 22:15:02,677 INFO     carbon_explore.explore -- 
+2022-02-17 22:15:02,677 INFO     carbon_explore.explore -- ********************************************************************************
+2022-02-17 22:15:02,677 INFO     carbon_explore.explore -- * Beginning step: 6, Test completed: False, Total steps: 9
+2022-02-17 22:15:02,677 INFO     carbon_explore.explore -- * Description: 
+2022-02-17 22:15:02,677 INFO     carbon_explore.explore -- ********************************************************************************
+2022-02-17 22:15:02,678 INFO     carbon_explore.explore -- 
+2022-02-17 22:15:02,747 INFO     carbon_utils.scrape_utils -- Screen density: 1.0
+2022-02-17 22:15:02,750 INFO     carbon_utils.scrape_utils -- Time to get snapshot: 0.03561448300001757
+2022-02-17 22:15:02,750 INFO     carbon_utils.scrape_utils -- Time to get document: 0.02159026700007871
+2022-02-17 22:15:02,750 INFO     carbon_utils.scrape_utils -- Time to determine visibility: 0.012104786000008971
+2022-02-17 22:15:02,751 INFO     carbon_utils.scrape_utils -- Time to determine text: 0.012747487000069668
+2022-02-17 22:15:02,751 INFO     carbon_utils.scrape_utils -- Time to prune: 0.0001376100000243241
+2022-02-17 22:15:02,751 INFO     carbon_utils.scrape_utils -- Time to convert: 0.00018617700004597282
+2022-02-17 22:15:02,751 INFO     carbon_utils.scrape_utils -- Total scraped elements: 170
+2022-02-17 22:15:02,775 INFO     carbon_explore.explore -- Determining active labels.
+2022-02-17 22:15:02,775 INFO     carbon_explore.explore -- Determining active models.
+2022-02-17 22:15:02,775 INFO     carbon_explore.explore_utils -- Classifying elements on the screen
+2022-02-17 22:15:02,776 INFO     carbon_classifiers.textual.textual_classifier -- Loading TextualClassifier.
+2022-02-17 22:15:03,149 INFO     carbon_classifiers.screen_similarity.screen_similarity_classifier -- No labeled screens.
+2022-02-17 22:15:03,150 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2022-02-17 22:15:03,190 WARNING  carbon_classifiers.template_matching.template_matching_classifier -- No template directory exists at /Users/testai/test_ai/templates
+2022-02-17 22:15:03,191 INFO     carbon_classifiers.textual.textual_classifier -- Classifying screen with TextualClassifier.
+2022-02-17 22:15:03,192 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 0.4166864370000667 seconds
+2022-02-17 22:15:03,193 INFO     carbon_explore.explore -- Completed getting labels for screen
+2022-02-17 22:15:03,193 INFO     carbon_explore.explore -- Handling test step type: Action
+2022-02-17 22:15:03,193 INFO     carbon_explore.explore -- test_l: btn_add_to_cart not in set()
+2022-02-17 22:15:03,193 ERROR    carbon_test_case.test_utils -- 
+2022-02-17 22:15:03,193 ERROR    carbon_test_case.test_utils -- ******************************************************************
+2022-02-17 22:15:03,193 ERROR    carbon_test_case.test_utils -- * TEST FAILURE: matches not found in screen labels, failing test *
+2022-02-17 22:15:03,193 ERROR    carbon_test_case.test_utils -- ******************************************************************
+2022-02-17 22:15:03,193 ERROR    carbon_test_case.test_utils -- 
+2022-02-17 22:15:03,193 INFO     carbon_explore.explore -- Unable to find label, waiting for DOM stability then retrying...
+2022-02-17 22:15:03,212 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:15:03,335 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:15:03,461 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:15:03,581 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:15:03,705 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:15:03,832 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:15:03,832 INFO     carbon_actions.carbon_actions -- Seen the same screen the max amount (5)
+2022-02-17 22:15:03,832 INFO     carbon_explore.explore_utils -- Saving screenshot.
+2022-02-17 22:15:04,180 INFO     carbon_explore.explore_utils -- Screenshot file path: /var/folders/17/q1j6t1zn26b777q0qcpy69sw0000gn/T/tmp-screenshot-41fni18q.png
+2022-02-17 22:15:04,265 INFO     carbon_utils.scrape_utils -- Screen density: 1.0
+2022-02-17 22:15:04,268 INFO     carbon_utils.scrape_utils -- Time to get snapshot: 0.03500109600008727
+2022-02-17 22:15:04,268 INFO     carbon_utils.scrape_utils -- Time to get document: 0.01922623100006149
+2022-02-17 22:15:04,268 INFO     carbon_utils.scrape_utils -- Time to determine visibility: 0.012372932999937802
+2022-02-17 22:15:04,269 INFO     carbon_utils.scrape_utils -- Time to determine text: 0.012997844999972585
+2022-02-17 22:15:04,269 INFO     carbon_utils.scrape_utils -- Time to prune: 0.0001384539999662593
+2022-02-17 22:15:04,269 INFO     carbon_utils.scrape_utils -- Time to convert: 0.0001891779999141363
+2022-02-17 22:15:04,269 INFO     carbon_utils.scrape_utils -- Total scraped elements: 170
+2022-02-17 22:15:04,292 INFO     carbon_explore.explore -- Determining active labels.
+2022-02-17 22:15:04,292 INFO     carbon_explore.explore -- Determining active models.
+2022-02-17 22:15:04,292 INFO     carbon_explore.explore_utils -- Classifying elements on the screen
+2022-02-17 22:15:04,293 INFO     carbon_classifiers.textual.textual_classifier -- Loading TextualClassifier.
+2022-02-17 22:15:04,673 INFO     carbon_classifiers.screen_similarity.screen_similarity_classifier -- No labeled screens.
+2022-02-17 22:15:04,674 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2022-02-17 22:15:04,716 WARNING  carbon_classifiers.template_matching.template_matching_classifier -- No template directory exists at /Users/testai/test_ai/templates
+2022-02-17 22:15:04,717 INFO     carbon_classifiers.textual.textual_classifier -- Classifying screen with TextualClassifier.
+2022-02-17 22:15:04,719 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 0.42595471099991755 seconds
+2022-02-17 22:15:04,719 INFO     carbon_explore.explore -- Completed getting labels for screen
+2022-02-17 22:15:04,719 INFO     carbon_explore.explore -- Handling test step type: Action
+2022-02-17 22:15:04,719 INFO     carbon_explore.explore -- test_l: btn_add_to_cart not in set()
+2022-02-17 22:15:04,720 ERROR    carbon_test_case.test_utils -- 
+2022-02-17 22:15:04,720 ERROR    carbon_test_case.test_utils -- ******************************************************************
+2022-02-17 22:15:04,720 ERROR    carbon_test_case.test_utils -- * TEST FAILURE: matches not found in screen labels, failing test *
+2022-02-17 22:15:04,720 ERROR    carbon_test_case.test_utils -- ******************************************************************
+2022-02-17 22:15:04,720 ERROR    carbon_test_case.test_utils -- 
+2022-02-17 22:15:04,720 INFO     carbon_explore.explore -- Unable to find label, waiting for DOM stability then retrying...
+2022-02-17 22:15:04,740 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:15:04,860 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:15:04,981 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:15:05,101 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:15:05,221 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:15:05,221 INFO     carbon_actions.carbon_actions -- Seen the same screen the max amount (5)
+2022-02-17 22:15:05,221 INFO     carbon_explore.explore_utils -- Saving screenshot.
+2022-02-17 22:15:05,591 INFO     carbon_explore.explore_utils -- Screenshot file path: /var/folders/17/q1j6t1zn26b777q0qcpy69sw0000gn/T/tmp-screenshot-ti8vxd03.png
+2022-02-17 22:15:05,678 INFO     carbon_utils.scrape_utils -- Screen density: 1.0
+2022-02-17 22:15:05,681 INFO     carbon_utils.scrape_utils -- Time to get snapshot: 0.03695202200003678
+2022-02-17 22:15:05,681 INFO     carbon_utils.scrape_utils -- Time to get document: 0.0199982109999155
+2022-02-17 22:15:05,681 INFO     carbon_utils.scrape_utils -- Time to determine visibility: 0.012067287999911969
+2022-02-17 22:15:05,681 INFO     carbon_utils.scrape_utils -- Time to determine text: 0.012694810999960282
+2022-02-17 22:15:05,681 INFO     carbon_utils.scrape_utils -- Time to prune: 0.000135606999947413
+2022-02-17 22:15:05,681 INFO     carbon_utils.scrape_utils -- Time to convert: 0.0001891709999881641
+2022-02-17 22:15:05,681 INFO     carbon_utils.scrape_utils -- Total scraped elements: 170
+2022-02-17 22:15:05,704 INFO     carbon_explore.explore -- Determining active labels.
+2022-02-17 22:15:05,704 INFO     carbon_explore.explore -- Determining active models.
+2022-02-17 22:15:05,704 INFO     carbon_explore.explore_utils -- Classifying elements on the screen
+2022-02-17 22:15:05,705 INFO     carbon_classifiers.textual.textual_classifier -- Loading TextualClassifier.
+2022-02-17 22:15:06,091 INFO     carbon_classifiers.screen_similarity.screen_similarity_classifier -- No labeled screens.
+2022-02-17 22:15:06,092 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2022-02-17 22:15:06,140 WARNING  carbon_classifiers.template_matching.template_matching_classifier -- No template directory exists at /Users/testai/test_ai/templates
+2022-02-17 22:15:06,140 INFO     carbon_classifiers.textual.textual_classifier -- Classifying screen with TextualClassifier.
+2022-02-17 22:15:06,142 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 0.4365293629999769 seconds
+2022-02-17 22:15:06,142 INFO     carbon_explore.explore -- Completed getting labels for screen
+2022-02-17 22:15:06,142 INFO     carbon_explore.explore -- Handling test step type: Action
+2022-02-17 22:15:06,142 INFO     carbon_explore.explore -- test_l: btn_add_to_cart not in set()
+2022-02-17 22:15:06,142 ERROR    carbon_test_case.test_utils -- 
+2022-02-17 22:15:06,142 ERROR    carbon_test_case.test_utils -- ******************************************************************
+2022-02-17 22:15:06,142 ERROR    carbon_test_case.test_utils -- * TEST FAILURE: matches not found in screen labels, failing test *
+2022-02-17 22:15:06,142 ERROR    carbon_test_case.test_utils -- ******************************************************************
+2022-02-17 22:15:06,142 ERROR    carbon_test_case.test_utils -- 
+2022-02-17 22:15:06,142 INFO     carbon_explore.explore -- Unable to find label, waiting for DOM stability then retrying...
+2022-02-17 22:15:06,161 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:15:06,287 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:15:06,413 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:15:06,533 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:15:06,659 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:15:06,659 INFO     carbon_actions.carbon_actions -- Seen the same screen the max amount (5)
+2022-02-17 22:15:06,659 INFO     carbon_explore.explore_utils -- Saving screenshot.
+2022-02-17 22:15:07,001 INFO     carbon_explore.explore_utils -- Screenshot file path: /var/folders/17/q1j6t1zn26b777q0qcpy69sw0000gn/T/tmp-screenshot-wk9_hra0.png
+2022-02-17 22:15:07,089 INFO     carbon_utils.scrape_utils -- Screen density: 1.0
+2022-02-17 22:15:07,092 INFO     carbon_utils.scrape_utils -- Time to get snapshot: 0.036361825000085446
+2022-02-17 22:15:07,092 INFO     carbon_utils.scrape_utils -- Time to get document: 0.020468394999966222
+2022-02-17 22:15:07,092 INFO     carbon_utils.scrape_utils -- Time to determine visibility: 0.01211661299998923
+2022-02-17 22:15:07,092 INFO     carbon_utils.scrape_utils -- Time to determine text: 0.012747010999987651
+2022-02-17 22:15:07,092 INFO     carbon_utils.scrape_utils -- Time to prune: 0.0001355980000425916
+2022-02-17 22:15:07,092 INFO     carbon_utils.scrape_utils -- Time to convert: 0.00018967100004374515
+2022-02-17 22:15:07,092 INFO     carbon_utils.scrape_utils -- Total scraped elements: 170
+2022-02-17 22:15:07,115 INFO     carbon_explore.explore -- Determining active labels.
+2022-02-17 22:15:07,115 INFO     carbon_explore.explore -- Determining active models.
+2022-02-17 22:15:07,115 INFO     carbon_explore.explore_utils -- Classifying elements on the screen
+2022-02-17 22:15:07,115 INFO     carbon_classifiers.textual.textual_classifier -- Loading TextualClassifier.
+2022-02-17 22:15:07,508 INFO     carbon_classifiers.screen_similarity.screen_similarity_classifier -- No labeled screens.
+2022-02-17 22:15:07,508 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2022-02-17 22:15:07,558 WARNING  carbon_classifiers.template_matching.template_matching_classifier -- No template directory exists at /Users/testai/test_ai/templates
+2022-02-17 22:15:07,558 INFO     carbon_classifiers.textual.textual_classifier -- Classifying screen with TextualClassifier.
+2022-02-17 22:15:07,561 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 0.44544765500006633 seconds
+2022-02-17 22:15:07,561 INFO     carbon_explore.explore -- Completed getting labels for screen
+2022-02-17 22:15:07,561 INFO     carbon_explore.explore -- Handling test step type: Action
+2022-02-17 22:15:07,561 INFO     carbon_explore.explore -- test_l: btn_add_to_cart not in set()
+2022-02-17 22:15:07,561 ERROR    carbon_test_case.test_utils -- 
+2022-02-17 22:15:07,562 ERROR    carbon_test_case.test_utils -- ******************************************************************
+2022-02-17 22:15:07,562 ERROR    carbon_test_case.test_utils -- * TEST FAILURE: matches not found in screen labels, failing test *
+2022-02-17 22:15:07,562 ERROR    carbon_test_case.test_utils -- ******************************************************************
+2022-02-17 22:15:07,562 ERROR    carbon_test_case.test_utils -- 
+2022-02-17 22:15:07,562 INFO     carbon_explore.explore -- Unable to find label, waiting for DOM stability then retrying...
+2022-02-17 22:15:07,581 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:15:07,707 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:15:07,830 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:15:07,955 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:15:08,078 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-17 22:15:08,078 INFO     carbon_actions.carbon_actions -- Seen the same screen the max amount (5)
+2022-02-17 22:15:08,078 INFO     carbon_explore.explore_utils -- Saving screenshot.
+2022-02-17 22:15:08,417 INFO     carbon_explore.explore_utils -- Screenshot file path: /var/folders/17/q1j6t1zn26b777q0qcpy69sw0000gn/T/tmp-screenshot-9cxb9f5c.png
+2022-02-17 22:15:08,502 INFO     carbon_utils.scrape_utils -- Screen density: 1.0
+2022-02-17 22:15:08,505 INFO     carbon_utils.scrape_utils -- Time to get snapshot: 0.033480675999953746
+2022-02-17 22:15:08,505 INFO     carbon_utils.scrape_utils -- Time to get document: 0.02157328900000266
+2022-02-17 22:15:08,505 INFO     carbon_utils.scrape_utils -- Time to determine visibility: 0.011534000999972704
+2022-02-17 22:15:08,505 INFO     carbon_utils.scrape_utils -- Time to determine text: 0.01216503399996327
+2022-02-17 22:15:08,505 INFO     carbon_utils.scrape_utils -- Time to prune: 0.00013542399995003507
+2022-02-17 22:15:08,506 INFO     carbon_utils.scrape_utils -- Time to convert: 0.00018763000002763874
+2022-02-17 22:15:08,506 INFO     carbon_utils.scrape_utils -- Total scraped elements: 170
+2022-02-17 22:15:08,528 INFO     carbon_explore.explore -- Determining active labels.
+2022-02-17 22:15:08,528 INFO     carbon_explore.explore -- Determining active models.
+2022-02-17 22:15:08,528 INFO     carbon_explore.explore_utils -- Classifying elements on the screen
+2022-02-17 22:15:08,529 INFO     carbon_classifiers.textual.textual_classifier -- Loading TextualClassifier.
+2022-02-17 22:15:08,904 INFO     carbon_classifiers.screen_similarity.screen_similarity_classifier -- No labeled screens.
+2022-02-17 22:15:08,905 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2022-02-17 22:15:08,950 WARNING  carbon_classifiers.template_matching.template_matching_classifier -- No template directory exists at /Users/testai/test_ai/templates
+2022-02-17 22:15:08,950 INFO     carbon_classifiers.textual.textual_classifier -- Classifying screen with TextualClassifier.
+2022-02-17 22:15:08,952 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 0.42252312699997674 seconds
+2022-02-17 22:15:08,952 INFO     carbon_explore.explore -- Completed getting labels for screen
+2022-02-17 22:15:08,952 INFO     carbon_explore.explore -- Handling test step type: Action
+2022-02-17 22:15:08,952 INFO     carbon_explore.explore -- test_l: btn_add_to_cart not in set()
+2022-02-17 22:15:08,952 ERROR    carbon_test_case.test_utils -- 
+2022-02-17 22:15:08,953 ERROR    carbon_test_case.test_utils -- ******************************************************************
+2022-02-17 22:15:08,953 ERROR    carbon_test_case.test_utils -- * TEST FAILURE: matches not found in screen labels, failing test *
+2022-02-17 22:15:08,953 ERROR    carbon_test_case.test_utils -- ******************************************************************
+2022-02-17 22:15:08,953 ERROR    carbon_test_case.test_utils -- 
+2022-02-17 22:15:09,011 INFO     carbon_explore.explore -- Gesture: TEST_COMPLETE
+2022-02-17 22:15:09,011 INFO     carbon_explore.test_hooks -- Running on failure hooks.
+2022-02-17 22:15:09,011 INFO     carbon_explore.test_hooks -- Running teardown hooks.
+2022-02-17 22:15:09,017 INFO     carbon_explore.hooks -- Reporting single test result.
+2022-02-17 22:15:09,018 INFO     carbon_explore.test_hooks -- Running error detectors.
+2022-02-17 22:15:09,019 INFO     carbon_explore.explore -- 
+2022-02-17 22:15:09,019 INFO     carbon_explore.explore -- ********************************************************************************
+2022-02-17 22:15:09,019 INFO     carbon_explore.explore -- * Beginning step: 7, Test completed: True, Total steps: 9
+2022-02-17 22:15:09,019 INFO     carbon_explore.explore -- * Description: 
+2022-02-17 22:15:09,019 INFO     carbon_explore.explore -- ********************************************************************************
+2022-02-17 22:15:09,019 INFO     carbon_explore.explore -- 
+2022-02-17 22:15:09,019 INFO     carbon_explore.explore -- Performing post-walk cleanup.
+2022-02-17 22:15:09,206 INFO     carbon_explore.explore -- Iteration completed: 0
+2022-02-17 22:15:09,207 INFO     carbon_tasks.regress_app_task -- Test failed: Could not find: btn_add_to_cart., remaining retries: 0
+2022-02-17 22:15:09,568 INFO     carbon_explore.hooks -- Reporting full test run results.
+2022-02-17 22:15:09,573 INFO     carbon_dao.master_crawl_squash -- Squashing test run 20220217221437
+2022-02-17 22:15:09,626 INFO     carbon_dao.master_crawl_squash -- Squashed screen 17ebe5dc4579978cceea23766c04d9c5.
+2022-02-17 22:15:09,678 INFO     carbon_dao.master_crawl_squash -- Squashed screen 3aaedcfcec228adf95e4b1f619377ded.
+2022-02-17 22:15:09,712 INFO     carbon_dao.master_crawl_squash -- Squashed screen 03248b029977b9503d4d4404d7ac20fa.
+2022-02-17 22:15:09,739 INFO     carbon_dao.master_crawl_squash -- Squashed screen 1a5d4fd5003d9ec39e392931efc800df.
+2022-02-17 22:15:09,769 INFO     carbon_dao.master_crawl_squash -- Squashed screen 17e15d5d4126019c51f098001255eb31.
+2022-02-17 22:15:09,998 INFO     carbon_dao.master_crawl_graph -- Extracting sequence data from test run 20220217221437
+2022-02-17 22:15:10,440 INFO     carbon_graph.q_learning -- Deleted existing Q-matrices.
+2022-02-17 22:15:10,443 INFO     carbon_utils.file_logger -- Removing log file handler.

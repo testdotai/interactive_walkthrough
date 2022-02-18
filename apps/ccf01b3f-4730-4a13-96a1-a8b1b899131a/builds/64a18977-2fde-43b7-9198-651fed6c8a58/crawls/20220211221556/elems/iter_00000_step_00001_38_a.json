@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "mFdp17jadW++e9VHgd5yrQ==\n",
+    "height": 22,
+    "hier_level": 0,
+    "human_hash": "a_X435_Y309_W164_H22",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "https://testaistore.com/product/buddha-bracelet/"
+            },
+            "backend_node_id": 446,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 22.0,
+            "key": "435_309_164_22_Buddha Bracelet",
+            "tagName": "a",
+            "text": "Buddha Bracelet",
+            "width": 164.0,
+            "x": 435.0,
+            "y": 309.0
+        },
+        "location": {
+            "x": 435.0,
+            "y": 309.0
+        },
+        "size": {
+            "height": 22.0,
+            "width": 164.0
+        },
+        "tag_name": "a",
+        "text": "Buddha Bracelet"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Buddha Bracelet",
+    "transformed": true,
+    "width": 164,
+    "x": 435,
+    "y": 309
+}

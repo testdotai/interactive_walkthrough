@@ -1,0 +1,65 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "elem_shot_file_path": "/Users/testai/test_ai/apps/ccf01b3f-4730-4a13-96a1-a8b1b899131a/builds/64a18977-2fde-43b7-9198-651fed6c8a58/test_runs/20220217221625/tmpZ/123145499054080/div_X1008_Y272_W552_H378.png",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "91LpC1D7z0NxA7keSZlx2w==\n",
+    "height": 378,
+    "hier_level": 0,
+    "human_hash": "div_X1008_Y272_W552_H378",
+    "human_readable": "div_1008_272_552_378_div_03ffffff03fffbff1fff3fff0001000300000007080fffffc3ffffff07ff07ff_63b03ec76f941819b8e76c6c034ecafa",
+    "image_path": "N2QyM2Y3YTQ1MWMwNTg0Yzg1OWQ4MGM1YWI2OTc1ZDA.png",
+    "img_hash": "cce513863148409cf6dd7196ca261695",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "summary entry-summary"
+            },
+            "backend_node_id": 5442,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 378.0,
+            "key": "1008_272_552_378_Home \u00a0/\u00a0 Accessories \u00a0/\u00a0Bright Red Bag Bright Red Bag $ 300.00 Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit sed ut. Bright Red Bag quantity  Add to cart Categories:  Accessories ,  Women",
+            "tagName": "div",
+            "text": "Home \u00a0/\u00a0 Accessories \u00a0/\u00a0Bright Red Bag Bright Red Bag $ 300.00 Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit sed ut. Bright Red Bag quantity  Add to cart Categories:  Accessories ,  Women",
+            "width": 552.0,
+            "x": 1008.0,
+            "y": 272.0
+        },
+        "location": {
+            "x": 1008.0,
+            "y": 272.0
+        },
+        "size": {
+            "height": 378.0,
+            "width": 552.0
+        },
+        "tag_name": "div",
+        "text": "Home \u00a0/\u00a0 Accessories \u00a0/\u00a0Bright Red Bag Bright Red Bag $ 300.00 Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit sed ut. Bright Red Bag quantity  Add to cart Categories:  Accessories ,  Women"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "2fc6f1fc1ffeff2e27bfecc111a6d249",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Home \u00a0/\u00a0 Accessories \u00a0/\u00a0Bright Red Bag Bright Red Bag $ 300.00 Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit sed ut. Bright Red Bag quantity  Add to cart Categories:  Accessories ,  Women",
+    "text_hash": "63b03ec76f941819b8e76c6c034ecafa",
+    "transformed": true,
+    "width": 552,
+    "x": 1008,
+    "y": 272
+}

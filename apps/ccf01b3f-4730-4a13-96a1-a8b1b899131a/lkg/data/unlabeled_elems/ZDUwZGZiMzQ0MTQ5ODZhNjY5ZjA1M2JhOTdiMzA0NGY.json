@@ -1,0 +1,63 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "bdi",
+    "clickable": true,
+    "content-desc": "",
+    "elem_shot_file_path": "/Users/testai/test_ai/apps/ccf01b3f-4730-4a13-96a1-a8b1b899131a/builds/64a18977-2fde-43b7-9198-651fed6c8a58/test_runs/20220217221625/tmpZ/123145549422592/bdi_X1008_Y369_W83_H27.png",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "lMETkDvrK2DTgf4k+6pdEQ==\n",
+    "height": 27,
+    "hier_level": 0,
+    "human_hash": "bdi_X1008_Y369_W83_H27",
+    "human_readable": "bdi_1008_369_83_27_bdi_ffffffffffffad750124202032aa22aaa2aa92aa92aa00002104bfffffffffff_b28c0725ba5a6805a198793b4184b72f",
+    "image_path": "ZDUwZGZiMzQ0MTQ5ODZhNjY5ZjA1M2JhOTdiMzA0NGY.png",
+    "img_hash": "634f55e46bc0e8017c1d3e5d59ef94d9",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 5457,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 27.0,
+            "key": "1008_369_83_27_$ 300.00",
+            "tagName": "bdi",
+            "text": "$ 300.00",
+            "width": 83.0,
+            "x": 1008.0,
+            "y": 369.0
+        },
+        "location": {
+            "x": 1008.0,
+            "y": 369.0
+        },
+        "size": {
+            "height": 27.0,
+            "width": 83.0
+        },
+        "tag_name": "bdi",
+        "text": "$ 300.00"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "2fc6f1fc1ffeff2e27bfecc111a6d249",
+    "scrollable": false,
+    "tag_name": "bdi",
+    "text": "$ 300.00",
+    "text_hash": "b28c0725ba5a6805a198793b4184b72f",
+    "transformed": true,
+    "width": 83,
+    "x": 1008,
+    "y": 369
+}

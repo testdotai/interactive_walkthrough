@@ -24,7 +24,7 @@
                 "type": "search",
                 "value": ""
             },
-            "backend_node_id": 4293,
+            "backend_node_id": 3359,
             "flags": {
                 "checkable": false,
                 "clickable": true,
@@ -56,7 +56,7 @@
     "package": "",
     "password": false,
     "resource-id": "",
-    "screen_hash": "bd8cad5817f82cf12579862d4dd775ae",
+    "screen_hash": "0fa295c9652c2468ead03ded1de10fb0",
     "scrollable": false,
     "tag_name": "input",
     "text": "",

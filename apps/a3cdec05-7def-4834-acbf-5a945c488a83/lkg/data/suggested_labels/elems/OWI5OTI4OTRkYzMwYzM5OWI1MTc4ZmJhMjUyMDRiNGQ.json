@@ -1,0 +1,9 @@
+{
+    "profile_avatar": {
+        "all_scores": {
+            "kirfuzz-general-classifier:v2": 0.843252956867218
+        },
+        "score": 0.843252956867218,
+        "source": "kirfuzz-general-classifier:v2"
+    }
+}

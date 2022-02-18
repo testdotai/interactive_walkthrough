@@ -1,0 +1,29 @@
+{
+    "action_info": {
+        "elem_class": "screen",
+        "elem_info": {
+            "class": "screen",
+            "hash": "kWr84Jad8eBreHR8BZSlxA==\n",
+            "height": 931,
+            "hier_level": 0,
+            "human_hash": "screen_X0_Y0_W1920_H931",
+            "human_readable": "screen_0_0_1920_931_screen_ff97fff7fe7ffa5ff67ff907e527e167e9c7f73fff1fff1fff07ff07ffffffff_9d4568c009d203ab10e33ea9953a0264",
+            "index": -1,
+            "is_transformed": true,
+            "png_hash": "ff97fff7fe7ffa5ff67ff907e527e167e9c7f73fff1fff1fff07ff07ffffffff",
+            "tag_name": "screen",
+            "text": "",
+            "width": 1920,
+            "x": 0,
+            "y": 0
+        },
+        "gesture": "no_op",
+        "text": ""
+    },
+    "all_elems": [],
+    "cpu": 0.0,
+    "jank": 0.0,
+    "mem": 0.0,
+    "net": 0.0,
+    "timing": 0.15147066116333008
+}

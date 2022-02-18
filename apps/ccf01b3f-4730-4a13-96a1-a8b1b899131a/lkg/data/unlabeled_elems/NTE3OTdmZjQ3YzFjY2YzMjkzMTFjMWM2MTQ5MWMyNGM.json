@@ -1,0 +1,66 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "elem_shot_file_path": "/Users/testai/test_ai/apps/ccf01b3f-4730-4a13-96a1-a8b1b899131a/builds/64a18977-2fde-43b7-9198-651fed6c8a58/test_runs/20220217221625/tmpZ/123145532633088/div_X340_Y15_W1240_H71.png",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "Ea2MHHd/Cu/muj9oS56+tA==\n",
+    "height": 71,
+    "hier_level": 0,
+    "human_hash": "div_X340_Y15_W1240_H71",
+    "human_readable": "div_340_15_1240_71_div_fffffffffffffffffffefffefec8fc00fc00fc00fffefffeffffffffffffffff_3fc7b9e6ca9908eda0baa14b97b90aa8",
+    "image_path": "NTE3OTdmZjQ3YzFjY2YzMjkzMTFjMWM2MTQ5MWMyNGM.png",
+    "img_hash": "b9eb58e8ac14bb2ff67c2eb3909d382d",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "site-primary-header-wrap ast-builder-grid-row-container site-header-focus-item ast-container",
+                "data-section": "section-primary-header-builder"
+            },
+            "backend_node_id": 5082,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 71.0,
+            "key": "340_15_1240_71_Home Store Men Women Accessories Account About Contact Us \n\t\t\t\t\t\t\t\t\t1",
+            "tagName": "div",
+            "text": "Home Store Men Women Accessories Account About Contact Us \n\t\t\t\t\t\t\t\t\t1",
+            "width": 1240.0,
+            "x": 340.0,
+            "y": 15.0
+        },
+        "location": {
+            "x": 340.0,
+            "y": 15.0
+        },
+        "size": {
+            "height": 71.0,
+            "width": 1240.0
+        },
+        "tag_name": "div",
+        "text": "Home Store Men Women Accessories Account About Contact Us \n\t\t\t\t\t\t\t\t\t1"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "2fc6f1fc1ffeff2e27bfecc111a6d249",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Home Store Men Women Accessories Account About Contact Us \n\t\t\t\t\t\t\t\t\t1",
+    "text_hash": "3fc7b9e6ca9908eda0baa14b97b90aa8",
+    "transformed": true,
+    "width": 1240,
+    "x": 340,
+    "y": 15
+}

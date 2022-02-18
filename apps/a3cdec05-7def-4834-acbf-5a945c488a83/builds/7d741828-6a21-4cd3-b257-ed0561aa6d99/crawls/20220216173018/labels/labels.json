@@ -1,0 +1,17 @@
+{
+    "elems": {
+        "iter_00000_step_00000_53_android.widget.TextView.png": [
+            "fashion_accessories"
+        ],
+        "iter_00000_step_00001_157_android.widget.ImageView.png": [
+            "img_anchor_bracelet"
+        ],
+        "iter_00000_step_00004_215_android.widget.TextView.png": [
+            "btn_cart"
+        ],
+        "iter_00000_step_00004_259_android.widget.TextView.png": [
+            "btn_add_to_cart"
+        ]
+    },
+    "screens": {}
+}

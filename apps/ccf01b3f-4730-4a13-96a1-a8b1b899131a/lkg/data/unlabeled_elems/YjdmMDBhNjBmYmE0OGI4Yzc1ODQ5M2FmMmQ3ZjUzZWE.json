@@ -1,0 +1,65 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "elem_shot_file_path": "/Users/testai/test_ai/apps/ccf01b3f-4730-4a13-96a1-a8b1b899131a/builds/64a18977-2fde-43b7-9198-651fed6c8a58/test_runs/20220217221625/tmpZ/123145499054080/div_X1533_Y16_W27_H70.png",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "Q6HEOj3TPVulG5Gd/9CKiw==\n",
+    "height": 70,
+    "hier_level": 0,
+    "human_hash": "div_X1533_Y16_W27_H70",
+    "human_readable": "div_1533_16_27_70_div_fffffffffffffe7ff81f00003bdc3e7c3e7c3e3c03c00000ffffffffffffffff_2f7bb230c70819aeb10b45a709bcf48f",
+    "image_path": "YjdmMDBhNjBmYmE0OGI4Yzc1ODQ5M2FmMmQ3ZjUzZWE.png",
+    "img_hash": "489890f2105cd3c3e3bc8e9f6ee7ca13",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ast-site-header-cart-li "
+            },
+            "backend_node_id": 5151,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 70.0,
+            "key": "1533_16_27_70_1",
+            "tagName": "div",
+            "text": "1",
+            "width": 27.0,
+            "x": 1533.0,
+            "y": 16.0
+        },
+        "location": {
+            "x": 1533.0,
+            "y": 16.0
+        },
+        "size": {
+            "height": 70.0,
+            "width": 27.0
+        },
+        "tag_name": "div",
+        "text": "1"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "2fc6f1fc1ffeff2e27bfecc111a6d249",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "1",
+    "text_hash": "2f7bb230c70819aeb10b45a709bcf48f",
+    "transformed": true,
+    "width": 27,
+    "x": 1533,
+    "y": 16
+}

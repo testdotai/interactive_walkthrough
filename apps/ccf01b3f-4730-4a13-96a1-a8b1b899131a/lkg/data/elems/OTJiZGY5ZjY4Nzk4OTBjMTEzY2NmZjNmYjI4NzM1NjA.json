@@ -1,0 +1,67 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "elem_shot_file_path": "/Users/testai/test_ai/apps/ccf01b3f-4730-4a13-96a1-a8b1b899131a/builds/64a18977-2fde-43b7-9198-651fed6c8a58/test_runs/20220217221625/tmpZ/123145482264576/a_X1416_Y180_W114_H47.png",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "/U+9yLFOxj7ax8rOxkSJFw==\n",
+    "height": 47,
+    "hier_level": 0,
+    "human_hash": "a_X1416_Y180_W114_H47",
+    "human_readable": "a_1416_180_114_47_a_ffffffffffffffffffffffffe3e7e007e007e007ffffffffffffffffffffffff_a2d2e1101d5d693efbb74910328eec89",
+    "image_path": "OTJiZGY5ZjY4Nzk4OTBjMTEzY2NmZjNmYjI4NzM1NjA.png",
+    "img_hash": "958f3baad7f150206097b94522c69a7f",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "button wc-forward",
+                "href": "https://testaistore.com/cart/",
+                "tabindex": "1"
+            },
+            "backend_node_id": 5423,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 47.0,
+            "key": "1416_180_114_47_View cart",
+            "tagName": "a",
+            "text": "View cart",
+            "width": 114.0,
+            "x": 1416.0,
+            "y": 180.0
+        },
+        "location": {
+            "x": 1416.0,
+            "y": 180.0
+        },
+        "size": {
+            "height": 47.0,
+            "width": 114.0
+        },
+        "tag_name": "a",
+        "text": "View cart"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "2fc6f1fc1ffeff2e27bfecc111a6d249",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "View cart",
+    "text_hash": "a2d2e1101d5d693efbb74910328eec89",
+    "transformed": true,
+    "width": 114,
+    "x": 1416,
+    "y": 180
+}

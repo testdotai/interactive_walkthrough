@@ -6,13 +6,7 @@
         "MzZhYjdhOTdjZWMyYTcwYWM5NjFlZGU5ZWM2OWMyNTc": [
             "btn_accessories"
         ],
-        "MzZhYjdhOTdjZWMyYTcwYWM5NjFlZGU5ZWM2OWMyNTc=\n": [
-            "btn_accessories"
-        ],
         "NDA5ZDBiNTcxOGFhM2YzNjI4NTU5MTJkNDg0ZTY1YjI": [
-            "btn_home"
-        ],
-        "NDA5ZDBiNTcxOGFhM2YzNjI4NTU5MTJkNDg0ZTY1YjI=\n": [
             "btn_home"
         ],
         "NGNmMGY1NjY5NDk2YjIwOTlkOWJiOTM1ZWMyMjg0OWY": [
@@ -21,31 +15,22 @@
         "NjIyMmI1NzFmOTBjN2VkZGZiMzM4YzczMWE0ZTViYzc": [
             "img_red_bag"
         ],
-        "NjIyMmI1NzFmOTBjN2VkZGZiMzM4YzczMWE0ZTViYzc=\n": [
-            "img_red_bag"
-        ],
         "NjYzYTQwNzFmYTE0OTVhY2MzZTE2MGI5YWJjNzg4MDI": [
-            "inp_username"
-        ],
-        "NjYzYTQwNzFmYTE0OTVhY2MzZTE2MGI5YWJjNzg4MDI=\n": [
             "inp_username"
         ],
         "OGRiMjRlNWZkNDBjOTcxOGYyNTYyYWZjYTg5N2E3MmQ": [
             "btn_account"
         ],
-        "OGRiMjRlNWZkNDBjOTcxOGYyNTYyYWZjYTg5N2E3MmQ=\n": [
-            "btn_account"
+        "OGRkZDQ3MzY4YmUwYmEzNmZiNDI4MzNiMjBjZTdmZjQ": [
+            "ddl_sorting"
         ],
         "OTIxZmQ1NWNjYzM3MjE1MDUwNDhmYzIxYjMxY2E5MDk": [
             "btn_shop_now"
         ],
-        "OTIxZmQ1NWNjYzM3MjE1MDUwNDhmYzIxYjMxY2E5MDk=\n": [
-            "btn_shop_now"
+        "OTJiZGY5ZjY4Nzk4OTBjMTEzY2NmZjNmYjI4NzM1NjA": [
+            "btn_view_cart"
         ],
         "Y2RjYjcxOTQ1NTc4NjM2YThkMDcyMzMwMDUyZTg1ZWY": [
-            "txt_discount_message"
-        ],
-        "Y2RjYjcxOTQ1NTc4NjM2YThkMDcyMzMwMDUyZTg1ZWY=\n": [
             "txt_discount_message"
         ],
         "YTRmNjgzZDNkZjdmNDBiYjEwNjRjZDA1ZDRhYTc3ODM": [
@@ -54,22 +39,16 @@
         "YWFkOGE1ODc4Y2UxYmZlNzRjYjg0MDU1NmI2YWIxZTY": [
             "btn_check_out"
         ],
-        "YWFkOGE1ODc4Y2UxYmZlNzRjYjg0MDU1NmI2YWIxZTY=\n": [
-            "btn_check_out"
-        ],
         "YWM3YWMxYzkxZmFkYjM5YWNjNTAxMDFlMzRhOThkZDY": [
-            "inp_password"
-        ],
-        "YWM3YWMxYzkxZmFkYjM5YWNjNTAxMDFlMzRhOThkZDY=\n": [
             "inp_password"
         ],
         "ZDI2ZDFkNTI2N2NhZjdlYTkzMzQ4OGVlNjY1ODdkMjg": [
             "ddl_sorting"
         ],
-        "ZmUxMGUwNWYxMThjNjExNmNmYWNhMGQxYWY2ZjhmNjI": [
-            "btn_check_out_hover"
+        "ZGEyZGE3ZDAxMWY2YTcwOGNiOTZlMDU0ZmM3MzM2NTE": [
+            "btn_add_to_cart"
         ],
-        "ZmUxMGUwNWYxMThjNjExNmNmYWNhMGQxYWY2ZjhmNjI=\n": [
+        "ZmUxMGUwNWYxMThjNjExNmNmYWNhMGQxYWY2ZjhmNjI": [
             "btn_check_out_hover"
         ],
         "ZmZmNDU5NWM5MzlmZjNhM2ZjMWMzZmU3MmU0ZDE0YjI": [

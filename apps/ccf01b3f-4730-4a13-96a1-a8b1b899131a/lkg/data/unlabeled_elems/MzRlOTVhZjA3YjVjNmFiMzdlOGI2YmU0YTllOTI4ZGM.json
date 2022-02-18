@@ -1,0 +1,66 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "elem_shot_file_path": "/Users/testai/test_ai/apps/ccf01b3f-4730-4a13-96a1-a8b1b899131a/builds/64a18977-2fde-43b7-9198-651fed6c8a58/test_runs/20220217221625/tmpZ/123145566212096/div_X1523_Y16_W37_H70.png",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "+Z80biv5WqF56V0d4spyag==\n",
+    "height": 70,
+    "hier_level": 0,
+    "human_hash": "div_X1523_Y16_W37_H70",
+    "human_readable": "div_1523_16_37_70_div_ffffffffffffff9ffe07f000f266f39ef39ef39ef020f000ffffffffffffffff_2f7bb230c70819aeb10b45a709bcf48f",
+    "image_path": "MzRlOTVhZjA3YjVjNmFiMzdlOGI2YmU0YTllOTI4ZGM.png",
+    "img_hash": "c7109ffe3a5458ecdeb6c488c8ed96c5",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ast-builder-layout-element site-header-focus-item ast-header-woo-cart",
+                "data-section": "section-header-woo-cart"
+            },
+            "backend_node_id": 5147,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 70.0,
+            "key": "1523_16_37_70_1",
+            "tagName": "div",
+            "text": "1",
+            "width": 37.0,
+            "x": 1523.0,
+            "y": 16.0
+        },
+        "location": {
+            "x": 1523.0,
+            "y": 16.0
+        },
+        "size": {
+            "height": 70.0,
+            "width": 37.0
+        },
+        "tag_name": "div",
+        "text": "1"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "2fc6f1fc1ffeff2e27bfecc111a6d249",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "1",
+    "text_hash": "2f7bb230c70819aeb10b45a709bcf48f",
+    "transformed": true,
+    "width": 37,
+    "x": 1523,
+    "y": 16
+}

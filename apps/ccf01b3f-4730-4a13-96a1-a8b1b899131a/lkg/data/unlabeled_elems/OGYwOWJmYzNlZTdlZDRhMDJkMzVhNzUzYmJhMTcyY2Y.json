@@ -13,14 +13,13 @@
     "human_hash": "li_X911_Y15_W69_H71",
     "human_readable": "li_911_15_69_71_li_fffffffffffffffffffffffff2f7e007e007e207ffffffffffffffffffffffff_7e969ed097f24f51534eeb756856e8ed",
     "image_path": "OGYwOWJmYzNlZTdlZDRhMDJkMzVhNzUzYmJhMTcyY2Y.png",
-    "index": -1,
     "internal": {
         "elem_dict": {
             "attributes": {
-                "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-45",
+                "class": "menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-45",
                 "id": "menu-item-45"
             },
-            "backend_node_id": 1711,
+            "backend_node_id": 4032,
             "flags": {
                 "checkable": false,
                 "clickable": true,
@@ -52,7 +51,7 @@
     "package": "",
     "password": false,
     "resource-id": "",
-    "screen_hash": "2b6db1d4ba7f23850646f8be7d6a961e",
+    "screen_hash": "17e15d5d4126019c51f098001255eb31",
     "scrollable": false,
     "tag_name": "li",
     "text": "Store",

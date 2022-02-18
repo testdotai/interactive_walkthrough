@@ -1,0 +1,9 @@
+{
+    "heart": {
+        "all_scores": {
+            "kirfuzz-general-classifier:v2": 0.9161446690559387
+        },
+        "score": 0.9161446690559387,
+        "source": "kirfuzz-general-classifier:v2"
+    }
+}

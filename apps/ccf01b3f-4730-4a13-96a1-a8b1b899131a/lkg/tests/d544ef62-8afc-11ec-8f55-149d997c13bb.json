@@ -8,6 +8,21 @@
                 "description": "",
                 "grep": "",
                 "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "btn_store"
+                ],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "action",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
                 "input": "hover",
                 "label_count": null,
                 "labels": [
@@ -34,21 +49,6 @@
             {
                 "continue_on_failure": false,
                 "description": "",
-                "grep": "",
-                "grep_count": null,
-                "input": "tap",
-                "label_count": null,
-                "labels": [
-                    "btn_store"
-                ],
-                "stepIsOpen": true,
-                "timeout": null,
-                "type": "action",
-                "widget": ""
-            },
-            {
-                "continue_on_failure": false,
-                "description": "",
                 "grep": "Sort by popularity",
                 "grep_count": null,
                 "input": "select_dropdown_text",
@@ -56,6 +56,7 @@
                 "labels": [
                     "ddl_sorting"
                 ],
+                "stepIsOpen": false,
                 "timeout": null,
                 "type": "action",
                 "widget": ""
@@ -81,7 +82,7 @@
                 "input": "no_op",
                 "label_count": null,
                 "labels": [],
-                "stepIsOpen": true,
+                "stepIsOpen": false,
                 "timeout": null,
                 "type": "action",
                 "widget": ""

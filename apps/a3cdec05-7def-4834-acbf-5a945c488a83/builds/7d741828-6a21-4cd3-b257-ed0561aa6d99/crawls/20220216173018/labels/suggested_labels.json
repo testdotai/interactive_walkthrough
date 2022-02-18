@@ -1,0 +1,1929 @@
+{
+    "elems": {
+        "iter_00000_step_00000_100_android.view.ViewGroup.png": {
+            "cart": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00000_101_android.widget.TextView.png": {
+            "cart": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00000_102_android.view.View.png": {
+            "wishlist": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00000_103_android.view.ViewGroup.png": {
+            "wishlist": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00000_105_android.view.ViewGroup.png": {
+            "heart": {
+                "all_scores": {
+                    "kirfuzz-general-classifier:v2": 0.9162903428077698
+                },
+                "score": 0.9162903428077698,
+                "source": "kirfuzz-general-classifier:v2"
+            }
+        },
+        "iter_00000_step_00000_106_android.widget.TextView.png": {
+            "heart": {
+                "all_scores": {
+                    "kirfuzz-general-classifier:v2": 0.9162903428077698
+                },
+                "score": 0.9162903428077698,
+                "source": "kirfuzz-general-classifier:v2"
+            }
+        },
+        "iter_00000_step_00000_107_android.view.ViewGroup.png": {
+            "wishlist": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00000_108_android.widget.TextView.png": {
+            "wishlist": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00000_109_android.view.View.png": {
+            "login": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00000_110_android.view.ViewGroup.png": {
+            "login": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00000_112_android.view.ViewGroup.png": {
+            "profile_avatar": {
+                "all_scores": {
+                    "kirfuzz-general-classifier:v2": 0.843252956867218
+                },
+                "score": 0.843252956867218,
+                "source": "kirfuzz-general-classifier:v2"
+            }
+        },
+        "iter_00000_step_00000_113_android.widget.TextView.png": {
+            "profile_avatar": {
+                "all_scores": {
+                    "kirfuzz-general-classifier:v2": 0.843252956867218
+                },
+                "score": 0.843252956867218,
+                "source": "kirfuzz-general-classifier:v2"
+            }
+        },
+        "iter_00000_step_00000_114_android.view.ViewGroup.png": {
+            "login": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00000_115_android.widget.TextView.png": {
+            "login": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00000_15_android.view.ViewGroup.png": {
+            "home_0": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00000_18_android.view.ViewGroup.png": {
+            "menu": {
+                "all_scores": {
+                    "kirfuzz-general-classifier:v2": 0.8746599555015564
+                },
+                "score": 0.8746599555015564,
+                "source": "kirfuzz-general-classifier:v2"
+            }
+        },
+        "iter_00000_step_00000_19_android.widget.TextView.png": {
+            "menu": {
+                "all_scores": {
+                    "kirfuzz-general-classifier:v2": 0.9361315369606018
+                },
+                "score": 0.9361315369606018,
+                "source": "kirfuzz-general-classifier:v2"
+            }
+        },
+        "iter_00000_step_00000_20_android.widget.TextView.png": {
+            "home": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00000_45_android.widget.TextView.png": {
+            "choose_category": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00000_48_android.view.ViewGroup.png": {
+            "fashion_accessory_men_women": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00000_49_android.view.ViewGroup.png": {
+            "fashion_accessories_men": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00000_50_android.view.ViewGroup.png": {
+            "fashion_accessories": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00000_54_android.view.ViewGroup.png": {
+            "men": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00000_57_android.widget.TextView.png": {
+            "men": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00000_58_android.view.ViewGroup.png": {
+            "women": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00000_59_android.view.ViewGroup.png": {
+            "women": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00000_62_android.widget.TextView.png": {
+            "women": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00000_64_android.view.ViewGroup.png": {
+            "contact_chat_whatsapp_call_us": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00000_65_android.widget.TextView.png": {
+            "contact_us": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00000_69_android.view.ViewGroup.png": {
+            "chat_whatsapp_call_us": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00000_71_android.view.ViewGroup.png": {
+            "chat_on_whatsapp": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00000_72_android.view.ViewGroup.png": {
+            "chat_on_whatsapp": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00000_75_android.widget.TextView.png": {
+            "chat_on_whatsapp": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00000_76_android.widget.TextView.png": {
+            "arrow_right": {
+                "all_scores": {
+                    "kirfuzz-general-classifier:v2": 0.5180929899215698
+                },
+                "score": 0.5180929899215698,
+                "source": "kirfuzz-general-classifier:v2"
+            }
+        },
+        "iter_00000_step_00000_79_android.view.ViewGroup.png": {
+            "call_us": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00000_82_android.widget.TextView.png": {
+            "call_us": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00000_86_android.view.View.png": {
+            "home_cart_wishlist_login": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00000_87_android.view.ViewGroup.png": {
+            "home_cart_wishlist_login": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00000_88_android.view.View.png": {
+            "home": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00000_89_android.view.ViewGroup.png": {
+            "home": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00000_91_android.view.ViewGroup.png": {
+            "home": {
+                "all_scores": {
+                    "kirfuzz-general-classifier:v2": 0.9113737940788269
+                },
+                "score": 0.9113737940788269,
+                "source": "kirfuzz-general-classifier:v2"
+            }
+        },
+        "iter_00000_step_00000_92_android.widget.TextView.png": {
+            "home": {
+                "all_scores": {
+                    "kirfuzz-general-classifier:v2": 0.9113737940788269
+                },
+                "score": 0.9113737940788269,
+                "source": "kirfuzz-general-classifier:v2"
+            }
+        },
+        "iter_00000_step_00000_93_android.view.ViewGroup.png": {
+            "home": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00000_94_android.widget.TextView.png": {
+            "home": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00000_95_android.view.View.png": {
+            "cart": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00000_96_android.view.ViewGroup.png": {
+            "cart": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00000_98_android.view.ViewGroup.png": {
+            "cart": {
+                "all_scores": {
+                    "kirfuzz-general-classifier:v2": 0.9245659112930298
+                },
+                "score": 0.9245659112930298,
+                "source": "kirfuzz-general-classifier:v2"
+            }
+        },
+        "iter_00000_step_00000_99_android.widget.TextView.png": {
+            "cart": {
+                "all_scores": {
+                    "kirfuzz-general-classifier:v2": 0.9245659112930298
+                },
+                "score": 0.9245659112930298,
+                "source": "kirfuzz-general-classifier:v2"
+            }
+        },
+        "iter_00000_step_00001_100_android.view.ViewGroup.png": {
+            "cart": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_101_android.widget.TextView.png": {
+            "cart": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_102_android.view.View.png": {
+            "wishlist": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_103_android.view.ViewGroup.png": {
+            "wishlist": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_107_android.view.ViewGroup.png": {
+            "wishlist": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_108_android.widget.TextView.png": {
+            "wishlist": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_109_android.view.View.png": {
+            "login": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_110_android.view.ViewGroup.png": {
+            "login": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_112_android.view.ViewGroup.png": {
+            "play": {
+                "all_scores": {
+                    "kirfuzz-general-classifier:v2": 0.9105432033538818
+                },
+                "score": 0.9105432033538818,
+                "source": "kirfuzz-general-classifier:v2"
+            }
+        },
+        "iter_00000_step_00001_113_android.widget.TextView.png": {
+            "play": {
+                "all_scores": {
+                    "kirfuzz-general-classifier:v2": 0.9105432033538818
+                },
+                "score": 0.9105432033538818,
+                "source": "kirfuzz-general-classifier:v2"
+            }
+        },
+        "iter_00000_step_00001_114_android.view.ViewGroup.png": {
+            "login": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_115_android.widget.TextView.png": {
+            "login": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_123_android.view.ViewGroup.png": {
+            "accessories_0": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_128_android.widget.TextView.png": {
+            "accessories": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_141_android.view.ViewGroup.png": {
+            "sort": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_142_android.view.ViewGroup.png": {
+            "sort": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_143_android.view.ViewGroup.png": {
+            "sort": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_144_android.view.ViewGroup.png": {
+            "sort": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_145_android.widget.TextView.png": {
+            "filter": {
+                "all_scores": {
+                    "kirfuzz-general-classifier:v2": 0.9079336524009705
+                },
+                "score": 0.9079336524009705,
+                "source": "kirfuzz-general-classifier:v2"
+            }
+        },
+        "iter_00000_step_00001_146_android.widget.TextView.png": {
+            "sort": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_153_android.view.ViewGroup.png": {
+            "anchor_bracelet": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_154_android.view.ViewGroup.png": {
+            "anchor_bracelet": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_156_android.view.ViewGroup.png": {
+            "img_anchor_bracelet": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.perceptual.nn_classifier"
+            }
+        },
+        "iter_00000_step_00001_158_android.widget.TextView.png": {
+            "heart": {
+                "all_scores": {
+                    "kirfuzz-general-classifier:v2": 0.8681835532188416
+                },
+                "score": 0.8681835532188416,
+                "source": "kirfuzz-general-classifier:v2"
+            }
+        },
+        "iter_00000_step_00001_159_android.widget.TextView.png": {
+            "anchor_bracelet": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_15_android.view.ViewGroup.png": {
+            "home_0": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_161_android.view.ViewGroup.png": {
+            "black_over_the_shoulder_handbag": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_162_android.view.ViewGroup.png": {
+            "black_over_the_shoulder_handbag": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_166_android.widget.TextView.png": {
+            "heart": {
+                "all_scores": {
+                    "kirfuzz-general-classifier:v2": 0.8681835532188416
+                },
+                "score": 0.8681835532188416,
+                "source": "kirfuzz-general-classifier:v2"
+            }
+        },
+        "iter_00000_step_00001_167_android.widget.TextView.png": {
+            "black_over_the_shoulder_handbag": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_170_android.view.ViewGroup.png": {
+            "boho_bangle_bracelet": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_171_android.view.ViewGroup.png": {
+            "boho_bangle_bracelet": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_175_android.widget.TextView.png": {
+            "heart": {
+                "all_scores": {
+                    "kirfuzz-general-classifier:v2": 0.8681835532188416
+                },
+                "score": 0.8681835532188416,
+                "source": "kirfuzz-general-classifier:v2"
+            }
+        },
+        "iter_00000_step_00001_176_android.widget.TextView.png": {
+            "boho_bangle_bracelet": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_178_android.view.ViewGroup.png": {
+            "bright_gold_purse_chain": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_179_android.view.ViewGroup.png": {
+            "bright_gold_purse_chain": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_183_android.widget.TextView.png": {
+            "heart": {
+                "all_scores": {
+                    "kirfuzz-general-classifier:v2": 0.8681835532188416
+                },
+                "score": 0.8681835532188416,
+                "source": "kirfuzz-general-classifier:v2"
+            }
+        },
+        "iter_00000_step_00001_184_android.widget.TextView.png": {
+            "bright_gold_purse_chain": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_192_android.widget.TextView.png": {
+            "heart": {
+                "all_scores": {
+                    "kirfuzz-general-classifier:v2": 0.8681835532188416
+                },
+                "score": 0.8681835532188416,
+                "source": "kirfuzz-general-classifier:v2"
+            }
+        },
+        "iter_00000_step_00001_198_android.widget.TextView.png": {
+            "heart": {
+                "all_scores": {
+                    "kirfuzz-general-classifier:v2": 0.8681835532188416
+                },
+                "score": 0.8681835532188416,
+                "source": "kirfuzz-general-classifier:v2"
+            }
+        },
+        "iter_00000_step_00001_20_android.widget.TextView.png": {
+            "home": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_48_android.view.ViewGroup.png": {
+            "fashion_accessory_men_women": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_49_android.view.ViewGroup.png": {
+            "fashion_accessories_men": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_50_android.view.ViewGroup.png": {
+            "fashion_accessories": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_53_android.widget.TextView.png": {
+            "fashion_accessories": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_54_android.view.ViewGroup.png": {
+            "men": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_57_android.widget.TextView.png": {
+            "men": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_58_android.view.ViewGroup.png": {
+            "women": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_59_android.view.ViewGroup.png": {
+            "women": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_62_android.widget.TextView.png": {
+            "women": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_64_android.view.ViewGroup.png": {
+            "contact_chat_whatsapp_call_us": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_65_android.widget.TextView.png": {
+            "contact_us": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_69_android.view.ViewGroup.png": {
+            "chat_whatsapp_call_us": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_71_android.view.ViewGroup.png": {
+            "chat_on_whatsapp": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_72_android.view.ViewGroup.png": {
+            "chat_on_whatsapp": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_75_android.widget.TextView.png": {
+            "chat_on_whatsapp": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_76_android.widget.TextView.png": {
+            "heart": {
+                "all_scores": {
+                    "kirfuzz-general-classifier:v2": 0.9094774723052979
+                },
+                "score": 0.9094774723052979,
+                "source": "kirfuzz-general-classifier:v2"
+            }
+        },
+        "iter_00000_step_00001_79_android.view.ViewGroup.png": {
+            "call_us": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_82_android.widget.TextView.png": {
+            "call_us": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_86_android.view.View.png": {
+            "home_cart_wishlist_login": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_87_android.view.ViewGroup.png": {
+            "home_cart_wishlist_login": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_88_android.view.View.png": {
+            "home": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_89_android.view.ViewGroup.png": {
+            "home": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_91_android.view.ViewGroup.png": {
+            "home": {
+                "all_scores": {
+                    "kirfuzz-general-classifier:v2": 0.8119366765022278
+                },
+                "score": 0.8119366765022278,
+                "source": "kirfuzz-general-classifier:v2"
+            }
+        },
+        "iter_00000_step_00001_92_android.widget.TextView.png": {
+            "home": {
+                "all_scores": {
+                    "kirfuzz-general-classifier:v2": 0.8119366765022278
+                },
+                "score": 0.8119366765022278,
+                "source": "kirfuzz-general-classifier:v2"
+            }
+        },
+        "iter_00000_step_00001_93_android.view.ViewGroup.png": {
+            "home": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_94_android.widget.TextView.png": {
+            "home": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_95_android.view.View.png": {
+            "cart": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00001_96_android.view.ViewGroup.png": {
+            "cart": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00003_123_android.view.ViewGroup.png": {
+            "accessories_0": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00003_15_android.view.ViewGroup.png": {
+            "home_0": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00003_214_android.view.ViewGroup.png": {
+            "cart": {
+                "all_scores": {
+                    "kirfuzz-general-classifier:v2": 0.9106311202049255
+                },
+                "score": 0.9106311202049255,
+                "source": "kirfuzz-general-classifier:v2"
+            }
+        },
+        "iter_00000_step_00003_215_android.widget.TextView.png": {
+            "btn_cart": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.perceptual.nn_classifier"
+            },
+            "cart": {
+                "all_scores": {
+                    "kirfuzz-general-classifier:v2": 0.9352120757102966
+                },
+                "score": 0.9352120757102966,
+                "source": "kirfuzz-general-classifier:v2"
+            }
+        },
+        "iter_00000_step_00003_25_android.view.ViewGroup.png": {
+            "cart": {
+                "all_scores": {
+                    "kirfuzz-general-classifier:v2": 0.9625993967056274
+                },
+                "score": 0.9625993967056274,
+                "source": "kirfuzz-general-classifier:v2"
+            }
+        },
+        "iter_00000_step_00003_26_android.widget.TextView.png": {
+            "cart": {
+                "all_scores": {
+                    "kirfuzz-general-classifier:v2": 0.8309108018875122
+                },
+                "score": 0.8309108018875122,
+                "source": "kirfuzz-general-classifier:v2"
+            }
+        },
+        "iter_00000_step_00004_100_android.view.ViewGroup.png": {
+            "cart": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_101_android.widget.TextView.png": {
+            "cart": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_102_android.view.View.png": {
+            "wishlist": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_103_android.view.ViewGroup.png": {
+            "wishlist": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_107_android.view.ViewGroup.png": {
+            "wishlist": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_108_android.widget.TextView.png": {
+            "wishlist": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_109_android.view.View.png": {
+            "login": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_110_android.view.ViewGroup.png": {
+            "login": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_114_android.view.ViewGroup.png": {
+            "login": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_115_android.widget.TextView.png": {
+            "login": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_123_android.view.ViewGroup.png": {
+            "accessories_1": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_126_android.widget.Button.png": {
+            "close": {
+                "all_scores": {
+                    "kirfuzz-general-classifier:v2": 0.509577214717865
+                },
+                "score": 0.509577214717865,
+                "source": "kirfuzz-general-classifier:v2"
+            }
+        },
+        "iter_00000_step_00004_127_android.widget.ImageView.png": {
+            "close": {
+                "all_scores": {
+                    "kirfuzz-general-classifier:v2": 0.8124115467071533
+                },
+                "score": 0.8124115467071533,
+                "source": "kirfuzz-general-classifier:v2"
+            }
+        },
+        "iter_00000_step_00004_128_android.widget.TextView.png": {
+            "accessories": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_141_android.view.ViewGroup.png": {
+            "sort": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_142_android.view.ViewGroup.png": {
+            "sort": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_143_android.view.ViewGroup.png": {
+            "sort": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_144_android.view.ViewGroup.png": {
+            "sort": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_146_android.widget.TextView.png": {
+            "sort": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_153_android.view.ViewGroup.png": {
+            "anchor_bracelet": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_154_android.view.ViewGroup.png": {
+            "anchor_bracelet": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_159_android.widget.TextView.png": {
+            "anchor_bracelet": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_15_android.view.ViewGroup.png": {
+            "home_1": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_161_android.view.ViewGroup.png": {
+            "black_over_the_shoulder_handbag": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_162_android.view.ViewGroup.png": {
+            "black_over_the_shoulder_handbag": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_167_android.widget.TextView.png": {
+            "black_over_the_shoulder_handbag": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_170_android.view.ViewGroup.png": {
+            "boho_bangle_bracelet": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_171_android.view.ViewGroup.png": {
+            "boho_bangle_bracelet": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_173_android.view.ViewGroup.png": {
+            "arrow_left": {
+                "all_scores": {
+                    "kirfuzz-general-classifier:v2": 0.6426160931587219
+                },
+                "score": 0.6426160931587219,
+                "source": "kirfuzz-general-classifier:v2"
+            }
+        },
+        "iter_00000_step_00004_174_android.widget.ImageView.png": {
+            "arrow_left": {
+                "all_scores": {
+                    "kirfuzz-general-classifier:v2": 0.6426160931587219
+                },
+                "score": 0.6426160931587219,
+                "source": "kirfuzz-general-classifier:v2"
+            }
+        },
+        "iter_00000_step_00004_176_android.widget.TextView.png": {
+            "boho_bangle_bracelet": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_178_android.view.ViewGroup.png": {
+            "bright_gold_purse_chain": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_179_android.view.ViewGroup.png": {
+            "bright_gold_purse_chain": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_184_android.widget.TextView.png": {
+            "bright_gold_purse_chain": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_19_android.widget.TextView.png": {
+            "close": {
+                "all_scores": {
+                    "kirfuzz-general-classifier:v2": 0.8104349374771118
+                },
+                "score": 0.8104349374771118,
+                "source": "kirfuzz-general-classifier:v2"
+            }
+        },
+        "iter_00000_step_00004_20_android.widget.TextView.png": {
+            "home": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_210_android.view.ViewGroup.png": {
+            "search": {
+                "all_scores": {
+                    "kirfuzz-general-classifier:v2": 0.9028950929641724
+                },
+                "score": 0.9028950929641724,
+                "source": "kirfuzz-general-classifier:v2"
+            }
+        },
+        "iter_00000_step_00004_211_android.widget.TextView.png": {
+            "search": {
+                "all_scores": {
+                    "kirfuzz-general-classifier:v2": 0.9139703512191772
+                },
+                "score": 0.9139703512191772,
+                "source": "kirfuzz-general-classifier:v2"
+            }
+        },
+        "iter_00000_step_00004_212_android.view.ViewGroup.png": {
+            "heart": {
+                "all_scores": {
+                    "kirfuzz-general-classifier:v2": 0.8330469727516174
+                },
+                "score": 0.8330469727516174,
+                "source": "kirfuzz-general-classifier:v2"
+            }
+        },
+        "iter_00000_step_00004_213_android.widget.TextView.png": {
+            "heart": {
+                "all_scores": {
+                    "kirfuzz-general-classifier:v2": 0.9161446690559387
+                },
+                "score": 0.9161446690559387,
+                "source": "kirfuzz-general-classifier:v2"
+            }
+        },
+        "iter_00000_step_00004_214_android.view.ViewGroup.png": {
+            "cart": {
+                "all_scores": {
+                    "kirfuzz-general-classifier:v2": 0.9201506972312927
+                },
+                "score": 0.9201506972312927,
+                "source": "kirfuzz-general-classifier:v2"
+            }
+        },
+        "iter_00000_step_00004_215_android.widget.TextView.png": {
+            "cart": {
+                "all_scores": {
+                    "kirfuzz-general-classifier:v2": 0.9263654947280884
+                },
+                "score": 0.9263654947280884,
+                "source": "kirfuzz-general-classifier:v2"
+            }
+        },
+        "iter_00000_step_00004_227_android.widget.TextView.png": {
+            "heart": {
+                "all_scores": {
+                    "kirfuzz-general-classifier:v2": 0.8390371799468994
+                },
+                "score": 0.8390371799468994,
+                "source": "kirfuzz-general-classifier:v2"
+            }
+        },
+        "iter_00000_step_00004_228_android.widget.TextView.png": {
+            "share": {
+                "all_scores": {
+                    "kirfuzz-general-classifier:v2": 0.9341244697570801
+                },
+                "score": 0.9341244697570801,
+                "source": "kirfuzz-general-classifier:v2"
+            }
+        },
+        "iter_00000_step_00004_230_android.view.ViewGroup.png": {
+            "in_stock_anchor_bracelet": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_231_android.widget.TextView.png": {
+            "in_stock": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_232_android.widget.TextView.png": {
+            "anchor_bracelet": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_235_android.view.ViewGroup.png": {
+            "select_product_count_1": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_236_android.view.ViewGroup.png": {
+            "select_product_count_1": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_237_android.widget.TextView.png": {
+            "select_product_count": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_23_android.view.ViewGroup.png": {
+            "heart": {
+                "all_scores": {
+                    "kirfuzz-general-classifier:v2": 0.9414957761764526
+                },
+                "score": 0.9414957761764526,
+                "source": "kirfuzz-general-classifier:v2"
+            }
+        },
+        "iter_00000_step_00004_240_android.view.ViewGroup.png": {
+            "add": {
+                "all_scores": {
+                    "kirfuzz-general-classifier:v2": 0.509854257106781
+                },
+                "score": 0.509854257106781,
+                "source": "kirfuzz-general-classifier:v2"
+            }
+        },
+        "iter_00000_step_00004_244_android.view.ViewGroup.png": {
+            "add": {
+                "all_scores": {
+                    "kirfuzz-general-classifier:v2": 0.9078458547592163
+                },
+                "score": 0.9078458547592163,
+                "source": "kirfuzz-general-classifier:v2"
+            }
+        },
+        "iter_00000_step_00004_245_android.view.ViewGroup.png": {
+            "add": {
+                "all_scores": {
+                    "kirfuzz-general-classifier:v2": 0.9193221926689148
+                },
+                "score": 0.9193221926689148,
+                "source": "kirfuzz-general-classifier:v2"
+            }
+        },
+        "iter_00000_step_00004_246_android.widget.TextView.png": {
+            "add": {
+                "all_scores": {
+                    "kirfuzz-general-classifier:v2": 0.9193221926689148
+                },
+                "score": 0.9193221926689148,
+                "source": "kirfuzz-general-classifier:v2"
+            }
+        },
+        "iter_00000_step_00004_250_android.view.ViewGroup.png": {
+            "short_description_view": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_251_android.widget.TextView.png": {
+            "short_description": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_252_android.view.ViewGroup.png": {
+            "view": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_253_android.widget.TextView.png": {
+            "view": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_255_android.view.ViewGroup.png": {
+            "buy_now": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_256_android.widget.TextView.png": {
+            "buy_now": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_258_android.view.ViewGroup.png": {
+            "add_to_cart": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_259_android.widget.TextView.png": {
+            "add_to_cart": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_25_android.view.ViewGroup.png": {
+            "cart": {
+                "all_scores": {
+                    "kirfuzz-general-classifier:v2": 0.9382624626159668
+                },
+                "score": 0.9382624626159668,
+                "source": "kirfuzz-general-classifier:v2"
+            }
+        },
+        "iter_00000_step_00004_260_android.view.ViewGroup.png": {
+            "back_home": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_261_android.view.ViewGroup.png": {
+            "back_home": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_262_android.widget.TextView.png": {
+            "home": {
+                "all_scores": {
+                    "kirfuzz-general-classifier:v2": 0.929423987865448
+                },
+                "score": 0.929423987865448,
+                "source": "kirfuzz-general-classifier:v2"
+            }
+        },
+        "iter_00000_step_00004_263_android.widget.TextView.png": {
+            "back_home": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_264_android.view.ViewGroup.png": {
+            "close": {
+                "all_scores": {
+                    "kirfuzz-general-classifier:v2": 0.901280403137207
+                },
+                "score": 0.901280403137207,
+                "source": "kirfuzz-general-classifier:v2"
+            }
+        },
+        "iter_00000_step_00004_265_android.widget.TextView.png": {
+            "close": {
+                "all_scores": {
+                    "kirfuzz-general-classifier:v2": 0.903754711151123
+                },
+                "score": 0.903754711151123,
+                "source": "kirfuzz-general-classifier:v2"
+            }
+        },
+        "iter_00000_step_00004_45_android.widget.TextView.png": {
+            "choose_category": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_49_android.view.ViewGroup.png": {
+            "fashion_accessories_men": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_50_android.view.ViewGroup.png": {
+            "fashion_accessories": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_53_android.widget.TextView.png": {
+            "fashion_accessories": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_54_android.view.ViewGroup.png": {
+            "men": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_57_android.widget.TextView.png": {
+            "men": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_58_android.view.ViewGroup.png": {
+            "women": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_59_android.view.ViewGroup.png": {
+            "women": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_62_android.widget.TextView.png": {
+            "women": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_65_android.widget.TextView.png": {
+            "contact_us": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_72_android.view.ViewGroup.png": {
+            "chat_on_whatsapp": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_75_android.widget.TextView.png": {
+            "chat_on_whatsapp": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_82_android.widget.TextView.png": {
+            "call_us": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_86_android.view.View.png": {
+            "home_cart_wishlist_login": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_88_android.view.View.png": {
+            "home": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_89_android.view.ViewGroup.png": {
+            "home": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_93_android.view.ViewGroup.png": {
+            "home": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_94_android.widget.TextView.png": {
+            "home": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_95_android.view.View.png": {
+            "cart": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        },
+        "iter_00000_step_00004_96_android.view.ViewGroup.png": {
+            "cart": {
+                "all_scores": {
+                    "carbon_classifiers.textual.textual_classifier": 1.0
+                },
+                "score": 1.0,
+                "source": "carbon_classifiers.textual.textual_classifier"
+            }
+        }
+    },
+    "screens": {}
+}

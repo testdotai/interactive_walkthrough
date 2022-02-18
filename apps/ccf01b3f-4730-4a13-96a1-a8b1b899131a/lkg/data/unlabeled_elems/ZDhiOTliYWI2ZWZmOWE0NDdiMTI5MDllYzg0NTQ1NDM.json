@@ -1,0 +1,78 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "elem_shot_file_path": "/Users/testai/test_ai/apps/ccf01b3f-4730-4a13-96a1-a8b1b899131a/builds/64a18977-2fde-43b7-9198-651fed6c8a58/test_runs/20220217221625/tmpZ/123145515843584/img_X360_Y272_W600_H600.png",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "3WMu1XcOsJTdygrKQhyF6A==\n",
+    "height": 600,
+    "hier_level": 0,
+    "human_hash": "img_X360_Y272_W600_H600",
+    "human_readable": "img_360_272_600_600_img_ffffffffff7ffebffd9ffddff9cff00fe007e007e007f007f007f03fffffffff_9d4568c009d203ab10e33ea9953a0264",
+    "image_path": "ZDhiOTliYWI2ZWZmOWE0NDdiMTI5MDllYzg0NTQ1NDM.png",
+    "img_hash": "550a4da163d2db5eed48a08a1506a460",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "",
+                "class": "wp-post-image",
+                "data-caption": "",
+                "data-large_image": "https://testaistore.com/wp-content/uploads/2017/12/product-bag3-1.jpg",
+                "data-large_image_height": "1200",
+                "data-large_image_width": "1200",
+                "data-src": "https://testaistore.com/wp-content/uploads/2017/12/product-bag3-1.jpg",
+                "height": "600",
+                "loading": "lazy",
+                "sizes": "(max-width: 600px) 100vw, 600px",
+                "src": "https://testaistore.com/wp-content/uploads/2017/12/product-bag3-1-600x600.jpg",
+                "srcset": "https://testaistore.com/wp-content/uploads/2017/12/product-bag3-1-600x600.jpg 600w, https://testaistore.com/wp-content/uploads/2017/12/product-bag3-1-300x300.jpg 300w, https://testaistore.com/wp-content/uploads/2017/12/product-bag3-1-1024x1024.jpg 1024w, https://testaistore.com/wp-content/uploads/2017/12/product-bag3-1-150x150.jpg 150w, https://testaistore.com/wp-content/uploads/2017/12/product-bag3-1-768x768.jpg 768w, https://testaistore.com/wp-content/uploads/2017/12/product-bag3-1-100x100.jpg 100w, https://testaistore.com/wp-content/uploads/2017/12/product-bag3-1.jpg 1200w",
+                "title": "product-bag3",
+                "width": "600"
+            },
+            "backend_node_id": 4961,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 600.0,
+            "key": "360_272_600_600_",
+            "tagName": "img",
+            "text": "",
+            "width": 600.0,
+            "x": 360.0,
+            "y": 272.0
+        },
+        "location": {
+            "x": 360.0,
+            "y": 272.0
+        },
+        "size": {
+            "height": 600.0,
+            "width": 600.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "2fc6f1fc1ffeff2e27bfecc111a6d249",
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+    "transformed": true,
+    "width": 600,
+    "x": 360,
+    "y": 272
+}

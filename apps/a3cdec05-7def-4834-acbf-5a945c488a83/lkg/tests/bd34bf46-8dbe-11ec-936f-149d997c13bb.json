@@ -1,0 +1,24 @@
+{
+    "test": {
+        "description": "",
+        "is_deactivated": false,
+        "steps": [
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "fashion_accessories"
+                ],
+                "type": "action",
+                "widget": ""
+            }
+        ],
+        "tags": [],
+        "temp_id": "bd34bf46-8dbe-11ec-936f-149d997c13bb",
+        "title": "test"
+    }
+}

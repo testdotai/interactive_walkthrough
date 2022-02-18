@@ -1,0 +1,66 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "elem_shot_file_path": "/Users/testai/test_ai/apps/ccf01b3f-4730-4a13-96a1-a8b1b899131a/builds/64a18977-2fde-43b7-9198-651fed6c8a58/test_runs/20220217221625/tmpZ/123145465475072/div_X360_Y162_W1200_H80.png",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "9zHnPJKqEn7IxjT47lL55A==\n",
+    "height": 80,
+    "hier_level": 0,
+    "human_hash": "div_X360_Y162_W1200_H80",
+    "human_readable": "div_360_162_1200_80_div_0000ffffffffffffffff07ff07ff07fcfffcfffcffffffffffffffffffffffff_2552b554ec73e02c4a18b66a73192224",
+    "image_path": "MmQ0NzhjNTFkMGZmYjdjMmI1MjNkNTk2NTMwZjgzNWE.png",
+    "img_hash": "d0ce03bc65cd1d6d124ddf00043d0c4e",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "woocommerce-message",
+                "role": "alert"
+            },
+            "backend_node_id": 5419,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 80.0,
+            "key": "360_162_1200_80_View cart  \u201cBright Red Bag\u201d has been added to your cart.",
+            "tagName": "div",
+            "text": "View cart  \u201cBright Red Bag\u201d has been added to your cart.",
+            "width": 1200.0,
+            "x": 360.0,
+            "y": 162.0
+        },
+        "location": {
+            "x": 360.0,
+            "y": 162.0
+        },
+        "size": {
+            "height": 80.0,
+            "width": 1200.0
+        },
+        "tag_name": "div",
+        "text": "View cart  \u201cBright Red Bag\u201d has been added to your cart."
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "2fc6f1fc1ffeff2e27bfecc111a6d249",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "View cart  \u201cBright Red Bag\u201d has been added to your cart.",
+    "text_hash": "2552b554ec73e02c4a18b66a73192224",
+    "transformed": true,
+    "width": 1200,
+    "x": 360,
+    "y": 162
+}

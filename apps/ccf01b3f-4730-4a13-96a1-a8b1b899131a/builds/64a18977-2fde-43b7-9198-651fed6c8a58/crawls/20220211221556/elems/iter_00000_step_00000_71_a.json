@@ -1,0 +1,58 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "jIM7gWixaTs7r68D/UYhcg==\n",
+    "height": 22,
+    "hier_level": 0,
+    "human_hash": "a_X435_Y680_W164_H22",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "https://testaistore.com/product/anchor-bracelet/"
+            },
+            "backend_node_id": 557,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 22.0,
+            "key": "435_680_164_22_Anchor Bracelet",
+            "tagName": "a",
+            "text": "Anchor Bracelet",
+            "width": 164.0,
+            "x": 435.0,
+            "y": 680.0
+        },
+        "location": {
+            "x": 435.0,
+            "y": 680.0
+        },
+        "size": {
+            "height": 22.0,
+            "width": 164.0
+        },
+        "tag_name": "a",
+        "text": "Anchor Bracelet"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Anchor Bracelet",
+    "transformed": true,
+    "width": 164,
+    "x": 435,
+    "y": 680
+}

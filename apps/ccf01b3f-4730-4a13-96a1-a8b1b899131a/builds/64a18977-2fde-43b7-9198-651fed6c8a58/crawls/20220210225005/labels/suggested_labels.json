@@ -34,7 +34,7 @@
                     "hash_based": 1.0
                 },
                 "score": 1.0,
-                "source": "hash_based"
+                "source": "carbon_classifiers.perceptual.nn_classifier"
             },
             "camera": {
                 "all_scores": {
@@ -87,7 +87,7 @@
                     "hash_based": 1.0
                 },
                 "score": 1.0,
-                "source": "hash_based"
+                "source": "carbon_classifiers.perceptual.nn_classifier"
             },
             "store": {
                 "all_scores": {
@@ -156,7 +156,7 @@
                     "hash_based": 1.0
                 },
                 "score": 1.0,
-                "source": "hash_based"
+                "source": "carbon_classifiers.perceptual.nn_classifier"
             }
         },
         "iter_00000_step_00003_19_li.png": {
@@ -182,7 +182,7 @@
                     "hash_based": 1.0
                 },
                 "score": 1.0,
-                "source": "hash_based"
+                "source": "carbon_classifiers.perceptual.nn_classifier"
             }
         },
         "iter_00000_step_00003_21_li.png": {
@@ -298,7 +298,7 @@
                     "hash_based": 1.0
                 },
                 "score": 1.0,
-                "source": "hash_based"
+                "source": "carbon_classifiers.perceptual.nn_classifier"
             }
         },
         "iter_00000_step_00003_40_div.png": {
@@ -326,7 +326,7 @@
                     "hash_based": 1.0
                 },
                 "score": 1.0,
-                "source": "hash_based"
+                "source": "carbon_classifiers.perceptual.nn_classifier"
             },
             "shop_now": {
                 "all_scores": {
@@ -711,10 +711,11 @@
         "iter_00000_step_00005_88_select.png": {
             "ddl_sorting": {
                 "all_scores": {
-                    "carbon_classifiers.perceptual.nn_classifier": 0.98
+                    "carbon_classifiers.perceptual.nn_classifier": 0.98,
+                    "hash_based": 1.0
                 },
-                "score": 0.98,
-                "source": "carbon_classifiers.perceptual.nn_classifier"
+                "score": 1.0,
+                "source": "hash_based"
             }
         },
         "iter_00000_step_00007_100_h2.png": {
@@ -940,7 +941,7 @@
                     "hash_based": 1.0
                 },
                 "score": 1.0,
-                "source": "hash_based"
+                "source": "carbon_classifiers.perceptual.nn_classifier"
             }
         },
         "iter_00000_step_00007_34_button.png": {

@@ -1,0 +1,326 @@
+2022-02-14 10:50:47,420 INFO     carbon_controllers.crawls -- Logging crawl output to /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/logs/crawl-20220214105047.log
+2022-02-14 10:50:47,421 INFO     carbon_tasks.crawl_build_task -- crawling build, app_id: a3cdec05-7def-4834-acbf-5a945c488a83, build_id: 7d741828-6a21-4cd3-b257-ed0561aa6d99
+2022-02-14 10:50:47,422 INFO     carbon_tasks.crawl_build_task -- num_steps (when no test): 25
+2022-02-14 10:50:47,422 INFO     carbon_tasks.crawl_build_task -- max_steps: 150
+2022-02-14 10:50:47,422 INFO     carbon_tasks.crawl_build_task -- max_iterations: 1
+2022-02-14 10:50:47,422 INFO     carbon_tasks.crawl_build_task -- rand_seed: 1644861047
+2022-02-14 10:50:47,422 INFO     carbon_tasks.crawl_build_task -- test_wildcard: *
+2022-02-14 10:50:47,422 INFO     carbon_tasks.crawl_build_task -- package: com.coffye.jrosav
+2022-02-14 10:50:47,422 INFO     carbon_tasks.crawl_build_task -- eyes_api_key: None
+2022-02-14 10:50:47,422 INFO     carbon_tasks.crawl_build_task -- is_noop: False
+2022-02-14 10:50:47,424 INFO     carbon_tasks.crawl_build_task -- created crawl, id: 20220214105047
+2022-02-14 10:50:47,603 INFO     carbon_explore.explore -- using default extra walk count: 0
+2022-02-14 10:50:47,614 INFO     carbon_tasks.process_crawl_task -- processing master crawl: (app: a3cdec05-7def-4834-acbf-5a945c488a83)
+2022-02-14 10:50:47,638 INFO     carbon_tasks.generate_auto_labels_task -- getting data for crawl: master
+2022-02-14 10:50:47,639 INFO     carbon_tasks.generate_auto_labels_task -- processing crawl: master
+2022-02-14 10:50:47,648 INFO     carbon_tasks.generate_auto_labels_task -- writing merged, suggested labels for crawl: master
+2022-02-14 10:50:47,727 INFO     carbon_tasks.generate_auto_labels_task -- writing applied hashes to labels to file: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/lkg/hashes_to_labels.json
+2022-02-14 10:50:47,729 INFO     carbon_tasks.generate_auto_labels_task -- writing applied human readable to labels to file: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/lkg/human_readable_to_labels.json
+2022-02-14 10:50:47,729 INFO     carbon_tasks.generate_auto_labels_task -- writing label to hash dicts to file: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/lkg/label_to_hash_dicts.json
+2022-02-14 10:50:47,730 INFO     carbon_tasks.generate_auto_labels_task -- writing human readable to paths to file: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/lkg/human_readable_to_paths.json
+2022-02-14 10:50:47,731 INFO     carbon_tasks.crawl_build_task -- initiating walk [1/1]
+2022-02-14 10:50:47,731 INFO     carbon_test_case.carbon_tests -- initial number of steps for walk: 25
+2022-02-14 10:50:47,731 INFO     carbon_tasks.crawl_build_task -- effective_max_steps this walk: 24
+2022-02-14 10:50:47,731 INFO     carbon_explore.explore -- **************************************************
+2022-02-14 10:50:47,732 INFO     carbon_explore.explore -- **************************************************
+2022-02-14 10:50:47,732 INFO     carbon_explore.explore -- *                                                *
+2022-02-14 10:50:47,732 INFO     carbon_explore.explore -- *                   BRAIN                    *
+2022-02-14 10:50:47,732 INFO     carbon_explore.explore -- *                                                *
+2022-02-14 10:50:47,732 INFO     carbon_explore.explore -- **************************************************
+2022-02-14 10:50:47,732 INFO     carbon_explore.explore -- **************************************************
+2022-02-14 10:50:47,732 INFO     carbon_initialization.initialization -- Random seed: 1644861047
+2022-02-14 10:50:47,735 INFO     carbon_initialization.initialization -- ````````````````````````````````````````````````````````````````````````````````
+2022-02-14 10:50:47,735 INFO     carbon_initialization.initialization --                   PACKAGE: com.coffye.jrosav
+2022-02-14 10:50:47,735 INFO     carbon_initialization.initialization -- ````````````````````````````````````````````````````````````````````````````````
+2022-02-14 10:50:47,735 INFO     carbon_initialization.initialization -- platform: ANDROID
+2022-02-14 10:50:47,735 INFO     carbon_initialization.initialization -- using crawl_directory: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214105047
+2022-02-14 10:50:47,735 INFO     carbon_botio.bot_io -- retrieving bot IO for app: a3cdec05-7def-4834-acbf-5a945c488a83
+2022-02-14 10:50:47,735 INFO     carbon_botio.bot_io -- ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2022-02-14 10:50:47,735 INFO     carbon_botio.bot_io -- botio_filepath: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/lkg/botio.json
+2022-02-14 10:50:47,735 INFO     carbon_botio.bot_io -- use_snapshot: False
+2022-02-14 10:50:47,736 INFO     carbon_botio.bot_io -- no botIO found for app: a3cdec05-7def-4834-acbf-5a945c488a83
+2022-02-14 10:50:47,737 INFO     carbon_dao.carbon_data -- loading models from LKG dir
+2022-02-14 10:50:47,738 INFO     carbon_dao.carbon_data -- loading models from LKG dir
+2022-02-14 10:50:47,739 INFO     carbon_explore.test_hooks -- Test case is None, no need for on_setup.
+2022-02-14 10:50:47,740 INFO     carbon_utils.simulator_tools -- preparing clean iteration state...
+2022-02-14 10:50:56,285 INFO     carbon_automation.driver -- Screen density: 1.0
+2022-02-14 10:50:56,286 INFO     carbon_utils.simulator_tools -- Attempting uninstall on app: com.coffye.jrosav
+2022-02-14 10:50:57,000 INFO     carbon_utils.simulator_tools -- Installing app: http://localhost:12543/api/v2/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/download?ext=.apk
+2022-02-14 10:51:00,911 INFO     carbon_utils.simulator_tools -- Launching app: com.coffye.jrosav
+2022-02-14 10:51:06,306 INFO     carbon_initialization.initialization -- starting dom stability
+2022-02-14 10:51:06,622 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-14 10:51:07,106 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-14 10:51:07,482 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-14 10:51:07,878 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-14 10:51:08,254 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-14 10:51:08,254 INFO     carbon_actions.carbon_actions -- Seen the same screen the max amount (5)
+2022-02-14 10:51:08,254 INFO     carbon_explore.explore_utils -- Saving screenshot.
+2022-02-14 10:51:09,375 INFO     carbon_explore.explore_utils -- Screenshot file path: /var/folders/17/q1j6t1zn26b777q0qcpy69sw0000gn/T/tmp-screenshot-bl3h_9ly.png
+2022-02-14 10:51:11,942 ERROR    carbon_automation.driver -- Unable to get active app package.
+2022-02-14 10:51:11,942 INFO     carbon_initialization.initialization -- current package sent in as: com.coffye.jrosav
+2022-02-14 10:51:11,942 INFO     carbon_initialization.initialization -- ended dom stability
+2022-02-14 10:51:11,944 INFO     carbon_explore.test_hooks -- Test case is None, no need for on_after_launch.
+2022-02-14 10:51:11,944 INFO     carbon_explore.explore -- package is set to: com.coffye.jrosav
+2022-02-14 10:51:11,944 INFO     carbon_explore.explore -- 
+2022-02-14 10:51:11,944 INFO     carbon_explore.explore -- ********************************************************************************
+2022-02-14 10:51:11,944 INFO     carbon_explore.explore -- ********************************************************************************
+2022-02-14 10:51:11,944 INFO     carbon_explore.explore -- 
+2022-02-14 10:51:11,946 INFO     carbon_explore.explore_utils -- getting xml_src
+2022-02-14 10:51:12,468 INFO     carbon_explore.interactive -- Interactive explore -- start_interactive_loop starting.
+2022-02-14 10:51:12,470 INFO     carbon_explore.interactive -- Interactive explore -- running initial auto label
+2022-02-14 10:51:12,470 INFO     carbon_tasks.process_crawl_task -- processing crawl: 20220214105047 (app: a3cdec05-7def-4834-acbf-5a945c488a83, build: 7d741828-6a21-4cd3-b257-ed0561aa6d99)
+2022-02-14 10:51:12,470 INFO     carbon_tasks.process_crawl_task -- processing screens for crawl
+2022-02-14 10:51:12,575 INFO     carbon_tasks.process_crawl_task -- writing unique screens file
+2022-02-14 10:51:12,578 INFO     carbon_tasks.process_crawl_task -- writing screen hash map
+2022-02-14 10:51:12,580 INFO     carbon_tasks.process_crawl_task -- writing screen similarity file
+2022-02-14 10:51:12,582 INFO     carbon_tasks.process_crawl_task -- processing elements for crawl
+2022-02-14 10:51:12,586 INFO     carbon_tasks.process_crawl_task -- processing: iter_00000_step_00000_info.json
+2022-02-14 10:51:16,039 INFO     carbon_tasks.process_crawl_task -- Writing unique tags file.
+2022-02-14 10:51:16,040 INFO     carbon_tasks.process_crawl_task -- writing unique elems file
+2022-02-14 10:51:16,041 INFO     carbon_tasks.process_crawl_task -- writing elem hash map
+2022-02-14 10:51:16,051 INFO     carbon_tasks.process_crawl_task -- writing elem similarity file
+2022-02-14 10:51:16,053 INFO     carbon_tasks.process_crawl_task -- generating labeler objects file for crawl (v0)
+2022-02-14 10:51:16,065 INFO     carbon_tasks.process_crawl_task -- reconciling screens labeled at runtime
+2022-02-14 10:51:16,065 INFO     carbon_tasks.process_crawl_task -- reconciling elements labeled at runtime
+2022-02-14 10:51:16,071 INFO     carbon_tasks.generate_auto_labels_task -- generating auto labels for crawl: 20220214105047, app_id: a3cdec05-7def-4834-acbf-5a945c488a83, build_id: 7d741828-6a21-4cd3-b257-ed0561aa6d99
+2022-02-14 10:51:16,080 INFO     carbon_tasks.generate_auto_labels_task -- getting data for crawl: 20220214101822
+2022-02-14 10:51:16,081 INFO     carbon_tasks.generate_auto_labels_task -- getting data for crawl: 20220214101559
+2022-02-14 10:51:16,082 INFO     carbon_tasks.generate_auto_labels_task -- getting data for crawl: 20220214102845
+2022-02-14 10:51:16,083 INFO     carbon_tasks.generate_auto_labels_task -- getting data for crawl: 20220214103025
+2022-02-14 10:51:16,085 INFO     carbon_tasks.generate_auto_labels_task -- getting data for crawl: 20220214103427
+2022-02-14 10:51:16,086 INFO     carbon_tasks.generate_auto_labels_task -- getting data for crawl: 20220214104200
+2022-02-14 10:51:16,089 INFO     carbon_tasks.generate_auto_labels_task -- getting data for crawl: 20220214104614
+2022-02-14 10:51:16,091 INFO     carbon_tasks.generate_auto_labels_task -- getting data for crawl: 20220214105047
+2022-02-14 10:51:16,092 INFO     carbon_tasks.generate_auto_labels_task -- getting data for crawl: master
+2022-02-14 10:51:16,092 INFO     carbon_tasks.generate_auto_labels_task -- processing crawl: 20220214101822
+2022-02-14 10:51:16,093 INFO     carbon_tasks.generate_auto_labels_task -- processing crawl: 20220214101559
+2022-02-14 10:51:16,094 INFO     carbon_tasks.generate_auto_labels_task -- processing crawl: 20220214102845
+2022-02-14 10:51:16,095 INFO     carbon_tasks.generate_auto_labels_task -- processing crawl: 20220214103025
+2022-02-14 10:51:16,096 INFO     carbon_tasks.generate_auto_labels_task -- processing crawl: 20220214103427
+2022-02-14 10:51:16,097 INFO     carbon_tasks.generate_auto_labels_task -- processing crawl: 20220214104200
+2022-02-14 10:51:16,098 INFO     carbon_tasks.generate_auto_labels_task -- processing crawl: 20220214104614
+2022-02-14 10:51:16,100 INFO     carbon_tasks.generate_auto_labels_task -- processing crawl: 20220214105047
+2022-02-14 10:51:16,101 INFO     carbon_tasks.generate_auto_labels_task -- processing crawl: master
+2022-02-14 10:51:16,111 INFO     carbon_tasks.generate_auto_labels_task -- writing merged, suggested labels for crawl: 20220214101822
+2022-02-14 10:51:16,115 INFO     carbon_tasks.generate_auto_labels_task -- writing merged, suggested labels for crawl: 20220214102845
+2022-02-14 10:51:16,133 INFO     carbon_tasks.generate_auto_labels_task -- writing merged, suggested labels for crawl: master
+2022-02-14 10:51:16,136 INFO     carbon_tasks.generate_auto_labels_task -- writing merged, suggested labels for crawl: 20220214105047
+2022-02-14 10:51:16,137 INFO     carbon_tasks.generate_auto_labels_task -- writing merged, suggested labels for crawl: 20220214104614
+2022-02-14 10:51:16,137 INFO     carbon_tasks.generate_auto_labels_task -- writing merged, suggested labels for crawl: 20220214101559
+2022-02-14 10:51:16,138 INFO     carbon_tasks.generate_auto_labels_task -- writing merged, suggested labels for crawl: 20220214103025
+2022-02-14 10:51:16,140 INFO     carbon_tasks.generate_auto_labels_task -- writing merged, suggested labels for crawl: 20220214103427
+2022-02-14 10:51:16,141 INFO     carbon_tasks.generate_auto_labels_task -- writing merged, suggested labels for crawl: 20220214104200
+2022-02-14 10:51:16,239 INFO     carbon_tasks.generate_auto_labels_task -- writing applied hashes to labels to file: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/lkg/hashes_to_labels.json
+2022-02-14 10:51:16,240 INFO     carbon_tasks.generate_auto_labels_task -- writing applied human readable to labels to file: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/lkg/human_readable_to_labels.json
+2022-02-14 10:51:16,241 INFO     carbon_tasks.generate_auto_labels_task -- writing label to hash dicts to file: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/lkg/label_to_hash_dicts.json
+2022-02-14 10:51:16,243 INFO     carbon_tasks.generate_auto_labels_task -- writing human readable to paths to file: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/lkg/human_readable_to_paths.json
+2022-02-14 10:51:16,245 INFO     carbon_classifiers.textual.textual_classifier -- Loading TextualClassifier.
+2022-02-14 10:51:16,245 INFO     carbon_tasks.generate_auto_labels_task -- classifying 1 unique screens
+2022-02-14 10:51:16,245 INFO     carbon_dao.carbon_data -- loading models from LKG dir
+2022-02-14 10:51:16,245 INFO     carbon_dao.carbon_data -- loading models from LKG dir
+2022-02-14 10:51:16,253 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2022-02-14 10:51:16,256 WARNING  carbon_classifiers.template_matching.template_matching_classifier -- No template directory exists at /Users/testai/test_ai/templates
+2022-02-14 10:51:16,291 INFO     carbon_classifiers.remote_general_classifier.remote_general_classifier -- Classifying screen with remote general classifier.
+2022-02-14 10:51:16,302 INFO     carbon_classifiers.remote_general_classifier.remote_general_classifier -- Sending general classification request to https://kirfuzz.test.ai:443/get_entities/ with name "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214105047/iter_00000_step_00000_screenshot.png", and general classifier version "v2".
+2022-02-14 10:51:18,534 INFO     carbon_classifiers.remote_general_classifier.remote_general_classifier -- General classification request returned in 2.232004165649414 seconds with status code 200.
+2022-02-14 10:51:18,537 INFO     carbon_classifiers.textual.textual_classifier -- Classifying screen with TextualClassifier.
+2022-02-14 10:51:18,662 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 2.4145138979999956 seconds
+2022-02-14 10:51:18,663 INFO     carbon_tasks.generate_auto_labels_task -- classifying 119 unique elems
+2022-02-14 10:51:18,676 INFO     carbon_dao.carbon_data -- loading models from LKG dir
+2022-02-14 10:51:18,676 INFO     carbon_dao.carbon_data -- loading models from LKG dir
+2022-02-14 10:51:18,684 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2022-02-14 10:51:19,474 INFO     carbon_classifiers.textual.textual_classifier -- Classifying screen with TextualClassifier.
+2022-02-14 10:51:19,478 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 0.8019087479999598 seconds
+2022-02-14 10:51:19,480 INFO     carbon_tasks.generate_auto_labels_task -- writing merged, suggested labels for crawl: 20220214105047
+2022-02-14 10:51:19,487 INFO     carbon_explore.interactive -- 
+
+
+[32;1mCarbon Interactive Crawling Session Starting...
+Please make sure you are running the test.ai GUI (./test.ai -d).
+Once the GUI is running, please visit [34mhttp://localhost:12543[32;1m.
+To access the interactive session, select the correct app, and click on "Interactive Composer".
+
+[0m
+2022-02-14 10:51:23,170 WARNING  waitress.queue -- Task queue depth is 1
+2022-02-14 10:51:23,174 INFO     carbon_explore.interactive -- Interactive explore -- get_crawls(android, a3cdec05-7def-4834-acbf-5a945c488a83) -- start
+2022-02-14 10:51:23,174 INFO     carbon_explore.interactive -- Interactive explore -- get_crawls(android, a3cdec05-7def-4834-acbf-5a945c488a83) -- end
+2022-02-14 10:51:23,284 INFO     carbon_explore.interactive -- Interactive explore -- get_labeler_objects -- start
+2022-02-14 10:51:23,285 INFO     carbon_explore.interactive -- Interactive explore -- Processing crawl interactively 20220214105047
+2022-02-14 10:51:23,285 INFO     carbon_tasks.process_crawl_task -- processing crawl: 20220214105047 (app: a3cdec05-7def-4834-acbf-5a945c488a83, build: 7d741828-6a21-4cd3-b257-ed0561aa6d99)
+2022-02-14 10:51:23,285 INFO     carbon_tasks.process_crawl_task -- processing screens for crawl
+2022-02-14 10:51:23,361 INFO     carbon_tasks.process_crawl_task -- writing unique screens file
+2022-02-14 10:51:23,364 INFO     carbon_tasks.process_crawl_task -- writing screen hash map
+2022-02-14 10:51:23,367 INFO     carbon_tasks.process_crawl_task -- writing screen similarity file
+2022-02-14 10:51:23,368 INFO     carbon_tasks.process_crawl_task -- processing elements for crawl
+2022-02-14 10:51:23,371 INFO     carbon_tasks.process_crawl_task -- skipping already processed: iter_00000_step_00000_info.json
+2022-02-14 10:51:24,222 INFO     carbon_tasks.process_crawl_task -- Writing unique tags file.
+2022-02-14 10:51:24,224 INFO     carbon_tasks.process_crawl_task -- writing unique elems file
+2022-02-14 10:51:24,225 INFO     carbon_tasks.process_crawl_task -- writing elem hash map
+2022-02-14 10:51:24,238 INFO     carbon_tasks.process_crawl_task -- writing elem similarity file
+2022-02-14 10:51:24,239 INFO     carbon_tasks.process_crawl_task -- generating labeler objects file for crawl (v0)
+2022-02-14 10:51:24,255 INFO     carbon_tasks.process_crawl_task -- reconciling screens labeled at runtime
+2022-02-14 10:51:24,256 INFO     carbon_tasks.process_crawl_task -- reconciling elements labeled at runtime
+2022-02-14 10:51:24,262 INFO     carbon_explore.interactive -- Interactive explore -- Generating labels using hash information 20220214105047
+2022-02-14 10:51:24,267 INFO     carbon_explore.interactive -- Interactive explore -- get_labeler_objects -- end
+2022-02-14 10:51:24,609 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214105047, filename: iter_00000_step_00000_screenshot.png
+2022-02-14 10:51:24,610 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214105047/screens/iter_00000_step_00000_screenshot.png
+2022-02-14 10:51:24,639 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214105047, filename: iter_00000_step_00000_113_android.widget.TextView.png
+2022-02-14 10:51:24,640 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214105047/elems/iter_00000_step_00000_113_android.widget.TextView.png
+2022-02-14 10:51:24,642 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214105047, filename: iter_00000_step_00000_97_android.view.ViewGroup.png
+2022-02-14 10:51:24,643 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214105047/elems/iter_00000_step_00000_97_android.view.ViewGroup.png
+2022-02-14 10:51:24,648 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214105047, filename: iter_00000_step_00000_104_android.view.ViewGroup.png
+2022-02-14 10:51:24,651 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214105047/elems/iter_00000_step_00000_104_android.view.ViewGroup.png
+2022-02-14 10:51:29,930 INFO     labeler.v1.tests -- tests_info:{'test': {'title': 'test', 'description': '', 'tags': [], 'temp_id': 'bd34bf46-8dbe-11ec-936f-149d997c13bb', 'steps': [], 'is_deactivated': False}}
+2022-02-14 10:51:34,431 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214105047, filename: iter_00000_step_00000_10_android.view.ViewGroup.png
+2022-02-14 10:51:34,432 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214105047, filename: iter_00000_step_00000_11_android.view.ViewGroup.png
+2022-02-14 10:51:34,432 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214105047, filename: iter_00000_step_00000_29_android.view.ViewGroup.png
+2022-02-14 10:51:34,435 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214105047/elems/iter_00000_step_00000_11_android.view.ViewGroup.png
+2022-02-14 10:51:34,436 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214105047/elems/iter_00000_step_00000_10_android.view.ViewGroup.png
+2022-02-14 10:51:34,440 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214105047/elems/iter_00000_step_00000_29_android.view.ViewGroup.png
+2022-02-14 10:51:39,873 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214105047, filename: iter_00000_step_00000_35_android.view.ViewGroup.png
+2022-02-14 10:51:39,874 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214105047/elems/iter_00000_step_00000_35_android.view.ViewGroup.png
+2022-02-14 10:51:40,222 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214105047, filename: iter_00000_step_00000_43_android.view.ViewGroup.png
+2022-02-14 10:51:40,223 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214105047/elems/iter_00000_step_00000_43_android.view.ViewGroup.png
+2022-02-14 10:51:40,591 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214105047, filename: iter_00000_step_00000_44_android.view.ViewGroup.png
+2022-02-14 10:51:40,592 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214105047/elems/iter_00000_step_00000_44_android.view.ViewGroup.png
+2022-02-14 10:51:40,689 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214105047, filename: iter_00000_step_00000_46_android.view.ViewGroup.png
+2022-02-14 10:51:40,690 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214105047/elems/iter_00000_step_00000_46_android.view.ViewGroup.png
+2022-02-14 10:51:40,789 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214105047, filename: iter_00000_step_00000_49_android.view.ViewGroup.png
+2022-02-14 10:51:40,790 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214105047/elems/iter_00000_step_00000_49_android.view.ViewGroup.png
+2022-02-14 10:51:41,389 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214105047, filename: iter_00000_step_00000_50_android.view.ViewGroup.png
+2022-02-14 10:51:41,390 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214105047/elems/iter_00000_step_00000_50_android.view.ViewGroup.png
+2022-02-14 10:51:42,689 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214105047, filename: iter_00000_step_00000_53_android.widget.TextView.png
+2022-02-14 10:51:42,690 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214105047/elems/iter_00000_step_00000_53_android.widget.TextView.png
+2022-02-14 10:51:44,358 INFO     labeler.v1.crawls -- labels_info:{'elems': {'iter_00000_step_00000_53_android.widget.TextView.png': ['fashion_accessories']}, 'screens': {}}
+2022-02-14 10:51:44,367 INFO     carbon_dao.master_crawl_squash -- Squashing crawl 20220214105047
+2022-02-14 10:51:44,441 INFO     carbon_dao.master_crawl_squash -- Squashing 1 screens.
+2022-02-14 10:51:44,513 INFO     carbon_dao.master_crawl_squash -- Squashed screen f805009e1c966df24e5487b4cf0c79c7.
+2022-02-14 10:51:44,543 INFO     carbon_dao.master_crawl_squash -- Squashing unlabeled elements for crawl 20220214105047
+2022-02-14 10:51:44,690 INFO     carbon_dao.master_crawl -- Removed 0 unlabeled elements for app a3cdec05-7def-4834-acbf-5a945c488a83.
+2022-02-14 10:51:46,746 INFO     labeler.v1.tests -- tests_info:{'test': {'title': 'test', 'description': '', 'tags': [], 'temp_id': 'bd34bf46-8dbe-11ec-936f-149d997c13bb', 'steps': [{'type': 'action', 'widget': '', 'grep': '', 'description': '', 'continue_on_failure': False, 'labels': ['fashion_accessories'], 'label_count': None, 'grep_count': None, 'input': 'tap'}], 'is_deactivated': False}}
+2022-02-14 10:51:48,038 INFO     carbon_explore.interactive -- Interactive explore -- run_step -- start
+2022-02-14 10:51:48,038 INFO     carbon_explore.interactive -- Interactive explore -- get labels for crawl 20220214105047
+2022-02-14 10:51:48,040 INFO     carbon_explore.interactive -- Interactive explore -- get labeler objects for crawl 20220214105047
+2022-02-14 10:51:48,041 INFO     carbon_explore.interactive -- Interactive explore -- Executing interactive step for crawl 20220214105047
+2022-02-14 10:51:48,041 INFO     carbon_explore.explore_hook -- Explore hook -- perform_test_step starting.
+2022-02-14 10:51:48,041 INFO     carbon_explore.explore_hook -- Explore hook -- _get_screen_info_hook starting.
+2022-02-14 10:51:48,041 INFO     carbon_explore.explore_utils -- Saving screenshot.
+2022-02-14 10:51:50,166 INFO     carbon_explore.explore_utils -- Screenshot file path: /var/folders/17/q1j6t1zn26b777q0qcpy69sw0000gn/T/tmp-screenshot-rf1w4wzc.png
+2022-02-14 10:51:50,166 INFO     carbon_explore.explore_utils -- getting xml_src
+2022-02-14 10:51:50,490 INFO     carbon_explore.explore_hook -- Explore hook -- _get_screen_info_hook completed.
+2022-02-14 10:51:50,490 INFO     carbon_explore.explore_hook -- Explore hook -- _get_labels_for_screen starting on [].
+2022-02-14 10:51:50,491 INFO     carbon_explore.explore_hook -- Explore hook -- Found labels: {'all_labels': [], 'screen_labels': [], 'elem_labels': []}
+2022-02-14 10:51:50,491 INFO     carbon_explore.explore_hook -- Explore hook -- get_labels_for_screen completed.
+2022-02-14 10:51:50,491 INFO     carbon_explore.explore_hook -- saving step
+2022-02-14 10:51:50,644 INFO     carbon_explore.explore_hook -- step saved
+2022-02-14 10:51:50,644 INFO     carbon_explore.explore_hook -- Explore hook -- _perform_element_action starting.
+2022-02-14 10:51:50,645 INFO     carbon_utils.action_utils -- Action: Tap
+2022-02-14 10:51:50,645 INFO     carbon_utils.action_utils --    On Element: android.widget.TextView_X33_Y914_W501_H82
+2022-02-14 10:51:50,645 INFO     carbon_utils.action_utils --    Sending cx: 283 cy: 955
+2022-02-14 10:51:51,323 INFO     carbon_explore.explore -- DOM stability timing: pre
+2022-02-14 10:51:51,612 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-14 10:51:52,119 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-14 10:51:52,614 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-14 10:51:53,213 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-14 10:51:53,716 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-14 10:51:54,205 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-14 10:51:54,716 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-14 10:51:54,716 INFO     carbon_actions.carbon_actions -- Seen the same screen the max amount (5)
+2022-02-14 10:51:54,716 INFO     carbon_explore.explore_utils -- Saving screenshot.
+2022-02-14 10:51:55,701 INFO     carbon_explore.explore_utils -- Screenshot file path: /var/folders/17/q1j6t1zn26b777q0qcpy69sw0000gn/T/tmp-screenshot-6f1osplj.png
+2022-02-14 10:51:56,120 INFO     carbon_explore.explore_hook -- Explore hook -- perform_element_action completed.
+2022-02-14 10:51:56,120 INFO     carbon_explore.explore_hook -- Explore hook -- perform_test_step completed.
+2022-02-14 10:51:56,120 INFO     carbon_explore.interactive -- Interactive explore -- Getting screen info for crawl 20220214105047
+2022-02-14 10:51:56,121 INFO     carbon_explore.explore_hook -- Explore hook -- perform_test_step starting.
+2022-02-14 10:51:56,121 INFO     carbon_explore.explore_hook -- Explore hook -- _get_screen_info_hook starting.
+2022-02-14 10:51:56,121 INFO     carbon_explore.explore_utils -- Saving screenshot.
+2022-02-14 10:51:57,095 INFO     carbon_explore.explore_utils -- Screenshot file path: /var/folders/17/q1j6t1zn26b777q0qcpy69sw0000gn/T/tmp-screenshot-revf2tvc.png
+2022-02-14 10:51:57,095 INFO     carbon_explore.explore_utils -- getting xml_src
+2022-02-14 10:51:57,516 INFO     carbon_explore.explore_hook -- Explore hook -- _get_screen_info_hook completed.
+2022-02-14 10:51:57,516 INFO     carbon_explore.explore_hook -- Explore hook -- _get_labels_for_screen starting on [].
+2022-02-14 10:51:57,516 INFO     carbon_explore.explore_hook -- Explore hook -- Found labels: {'all_labels': [], 'screen_labels': [], 'elem_labels': []}
+2022-02-14 10:51:57,517 INFO     carbon_explore.explore_hook -- Explore hook -- get_labels_for_screen completed.
+2022-02-14 10:51:57,517 INFO     carbon_explore.explore_hook -- saving step
+2022-02-14 10:51:57,685 INFO     carbon_explore.explore_hook -- step saved
+2022-02-14 10:51:57,685 INFO     carbon_explore.explore_hook -- Explore hook -- _perform_element_action starting.
+2022-02-14 10:51:57,685 INFO     carbon_explore.explore_hook -- Explore hook -- perform_element_action completed.
+2022-02-14 10:51:57,685 INFO     carbon_explore.explore_hook -- Explore hook -- perform_test_step completed.
+2022-02-14 10:51:57,685 INFO     carbon_explore.interactive -- Interactive explore -- Get labeler objects for crawl 20220214105047
+2022-02-14 10:51:57,685 INFO     carbon_explore.interactive -- Interactive explore -- get_labeler_objects -- start
+2022-02-14 10:51:57,685 INFO     carbon_explore.interactive -- Interactive explore -- Processing crawl interactively 20220214105047
+2022-02-14 10:51:57,686 INFO     carbon_tasks.process_crawl_task -- processing crawl: 20220214105047 (app: a3cdec05-7def-4834-acbf-5a945c488a83, build: 7d741828-6a21-4cd3-b257-ed0561aa6d99)
+2022-02-14 10:51:57,686 INFO     carbon_tasks.process_crawl_task -- processing screens for crawl
+2022-02-14 10:51:57,750 INFO     carbon_tasks.process_crawl_task -- writing unique screens file
+2022-02-14 10:51:57,751 INFO     carbon_tasks.process_crawl_task -- writing screen hash map
+2022-02-14 10:51:57,755 INFO     carbon_tasks.process_crawl_task -- writing screen similarity file
+2022-02-14 10:51:57,756 INFO     carbon_tasks.process_crawl_task -- processing elements for crawl
+2022-02-14 10:51:57,758 INFO     carbon_tasks.process_crawl_task -- processing: iter_00000_step_00002_info.json
+2022-02-14 10:51:57,763 INFO     carbon_tasks.process_crawl_task -- processing: iter_00000_step_00001_info.json
+2022-02-14 10:51:57,768 INFO     carbon_tasks.process_crawl_task -- skipping already processed: iter_00000_step_00000_info.json
+2022-02-14 10:52:00,954 INFO     carbon_tasks.process_crawl_task -- Writing unique tags file.
+2022-02-14 10:52:00,955 INFO     carbon_tasks.process_crawl_task -- writing unique elems file
+2022-02-14 10:52:00,957 INFO     carbon_tasks.process_crawl_task -- writing elem hash map
+2022-02-14 10:52:00,974 INFO     carbon_tasks.process_crawl_task -- writing elem similarity file
+2022-02-14 10:52:00,977 INFO     carbon_tasks.process_crawl_task -- generating labeler objects file for crawl (v0)
+2022-02-14 10:52:00,997 INFO     carbon_tasks.process_crawl_task -- reconciling screens labeled at runtime
+2022-02-14 10:52:00,998 INFO     carbon_tasks.process_crawl_task -- reconciling elements labeled at runtime
+2022-02-14 10:52:01,009 INFO     carbon_explore.interactive -- Interactive explore -- Generating labels using hash information 20220214105047
+2022-02-14 10:52:01,015 INFO     carbon_explore.interactive -- Interactive explore -- get_labeler_objects -- end
+2022-02-14 10:52:01,018 INFO     carbon_tasks.generate_auto_labels_task -- generating auto labels for crawl: 20220214105047, app_id: a3cdec05-7def-4834-acbf-5a945c488a83, build_id: 7d741828-6a21-4cd3-b257-ed0561aa6d99
+2022-02-14 10:52:01,023 INFO     carbon_tasks.generate_auto_labels_task -- getting data for crawl: 20220214101822
+2022-02-14 10:52:01,024 INFO     carbon_tasks.generate_auto_labels_task -- getting data for crawl: 20220214101559
+2022-02-14 10:52:01,025 INFO     carbon_tasks.generate_auto_labels_task -- getting data for crawl: 20220214102845
+2022-02-14 10:52:01,026 INFO     carbon_tasks.generate_auto_labels_task -- getting data for crawl: 20220214103025
+2022-02-14 10:52:01,027 INFO     carbon_tasks.generate_auto_labels_task -- getting data for crawl: 20220214103427
+2022-02-14 10:52:01,028 INFO     carbon_tasks.generate_auto_labels_task -- getting data for crawl: 20220214104200
+2022-02-14 10:52:01,029 INFO     carbon_tasks.generate_auto_labels_task -- getting data for crawl: 20220214104614
+2022-02-14 10:52:01,030 INFO     carbon_tasks.generate_auto_labels_task -- getting data for crawl: 20220214105047
+2022-02-14 10:52:01,031 INFO     carbon_tasks.generate_auto_labels_task -- getting data for crawl: master
+2022-02-14 10:52:01,032 INFO     carbon_tasks.generate_auto_labels_task -- processing crawl: 20220214101822
+2022-02-14 10:52:01,032 INFO     carbon_tasks.generate_auto_labels_task -- processing crawl: 20220214101559
+2022-02-14 10:52:01,033 INFO     carbon_tasks.generate_auto_labels_task -- processing crawl: 20220214102845
+2022-02-14 10:52:01,033 INFO     carbon_tasks.generate_auto_labels_task -- processing crawl: 20220214103025
+2022-02-14 10:52:01,034 INFO     carbon_tasks.generate_auto_labels_task -- processing crawl: 20220214103427
+2022-02-14 10:52:01,035 INFO     carbon_tasks.generate_auto_labels_task -- processing crawl: 20220214104200
+2022-02-14 10:52:01,035 INFO     carbon_tasks.generate_auto_labels_task -- processing crawl: 20220214104614
+2022-02-14 10:52:01,036 INFO     carbon_tasks.generate_auto_labels_task -- processing crawl: 20220214105047
+2022-02-14 10:52:01,037 INFO     carbon_tasks.generate_auto_labels_task -- processing crawl: master
+2022-02-14 10:52:01,050 INFO     carbon_tasks.generate_auto_labels_task -- writing merged, suggested labels for crawl: 20220214103025
+2022-02-14 10:52:01,050 INFO     carbon_tasks.generate_auto_labels_task -- writing merged, suggested labels for crawl: 20220214101822
+2022-02-14 10:52:01,051 INFO     carbon_tasks.generate_auto_labels_task -- writing merged, suggested labels for crawl: 20220214101559
+2022-02-14 10:52:01,053 INFO     carbon_tasks.generate_auto_labels_task -- writing merged, suggested labels for crawl: 20220214103427
+2022-02-14 10:52:01,054 INFO     carbon_tasks.generate_auto_labels_task -- writing merged, suggested labels for crawl: 20220214102845
+2022-02-14 10:52:01,056 INFO     carbon_tasks.generate_auto_labels_task -- writing merged, suggested labels for crawl: 20220214104200
+2022-02-14 10:52:01,060 INFO     carbon_tasks.generate_auto_labels_task -- writing merged, suggested labels for crawl: 20220214105047
+2022-02-14 10:52:01,060 INFO     carbon_tasks.generate_auto_labels_task -- writing merged, suggested labels for crawl: 20220214104614
+2022-02-14 10:52:01,063 INFO     carbon_tasks.generate_auto_labels_task -- writing merged, suggested labels for crawl: master
+2022-02-14 10:52:01,118 INFO     carbon_tasks.generate_auto_labels_task -- writing applied hashes to labels to file: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/lkg/hashes_to_labels.json
+2022-02-14 10:52:01,119 INFO     carbon_tasks.generate_auto_labels_task -- writing applied human readable to labels to file: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/lkg/human_readable_to_labels.json
+2022-02-14 10:52:01,119 INFO     carbon_tasks.generate_auto_labels_task -- writing label to hash dicts to file: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/lkg/label_to_hash_dicts.json
+2022-02-14 10:52:01,120 INFO     carbon_tasks.generate_auto_labels_task -- writing human readable to paths to file: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/lkg/human_readable_to_paths.json
+2022-02-14 10:52:01,121 INFO     carbon_classifiers.textual.textual_classifier -- Loading TextualClassifier.
+2022-02-14 10:52:01,121 INFO     carbon_tasks.generate_auto_labels_task -- classifying 2 unique screens
+2022-02-14 10:52:01,121 INFO     carbon_dao.carbon_data -- loading models from LKG dir
+2022-02-14 10:52:01,121 INFO     carbon_dao.carbon_data -- loading models from LKG dir
+2022-02-14 10:52:01,126 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2022-02-14 10:52:01,128 WARNING  carbon_classifiers.template_matching.template_matching_classifier -- No template directory exists at /Users/testai/test_ai/templates
+2022-02-14 10:52:01,154 INFO     carbon_classifiers.remote_general_classifier.remote_general_classifier -- Classifying screen with remote general classifier.
+2022-02-14 10:52:01,162 INFO     carbon_classifiers.remote_general_classifier.remote_general_classifier -- Sending general classification request to https://kirfuzz.test.ai:443/get_entities/ with name "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214105047/iter_00000_step_00002_screenshot.png", and general classifier version "v2".
+2022-02-14 10:52:04,574 INFO     carbon_classifiers.remote_general_classifier.remote_general_classifier -- General classification request returned in 3.4100379943847656 seconds with status code 200.
+2022-02-14 10:52:04,577 INFO     carbon_classifiers.textual.textual_classifier -- Classifying screen with TextualClassifier.
+2022-02-14 10:52:04,657 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 3.5340932420001536 seconds
+2022-02-14 10:52:04,658 INFO     carbon_tasks.generate_auto_labels_task -- classifying 200 unique elems
+2022-02-14 10:52:04,668 INFO     carbon_dao.carbon_data -- loading models from LKG dir
+2022-02-14 10:52:04,669 INFO     carbon_dao.carbon_data -- loading models from LKG dir
+2022-02-14 10:52:04,676 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2022-02-14 10:52:05,483 INFO     carbon_classifiers.textual.textual_classifier -- Classifying screen with TextualClassifier.
+2022-02-14 10:52:05,487 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 0.8186646620001738 seconds
+2022-02-14 10:52:05,491 INFO     carbon_tasks.generate_auto_labels_task -- writing merged, suggested labels for crawl: 20220214105047
+2022-02-14 10:52:05,496 INFO     carbon_explore.interactive -- Interactive explore -- get labels for crawl 20220214105047
+2022-02-14 10:52:05,508 INFO     carbon_explore.interactive -- Interactive explore -- run_step -- end
+2022-02-14 10:52:05,689 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214105047, filename: iter_00000_step_00002_10_android.view.ViewGroup.png
+2022-02-14 10:52:05,690 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214105047/elems/iter_00000_step_00002_10_android.view.ViewGroup.png
+2022-02-14 10:52:05,693 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214105047, filename: iter_00000_step_00002_118_android.view.ViewGroup.png
+2022-02-14 10:52:05,695 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214105047/elems/iter_00000_step_00002_118_android.view.ViewGroup.png
+2022-02-14 10:52:05,694 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214105047, filename: iter_00000_step_00002_6_android.view.ViewGroup.png
+2022-02-14 10:52:05,696 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214105047/elems/iter_00000_step_00002_6_android.view.ViewGroup.png

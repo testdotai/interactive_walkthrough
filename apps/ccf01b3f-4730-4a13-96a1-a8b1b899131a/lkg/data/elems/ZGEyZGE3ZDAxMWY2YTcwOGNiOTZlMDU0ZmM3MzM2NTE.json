@@ -1,0 +1,64 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "button",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "d49rymqDUTgFgf7dIOfMsw==\n",
+    "height": 35,
+    "hier_level": 0,
+    "human_hash": "button_X1066_Y436_W155_H35",
+    "human_readable": "button_1066_436_155_35_button_fffffffffffffffffffff1fff08ff00ff00ff00ff00fffffffffffffffffffff_6c3a0afb731563650d40e33825afb452",
+    "image_path": "ZGEyZGE3ZDAxMWY2YTcwOGNiOTZlMDU0ZmM3MzM2NTE.png",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "single_add_to_cart_button button alt",
+                "name": "add-to-cart",
+                "type": "submit",
+                "value": "2696"
+            },
+            "backend_node_id": 4308,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 35.0,
+            "key": "1066_436_155_35_Add to cart",
+            "tagName": "button",
+            "text": "Add to cart",
+            "width": 155.0,
+            "x": 1066.0,
+            "y": 436.0
+        },
+        "location": {
+            "x": 1066.0,
+            "y": 436.0
+        },
+        "size": {
+            "height": 35.0,
+            "width": 155.0
+        },
+        "tag_name": "button",
+        "text": "Add to cart"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "17e15d5d4126019c51f098001255eb31",
+    "scrollable": false,
+    "tag_name": "button",
+    "text": "Add to cart",
+    "transformed": true,
+    "width": 155,
+    "x": 1066,
+    "y": 436
+}

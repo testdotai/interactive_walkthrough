@@ -1,0 +1,15 @@
+{
+    "btn_add_to_cart": [
+        "android.widget.TextView_673_2038_275_68_android.widget.TextView_00000000000000001310d731d521fdeffde7fdeffdefbdffbd9d000000000000_7a92f3d0cec8d2ef618946235844ec16"
+    ],
+    "btn_cart": [
+        "android.widget.TextView_960_115_55_56_android.widget.TextView_0fc00fc0e7c0e001e000e7f8f7fcf3fcf3fdf3f9f801fc07fffff9f1f9f1fffb_9d4568c009d203ab10e33ea9953a0264"
+    ],
+    "fashion_accessories": [
+        "android.widget.TextView_33_914_501_82_android.widget.TextView_ffffffffffffffffffffefffcbffe007e007e007e007ffffffffffffffffffff_7b3b5a1539ec848d3c7eccf62d778fe1",
+        "android.widget.TextView_33_844_501_82_android.widget.TextView_ffffffffffffffffffffefffcbffe007c007e007e007ffffffffffffffffffff_7b3b5a1539ec848d3c7eccf62d778fe1"
+    ],
+    "img_anchor_bracelet": [
+        "android.widget.ImageView_31_352_496_495_android.widget.ImageView_3ff8fffcffffff3fff3ffc0ffc8ff813c331e461fe0ffe3ffe3fffff7ffe7ffc_9d4568c009d203ab10e33ea9953a0264"
+    ]
+}

@@ -1,0 +1,402 @@
+2022-02-14 10:28:45,667 INFO     carbon_controllers.crawls -- Logging crawl output to /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/logs/crawl-20220214102845.log
+2022-02-14 10:28:45,667 INFO     carbon_tasks.crawl_build_task -- crawling build, app_id: a3cdec05-7def-4834-acbf-5a945c488a83, build_id: 7d741828-6a21-4cd3-b257-ed0561aa6d99
+2022-02-14 10:28:45,668 INFO     carbon_tasks.crawl_build_task -- num_steps (when no test): 25
+2022-02-14 10:28:45,669 INFO     carbon_tasks.crawl_build_task -- max_steps: 150
+2022-02-14 10:28:45,669 INFO     carbon_tasks.crawl_build_task -- max_iterations: 1
+2022-02-14 10:28:45,669 INFO     carbon_tasks.crawl_build_task -- rand_seed: 1644859725
+2022-02-14 10:28:45,669 INFO     carbon_tasks.crawl_build_task -- test_wildcard: *
+2022-02-14 10:28:45,669 INFO     carbon_tasks.crawl_build_task -- package: com.coffye.jrosav
+2022-02-14 10:28:45,669 INFO     carbon_tasks.crawl_build_task -- eyes_api_key: None
+2022-02-14 10:28:45,669 INFO     carbon_tasks.crawl_build_task -- is_noop: False
+2022-02-14 10:28:45,671 INFO     carbon_tasks.crawl_build_task -- created crawl, id: 20220214102845
+2022-02-14 10:28:45,873 INFO     carbon_explore.explore -- using default extra walk count: 0
+2022-02-14 10:28:45,888 INFO     carbon_tasks.process_crawl_task -- processing master crawl: (app: a3cdec05-7def-4834-acbf-5a945c488a83)
+2022-02-14 10:28:45,899 INFO     carbon_tasks.generate_auto_labels_task -- getting data for crawl: master
+2022-02-14 10:28:45,900 INFO     carbon_tasks.generate_auto_labels_task -- processing crawl: master
+2022-02-14 10:28:45,902 INFO     carbon_tasks.generate_auto_labels_task -- writing merged, suggested labels for crawl: master
+2022-02-14 10:28:45,903 INFO     carbon_tasks.generate_auto_labels_task -- writing applied hashes to labels to file: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/lkg/hashes_to_labels.json
+2022-02-14 10:28:45,903 INFO     carbon_tasks.generate_auto_labels_task -- writing applied human readable to labels to file: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/lkg/human_readable_to_labels.json
+2022-02-14 10:28:45,904 INFO     carbon_tasks.generate_auto_labels_task -- writing label to hash dicts to file: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/lkg/label_to_hash_dicts.json
+2022-02-14 10:28:45,905 INFO     carbon_tasks.generate_auto_labels_task -- writing human readable to paths to file: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/lkg/human_readable_to_paths.json
+2022-02-14 10:28:45,905 INFO     carbon_tasks.crawl_build_task -- initiating walk [1/1]
+2022-02-14 10:28:45,905 INFO     carbon_test_case.carbon_tests -- initial number of steps for walk: 25
+2022-02-14 10:28:45,905 INFO     carbon_tasks.crawl_build_task -- effective_max_steps this walk: 24
+2022-02-14 10:28:45,907 INFO     carbon_explore.explore -- **************************************************
+2022-02-14 10:28:45,908 INFO     carbon_explore.explore -- **************************************************
+2022-02-14 10:28:45,908 INFO     carbon_explore.explore -- *                                                *
+2022-02-14 10:28:45,908 INFO     carbon_explore.explore -- *                   BRAIN                    *
+2022-02-14 10:28:45,908 INFO     carbon_explore.explore -- *                                                *
+2022-02-14 10:28:45,908 INFO     carbon_explore.explore -- **************************************************
+2022-02-14 10:28:45,908 INFO     carbon_explore.explore -- **************************************************
+2022-02-14 10:28:45,908 INFO     carbon_initialization.initialization -- Random seed: 1644859725
+2022-02-14 10:28:45,910 INFO     carbon_initialization.initialization -- ````````````````````````````````````````````````````````````````````````````````
+2022-02-14 10:28:45,911 INFO     carbon_initialization.initialization --                   PACKAGE: com.coffye.jrosav
+2022-02-14 10:28:45,911 INFO     carbon_initialization.initialization -- ````````````````````````````````````````````````````````````````````````````````
+2022-02-14 10:28:45,911 INFO     carbon_initialization.initialization -- platform: ANDROID
+2022-02-14 10:28:45,911 INFO     carbon_initialization.initialization -- using crawl_directory: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845
+2022-02-14 10:28:45,911 INFO     carbon_botio.bot_io -- retrieving bot IO for app: a3cdec05-7def-4834-acbf-5a945c488a83
+2022-02-14 10:28:45,911 INFO     carbon_botio.bot_io -- ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2022-02-14 10:28:45,912 INFO     carbon_botio.bot_io -- botio_filepath: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/lkg/botio.json
+2022-02-14 10:28:45,912 INFO     carbon_botio.bot_io -- use_snapshot: False
+2022-02-14 10:28:45,912 INFO     carbon_botio.bot_io -- no botIO found for app: a3cdec05-7def-4834-acbf-5a945c488a83
+2022-02-14 10:28:45,914 INFO     carbon_dao.carbon_data -- loading models from LKG dir
+2022-02-14 10:28:45,914 INFO     carbon_dao.carbon_data -- loading models from LKG dir
+2022-02-14 10:28:45,915 INFO     carbon_explore.test_hooks -- Test case is None, no need for on_setup.
+2022-02-14 10:28:45,916 INFO     carbon_utils.simulator_tools -- preparing clean iteration state...
+2022-02-14 10:28:52,682 INFO     carbon_automation.driver -- Screen density: 1.0
+2022-02-14 10:28:52,682 INFO     carbon_utils.simulator_tools -- Attempting uninstall on app: com.coffye.jrosav
+2022-02-14 10:28:53,543 INFO     carbon_utils.simulator_tools -- Installing app: http://localhost:12543/api/v2/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/download?ext=.apk
+2022-02-14 10:28:57,471 INFO     carbon_utils.simulator_tools -- Launching app: com.coffye.jrosav
+2022-02-14 10:29:02,877 INFO     carbon_initialization.initialization -- starting dom stability
+2022-02-14 10:29:03,038 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-14 10:29:03,416 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-14 10:29:03,754 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-14 10:29:04,191 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-14 10:29:04,489 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-14 10:29:04,489 INFO     carbon_actions.carbon_actions -- Seen the same screen the max amount (5)
+2022-02-14 10:29:04,489 INFO     carbon_explore.explore_utils -- Saving screenshot.
+2022-02-14 10:29:05,443 INFO     carbon_explore.explore_utils -- Screenshot file path: /var/folders/17/q1j6t1zn26b777q0qcpy69sw0000gn/T/tmp-screenshot-hk0yyyqi.png
+2022-02-14 10:29:07,919 ERROR    carbon_automation.driver -- Unable to get active app package.
+2022-02-14 10:29:07,919 INFO     carbon_initialization.initialization -- current package sent in as: com.coffye.jrosav
+2022-02-14 10:29:07,919 INFO     carbon_initialization.initialization -- ended dom stability
+2022-02-14 10:29:07,921 INFO     carbon_explore.test_hooks -- Test case is None, no need for on_after_launch.
+2022-02-14 10:29:07,921 INFO     carbon_explore.explore -- package is set to: com.coffye.jrosav
+2022-02-14 10:29:07,921 INFO     carbon_explore.explore -- 
+2022-02-14 10:29:07,921 INFO     carbon_explore.explore -- ********************************************************************************
+2022-02-14 10:29:07,921 INFO     carbon_explore.explore -- ********************************************************************************
+2022-02-14 10:29:07,921 INFO     carbon_explore.explore -- 
+2022-02-14 10:29:07,922 INFO     carbon_explore.explore_utils -- getting xml_src
+2022-02-14 10:29:08,345 INFO     carbon_explore.interactive -- Interactive explore -- start_interactive_loop starting.
+2022-02-14 10:29:08,345 INFO     carbon_explore.interactive -- Interactive explore -- running initial auto label
+2022-02-14 10:29:08,345 INFO     carbon_tasks.process_crawl_task -- processing crawl: 20220214102845 (app: a3cdec05-7def-4834-acbf-5a945c488a83, build: 7d741828-6a21-4cd3-b257-ed0561aa6d99)
+2022-02-14 10:29:08,345 INFO     carbon_tasks.process_crawl_task -- processing screens for crawl
+2022-02-14 10:29:08,409 INFO     carbon_tasks.process_crawl_task -- writing unique screens file
+2022-02-14 10:29:08,410 INFO     carbon_tasks.process_crawl_task -- writing screen hash map
+2022-02-14 10:29:08,411 INFO     carbon_tasks.process_crawl_task -- writing screen similarity file
+2022-02-14 10:29:08,412 INFO     carbon_tasks.process_crawl_task -- processing elements for crawl
+2022-02-14 10:29:08,413 INFO     carbon_tasks.process_crawl_task -- processing: iter_00000_step_00000_info.json
+2022-02-14 10:29:10,722 INFO     carbon_tasks.process_crawl_task -- Writing unique tags file.
+2022-02-14 10:29:10,723 INFO     carbon_tasks.process_crawl_task -- writing unique elems file
+2022-02-14 10:29:10,724 INFO     carbon_tasks.process_crawl_task -- writing elem hash map
+2022-02-14 10:29:10,733 INFO     carbon_tasks.process_crawl_task -- writing elem similarity file
+2022-02-14 10:29:10,734 INFO     carbon_tasks.process_crawl_task -- generating labeler objects file for crawl (v0)
+2022-02-14 10:29:10,744 INFO     carbon_tasks.process_crawl_task -- reconciling screens labeled at runtime
+2022-02-14 10:29:10,744 INFO     carbon_tasks.process_crawl_task -- reconciling elements labeled at runtime
+2022-02-14 10:29:10,750 INFO     carbon_tasks.generate_auto_labels_task -- generating auto labels for crawl: 20220214102845, app_id: a3cdec05-7def-4834-acbf-5a945c488a83, build_id: 7d741828-6a21-4cd3-b257-ed0561aa6d99
+2022-02-14 10:29:10,755 INFO     carbon_tasks.generate_auto_labels_task -- getting data for crawl: 20220214101822
+2022-02-14 10:29:10,756 INFO     carbon_tasks.generate_auto_labels_task -- getting data for crawl: 20220214101559
+2022-02-14 10:29:10,757 INFO     carbon_tasks.generate_auto_labels_task -- getting data for crawl: 20220214102845
+2022-02-14 10:29:10,759 INFO     carbon_tasks.generate_auto_labels_task -- getting data for crawl: master
+2022-02-14 10:29:10,759 INFO     carbon_tasks.generate_auto_labels_task -- processing crawl: 20220214101822
+2022-02-14 10:29:10,760 INFO     carbon_tasks.generate_auto_labels_task -- processing crawl: 20220214101559
+2022-02-14 10:29:10,761 INFO     carbon_tasks.generate_auto_labels_task -- processing crawl: 20220214102845
+2022-02-14 10:29:10,762 INFO     carbon_tasks.generate_auto_labels_task -- processing crawl: master
+2022-02-14 10:29:10,765 INFO     carbon_tasks.generate_auto_labels_task -- writing merged, suggested labels for crawl: 20220214101822
+2022-02-14 10:29:10,766 INFO     carbon_tasks.generate_auto_labels_task -- writing merged, suggested labels for crawl: 20220214101559
+2022-02-14 10:29:10,768 INFO     carbon_tasks.generate_auto_labels_task -- writing merged, suggested labels for crawl: 20220214102845
+2022-02-14 10:29:10,769 INFO     carbon_tasks.generate_auto_labels_task -- writing merged, suggested labels for crawl: master
+2022-02-14 10:29:10,771 INFO     carbon_tasks.generate_auto_labels_task -- writing applied hashes to labels to file: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/lkg/hashes_to_labels.json
+2022-02-14 10:29:10,771 INFO     carbon_tasks.generate_auto_labels_task -- writing applied human readable to labels to file: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/lkg/human_readable_to_labels.json
+2022-02-14 10:29:10,772 INFO     carbon_tasks.generate_auto_labels_task -- writing label to hash dicts to file: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/lkg/label_to_hash_dicts.json
+2022-02-14 10:29:10,772 INFO     carbon_tasks.generate_auto_labels_task -- writing human readable to paths to file: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/lkg/human_readable_to_paths.json
+2022-02-14 10:29:12,167 INFO     carbon_classifiers.textual.textual_classifier -- Loading TextualClassifier.
+2022-02-14 10:29:12,167 INFO     carbon_tasks.generate_auto_labels_task -- classifying 1 unique screens
+2022-02-14 10:29:12,167 INFO     carbon_dao.carbon_data -- loading models from LKG dir
+2022-02-14 10:29:12,167 INFO     carbon_dao.carbon_data -- loading models from LKG dir
+2022-02-14 10:29:12,172 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2022-02-14 10:29:12,174 WARNING  carbon_classifiers.template_matching.template_matching_classifier -- No template directory exists at /Users/testai/test_ai/templates
+2022-02-14 10:29:12,201 INFO     carbon_classifiers.remote_general_classifier.remote_general_classifier -- Classifying screen with remote general classifier.
+2022-02-14 10:29:12,209 INFO     carbon_classifiers.remote_general_classifier.remote_general_classifier -- Sending general classification request to https://kirfuzz.test.ai:443/get_entities/ with name "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/iter_00000_step_00000_screenshot.png", and general classifier version "v2".
+2022-02-14 10:29:14,402 INFO     carbon_classifiers.remote_general_classifier.remote_general_classifier -- General classification request returned in 2.19167423248291 seconds with status code 200.
+2022-02-14 10:29:14,405 INFO     carbon_classifiers.textual.textual_classifier -- Classifying screen with TextualClassifier.
+2022-02-14 10:29:14,532 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 2.3633104040000035 seconds
+2022-02-14 10:29:14,532 INFO     carbon_tasks.generate_auto_labels_task -- classifying 119 unique elems
+2022-02-14 10:29:14,539 INFO     carbon_dao.carbon_data -- loading models from LKG dir
+2022-02-14 10:29:14,539 INFO     carbon_dao.carbon_data -- loading models from LKG dir
+2022-02-14 10:29:14,545 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2022-02-14 10:29:15,090 INFO     carbon_classifiers.textual.textual_classifier -- Classifying screen with TextualClassifier.
+2022-02-14 10:29:15,093 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 0.5532439360000012 seconds
+2022-02-14 10:29:15,095 INFO     carbon_tasks.generate_auto_labels_task -- writing merged, suggested labels for crawl: 20220214102845
+2022-02-14 10:29:15,098 INFO     carbon_explore.interactive -- 
+
+
+[32;1mCarbon Interactive Crawling Session Starting...
+Please make sure you are running the test.ai GUI (./test.ai -d).
+Once the GUI is running, please visit [34mhttp://localhost:12543[32;1m.
+To access the interactive session, select the correct app, and click on "Interactive Composer".
+
+[0m
+2022-02-14 10:29:19,993 WARNING  waitress.queue -- Task queue depth is 1
+2022-02-14 10:29:19,996 INFO     carbon_explore.interactive -- Interactive explore -- get_crawls(android, a3cdec05-7def-4834-acbf-5a945c488a83) -- start
+2022-02-14 10:29:20,003 INFO     carbon_explore.interactive -- Interactive explore -- get_crawls(android, a3cdec05-7def-4834-acbf-5a945c488a83) -- end
+2022-02-14 10:29:20,068 INFO     carbon_explore.interactive -- Interactive explore -- get_labeler_objects -- start
+2022-02-14 10:29:20,069 INFO     carbon_explore.interactive -- Interactive explore -- Processing crawl interactively 20220214102845
+2022-02-14 10:29:20,069 INFO     carbon_tasks.process_crawl_task -- processing crawl: 20220214102845 (app: a3cdec05-7def-4834-acbf-5a945c488a83, build: 7d741828-6a21-4cd3-b257-ed0561aa6d99)
+2022-02-14 10:29:20,069 INFO     carbon_tasks.process_crawl_task -- processing screens for crawl
+2022-02-14 10:29:20,131 INFO     carbon_tasks.process_crawl_task -- writing unique screens file
+2022-02-14 10:29:20,132 INFO     carbon_tasks.process_crawl_task -- writing screen hash map
+2022-02-14 10:29:20,133 INFO     carbon_tasks.process_crawl_task -- writing screen similarity file
+2022-02-14 10:29:20,133 INFO     carbon_tasks.process_crawl_task -- processing elements for crawl
+2022-02-14 10:29:20,134 INFO     carbon_tasks.process_crawl_task -- skipping already processed: iter_00000_step_00000_info.json
+2022-02-14 10:29:20,731 INFO     carbon_tasks.process_crawl_task -- Writing unique tags file.
+2022-02-14 10:29:20,732 INFO     carbon_tasks.process_crawl_task -- writing unique elems file
+2022-02-14 10:29:20,734 INFO     carbon_tasks.process_crawl_task -- writing elem hash map
+2022-02-14 10:29:20,741 INFO     carbon_tasks.process_crawl_task -- writing elem similarity file
+2022-02-14 10:29:20,742 INFO     carbon_tasks.process_crawl_task -- generating labeler objects file for crawl (v0)
+2022-02-14 10:29:20,751 INFO     carbon_tasks.process_crawl_task -- reconciling screens labeled at runtime
+2022-02-14 10:29:20,751 INFO     carbon_tasks.process_crawl_task -- reconciling elements labeled at runtime
+2022-02-14 10:29:20,755 INFO     carbon_explore.interactive -- Interactive explore -- Generating labels using hash information 20220214102845
+2022-02-14 10:29:20,758 INFO     carbon_explore.interactive -- Interactive explore -- get_labeler_objects -- end
+2022-02-14 10:29:20,958 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_113_android.widget.TextView.png
+2022-02-14 10:29:20,959 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_97_android.view.ViewGroup.png
+2022-02-14 10:29:20,960 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_104_android.view.ViewGroup.png
+2022-02-14 10:29:20,961 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_106_android.widget.TextView.png
+2022-02-14 10:29:20,962 WARNING  waitress.queue -- Task queue depth is 1
+2022-02-14 10:29:20,963 WARNING  waitress.queue -- Task queue depth is 2
+2022-02-14 10:29:20,964 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_104_android.view.ViewGroup.png
+2022-02-14 10:29:20,965 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_113_android.widget.TextView.png
+2022-02-14 10:29:20,966 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_111_android.view.ViewGroup.png
+2022-02-14 10:29:20,966 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_97_android.view.ViewGroup.png
+2022-02-14 10:29:20,967 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_106_android.widget.TextView.png
+2022-02-14 10:29:20,968 WARNING  waitress.queue -- Task queue depth is 2
+2022-02-14 10:29:20,969 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_99_android.widget.TextView.png
+2022-02-14 10:29:20,970 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_90_android.view.ViewGroup.png
+2022-02-14 10:29:20,971 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_92_android.widget.TextView.png
+2022-02-14 10:29:20,972 WARNING  waitress.queue -- Task queue depth is 1
+2022-02-14 10:29:20,973 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_111_android.view.ViewGroup.png
+2022-02-14 10:29:20,975 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_117_android.view.ViewGroup.png
+2022-02-14 10:29:20,977 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_99_android.widget.TextView.png
+2022-02-14 10:29:20,978 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_92_android.widget.TextView.png
+2022-02-14 10:29:20,978 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_90_android.view.ViewGroup.png
+2022-02-14 10:29:20,981 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_117_android.view.ViewGroup.png
+2022-02-14 10:29:24,322 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_screenshot.png
+2022-02-14 10:29:24,323 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/screens/iter_00000_step_00000_screenshot.png
+2022-02-14 10:29:24,543 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_116_android.view.ViewGroup.png
+2022-02-14 10:29:24,544 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_84_android.view.ViewGroup.png
+2022-02-14 10:29:24,544 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_96_android.view.ViewGroup.png
+2022-02-14 10:29:24,546 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_96_android.view.ViewGroup.png
+2022-02-14 10:29:24,546 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_116_android.view.ViewGroup.png
+2022-02-14 10:29:24,547 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_84_android.view.ViewGroup.png
+2022-02-14 10:29:24,681 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_103_android.view.ViewGroup.png
+2022-02-14 10:29:24,682 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_102_android.view.View.png
+2022-02-14 10:29:24,682 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_110_android.view.ViewGroup.png
+2022-02-14 10:29:24,684 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_102_android.view.View.png
+2022-02-14 10:29:24,685 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_110_android.view.ViewGroup.png
+2022-02-14 10:29:24,685 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_103_android.view.ViewGroup.png
+2022-02-14 10:29:24,750 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_94_android.widget.TextView.png
+2022-02-14 10:29:24,751 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_95_android.view.View.png
+2022-02-14 10:29:24,751 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_86_android.view.View.png
+2022-02-14 10:29:24,752 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_109_android.view.View.png
+2022-02-14 10:29:24,752 WARNING  waitress.queue -- Task queue depth is 1
+2022-02-14 10:29:24,752 WARNING  waitress.queue -- Task queue depth is 2
+2022-02-14 10:29:24,755 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_95_android.view.View.png
+2022-02-14 10:29:24,756 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_94_android.widget.TextView.png
+2022-02-14 10:29:24,756 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_109_android.view.View.png
+2022-02-14 10:29:24,756 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_86_android.view.View.png
+2022-02-14 10:29:24,757 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_88_android.view.View.png
+2022-02-14 10:29:24,759 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_89_android.view.ViewGroup.png
+2022-02-14 10:29:24,762 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_88_android.view.View.png
+2022-02-14 10:29:24,763 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_89_android.view.ViewGroup.png
+2022-02-14 10:29:24,832 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_115_android.widget.TextView.png
+2022-02-14 10:29:24,833 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_93_android.view.ViewGroup.png
+2022-02-14 10:29:24,833 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_114_android.view.ViewGroup.png
+2022-02-14 10:29:24,835 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_115_android.widget.TextView.png
+2022-02-14 10:29:24,835 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_93_android.view.ViewGroup.png
+2022-02-14 10:29:24,836 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_114_android.view.ViewGroup.png
+2022-02-14 10:29:24,848 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_100_android.view.ViewGroup.png
+2022-02-14 10:29:24,849 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_28_android.widget.TextView.png
+2022-02-14 10:29:24,850 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_108_android.widget.TextView.png
+2022-02-14 10:29:24,852 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_100_android.view.ViewGroup.png
+2022-02-14 10:29:24,854 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_108_android.widget.TextView.png
+2022-02-14 10:29:24,855 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_28_android.widget.TextView.png
+2022-02-14 10:29:24,956 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_118_android.view.View.png
+2022-02-14 10:29:24,957 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_107_android.view.ViewGroup.png
+2022-02-14 10:29:24,957 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_101_android.widget.TextView.png
+2022-02-14 10:29:24,959 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_101_android.widget.TextView.png
+2022-02-14 10:29:24,961 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_118_android.view.View.png
+2022-02-14 10:29:24,962 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_107_android.view.ViewGroup.png
+2022-02-14 10:29:25,059 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_83_android.widget.TextView.png
+2022-02-14 10:29:25,060 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_76_android.widget.TextView.png
+2022-02-14 10:29:25,060 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_27_android.view.ViewGroup.png
+2022-02-14 10:29:25,063 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_76_android.widget.TextView.png
+2022-02-14 10:29:25,063 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_83_android.widget.TextView.png
+2022-02-14 10:29:25,064 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_27_android.view.ViewGroup.png
+2022-02-14 10:29:25,410 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_22_android.widget.TextView.png
+2022-02-14 10:29:25,411 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_26_android.widget.TextView.png
+2022-02-14 10:29:25,411 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_24_android.widget.TextView.png
+2022-02-14 10:29:25,414 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_26_android.widget.TextView.png
+2022-02-14 10:29:25,414 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_24_android.widget.TextView.png
+2022-02-14 10:29:25,414 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_22_android.widget.TextView.png
+2022-02-14 10:29:25,496 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_62_android.widget.TextView.png
+2022-02-14 10:29:25,497 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_73_android.view.ViewGroup.png
+2022-02-14 10:29:25,498 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_75_android.widget.TextView.png
+2022-02-14 10:29:25,498 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_20_android.widget.TextView.png
+2022-02-14 10:29:25,499 WARNING  waitress.queue -- Task queue depth is 1
+2022-02-14 10:29:25,499 WARNING  waitress.queue -- Task queue depth is 2
+2022-02-14 10:29:25,501 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_62_android.widget.TextView.png
+2022-02-14 10:29:25,503 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_53_android.widget.TextView.png
+2022-02-14 10:29:25,503 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_75_android.widget.TextView.png
+2022-02-14 10:29:25,505 WARNING  waitress.queue -- Task queue depth is 2
+2022-02-14 10:29:25,505 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_20_android.widget.TextView.png
+2022-02-14 10:29:25,505 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_73_android.view.ViewGroup.png
+2022-02-14 10:29:25,506 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_65_android.widget.TextView.png
+2022-02-14 10:29:25,508 WARNING  waitress.queue -- Task queue depth is 2
+2022-02-14 10:29:25,510 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_45_android.widget.TextView.png
+2022-02-14 10:29:25,510 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_19_android.widget.TextView.png
+2022-02-14 10:29:25,512 WARNING  waitress.queue -- Task queue depth is 1
+2022-02-14 10:29:25,513 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_19_android.widget.TextView.png
+2022-02-14 10:29:25,513 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_53_android.widget.TextView.png
+2022-02-14 10:29:25,515 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_82_android.widget.TextView.png
+2022-02-14 10:29:25,517 WARNING  waitress.queue -- Task queue depth is 1
+2022-02-14 10:29:25,517 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_65_android.widget.TextView.png
+2022-02-14 10:29:25,518 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_45_android.widget.TextView.png
+2022-02-14 10:29:25,518 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_80_android.view.ViewGroup.png
+2022-02-14 10:29:25,521 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_74_android.widget.ImageView.png
+2022-02-14 10:29:25,523 WARNING  waitress.queue -- Task queue depth is 1
+2022-02-14 10:29:25,524 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_57_android.widget.TextView.png
+2022-02-14 10:29:25,524 WARNING  waitress.queue -- Task queue depth is 2
+2022-02-14 10:29:25,525 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_82_android.widget.TextView.png
+2022-02-14 10:29:25,526 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_74_android.widget.ImageView.png
+2022-02-14 10:29:25,527 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_81_android.widget.ImageView.png
+2022-02-14 10:29:25,529 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_18_android.view.ViewGroup.png
+2022-02-14 10:29:25,529 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_80_android.view.ViewGroup.png
+2022-02-14 10:29:25,532 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_66_android.view.ViewGroup.png
+2022-02-14 10:29:25,533 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_57_android.widget.TextView.png
+2022-02-14 10:29:25,535 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_18_android.view.ViewGroup.png
+2022-02-14 10:29:25,536 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_81_android.widget.ImageView.png
+2022-02-14 10:29:25,536 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_66_android.view.ViewGroup.png
+2022-02-14 10:29:25,737 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_72_android.view.ViewGroup.png
+2022-02-14 10:29:25,738 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_72_android.view.ViewGroup.png
+2022-02-14 10:29:25,739 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_70_android.view.ViewGroup.png
+2022-02-14 10:29:25,741 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_70_android.view.ViewGroup.png
+2022-02-14 10:29:25,741 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_16_android.view.ViewGroup.png
+2022-02-14 10:29:25,742 WARNING  waitress.queue -- Task queue depth is 1
+2022-02-14 10:29:25,743 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_23_android.view.ViewGroup.png
+2022-02-14 10:29:25,743 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_25_android.view.ViewGroup.png
+2022-02-14 10:29:25,744 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_21_android.view.ViewGroup.png
+2022-02-14 10:29:25,746 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_16_android.view.ViewGroup.png
+2022-02-14 10:29:25,749 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_25_android.view.ViewGroup.png
+2022-02-14 10:29:25,751 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_79_android.view.ViewGroup.png
+2022-02-14 10:29:25,751 WARNING  waitress.queue -- Task queue depth is 1
+2022-02-14 10:29:25,752 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_77_android.view.ViewGroup.png
+2022-02-14 10:29:25,754 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_21_android.view.ViewGroup.png
+2022-02-14 10:29:25,755 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_77_android.view.ViewGroup.png
+2022-02-14 10:29:25,757 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_15_android.view.ViewGroup.png
+2022-02-14 10:29:25,758 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_23_android.view.ViewGroup.png
+2022-02-14 10:29:25,761 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_79_android.view.ViewGroup.png
+2022-02-14 10:29:25,763 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_15_android.view.ViewGroup.png
+2022-02-14 10:29:25,832 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_67_android.view.ViewGroup.png
+2022-02-14 10:29:25,833 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_64_android.view.ViewGroup.png
+2022-02-14 10:29:25,833 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_63_android.view.ViewGroup.png
+2022-02-14 10:29:25,835 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_67_android.view.ViewGroup.png
+2022-02-14 10:29:25,836 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_63_android.view.ViewGroup.png
+2022-02-14 10:29:25,837 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_64_android.view.ViewGroup.png
+2022-02-14 10:29:25,948 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_60_android.view.ViewGroup.png
+2022-02-14 10:29:25,949 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_61_android.widget.ImageView.png
+2022-02-14 10:29:25,950 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_56_android.widget.ImageView.png
+2022-02-14 10:29:25,951 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_60_android.view.ViewGroup.png
+2022-02-14 10:29:25,953 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_61_android.widget.ImageView.png
+2022-02-14 10:29:25,954 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_56_android.widget.ImageView.png
+2022-02-14 10:29:26,295 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_51_android.view.ViewGroup.png
+2022-02-14 10:29:26,296 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_55_android.view.ViewGroup.png
+2022-02-14 10:29:26,296 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_52_android.widget.ImageView.png
+2022-02-14 10:29:26,298 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_51_android.view.ViewGroup.png
+2022-02-14 10:29:26,299 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_52_android.widget.ImageView.png
+2022-02-14 10:29:26,300 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_55_android.view.ViewGroup.png
+2022-02-14 10:29:26,473 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_58_android.view.ViewGroup.png
+2022-02-14 10:29:26,474 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_49_android.view.ViewGroup.png
+2022-02-14 10:29:26,474 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_44_android.view.ViewGroup.png
+2022-02-14 10:29:26,475 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_46_android.view.ViewGroup.png
+2022-02-14 10:29:26,475 WARNING  waitress.queue -- Task queue depth is 1
+2022-02-14 10:29:26,476 WARNING  waitress.queue -- Task queue depth is 2
+2022-02-14 10:29:26,478 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_46_android.view.ViewGroup.png
+2022-02-14 10:29:26,478 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_44_android.view.ViewGroup.png
+2022-02-14 10:29:26,479 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_58_android.view.ViewGroup.png
+2022-02-14 10:29:26,480 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_35_android.view.ViewGroup.png
+2022-02-14 10:29:26,481 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_43_android.view.ViewGroup.png
+2022-02-14 10:29:26,481 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_49_android.view.ViewGroup.png
+2022-02-14 10:29:26,485 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_43_android.view.ViewGroup.png
+2022-02-14 10:29:26,485 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_35_android.view.ViewGroup.png
+2022-02-14 10:29:26,492 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_29_android.view.ViewGroup.png
+2022-02-14 10:29:26,493 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_29_android.view.ViewGroup.png
+2022-02-14 10:29:26,495 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_11_android.view.ViewGroup.png
+2022-02-14 10:29:26,497 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_10_android.view.ViewGroup.png
+2022-02-14 10:29:26,498 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_11_android.view.ViewGroup.png
+2022-02-14 10:29:26,501 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_10_android.view.ViewGroup.png
+2022-02-14 10:29:27,424 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_59_android.view.ViewGroup.png
+2022-02-14 10:29:27,424 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_54_android.view.ViewGroup.png
+2022-02-14 10:29:27,424 INFO     labeler.v1.crawls -- elem image requested, crawl: 20220214102845, filename: iter_00000_step_00000_50_android.view.ViewGroup.png
+2022-02-14 10:29:27,427 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_50_android.view.ViewGroup.png
+2022-02-14 10:29:27,427 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_54_android.view.ViewGroup.png
+2022-02-14 10:29:27,427 INFO     labeler.v1.crawls -- resolved to: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/elems/iter_00000_step_00000_59_android.view.ViewGroup.png
+2022-02-14 10:29:41,038 INFO     root -- Stopping interactive crawl.
+2022-02-14 10:29:41,040 INFO     carbon_explore.interactive -- Interactive explore -- stop -- start
+2022-02-14 10:29:41,080 INFO     carbon_explore.explore_hook -- Explore hook -- apply_deferred_runtime_labels starting.
+2022-02-14 10:29:41,080 INFO     carbon_explore.explore_hook -- Explore hook -- apply_deferred_runtime_labels completed.
+2022-02-14 10:29:41,080 INFO     carbon_explore.interactive -- Interactive explore -- start_interactive_loop completed.
+2022-02-14 10:29:41,080 INFO     carbon_explore.interactive -- Interactive explore -- stop -- stop
+2022-02-14 10:29:41,156 INFO     carbon_explore.explore -- Performing post-walk cleanup.
+2022-02-14 10:29:41,156 INFO     carbon_explore.test_hooks -- Running on failure hooks.
+2022-02-14 10:29:41,264 INFO     carbon_explore.explore -- Iteration completed: 0
+2022-02-14 10:29:41,264 INFO     carbon_tasks.crawl_build_task -- walk: 1 - succeeded
+2022-02-14 10:29:41,264 INFO     carbon_tasks.crawl_build_task -- Handling crawl stop request.
+2022-02-14 10:29:41,266 INFO     carbon_tasks.process_crawl_task -- processing crawl: 20220214102845 (app: a3cdec05-7def-4834-acbf-5a945c488a83, build: 7d741828-6a21-4cd3-b257-ed0561aa6d99)
+2022-02-14 10:29:41,267 INFO     carbon_tasks.process_crawl_task -- processing screens for crawl
+2022-02-14 10:29:41,331 INFO     carbon_tasks.process_crawl_task -- writing unique screens file
+2022-02-14 10:29:41,332 INFO     carbon_tasks.process_crawl_task -- writing screen hash map
+2022-02-14 10:29:41,333 INFO     carbon_tasks.process_crawl_task -- writing screen similarity file
+2022-02-14 10:29:41,333 INFO     carbon_tasks.process_crawl_task -- processing elements for crawl
+2022-02-14 10:29:41,334 INFO     carbon_tasks.process_crawl_task -- skipping already processed: iter_00000_step_00000_info.json
+2022-02-14 10:29:42,141 INFO     carbon_tasks.process_crawl_task -- Writing unique tags file.
+2022-02-14 10:29:42,142 INFO     carbon_tasks.process_crawl_task -- writing unique elems file
+2022-02-14 10:29:42,144 INFO     carbon_tasks.process_crawl_task -- writing elem hash map
+2022-02-14 10:29:42,157 INFO     carbon_tasks.process_crawl_task -- writing elem similarity file
+2022-02-14 10:29:42,158 INFO     carbon_tasks.process_crawl_task -- generating and saving feature data for crawl
+2022-02-14 10:29:42,158 INFO     carbon_tasks.generate_feature_data_task -- generating feature data for crawl: 20220214102845, app_id: a3cdec05-7def-4834-acbf-5a945c488a83, build_id: 7d741828-6a21-4cd3-b257-ed0561aa6d99
+2022-02-14 10:29:42,159 INFO     carbon_tasks.generate_feature_data_task -- generating screen feature data
+2022-02-14 10:29:42,807 INFO     carbon_tasks.generate_feature_data_task -- saving screen feature data
+2022-02-14 10:29:42,808 INFO     carbon_tasks.process_crawl_task -- generating labeler objects file for crawl (v0)
+2022-02-14 10:29:42,820 INFO     carbon_tasks.process_crawl_task -- reconciling screens labeled at runtime
+2022-02-14 10:29:42,821 INFO     carbon_tasks.process_crawl_task -- reconciling elements labeled at runtime
+2022-02-14 10:29:42,829 INFO     carbon_tasks.generate_auto_labels_task -- generating auto labels for crawl: 20220214102845, app_id: a3cdec05-7def-4834-acbf-5a945c488a83, build_id: 7d741828-6a21-4cd3-b257-ed0561aa6d99
+2022-02-14 10:29:42,834 INFO     carbon_tasks.generate_auto_labels_task -- getting data for crawl: 20220214101822
+2022-02-14 10:29:42,836 INFO     carbon_tasks.generate_auto_labels_task -- getting data for crawl: 20220214101559
+2022-02-14 10:29:42,837 INFO     carbon_tasks.generate_auto_labels_task -- getting data for crawl: 20220214102845
+2022-02-14 10:29:42,839 INFO     carbon_tasks.generate_auto_labels_task -- getting data for crawl: master
+2022-02-14 10:29:42,840 INFO     carbon_tasks.generate_auto_labels_task -- processing crawl: 20220214101822
+2022-02-14 10:29:42,840 INFO     carbon_tasks.generate_auto_labels_task -- processing crawl: 20220214101559
+2022-02-14 10:29:42,842 INFO     carbon_tasks.generate_auto_labels_task -- processing crawl: 20220214102845
+2022-02-14 10:29:42,843 INFO     carbon_tasks.generate_auto_labels_task -- processing crawl: master
+2022-02-14 10:29:42,846 INFO     carbon_tasks.generate_auto_labels_task -- writing merged, suggested labels for crawl: 20220214101822
+2022-02-14 10:29:42,851 INFO     carbon_tasks.generate_auto_labels_task -- writing merged, suggested labels for crawl: 20220214101559
+2022-02-14 10:29:42,855 INFO     carbon_tasks.generate_auto_labels_task -- writing merged, suggested labels for crawl: master
+2022-02-14 10:29:42,856 INFO     carbon_tasks.generate_auto_labels_task -- writing merged, suggested labels for crawl: 20220214102845
+2022-02-14 10:29:42,861 INFO     carbon_tasks.generate_auto_labels_task -- writing applied hashes to labels to file: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/lkg/hashes_to_labels.json
+2022-02-14 10:29:42,862 INFO     carbon_tasks.generate_auto_labels_task -- writing applied human readable to labels to file: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/lkg/human_readable_to_labels.json
+2022-02-14 10:29:42,863 INFO     carbon_tasks.generate_auto_labels_task -- writing label to hash dicts to file: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/lkg/label_to_hash_dicts.json
+2022-02-14 10:29:42,864 INFO     carbon_tasks.generate_auto_labels_task -- writing human readable to paths to file: /Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/lkg/human_readable_to_paths.json
+2022-02-14 10:29:42,866 INFO     carbon_classifiers.textual.textual_classifier -- Loading TextualClassifier.
+2022-02-14 10:29:42,867 INFO     carbon_tasks.generate_auto_labels_task -- classifying 1 unique screens
+2022-02-14 10:29:42,867 INFO     carbon_dao.carbon_data -- loading models from LKG dir
+2022-02-14 10:29:42,867 INFO     carbon_dao.carbon_data -- loading models from LKG dir
+2022-02-14 10:29:42,875 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2022-02-14 10:29:42,878 INFO     carbon_classifiers.remote_general_classifier.remote_general_classifier -- Classifying screen with remote general classifier.
+2022-02-14 10:29:42,887 INFO     carbon_classifiers.remote_general_classifier.remote_general_classifier -- Sending general classification request to https://kirfuzz.test.ai:443/get_entities/ with name "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214102845/iter_00000_step_00000_screenshot.png", and general classifier version "v2".
+2022-02-14 10:29:45,137 INFO     carbon_classifiers.remote_general_classifier.remote_general_classifier -- General classification request returned in 2.2492690086364746 seconds with status code 200.
+2022-02-14 10:29:45,139 INFO     carbon_classifiers.textual.textual_classifier -- Classifying screen with TextualClassifier.
+2022-02-14 10:29:45,209 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 2.3405541959999994 seconds
+2022-02-14 10:29:45,210 INFO     carbon_tasks.generate_auto_labels_task -- classifying 86 unique elems
+2022-02-14 10:29:45,215 INFO     carbon_dao.carbon_data -- loading models from LKG dir
+2022-02-14 10:29:45,216 INFO     carbon_dao.carbon_data -- loading models from LKG dir
+2022-02-14 10:29:45,221 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2022-02-14 10:29:45,550 INFO     carbon_classifiers.textual.textual_classifier -- Classifying screen with TextualClassifier.
+2022-02-14 10:29:45,553 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 0.33658054899999 seconds
+2022-02-14 10:29:45,555 INFO     carbon_tasks.generate_auto_labels_task -- writing merged, suggested labels for crawl: 20220214102845
+2022-02-14 10:29:45,561 INFO     carbon_dao.master_crawl_squash -- Squashing crawl 20220214102845
+2022-02-14 10:29:45,562 INFO     carbon_dao.master_crawl_squash -- Squashing 1 screens.
+2022-02-14 10:29:45,640 INFO     carbon_dao.master_crawl_squash -- Squashed screen b53b1f8a90596f40bdd1f3e2f31ea300.
+2022-02-14 10:29:45,669 INFO     carbon_dao.master_crawl_squash -- Squashing unlabeled elements for crawl 20220214102845
+2022-02-14 10:29:52,305 INFO     carbon_dao.master_crawl -- Removed 0 unlabeled elements for app a3cdec05-7def-4834-acbf-5a945c488a83.
+2022-02-14 10:29:52,360 INFO     carbon_dao.master_crawl_graph -- Extracting sequence data from crawl 20220214102845
+2022-02-14 10:29:52,433 INFO     carbon_graph.q_learning -- Deleted existing Q-matrices.
+2022-02-14 10:29:52,434 INFO     carbon_controllers.crawls -- Removing threaded log file handler for crawl.

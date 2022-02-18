@@ -1,0 +1,56 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "ins",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "ibMPdrFR5Z6+ONSO70D2vw==\n",
+    "height": 18,
+    "hier_level": 0,
+    "human_hash": "ins_X987_Y890_W50_H18",
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 874,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 18.0,
+            "key": "987_890_50_18_$ 130.00",
+            "tagName": "ins",
+            "text": "$ 130.00",
+            "width": 50.0,
+            "x": 987.0,
+            "y": 890.0
+        },
+        "location": {
+            "x": 987.0,
+            "y": 890.0
+        },
+        "size": {
+            "height": 18.0,
+            "width": 50.0
+        },
+        "tag_name": "ins",
+        "text": "$ 130.00"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "ins",
+    "text": "$ 130.00",
+    "transformed": true,
+    "width": 50,
+    "x": 987,
+    "y": 890
+}

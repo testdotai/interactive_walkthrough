@@ -1,0 +1,10 @@
+{
+    "_id": "a3cdec05-7def-4834-acbf-5a945c488a83",
+    "created": "2022-02-14 17:15:42.118826",
+    "default_package": "com.coffye.jrosav",
+    "name": "android_test",
+    "platform": "android",
+    "rehash_reasons": [
+        "py3"
+    ]
+}

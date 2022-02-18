@@ -1,0 +1,67 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "elem_shot_file_path": "/Users/testai/test_ai/apps/ccf01b3f-4730-4a13-96a1-a8b1b899131a/builds/64a18977-2fde-43b7-9198-651fed6c8a58/test_runs/20220217221625/tmpZ/123145448685568/div_X360_Y272_W600_H600.png",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "XAel4rlRCaHD0Ni5336lNQ==\n",
+    "height": 600,
+    "hier_level": 0,
+    "human_hash": "div_X360_Y272_W600_H600",
+    "human_readable": "div_360_272_600_600_div_ffffffffff7ffebffd9ffddff9cff00fe007e007e007f007f007f03fffffffff_4bb38a012838b4177c734ab5f619e30b",
+    "image_path": "NmViMDE3ZDE3NTVmYWY2OTczNGQ0NzlmOGI5MzFjYWQ.png",
+    "img_hash": "550a4da163d2db5eed48a08a1506a460",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "woocommerce-product-gallery woocommerce-product-gallery--with-images woocommerce-product-gallery--columns-4 images",
+                "data-columns": "4",
+                "style": "opacity: 1; transition: opacity 0.25s ease-in-out 0s;"
+            },
+            "backend_node_id": 5428,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 600.0,
+            "key": "360_272_600_600_\ud83d\udd0d",
+            "tagName": "div",
+            "text": "\ud83d\udd0d",
+            "width": 600.0,
+            "x": 360.0,
+            "y": 272.0
+        },
+        "location": {
+            "x": 360.0,
+            "y": 272.0
+        },
+        "size": {
+            "height": 600.0,
+            "width": 600.0
+        },
+        "tag_name": "div",
+        "text": "\ud83d\udd0d"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "2fc6f1fc1ffeff2e27bfecc111a6d249",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "\ud83d\udd0d",
+    "text_hash": "4bb38a012838b4177c734ab5f619e30b",
+    "transformed": true,
+    "width": 600,
+    "x": 360,
+    "y": 272
+}

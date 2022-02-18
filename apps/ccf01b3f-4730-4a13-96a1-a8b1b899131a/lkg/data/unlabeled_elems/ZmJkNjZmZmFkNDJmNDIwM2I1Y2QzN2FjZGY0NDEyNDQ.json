@@ -1,0 +1,67 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "elem_shot_file_path": "/Users/testai/test_ai/apps/ccf01b3f-4730-4a13-96a1-a8b1b899131a/builds/64a18977-2fde-43b7-9198-651fed6c8a58/test_runs/20220217221625/tmpZ/123145599791104/a_X1533_Y42_W27_H18.png",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "tDLVnPc9Vb96JZV1v7DcmQ==\n",
+    "height": 18,
+    "hier_level": 0,
+    "human_hash": "a_X1533_Y42_W27_H18",
+    "human_readable": "a_1533_42_27_18_a_73de73de7ffe7ffe7ffe7e7e7e7e7c7e7f7e7f7e7f7e7f7e7e3e7e3e7ffe7ffe_2f7bb230c70819aeb10b45a709bcf48f",
+    "image_path": "ZmJkNjZmZmFkNDJmNDIwM2I1Y2QzN2FjZGY0NDEyNDQ.png",
+    "img_hash": "47e750fbfe7639a632c63e38d52a8d02",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "cart-container",
+                "href": "https://testaistore.com/cart/",
+                "title": "View your shopping cart"
+            },
+            "backend_node_id": 5154,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 18.0,
+            "key": "1533_42_27_18_1",
+            "tagName": "a",
+            "text": "1",
+            "width": 27.0,
+            "x": 1533.0,
+            "y": 42.0
+        },
+        "location": {
+            "x": 1533.0,
+            "y": 42.0
+        },
+        "size": {
+            "height": 18.0,
+            "width": 27.0
+        },
+        "tag_name": "a",
+        "text": "1"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "2fc6f1fc1ffeff2e27bfecc111a6d249",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "1",
+    "text_hash": "2f7bb230c70819aeb10b45a709bcf48f",
+    "transformed": true,
+    "width": 27,
+    "x": 1533,
+    "y": 42
+}

@@ -1,0 +1,65 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "p",
+    "clickable": true,
+    "content-desc": "",
+    "elem_shot_file_path": "/Users/testai/test_ai/apps/ccf01b3f-4730-4a13-96a1-a8b1b899131a/builds/64a18977-2fde-43b7-9198-651fed6c8a58/test_runs/20220217221625/tmpZ/123145566212096/p_X1008_Y362_W552_H42.png",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "02MoXgZWzODxhVG1Rhmisg==\n",
+    "height": 42,
+    "hier_level": 0,
+    "human_hash": "p_X1008_Y362_W552_H42",
+    "human_readable": "p_1008_362_552_42_p_ffffffffffffffff3fff1fff1fff1fff1fff1fff1fff3fffffffffffffffffff_b28c0725ba5a6805a198793b4184b72f",
+    "image_path": "OTFkZTBiNWE2YWJkMmFhNjc1NjJiODQ2NjYzODc1MmU.png",
+    "img_hash": "2fc8ca6e40e14d843c727cf671e2fdec",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "price"
+            },
+            "backend_node_id": 5455,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 42.0,
+            "key": "1008_362_552_42_$ 300.00",
+            "tagName": "p",
+            "text": "$ 300.00",
+            "width": 552.0,
+            "x": 1008.0,
+            "y": 362.0
+        },
+        "location": {
+            "x": 1008.0,
+            "y": 362.0
+        },
+        "size": {
+            "height": 42.0,
+            "width": 552.0
+        },
+        "tag_name": "p",
+        "text": "$ 300.00"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "2fc6f1fc1ffeff2e27bfecc111a6d249",
+    "scrollable": false,
+    "tag_name": "p",
+    "text": "$ 300.00",
+    "text_hash": "b28c0725ba5a6805a198793b4184b72f",
+    "transformed": true,
+    "width": 552,
+    "x": 1008,
+    "y": 362
+}

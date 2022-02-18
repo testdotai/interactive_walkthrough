@@ -1,0 +1,58 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "li",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "1NkIfutOxBeAkJ6Io4LLEg==\n",
+    "height": 320,
+    "hier_level": 0,
+    "human_hash": "li_X1364_Y276_W195_H320",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ast-col-sm-12 ast-article-post astra-woo-hover-swap product type-product post-2698 status-publish last instock product_cat-accessories product_cat-women has-post-thumbnail shipping-taxable purchasable product-type-simple"
+            },
+            "backend_node_id": 796,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 320.0,
+            "key": "1364_276_195_320_Black Over-the-shoulder Handbag \n\t\t\t\tAccessories\t\t\t $ 150.00 Rated  0  out of 5",
+            "tagName": "li",
+            "text": "Black Over-the-shoulder Handbag \n\t\t\t\tAccessories\t\t\t $ 150.00 Rated  0  out of 5",
+            "width": 195.0,
+            "x": 1364.0,
+            "y": 276.0
+        },
+        "location": {
+            "x": 1364.0,
+            "y": 276.0
+        },
+        "size": {
+            "height": 320.0,
+            "width": 195.0
+        },
+        "tag_name": "li",
+        "text": "Black Over-the-shoulder Handbag \n\t\t\t\tAccessories\t\t\t $ 150.00 Rated  0  out of 5"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "li",
+    "text": "Black Over-the-shoulder Handbag \n\t\t\t\tAccessories\t\t\t $ 150.00 Rated  0  out of 5",
+    "transformed": true,
+    "width": 195,
+    "x": 1364,
+    "y": 276
+}

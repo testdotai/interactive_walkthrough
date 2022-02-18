@@ -1,0 +1,56 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "li",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "L3jd2D2+CSW6CaB6PrMpjw==\n",
+    "height": 88,
+    "hier_level": 0,
+    "human_hash": "li_X360_Y671_W239_H88",
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 553,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 88.0,
+            "key": "360_671_239_88_Anchor Bracelet Rated  0  out of 5 $ 100.00",
+            "tagName": "li",
+            "text": "Anchor Bracelet Rated  0  out of 5 $ 100.00",
+            "width": 239.0,
+            "x": 360.0,
+            "y": 671.0
+        },
+        "location": {
+            "x": 360.0,
+            "y": 671.0
+        },
+        "size": {
+            "height": 88.0,
+            "width": 239.0
+        },
+        "tag_name": "li",
+        "text": "Anchor Bracelet Rated  0  out of 5 $ 100.00"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "li",
+    "text": "Anchor Bracelet Rated  0  out of 5 $ 100.00",
+    "transformed": true,
+    "width": 239,
+    "x": 360,
+    "y": 671
+}

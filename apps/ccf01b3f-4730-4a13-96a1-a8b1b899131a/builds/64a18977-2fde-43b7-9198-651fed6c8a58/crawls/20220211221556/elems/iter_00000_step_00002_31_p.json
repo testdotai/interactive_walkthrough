@@ -1,0 +1,59 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "p",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "kVM/iy7363jQvJkPfW++Jg==\n",
+    "height": 21,
+    "hier_level": 0,
+    "human_hash": "p_X1301_Y106_W239_H21",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "woocommerce-mini-cart__empty-message"
+            },
+            "backend_node_id": 256,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 21.0,
+            "key": "1301_106_239_21_No products in the cart.",
+            "tagName": "p",
+            "text": "No products in the cart.",
+            "width": 239.0,
+            "x": 1301.0,
+            "y": 106.0
+        },
+        "location": {
+            "x": 1301.0,
+            "y": 106.0
+        },
+        "size": {
+            "height": 21.0,
+            "width": 239.0
+        },
+        "tag_name": "p",
+        "text": "No products in the cart."
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "p",
+    "text": "No products in the cart.",
+    "transformed": true,
+    "width": 239,
+    "x": 1301,
+    "y": 106
+}

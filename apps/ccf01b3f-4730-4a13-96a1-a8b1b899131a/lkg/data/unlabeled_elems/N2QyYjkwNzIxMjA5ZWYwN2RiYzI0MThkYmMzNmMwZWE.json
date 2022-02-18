@@ -1,0 +1,63 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "Vag4HVh954gI7KR2yh8loA==\n",
+    "height": 600,
+    "hier_level": 0,
+    "human_hash": "div_X360_Y162_W600_H600",
+    "human_readable": "div_360_162_600_600_div_ffffffffff7ffebffd9ffddff9cff00fe007e007e007f007f007f03fffffffff_4bb38a012838b4177c734ab5f619e30b",
+    "image_path": "N2QyYjkwNzIxMjA5ZWYwN2RiYzI0MThkYmMzNmMwZWE.png",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "woocommerce-product-gallery woocommerce-product-gallery--with-images woocommerce-product-gallery--columns-4 images",
+                "data-columns": "4",
+                "style": "opacity: 1; transition: opacity 0.25s ease-in-out 0s;"
+            },
+            "backend_node_id": 4256,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 600.0,
+            "key": "360_162_600_600_\ud83d\udd0d",
+            "tagName": "div",
+            "text": "\ud83d\udd0d",
+            "width": 600.0,
+            "x": 360.0,
+            "y": 162.0
+        },
+        "location": {
+            "x": 360.0,
+            "y": 162.0
+        },
+        "size": {
+            "height": 600.0,
+            "width": 600.0
+        },
+        "tag_name": "div",
+        "text": "\ud83d\udd0d"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "17e15d5d4126019c51f098001255eb31",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "\ud83d\udd0d",
+    "transformed": true,
+    "width": 600,
+    "x": 360,
+    "y": 162
+}

@@ -13,13 +13,12 @@
     "human_hash": "div_X360_Y15_W355_H71",
     "human_readable": "div_360_15_355_71_div_ffffffff401f481f401f811f0c3f071f0f1f193fcf7fcfbfc81f001fc01fffff_9d4568c009d203ab10e33ea9953a0264",
     "image_path": "Nzg3NTM1NDFkMzg5ODM0NzcyYmRlMWJlNDdlNTk5NzM.png",
-    "index": -1,
     "internal": {
         "elem_dict": {
             "attributes": {
                 "class": "site-header-primary-section-left site-header-section ast-flex site-header-section-left"
             },
-            "backend_node_id": 1682,
+            "backend_node_id": 4003,
             "flags": {
                 "checkable": false,
                 "clickable": true,
@@ -51,7 +50,7 @@
     "package": "",
     "password": false,
     "resource-id": "",
-    "screen_hash": "2b6db1d4ba7f23850646f8be7d6a961e",
+    "screen_hash": "17e15d5d4126019c51f098001255eb31",
     "scrollable": false,
     "tag_name": "div",
     "text": "",

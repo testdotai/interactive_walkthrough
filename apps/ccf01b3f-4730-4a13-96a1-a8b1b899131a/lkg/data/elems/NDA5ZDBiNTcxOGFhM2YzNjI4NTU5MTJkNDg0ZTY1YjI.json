@@ -4,6 +4,7 @@
     "class": "a",
     "clickable": true,
     "content-desc": "",
+    "elem_shot_file_path": "/Users/testai/test_ai/apps/ccf01b3f-4730-4a13-96a1-a8b1b899131a/builds/64a18977-2fde-43b7-9198-651fed6c8a58/test_runs/20220217221625/tmpZ/123145566212096/a_X843_Y16_W68_H70.png",
     "enabled": true,
     "focusable": true,
     "focused": false,
@@ -13,6 +14,7 @@
     "human_hash": "a_X843_Y16_W68_H70",
     "human_readable": "a_843_16_68_70_a_fffffffffffffffffffffffffcc7e007e007ecc7ffffffffffffffffffffffff_4f113e6636baf9e2e6ab5f9a2d3031d2",
     "image_path": "NDA5ZDBiNTcxOGFhM2YzNjI4NTU5MTJkNDg0ZTY1YjI.png",
+    "img_hash": "62f851dca66dc7de4dac70ca7a49473b",
     "index": -1,
     "internal": {
         "elem_dict": {
@@ -20,7 +22,7 @@
                 "class": "menu-link",
                 "href": "https://testaistore.com/"
             },
-            "backend_node_id": 4062,
+            "backend_node_id": 5114,
             "flags": {
                 "checkable": false,
                 "clickable": true,
@@ -52,10 +54,11 @@
     "package": "",
     "password": false,
     "resource-id": "",
-    "screen_hash": "bd8cad5817f82cf12579862d4dd775ae",
+    "screen_hash": "2fc6f1fc1ffeff2e27bfecc111a6d249",
     "scrollable": false,
     "tag_name": "a",
     "text": "Home",
+    "text_hash": "4f113e6636baf9e2e6ab5f9a2d3031d2",
     "transformed": true,
     "width": 68,
     "x": 843,

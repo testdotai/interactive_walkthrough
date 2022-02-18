@@ -1,0 +1,9 @@
+{
+    "share": {
+        "all_scores": {
+            "kirfuzz-general-classifier:v2": 0.9341244697570801
+        },
+        "score": 0.9341244697570801,
+        "source": "kirfuzz-general-classifier:v2"
+    }
+}

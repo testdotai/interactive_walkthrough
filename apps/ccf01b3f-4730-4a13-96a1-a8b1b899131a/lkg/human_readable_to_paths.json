@@ -1,45 +1,52 @@
 {
     "btn_accessories": [
-        "/Users/testai/test_ai/apps/ccf01b3f-4730-4a13-96a1-a8b1b899131a/builds/64a18977-2fde-43b7-9198-651fed6c8a58/crawls/20220207224557/elems/iter_00000_step_00013_18_a.png"
+        "MzZhYjdhOTdjZWMyYTcwYWM5NjFlZGU5ZWM2OWMyNTc.png"
     ],
     "btn_account": [
-        "/Users/testai/test_ai/apps/ccf01b3f-4730-4a13-96a1-a8b1b899131a/builds/64a18977-2fde-43b7-9198-651fed6c8a58/crawls/20220207224557/elems/iter_00000_step_00013_20_a.png"
+        "OGRiMjRlNWZkNDBjOTcxOGYyNTYyYWZjYTg5N2E3MmQ.png"
+    ],
+    "btn_add_to_cart": [
+        "ZGEyZGE3ZDAxMWY2YTcwOGNiOTZlMDU0ZmM3MzM2NTE.png"
     ],
     "btn_cart": [
         "MzRjMjc4ZDJlOTc2YTM4ODVmYjY0YmMyNmRmMzM3ODE.png",
         "NGNmMGY1NjY5NDk2YjIwOTlkOWJiOTM1ZWMyMjg0OWY.png"
     ],
     "btn_check_out": [
-        "/Users/testai/test_ai/apps/ccf01b3f-4730-4a13-96a1-a8b1b899131a/builds/64a18977-2fde-43b7-9198-651fed6c8a58/crawls/20220207224557/elems/iter_00000_step_00010_24_a.png"
+        "YWFkOGE1ODc4Y2UxYmZlNzRjYjg0MDU1NmI2YWIxZTY.png"
     ],
     "btn_check_out_hover": [
-        "/Users/testai/test_ai/apps/ccf01b3f-4730-4a13-96a1-a8b1b899131a/builds/64a18977-2fde-43b7-9198-651fed6c8a58/crawls/20220207224557/elems/iter_00000_step_00008_24_a.png"
+        "ZmUxMGUwNWYxMThjNjExNmNmYWNhMGQxYWY2ZjhmNjI.png"
     ],
     "btn_home": [
-        "/Users/testai/test_ai/apps/ccf01b3f-4730-4a13-96a1-a8b1b899131a/builds/64a18977-2fde-43b7-9198-651fed6c8a58/crawls/20220207224557/elems/iter_00000_step_00017_7_a.png"
+        "NDA5ZDBiNTcxOGFhM2YzNjI4NTU5MTJkNDg0ZTY1YjI.png"
     ],
     "btn_shop_now": [
-        "/Users/testai/test_ai/apps/ccf01b3f-4730-4a13-96a1-a8b1b899131a/builds/64a18977-2fde-43b7-9198-651fed6c8a58/crawls/20220207224557/elems/iter_00000_step_00011_39_a.png"
+        "OTIxZmQ1NWNjYzM3MjE1MDUwNDhmYzIxYjMxY2E5MDk.png"
     ],
     "btn_store": [
         "YTRmNjgzZDNkZjdmNDBiYjEwNjRjZDA1ZDRhYTc3ODM.png"
     ],
+    "btn_view_cart": [
+        "OTJiZGY5ZjY4Nzk4OTBjMTEzY2NmZjNmYjI4NzM1NjA.png"
+    ],
     "ddl_sorting": [
-        "ZDI2ZDFkNTI2N2NhZjdlYTkzMzQ4OGVlNjY1ODdkMjg.png"
+        "ZDI2ZDFkNTI2N2NhZjdlYTkzMzQ4OGVlNjY1ODdkMjg.png",
+        "OGRkZDQ3MzY4YmUwYmEzNmZiNDI4MzNiMjBjZTdmZjQ.png"
     ],
     "img_red_bag": [
-        "/Users/testai/test_ai/apps/ccf01b3f-4730-4a13-96a1-a8b1b899131a/builds/64a18977-2fde-43b7-9198-651fed6c8a58/crawls/20220207224557/elems/iter_00000_step_00015_123_img.png"
+        "NjIyMmI1NzFmOTBjN2VkZGZiMzM4YzczMWE0ZTViYzc.png"
     ],
     "inp_password": [
-        "/Users/testai/test_ai/apps/ccf01b3f-4730-4a13-96a1-a8b1b899131a/builds/64a18977-2fde-43b7-9198-651fed6c8a58/crawls/20220207224557/elems/iter_00000_step_00002_47_input.png"
+        "YWM3YWMxYzkxZmFkYjM5YWNjNTAxMDFlMzRhOThkZDY.png"
     ],
     "inp_search": [
         "ZmZmNDU5NWM5MzlmZjNhM2ZjMWMzZmU3MmU0ZDE0YjI.png"
     ],
     "inp_username": [
-        "/Users/testai/test_ai/apps/ccf01b3f-4730-4a13-96a1-a8b1b899131a/builds/64a18977-2fde-43b7-9198-651fed6c8a58/crawls/20220207224557/elems/iter_00000_step_00002_43_input.png"
+        "NjYzYTQwNzFmYTE0OTVhY2MzZTE2MGI5YWJjNzg4MDI.png"
     ],
     "txt_discount_message": [
-        "/Users/testai/test_ai/apps/ccf01b3f-4730-4a13-96a1-a8b1b899131a/builds/64a18977-2fde-43b7-9198-651fed6c8a58/crawls/20220207224557/elems/iter_00000_step_00013_36_h3.png"
+        "Y2RjYjcxOTQ1NTc4NjM2YThkMDcyMzMwMDUyZTg1ZWY.png"
     ]
 }

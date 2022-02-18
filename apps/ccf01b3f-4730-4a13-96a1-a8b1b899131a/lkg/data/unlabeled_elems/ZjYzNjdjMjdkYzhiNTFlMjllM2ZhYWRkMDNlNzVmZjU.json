@@ -1,0 +1,61 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "elPYmJLgFiTVbgy/Op0UAA==\n",
+    "height": 115,
+    "hier_level": 0,
+    "human_hash": "div_X360_Y792_W1200_H115",
+    "human_readable": "div_360_792_1200_115_div_3fffffff1fff1fffffffffffffffffffffff00000000ffffffff001f001fffff_4c9c00ec789b04359b922eb7de8d9c65",
+    "image_path": "ZjYzNjdjMjdkYzhiNTFlMjllM2ZhYWRkMDNlNzVmZjU.png",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "woocommerce-tabs wc-tabs-wrapper"
+            },
+            "backend_node_id": 3876,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 115.0,
+            "key": "360_792_1200_115_Description\t\t\t\t\t \n\t\t\t\t\t\tReviews (0)\t\t\t\t\t Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit sed ut.",
+            "tagName": "div",
+            "text": "Description\t\t\t\t\t \n\t\t\t\t\t\tReviews (0)\t\t\t\t\t Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit sed ut.",
+            "width": 1200.0,
+            "x": 360.0,
+            "y": 792.0
+        },
+        "location": {
+            "x": 360.0,
+            "y": 792.0
+        },
+        "size": {
+            "height": 115.0,
+            "width": 1200.0
+        },
+        "tag_name": "div",
+        "text": "Description\t\t\t\t\t \n\t\t\t\t\t\tReviews (0)\t\t\t\t\t Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit sed ut."
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "17e15d5d4126019c51f098001255eb31",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Description\t\t\t\t\t \n\t\t\t\t\t\tReviews (0)\t\t\t\t\t Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit sed ut.",
+    "transformed": true,
+    "width": 1200,
+    "x": 360,
+    "y": 792
+}

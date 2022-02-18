@@ -1,0 +1,417 @@
+[
+    {
+        "file_name": "iter_00000_step_00000_1_android.widget.LinearLayout.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_1_android.widget.LinearLayout.png",
+        "score": 2319840
+    },
+    {
+        "file_name": "iter_00000_step_00000_0_android.widget.FrameLayout.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_0_android.widget.FrameLayout.png",
+        "score": 2319840
+    },
+    {
+        "file_name": "iter_00000_step_00000_9_android.view.ViewGroup.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_9_android.view.ViewGroup.png",
+        "score": 2248560
+    },
+    {
+        "file_name": "iter_00000_step_00000_5_android.widget.FrameLayout.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_5_android.widget.FrameLayout.png",
+        "score": 2248560
+    },
+    {
+        "file_name": "iter_00000_step_00000_3_android.widget.LinearLayout.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_3_android.widget.LinearLayout.png",
+        "score": 2248560
+    },
+    {
+        "file_name": "iter_00000_step_00000_11_android.view.ViewGroup.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_11_android.view.ViewGroup.png",
+        "score": 2248560
+    },
+    {
+        "file_name": "iter_00000_step_00000_34_android.view.ViewGroup.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_34_android.view.ViewGroup.png",
+        "score": 2082240
+    },
+    {
+        "file_name": "iter_00000_step_00000_42_android.view.ViewGroup.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_42_android.view.ViewGroup.png",
+        "score": 1896480
+    },
+    {
+        "file_name": "iter_00000_step_00000_39_android.widget.ScrollView.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_39_android.widget.ScrollView.png",
+        "score": 1896480
+    },
+    {
+        "file_name": "iter_00000_step_00000_43_android.view.ViewGroup.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_43_android.view.ViewGroup.png",
+        "score": 1474200
+    },
+    {
+        "file_name": "iter_00000_step_00000_44_android.view.ViewGroup.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_44_android.view.ViewGroup.png",
+        "score": 1462320
+    },
+    {
+        "file_name": "iter_00000_step_00000_48_android.view.ViewGroup.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_48_android.view.ViewGroup.png",
+        "score": 1252524
+    },
+    {
+        "file_name": "iter_00000_step_00000_49_android.view.ViewGroup.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_49_android.view.ViewGroup.png",
+        "score": 626780
+    },
+    {
+        "file_name": "iter_00000_step_00000_58_android.view.ViewGroup.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_58_android.view.ViewGroup.png",
+        "score": 625744
+    },
+    {
+        "file_name": "iter_00000_step_00000_64_android.view.ViewGroup.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_64_android.view.ViewGroup.png",
+        "score": 422280
+    },
+    {
+        "file_name": "iter_00000_step_00000_50_android.view.ViewGroup.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_50_android.view.ViewGroup.png",
+        "score": 292083
+    },
+    {
+        "file_name": "iter_00000_step_00000_59_android.view.ViewGroup.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_59_android.view.ViewGroup.png",
+        "score": 291582
+    },
+    {
+        "file_name": "iter_00000_step_00000_54_android.view.ViewGroup.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_54_android.view.ViewGroup.png",
+        "score": 291500
+    },
+    {
+        "file_name": "iter_00000_step_00000_69_android.view.ViewGroup.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_69_android.view.ViewGroup.png",
+        "score": 267840
+    },
+    {
+        "file_name": "iter_00000_step_00000_52_android.widget.ImageView.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_52_android.widget.ImageView.png",
+        "score": 251001
+    },
+    {
+        "file_name": "iter_00000_step_00000_51_android.view.ViewGroup.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_51_android.view.ViewGroup.png",
+        "score": 251001
+    },
+    {
+        "file_name": "iter_00000_step_00000_61_android.widget.ImageView.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_61_android.widget.ImageView.png",
+        "score": 250500
+    },
+    {
+        "file_name": "iter_00000_step_00000_60_android.view.ViewGroup.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_60_android.view.ViewGroup.png",
+        "score": 250500
+    },
+    {
+        "file_name": "iter_00000_step_00000_56_android.widget.ImageView.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_56_android.widget.ImageView.png",
+        "score": 250500
+    },
+    {
+        "file_name": "iter_00000_step_00000_55_android.view.ViewGroup.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_55_android.view.ViewGroup.png",
+        "score": 250500
+    },
+    {
+        "file_name": "iter_00000_step_00000_87_android.view.ViewGroup.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_87_android.view.ViewGroup.png",
+        "score": 185760
+    },
+    {
+        "file_name": "iter_00000_step_00000_86_android.view.View.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_86_android.view.View.png",
+        "score": 185760
+    },
+    {
+        "file_name": "iter_00000_step_00000_116_android.view.ViewGroup.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_116_android.view.ViewGroup.png",
+        "score": 185760
+    },
+    {
+        "file_name": "iter_00000_step_00000_71_android.view.ViewGroup.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_71_android.view.ViewGroup.png",
+        "score": 171720
+    },
+    {
+        "file_name": "iter_00000_step_00000_17_android.view.ViewGroup.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_17_android.view.ViewGroup.png",
+        "score": 166320
+    },
+    {
+        "file_name": "iter_00000_step_00000_15_android.view.ViewGroup.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_15_android.view.ViewGroup.png",
+        "score": 166320
+    },
+    {
+        "file_name": "iter_00000_step_00000_72_android.view.ViewGroup.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_72_android.view.ViewGroup.png",
+        "score": 159840
+    },
+    {
+        "file_name": "iter_00000_step_00000_79_android.view.ViewGroup.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_79_android.view.ViewGroup.png",
+        "score": 95040
+    },
+    {
+        "file_name": "iter_00000_step_00000_75_android.widget.TextView.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_75_android.widget.TextView.png",
+        "score": 57664
+    },
+    {
+        "file_name": "iter_00000_step_00000_20_android.widget.TextView.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_20_android.widget.TextView.png",
+        "score": 46512
+    },
+    {
+        "file_name": "iter_00000_step_00000_96_android.view.ViewGroup.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_96_android.view.ViewGroup.png",
+        "score": 46440
+    },
+    {
+        "file_name": "iter_00000_step_00000_95_android.view.View.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_95_android.view.View.png",
+        "score": 46440
+    },
+    {
+        "file_name": "iter_00000_step_00000_89_android.view.ViewGroup.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_89_android.view.ViewGroup.png",
+        "score": 46440
+    },
+    {
+        "file_name": "iter_00000_step_00000_88_android.view.View.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_88_android.view.View.png",
+        "score": 46440
+    },
+    {
+        "file_name": "iter_00000_step_00000_110_android.view.ViewGroup.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_110_android.view.ViewGroup.png",
+        "score": 46440
+    },
+    {
+        "file_name": "iter_00000_step_00000_109_android.view.View.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_109_android.view.View.png",
+        "score": 46440
+    },
+    {
+        "file_name": "iter_00000_step_00000_103_android.view.ViewGroup.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_103_android.view.ViewGroup.png",
+        "score": 46440
+    },
+    {
+        "file_name": "iter_00000_step_00000_102_android.view.View.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_102_android.view.View.png",
+        "score": 46440
+    },
+    {
+        "file_name": "iter_00000_step_00000_53_android.widget.TextView.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_53_android.widget.TextView.png",
+        "score": 41082
+    },
+    {
+        "file_name": "iter_00000_step_00000_57_android.widget.TextView.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_57_android.widget.TextView.png",
+        "score": 41000
+    },
+    {
+        "file_name": "iter_00000_step_00000_82_android.widget.TextView.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_82_android.widget.TextView.png",
+        "score": 40704
+    },
+    {
+        "file_name": "iter_00000_step_00000_62_android.widget.TextView.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_62_android.widget.TextView.png",
+        "score": 40581
+    },
+    {
+        "file_name": "iter_00000_step_00000_45_android.widget.TextView.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_45_android.widget.TextView.png",
+        "score": 26520
+    },
+    {
+        "file_name": "iter_00000_step_00000_65_android.widget.TextView.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_65_android.widget.TextView.png",
+        "score": 16456
+    },
+    {
+        "file_name": "iter_00000_step_00000_25_android.view.ViewGroup.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_25_android.view.ViewGroup.png",
+        "score": 9900
+    },
+    {
+        "file_name": "iter_00000_step_00000_23_android.view.ViewGroup.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_23_android.view.ViewGroup.png",
+        "score": 9900
+    },
+    {
+        "file_name": "iter_00000_step_00000_21_android.view.ViewGroup.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_21_android.view.ViewGroup.png",
+        "score": 9900
+    },
+    {
+        "file_name": "iter_00000_step_00000_18_android.view.ViewGroup.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_18_android.view.ViewGroup.png",
+        "score": 9900
+    },
+    {
+        "file_name": "iter_00000_step_00000_74_android.widget.ImageView.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_74_android.widget.ImageView.png",
+        "score": 6806
+    },
+    {
+        "file_name": "iter_00000_step_00000_73_android.view.ViewGroup.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_73_android.view.ViewGroup.png",
+        "score": 6806
+    },
+    {
+        "file_name": "iter_00000_step_00000_108_android.widget.TextView.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_108_android.widget.TextView.png",
+        "score": 6493
+    },
+    {
+        "file_name": "iter_00000_step_00000_107_android.view.ViewGroup.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_107_android.view.ViewGroup.png",
+        "score": 6493
+    },
+    {
+        "file_name": "iter_00000_step_00000_66_android.view.ViewGroup.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_66_android.view.ViewGroup.png",
+        "score": 4851
+    },
+    {
+        "file_name": "iter_00000_step_00000_81_android.widget.ImageView.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_81_android.widget.ImageView.png",
+        "score": 4565
+    },
+    {
+        "file_name": "iter_00000_step_00000_80_android.view.ViewGroup.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_80_android.view.ViewGroup.png",
+        "score": 4565
+    },
+    {
+        "file_name": "iter_00000_step_00000_115_android.widget.TextView.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_115_android.widget.TextView.png",
+        "score": 4085
+    },
+    {
+        "file_name": "iter_00000_step_00000_114_android.view.ViewGroup.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_114_android.view.ViewGroup.png",
+        "score": 4085
+    },
+    {
+        "file_name": "iter_00000_step_00000_94_android.widget.TextView.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_94_android.widget.TextView.png",
+        "score": 3956
+    },
+    {
+        "file_name": "iter_00000_step_00000_93_android.view.ViewGroup.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_93_android.view.ViewGroup.png",
+        "score": 3956
+    },
+    {
+        "file_name": "iter_00000_step_00000_99_android.widget.TextView.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_99_android.widget.TextView.png",
+        "score": 3843
+    },
+    {
+        "file_name": "iter_00000_step_00000_98_android.view.ViewGroup.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_98_android.view.ViewGroup.png",
+        "score": 3843
+    },
+    {
+        "file_name": "iter_00000_step_00000_92_android.widget.TextView.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_92_android.widget.TextView.png",
+        "score": 3843
+    },
+    {
+        "file_name": "iter_00000_step_00000_91_android.view.ViewGroup.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_91_android.view.ViewGroup.png",
+        "score": 3843
+    },
+    {
+        "file_name": "iter_00000_step_00000_113_android.widget.TextView.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_113_android.widget.TextView.png",
+        "score": 3843
+    },
+    {
+        "file_name": "iter_00000_step_00000_112_android.view.ViewGroup.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_112_android.view.ViewGroup.png",
+        "score": 3843
+    },
+    {
+        "file_name": "iter_00000_step_00000_106_android.widget.TextView.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_106_android.widget.TextView.png",
+        "score": 3843
+    },
+    {
+        "file_name": "iter_00000_step_00000_105_android.view.ViewGroup.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_105_android.view.ViewGroup.png",
+        "score": 3843
+    },
+    {
+        "file_name": "iter_00000_step_00000_101_android.widget.TextView.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_101_android.widget.TextView.png",
+        "score": 3612
+    },
+    {
+        "file_name": "iter_00000_step_00000_100_android.view.ViewGroup.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_100_android.view.ViewGroup.png",
+        "score": 3612
+    },
+    {
+        "file_name": "iter_00000_step_00000_26_android.widget.TextView.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_26_android.widget.TextView.png",
+        "score": 3080
+    },
+    {
+        "file_name": "iter_00000_step_00000_24_android.widget.TextView.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_24_android.widget.TextView.png",
+        "score": 3080
+    },
+    {
+        "file_name": "iter_00000_step_00000_22_android.widget.TextView.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_22_android.widget.TextView.png",
+        "score": 3080
+    },
+    {
+        "file_name": "iter_00000_step_00000_19_android.widget.TextView.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_19_android.widget.TextView.png",
+        "score": 3080
+    },
+    {
+        "file_name": "iter_00000_step_00000_76_android.widget.TextView.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_76_android.widget.TextView.png",
+        "score": 2600
+    },
+    {
+        "file_name": "iter_00000_step_00000_83_android.widget.TextView.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_83_android.widget.TextView.png",
+        "score": 2000
+    },
+    {
+        "file_name": "iter_00000_step_00000_27_android.view.ViewGroup.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_27_android.view.ViewGroup.png",
+        "score": 1936
+    },
+    {
+        "file_name": "iter_00000_step_00000_117_android.view.ViewGroup.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_117_android.view.ViewGroup.png",
+        "score": 1350
+    },
+    {
+        "file_name": "iter_00000_step_00000_28_android.widget.TextView.png",
+        "path": "/Users/testai/test_ai/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/crawls/20220214104200/elems/iter_00000_step_00000_28_android.widget.TextView.png",
+        "score": 817
+    }
+]

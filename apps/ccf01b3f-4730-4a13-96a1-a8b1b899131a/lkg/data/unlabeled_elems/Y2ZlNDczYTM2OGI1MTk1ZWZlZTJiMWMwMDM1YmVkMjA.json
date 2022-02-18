@@ -1,0 +1,61 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "HQVkBQj7kqVlhd3a0Mwt5Q==\n",
+    "height": 43,
+    "hier_level": 0,
+    "human_hash": "a_X456_Y793_W77_H43",
+    "human_readable": "a_456_793_77_43_a_ffffffffffffffffffffffff39f0000000000000fef2ffffffffffffffffffff_96caa8b6ca762b9cf9f866d7068ebfb2",
+    "image_path": "Y2ZlNDczYTM2OGI1MTk1ZWZlZTJiMWMwMDM1YmVkMjA.png",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "#tab-reviews"
+            },
+            "backend_node_id": 4338,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 43.0,
+            "key": "456_793_77_43_Reviews (0)",
+            "tagName": "a",
+            "text": "Reviews (0)",
+            "width": 77.0,
+            "x": 456.0,
+            "y": 793.0
+        },
+        "location": {
+            "x": 456.0,
+            "y": 793.0
+        },
+        "size": {
+            "height": 43.0,
+            "width": 77.0
+        },
+        "tag_name": "a",
+        "text": "Reviews (0)"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "17e15d5d4126019c51f098001255eb31",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Reviews (0)",
+    "transformed": true,
+    "width": 77,
+    "x": 456,
+    "y": 793
+}

@@ -1,0 +1,65 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "nav",
+    "clickable": true,
+    "content-desc": "",
+    "elem_shot_file_path": "/Users/testai/test_ai/apps/ccf01b3f-4730-4a13-96a1-a8b1b899131a/builds/64a18977-2fde-43b7-9198-651fed6c8a58/test_runs/20220217221625/tmpZ/123145583001600/nav_X1008_Y272_W552_H26.png",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "Y5Nnw4ef0GmNUjDgTtmA4A==\n",
+    "height": 26,
+    "hier_level": 0,
+    "human_hash": "nav_X1008_Y272_W552_H26",
+    "human_readable": "nav_1008_272_552_26_nav_ffffffffffffffffffff23ff01ff01ff01ff01ff01ff01fff5ffffffffffffff_55d92151aaa6b01266eba7d07f909cc8",
+    "image_path": "MWEwZDEyZTViYThjNGNlMDA4MmI0NTU3ZTA0ZGUwMjQ.png",
+    "img_hash": "9af60adc738deef97c6096ae2d94de50",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "woocommerce-breadcrumb"
+            },
+            "backend_node_id": 5444,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 26.0,
+            "key": "1008_272_552_26_Home \u00a0/\u00a0 Accessories \u00a0/\u00a0Bright Red Bag",
+            "tagName": "nav",
+            "text": "Home \u00a0/\u00a0 Accessories \u00a0/\u00a0Bright Red Bag",
+            "width": 552.0,
+            "x": 1008.0,
+            "y": 272.0
+        },
+        "location": {
+            "x": 1008.0,
+            "y": 272.0
+        },
+        "size": {
+            "height": 26.0,
+            "width": 552.0
+        },
+        "tag_name": "nav",
+        "text": "Home \u00a0/\u00a0 Accessories \u00a0/\u00a0Bright Red Bag"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "2fc6f1fc1ffeff2e27bfecc111a6d249",
+    "scrollable": false,
+    "tag_name": "nav",
+    "text": "Home \u00a0/\u00a0 Accessories \u00a0/\u00a0Bright Red Bag",
+    "text_hash": "55d92151aaa6b01266eba7d07f909cc8",
+    "transformed": true,
+    "width": 552,
+    "x": 1008,
+    "y": 272
+}

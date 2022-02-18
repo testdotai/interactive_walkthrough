@@ -1,0 +1,65 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "elem_shot_file_path": "/Users/testai/test_ai/apps/ccf01b3f-4730-4a13-96a1-a8b1b899131a/builds/64a18977-2fde-43b7-9198-651fed6c8a58/test_runs/20220217221625/tmpZ/123145465475072/div_X1008_Y599_W552_H40.png",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "GbBOoVCZ12iJSvO68REsmg==\n",
+    "height": 40,
+    "hier_level": 0,
+    "human_hash": "div_X1008_Y599_W552_H40",
+    "human_readable": "div_1008_599_552_40_div_0000ffffffffffffffffffffffffffffffff07ff03ff03ff03ff3fffffffffff_506f4ca5afeb3e7f8f19351bd385709b",
+    "image_path": "MzM4MjNkNzRmM2I1MDc0NWJjN2NmMTkwN2JhODZjNTk.png",
+    "img_hash": "2371322ff7219d9e0c980584e84ec068",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product_meta"
+            },
+            "backend_node_id": 5484,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 40.0,
+            "key": "1008_599_552_40_Categories:  Accessories ,  Women",
+            "tagName": "div",
+            "text": "Categories:  Accessories ,  Women",
+            "width": 552.0,
+            "x": 1008.0,
+            "y": 599.0
+        },
+        "location": {
+            "x": 1008.0,
+            "y": 599.0
+        },
+        "size": {
+            "height": 40.0,
+            "width": 552.0
+        },
+        "tag_name": "div",
+        "text": "Categories:  Accessories ,  Women"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "2fc6f1fc1ffeff2e27bfecc111a6d249",
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Categories:  Accessories ,  Women",
+    "text_hash": "506f4ca5afeb3e7f8f19351bd385709b",
+    "transformed": true,
+    "width": 552,
+    "x": 1008,
+    "y": 599
+}

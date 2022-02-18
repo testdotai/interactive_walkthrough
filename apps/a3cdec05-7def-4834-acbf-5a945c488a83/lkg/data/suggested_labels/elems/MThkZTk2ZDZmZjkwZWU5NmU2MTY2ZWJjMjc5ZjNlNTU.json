@@ -1,0 +1,9 @@
+{
+    "black_over_the_shoulder_handbag": {
+        "all_scores": {
+            "carbon_classifiers.textual.textual_classifier": 1.0
+        },
+        "score": 1.0,
+        "source": "carbon_classifiers.textual.textual_classifier"
+    }
+}

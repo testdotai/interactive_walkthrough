@@ -1,0 +1,1025 @@
+{
+    "64a18977-2fde-43b7-9198-651fed6c8a58": {
+        "pass": [
+            {
+                "carbon_log_file_path": "run-59522396.log",
+                "carbon_original_title": "05: Dynamic Content",
+                "crawl_directory": "test_runs/20220217221935",
+                "created": "2022-02-17 22:20:09",
+                "curr_label": null,
+                "curr_nav_substep": 0,
+                "curr_step": 8,
+                "curr_sub_step": 0,
+                "custom_data": [
+                    {
+                        "id": "browser_name",
+                        "label": "Browser",
+                        "value": "Chrome"
+                    }
+                ],
+                "custom_hidden_data": [
+                    {
+                        "id": "test_case_name",
+                        "label": "Original Test Case Name",
+                        "value": "05: Dynamic Content"
+                    }
+                ],
+                "description": "Using the 'dynamic content' flag to interact with elements with changing content.",
+                "duration": 32.826696,
+                "failures": {},
+                "is_deactivated": false,
+                "log": [
+                    "step:0sub_step:0  found:btn_cart",
+                    "step:1sub_step:0  found:btn_store",
+                    "step:2sub_step:0  found:inp_search",
+                    "step:3sub_step:0  found:img_red_bag",
+                    "step:4sub_step:0  found:img_red_bag",
+                    "step:6sub_step:0  found:btn_add_to_cart",
+                    "step:7sub_step:0  found:btn_view_cart",
+                    "step:8sub_step:0  found:btn_cart"
+                ],
+                "note": "",
+                "result": "pass",
+                "step_details": {
+                    "00000": {
+                        "action_info": {
+                            "elem_class": "div",
+                            "elem_info": {
+                                "behavior": "",
+                                "checkable": false,
+                                "class": "div",
+                                "clickable": true,
+                                "content-desc": "",
+                                "enabled": true,
+                                "focusable": true,
+                                "focused": false,
+                                "hash": "PR+5UEaG0k6yEXIYTdVHGQ==\n",
+                                "height": 29,
+                                "hier_level": 0,
+                                "human_hash": "div_X1533_Y38_W27_H29",
+                                "human_readable": "div_1533_38_27_29_div_000000000020002016200060006010401000000000000000ffffffffffffffff_f4ea5f46dd32b666be3f802dfe2982c2",
+                                "img_hash": "aa1ba86dc05c266ed9809412902733ad",
+                                "index": -1,
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "class": "ast-cart-menu-wrap"
+                                        },
+                                        "backend_node_id": 234,
+                                        "flags": {
+                                            "checkable": false,
+                                            "clickable": true,
+                                            "enabled": true,
+                                            "focusable": true,
+                                            "focused": false,
+                                            "scrollable": false
+                                        },
+                                        "height": 29.0,
+                                        "key": "1533_38_27_29_0",
+                                        "tagName": "div",
+                                        "text": "0",
+                                        "width": 27.0,
+                                        "x": 1533.0,
+                                        "y": 38.0
+                                    },
+                                    "location": {
+                                        "x": 1533.0,
+                                        "y": 38.0
+                                    },
+                                    "size": {
+                                        "height": 29.0,
+                                        "width": 27.0
+                                    },
+                                    "tag_name": "div",
+                                    "text": "0"
+                                },
+                                "is_transformed": true,
+                                "package": "",
+                                "password": false,
+                                "png_hash": "000000000020002016200060006010401000000000000000ffffffffffffffff",
+                                "resource-id": "",
+                                "scrollable": false,
+                                "tag_name": "div",
+                                "text": "0",
+                                "text_hash": "f4ea5f46dd32b666be3f802dfe2982c2",
+                                "transformed": true,
+                                "width": 27,
+                                "x": 1533,
+                                "y": 38
+                            },
+                            "gesture": "hover",
+                            "text": ""
+                        },
+                        "conditional_step_skipped": false,
+                        "cpu": 0.0,
+                        "found_all_labels": true,
+                        "jank": 0.0,
+                        "matched_grep": null,
+                        "matched_grep_val": null,
+                        "mem": 0.0,
+                        "net": 0.0,
+                        "page_labels": [
+                            "btn_cart"
+                        ],
+                        "screenshot_file_name": "iter_00000_step_00000_screenshot.png",
+                        "screenshot_file_path": "tests/result_paths/05: Dynamic Content - d0cd1305-9399-4cfd-b4c1-15def6639b17/iter_00000_step_00000_screenshot.png",
+                        "step_num": 0,
+                        "test_labels": [
+                            "btn_cart"
+                        ],
+                        "timing": 1.444605827331543
+                    },
+                    "00001": {
+                        "action_info": {
+                            "elem_class": "a",
+                            "elem_info": {
+                                "behavior": "",
+                                "checkable": false,
+                                "class": "a",
+                                "clickable": true,
+                                "content-desc": "",
+                                "enabled": true,
+                                "focusable": true,
+                                "focused": false,
+                                "hash": "F3qKcxDjUHL2WXLikC9xMA==\n",
+                                "height": 70,
+                                "hier_level": 0,
+                                "human_hash": "a_X911_Y16_W69_H70",
+                                "human_readable": "a_911_16_69_70_a_000000180038002002200060006010401000000000000000ffffffffffffffff_7e969ed097f24f51534eeb756856e8ed",
+                                "img_hash": "2fe653b5ec932217217f495b4dbe8de4",
+                                "index": -1,
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "class": "menu-link",
+                                            "href": "https://testaistore.com/store/"
+                                        },
+                                        "backend_node_id": 202,
+                                        "flags": {
+                                            "checkable": false,
+                                            "clickable": true,
+                                            "enabled": true,
+                                            "focusable": true,
+                                            "focused": false,
+                                            "scrollable": false
+                                        },
+                                        "height": 70.0,
+                                        "key": "911_16_69_70_Store",
+                                        "tagName": "a",
+                                        "text": "Store",
+                                        "width": 69.0,
+                                        "x": 911.0,
+                                        "y": 16.0
+                                    },
+                                    "location": {
+                                        "x": 911.0,
+                                        "y": 16.0
+                                    },
+                                    "size": {
+                                        "height": 70.0,
+                                        "width": 69.0
+                                    },
+                                    "tag_name": "a",
+                                    "text": "Store"
+                                },
+                                "is_transformed": true,
+                                "package": "",
+                                "password": false,
+                                "png_hash": "000000180038002002200060006010401000000000000000ffffffffffffffff",
+                                "resource-id": "",
+                                "scrollable": false,
+                                "tag_name": "a",
+                                "text": "Store",
+                                "text_hash": "7e969ed097f24f51534eeb756856e8ed",
+                                "transformed": true,
+                                "width": 69,
+                                "x": 911,
+                                "y": 16
+                            },
+                            "gesture": "tap",
+                            "text": ""
+                        },
+                        "conditional_step_skipped": false,
+                        "cpu": 0.0,
+                        "found_all_labels": true,
+                        "jank": 0.0,
+                        "matched_grep": null,
+                        "matched_grep_val": null,
+                        "mem": 0.0,
+                        "net": 0.0,
+                        "page_labels": [
+                            "btn_store"
+                        ],
+                        "screenshot_file_name": "iter_00000_step_00001_screenshot.png",
+                        "screenshot_file_path": "tests/result_paths/05: Dynamic Content - d0cd1305-9399-4cfd-b4c1-15def6639b17/iter_00000_step_00001_screenshot.png",
+                        "step_num": 1,
+                        "test_labels": [
+                            "btn_store"
+                        ],
+                        "timing": 0.5207910537719727
+                    },
+                    "00002": {
+                        "action_info": {
+                            "elem_class": "input",
+                            "elem_info": {
+                                "behavior": "",
+                                "checkable": false,
+                                "class": "input",
+                                "clickable": true,
+                                "content-desc": "",
+                                "enabled": true,
+                                "focusable": true,
+                                "focused": false,
+                                "hash": "gWBiVBmmz//Vtdi8BdNCiQ==\n",
+                                "height": 42,
+                                "hier_level": 0,
+                                "human_hash": "input_X360_Y162_W154_H42",
+                                "human_readable": "input_360_162_154_42_input_ffffffffffffffffef5fed07ec07ec07ed7fefffefbfec07ec07fc07ed07ffff_9d4568c009d203ab10e33ea9953a0264",
+                                "img_hash": "f9ebc655c0af054e91de9dd6dff49766",
+                                "index": -1,
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "class": "search-field",
+                                            "id": "woocommerce-product-search-field-0",
+                                            "name": "s",
+                                            "placeholder": "Search products\u2026",
+                                            "type": "search",
+                                            "value": ""
+                                        },
+                                        "backend_node_id": 1920,
+                                        "flags": {
+                                            "checkable": false,
+                                            "clickable": true,
+                                            "enabled": true,
+                                            "focusable": true,
+                                            "focused": false,
+                                            "scrollable": false
+                                        },
+                                        "height": 42.0,
+                                        "key": "360_162_154_42_",
+                                        "tagName": "input",
+                                        "text": "",
+                                        "width": 154.0,
+                                        "x": 360.0,
+                                        "y": 162.0
+                                    },
+                                    "location": {
+                                        "x": 360.0,
+                                        "y": 162.0
+                                    },
+                                    "size": {
+                                        "height": 42.0,
+                                        "width": 154.0
+                                    },
+                                    "tag_name": "input",
+                                    "text": ""
+                                },
+                                "is_transformed": true,
+                                "package": "",
+                                "password": false,
+                                "png_hash": "ffffffffffffffffef5fed07ec07ec07ed7fefffefbfec07ec07fc07ed07ffff",
+                                "resource-id": "",
+                                "scrollable": false,
+                                "tag_name": "input",
+                                "text": "",
+                                "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+                                "transformed": true,
+                                "width": 154,
+                                "x": 360,
+                                "y": 162
+                            },
+                            "gesture": "text_entry",
+                            "text": "bag"
+                        },
+                        "conditional_step_skipped": false,
+                        "cpu": 0.0,
+                        "found_all_labels": true,
+                        "jank": 0.0,
+                        "matched_grep": null,
+                        "matched_grep_val": null,
+                        "mem": 0.0,
+                        "net": 0.0,
+                        "page_labels": [
+                            "inp_search"
+                        ],
+                        "screenshot_file_name": "iter_00000_step_00002_screenshot.png",
+                        "screenshot_file_path": "tests/result_paths/05: Dynamic Content - d0cd1305-9399-4cfd-b4c1-15def6639b17/iter_00000_step_00002_screenshot.png",
+                        "step_num": 2,
+                        "test_labels": [
+                            "inp_search"
+                        ],
+                        "timing": 0.14188885688781738
+                    },
+                    "00003": {
+                        "action_info": {
+                            "elem_class": "img",
+                            "elem_info": {
+                                "behavior": "",
+                                "checkable": false,
+                                "class": "img",
+                                "clickable": true,
+                                "content-desc": "",
+                                "enabled": true,
+                                "focusable": true,
+                                "focused": false,
+                                "hash": "B2aThsO0ousG9RqD9NERFA==\n",
+                                "height": 60,
+                                "hier_level": 0,
+                                "human_hash": "img_X360_Y615_W60_H60",
+                                "human_readable": "img_360_615_60_60_img_fffffffffffff4efe47fe43fe43fe43fe07fe47fe7ffe7ffe7ffefffe7ffefff_9d4568c009d203ab10e33ea9953a0264",
+                                "img_hash": "8649b51b5901c304e6b87ae514cee8a8",
+                                "index": -1,
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "alt": "",
+                                            "class": "attachment-woocommerce_thumbnail size-woocommerce_thumbnail",
+                                            "height": "300",
+                                            "loading": "lazy",
+                                            "sizes": "(max-width: 300px) 100vw, 300px",
+                                            "src": "https://testaistore.com/wp-content/uploads/2017/12/product-bag3-1-300x300.jpg",
+                                            "srcset": "https://testaistore.com/wp-content/uploads/2017/12/product-bag3-1-300x300.jpg 300w, https://testaistore.com/wp-content/uploads/2017/12/product-bag3-1-1024x1024.jpg 1024w, https://testaistore.com/wp-content/uploads/2017/12/product-bag3-1-150x150.jpg 150w, https://testaistore.com/wp-content/uploads/2017/12/product-bag3-1-768x768.jpg 768w, https://testaistore.com/wp-content/uploads/2017/12/product-bag3-1-600x600.jpg 600w, https://testaistore.com/wp-content/uploads/2017/12/product-bag3-1-100x100.jpg 100w, https://testaistore.com/wp-content/uploads/2017/12/product-bag3-1.jpg 1200w",
+                                            "width": "300"
+                                        },
+                                        "backend_node_id": 2893,
+                                        "flags": {
+                                            "checkable": false,
+                                            "clickable": true,
+                                            "enabled": true,
+                                            "focusable": true,
+                                            "focused": false,
+                                            "scrollable": false
+                                        },
+                                        "height": 60.0,
+                                        "key": "360_615_60_60_",
+                                        "tagName": "img",
+                                        "text": "",
+                                        "width": 60.0,
+                                        "x": 360.0,
+                                        "y": 615.0
+                                    },
+                                    "location": {
+                                        "x": 360.0,
+                                        "y": 615.0
+                                    },
+                                    "size": {
+                                        "height": 60.0,
+                                        "width": 60.0
+                                    },
+                                    "tag_name": "img",
+                                    "text": ""
+                                },
+                                "is_transformed": true,
+                                "package": "",
+                                "password": false,
+                                "png_hash": "fffffffffffff4efe47fe43fe43fe43fe07fe47fe7ffe7ffe7ffefffe7ffefff",
+                                "resource-id": "",
+                                "scrollable": false,
+                                "tag_name": "img",
+                                "text": "",
+                                "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+                                "transformed": true,
+                                "width": 60,
+                                "x": 360,
+                                "y": 615
+                            },
+                            "gesture": "tap",
+                            "text": ""
+                        },
+                        "conditional_step_skipped": false,
+                        "cpu": 0.0,
+                        "found_all_labels": true,
+                        "jank": 0.0,
+                        "matched_grep": null,
+                        "matched_grep_val": null,
+                        "mem": 0.0,
+                        "net": 0.0,
+                        "page_labels": [
+                            "img_red_bag"
+                        ],
+                        "screenshot_file_name": "iter_00000_step_00003_screenshot.png",
+                        "screenshot_file_path": "tests/result_paths/05: Dynamic Content - d0cd1305-9399-4cfd-b4c1-15def6639b17/iter_00000_step_00003_screenshot.png",
+                        "step_num": 3,
+                        "test_labels": [
+                            "img_red_bag"
+                        ],
+                        "timing": 0.1395578384399414
+                    },
+                    "00004": {
+                        "action_info": {
+                            "elem_class": "img",
+                            "elem_info": {
+                                "behavior": "",
+                                "checkable": false,
+                                "class": "img",
+                                "clickable": true,
+                                "content-desc": "",
+                                "enabled": true,
+                                "focusable": true,
+                                "focused": false,
+                                "hash": "LqBowVhI6MhpKjrmsnbNnw==\n",
+                                "height": 600,
+                                "hier_level": 0,
+                                "human_hash": "img_X360_Y162_W600_H600",
+                                "human_readable": "img_360_162_600_600_img_ffffffffffffe03fe83fe907f507f1bfe0ffe0fff0fff0ffe6ffefffe7ffe03f_9d4568c009d203ab10e33ea9953a0264",
+                                "img_hash": "af6f3c05d94cb043a1fba4fcffc4d5a8",
+                                "index": -1,
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "alt": "",
+                                            "class": "wp-post-image",
+                                            "data-caption": "",
+                                            "data-large_image": "https://testaistore.com/wp-content/uploads/2017/12/product-bag3-1.jpg",
+                                            "data-large_image_height": "1200",
+                                            "data-large_image_width": "1200",
+                                            "data-src": "https://testaistore.com/wp-content/uploads/2017/12/product-bag3-1.jpg",
+                                            "height": "600",
+                                            "loading": "lazy",
+                                            "sizes": "(max-width: 600px) 100vw, 600px",
+                                            "src": "https://testaistore.com/wp-content/uploads/2017/12/product-bag3-1-600x600.jpg",
+                                            "srcset": "https://testaistore.com/wp-content/uploads/2017/12/product-bag3-1-600x600.jpg 600w, https://testaistore.com/wp-content/uploads/2017/12/product-bag3-1-300x300.jpg 300w, https://testaistore.com/wp-content/uploads/2017/12/product-bag3-1-1024x1024.jpg 1024w, https://testaistore.com/wp-content/uploads/2017/12/product-bag3-1-150x150.jpg 150w, https://testaistore.com/wp-content/uploads/2017/12/product-bag3-1-768x768.jpg 768w, https://testaistore.com/wp-content/uploads/2017/12/product-bag3-1-100x100.jpg 100w, https://testaistore.com/wp-content/uploads/2017/12/product-bag3-1.jpg 1200w",
+                                            "title": "product-bag3",
+                                            "width": "600"
+                                        },
+                                        "backend_node_id": 3874,
+                                        "flags": {
+                                            "checkable": false,
+                                            "clickable": true,
+                                            "enabled": true,
+                                            "focusable": true,
+                                            "focused": false,
+                                            "scrollable": false
+                                        },
+                                        "height": 600.0,
+                                        "key": "360_162_600_600_",
+                                        "tagName": "img",
+                                        "text": "",
+                                        "width": 600.0,
+                                        "x": 360.0,
+                                        "y": 162.0
+                                    },
+                                    "location": {
+                                        "x": 360.0,
+                                        "y": 162.0
+                                    },
+                                    "size": {
+                                        "height": 600.0,
+                                        "width": 600.0
+                                    },
+                                    "tag_name": "img",
+                                    "text": ""
+                                },
+                                "is_transformed": true,
+                                "package": "",
+                                "password": false,
+                                "png_hash": "ffffffffffffe03fe83fe907f507f1bfe0ffe0fff0fff0ffe6ffefffe7ffe03f",
+                                "resource-id": "",
+                                "scrollable": false,
+                                "tag_name": "img",
+                                "text": "",
+                                "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+                                "transformed": true,
+                                "width": 600,
+                                "x": 360,
+                                "y": 162
+                            },
+                            "gesture": "no_op",
+                            "text": ""
+                        },
+                        "conditional_step_skipped": false,
+                        "cpu": 0,
+                        "found_all_labels": true,
+                        "jank": 0,
+                        "matched_grep": null,
+                        "matched_grep_val": null,
+                        "mem": 0,
+                        "net": 0,
+                        "page_labels": [
+                            "img_red_bag"
+                        ],
+                        "screenshot_file_name": "iter_00000_step_00004_screenshot.png",
+                        "screenshot_file_path": "tests/result_paths/05: Dynamic Content - d0cd1305-9399-4cfd-b4c1-15def6639b17/iter_00000_step_00004_screenshot.png",
+                        "step_num": 4,
+                        "test_labels": [
+                            "img_red_bag"
+                        ],
+                        "timing": 0.1539459228515625
+                    },
+                    "00005": {
+                        "action_info": {
+                            "elem_class": "screen",
+                            "elem_info": {
+                                "class": "screen",
+                                "hash": "kWr84Jad8eBreHR8BZSlxA==\n",
+                                "height": 931,
+                                "hier_level": 0,
+                                "human_hash": "screen_X0_Y0_W1920_H931",
+                                "human_readable": "screen_0_0_1920_931_screen_ffffffffffffe03fe83fe907f507f1bfe0ffe0fff0fff0ffe6ffefffe7ffe03f_9d4568c009d203ab10e33ea9953a0264",
+                                "index": -1,
+                                "is_transformed": true,
+                                "png_hash": "ffffffffffffe03fe83fe907f507f1bfe0ffe0fff0fff0ffe6ffefffe7ffe03f",
+                                "tag_name": "screen",
+                                "text": "",
+                                "width": 1920,
+                                "x": 0,
+                                "y": 0
+                            },
+                            "gesture": "no_op",
+                            "text": ""
+                        },
+                        "conditional_step_skipped": false,
+                        "cpu": 0.0,
+                        "jank": 0.0,
+                        "mem": 0.0,
+                        "net": 0.0,
+                        "screenshot_file_name": "iter_00000_step_00005_screenshot.png",
+                        "screenshot_file_path": "tests/result_paths/05: Dynamic Content - d0cd1305-9399-4cfd-b4c1-15def6639b17/iter_00000_step_00005_screenshot.png",
+                        "step_num": 5,
+                        "timing": 0.1539459228515625
+                    },
+                    "00006": {
+                        "action_info": {
+                            "elem_class": "button",
+                            "elem_info": {
+                                "behavior": "",
+                                "checkable": false,
+                                "class": "button",
+                                "clickable": true,
+                                "content-desc": "",
+                                "enabled": true,
+                                "focusable": true,
+                                "focused": false,
+                                "hash": "d49rymqDUTgFgf7dIOfMsw==\n",
+                                "height": 35,
+                                "hier_level": 0,
+                                "human_hash": "button_X1066_Y436_W155_H35",
+                                "human_readable": "button_1066_436_155_35_button_ffffffffffffe03fe83fe907f507f1bfe0ffe0fff0fff0ffe6ffefffe7ffe03f_6c3a0afb731563650d40e33825afb452",
+                                "img_hash": "0063422b0763e11a8067eee32bb51372",
+                                "index": -1,
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "class": "single_add_to_cart_button button alt",
+                                            "name": "add-to-cart",
+                                            "type": "submit",
+                                            "value": "2696"
+                                        },
+                                        "backend_node_id": 4306,
+                                        "flags": {
+                                            "checkable": false,
+                                            "clickable": true,
+                                            "enabled": true,
+                                            "focusable": true,
+                                            "focused": false,
+                                            "scrollable": false
+                                        },
+                                        "height": 35.0,
+                                        "key": "1066_436_155_35_Add to cart",
+                                        "tagName": "button",
+                                        "text": "Add to cart",
+                                        "width": 155.0,
+                                        "x": 1066.0,
+                                        "y": 436.0
+                                    },
+                                    "location": {
+                                        "x": 1066.0,
+                                        "y": 436.0
+                                    },
+                                    "size": {
+                                        "height": 35.0,
+                                        "width": 155.0
+                                    },
+                                    "tag_name": "button",
+                                    "text": "Add to cart"
+                                },
+                                "is_transformed": true,
+                                "package": "",
+                                "password": false,
+                                "png_hash": "ffffffffffffe03fe83fe907f507f1bfe0ffe0fff0fff0ffe6ffefffe7ffe03f",
+                                "resource-id": "",
+                                "scrollable": false,
+                                "tag_name": "button",
+                                "text": "Add to cart",
+                                "text_hash": "6c3a0afb731563650d40e33825afb452",
+                                "transformed": true,
+                                "width": 155,
+                                "x": 1066,
+                                "y": 436
+                            },
+                            "gesture": "tap",
+                            "text": ""
+                        },
+                        "conditional_step_skipped": false,
+                        "cpu": 0.0,
+                        "found_all_labels": true,
+                        "jank": 0.0,
+                        "matched_grep": null,
+                        "matched_grep_val": null,
+                        "mem": 0.0,
+                        "net": 0.0,
+                        "page_labels": [
+                            "btn_add_to_cart"
+                        ],
+                        "screenshot_file_name": "iter_00000_step_00006_screenshot.png",
+                        "screenshot_file_path": "tests/result_paths/05: Dynamic Content - d0cd1305-9399-4cfd-b4c1-15def6639b17/iter_00000_step_00006_screenshot.png",
+                        "step_num": 6,
+                        "test_labels": [
+                            "btn_add_to_cart"
+                        ],
+                        "timing": 0.14089107513427734
+                    },
+                    "00007": {
+                        "action_info": {
+                            "elem_class": "a",
+                            "elem_info": {
+                                "behavior": "",
+                                "checkable": false,
+                                "class": "a",
+                                "clickable": true,
+                                "content-desc": "",
+                                "enabled": true,
+                                "focusable": true,
+                                "focused": false,
+                                "hash": "/U+9yLFOxj7ax8rOxkSJFw==\n",
+                                "height": 47,
+                                "hier_level": 0,
+                                "human_hash": "a_X1416_Y180_W114_H47",
+                                "human_readable": "a_1416_180_114_47_a_fffffffff7ffe3f7ffffe03fe87fe907f10ff1bfe0ffe0fff0fff0ffecffefff_a2d2e1101d5d693efbb74910328eec89",
+                                "img_hash": "958f3baad7f150206097b94522c69a7f",
+                                "index": -1,
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "class": "button wc-forward",
+                                            "href": "https://testaistore.com/cart/",
+                                            "tabindex": "1"
+                                        },
+                                        "backend_node_id": 5424,
+                                        "flags": {
+                                            "checkable": false,
+                                            "clickable": true,
+                                            "enabled": true,
+                                            "focusable": true,
+                                            "focused": false,
+                                            "scrollable": false
+                                        },
+                                        "height": 47.0,
+                                        "key": "1416_180_114_47_View cart",
+                                        "tagName": "a",
+                                        "text": "View cart",
+                                        "width": 114.0,
+                                        "x": 1416.0,
+                                        "y": 180.0
+                                    },
+                                    "location": {
+                                        "x": 1416.0,
+                                        "y": 180.0
+                                    },
+                                    "size": {
+                                        "height": 47.0,
+                                        "width": 114.0
+                                    },
+                                    "tag_name": "a",
+                                    "text": "View cart"
+                                },
+                                "is_transformed": true,
+                                "package": "",
+                                "password": false,
+                                "png_hash": "fffffffff7ffe3f7ffffe03fe87fe907f10ff1bfe0ffe0fff0fff0ffecffefff",
+                                "resource-id": "",
+                                "scrollable": false,
+                                "tag_name": "a",
+                                "text": "View cart",
+                                "text_hash": "a2d2e1101d5d693efbb74910328eec89",
+                                "transformed": true,
+                                "width": 114,
+                                "x": 1416,
+                                "y": 180
+                            },
+                            "gesture": "tap",
+                            "text": ""
+                        },
+                        "conditional_step_skipped": false,
+                        "cpu": 0.0,
+                        "found_all_labels": true,
+                        "jank": 0.0,
+                        "matched_grep": null,
+                        "matched_grep_val": null,
+                        "mem": 0.0,
+                        "net": 0.0,
+                        "page_labels": [
+                            "btn_view_cart"
+                        ],
+                        "screenshot_file_name": "iter_00000_step_00007_screenshot.png",
+                        "screenshot_file_path": "tests/result_paths/05: Dynamic Content - d0cd1305-9399-4cfd-b4c1-15def6639b17/iter_00000_step_00007_screenshot.png",
+                        "step_num": 7,
+                        "test_labels": [
+                            "btn_view_cart"
+                        ],
+                        "timing": 0.14270782470703125
+                    },
+                    "00008": {
+                        "action_info": {
+                            "elem_class": "div",
+                            "elem_info": {
+                                "behavior": "",
+                                "checkable": false,
+                                "class": "div",
+                                "clickable": true,
+                                "content-desc": "",
+                                "enabled": true,
+                                "focusable": true,
+                                "focused": false,
+                                "hash": "rkYTYEWqYbtYp2zJBOCpyQ==\n",
+                                "height": 29,
+                                "hier_level": 0,
+                                "human_hash": "div_X1533_Y38_W27_H29",
+                                "human_readable": "div_1533_38_27_29_div_ffb7fffffe7ffa5ff67ff907e527e167e9c7f73fff1fff1fff07ff07ffffffff_2f7bb230c70819aeb10b45a709bcf48f",
+                                "img_hash": "86a7fb44419c10f1fb264267973113ec",
+                                "index": -1,
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "class": "ast-cart-menu-wrap"
+                                        },
+                                        "backend_node_id": 6389,
+                                        "flags": {
+                                            "checkable": false,
+                                            "clickable": true,
+                                            "enabled": true,
+                                            "focusable": true,
+                                            "focused": false,
+                                            "scrollable": false
+                                        },
+                                        "height": 29.0,
+                                        "key": "1533_38_27_29_1",
+                                        "tagName": "div",
+                                        "text": "1",
+                                        "width": 27.0,
+                                        "x": 1533.0,
+                                        "y": 38.0
+                                    },
+                                    "location": {
+                                        "x": 1533.0,
+                                        "y": 38.0
+                                    },
+                                    "size": {
+                                        "height": 29.0,
+                                        "width": 27.0
+                                    },
+                                    "tag_name": "div",
+                                    "text": "1"
+                                },
+                                "is_transformed": true,
+                                "package": "",
+                                "password": false,
+                                "png_hash": "ffb7fffffe7ffa5ff67ff907e527e167e9c7f73fff1fff1fff07ff07ffffffff",
+                                "resource-id": "",
+                                "scrollable": false,
+                                "tag_name": "div",
+                                "text": "1",
+                                "text_hash": "2f7bb230c70819aeb10b45a709bcf48f",
+                                "transformed": true,
+                                "width": 27,
+                                "x": 1533,
+                                "y": 38
+                            },
+                            "gesture": "hover",
+                            "text": ""
+                        },
+                        "conditional_step_skipped": false,
+                        "cpu": 0.0,
+                        "found_all_labels": true,
+                        "jank": 0.0,
+                        "matched_grep": null,
+                        "matched_grep_val": null,
+                        "mem": 0.0,
+                        "net": 0.0,
+                        "page_labels": [
+                            "btn_cart"
+                        ],
+                        "screenshot_file_name": "iter_00000_step_00008_screenshot.png",
+                        "screenshot_file_path": "tests/result_paths/05: Dynamic Content - d0cd1305-9399-4cfd-b4c1-15def6639b17/iter_00000_step_00008_screenshot.png",
+                        "step_num": 8,
+                        "test_labels": [
+                            "btn_cart"
+                        ],
+                        "timing": 0.15348076820373535
+                    },
+                    "00009": {
+                        "action_info": {
+                            "elem_class": "screen",
+                            "elem_info": {
+                                "class": "screen",
+                                "hash": "kWr84Jad8eBreHR8BZSlxA==\n",
+                                "height": 931,
+                                "hier_level": 0,
+                                "human_hash": "screen_X0_Y0_W1920_H931",
+                                "human_readable": "screen_0_0_1920_931_screen_ff97fff7fe7ffa5ff67ff907e527e167e9c7f73fff1fff1fff07ff07ffffffff_9d4568c009d203ab10e33ea9953a0264",
+                                "index": -1,
+                                "is_transformed": true,
+                                "png_hash": "ff97fff7fe7ffa5ff67ff907e527e167e9c7f73fff1fff1fff07ff07ffffffff",
+                                "tag_name": "screen",
+                                "text": "",
+                                "width": 1920,
+                                "x": 0,
+                                "y": 0
+                            },
+                            "gesture": "no_op",
+                            "text": ""
+                        },
+                        "conditional_step_skipped": false,
+                        "cpu": 0.0,
+                        "jank": 0.0,
+                        "mem": 0.0,
+                        "net": 0.0,
+                        "screenshot_file_name": "iter_00000_step_00009_screenshot.png",
+                        "screenshot_file_path": "tests/result_paths/05: Dynamic Content - d0cd1305-9399-4cfd-b4c1-15def6639b17/iter_00000_step_00009_screenshot.png",
+                        "step_num": 9,
+                        "timing": 0.15147066116333008
+                    }
+                },
+                "steps": [
+                    {
+                        "continue_on_failure": false,
+                        "description": "",
+                        "dynamic_element": false,
+                        "grep": "",
+                        "grep_count": null,
+                        "input": "hover",
+                        "is_imported": false,
+                        "label_count": null,
+                        "labels": [
+                            "btn_cart"
+                        ],
+                        "stepIsOpen": true,
+                        "timeout": null,
+                        "type": "action",
+                        "widget": ""
+                    },
+                    {
+                        "continue_on_failure": false,
+                        "description": "",
+                        "grep": "",
+                        "grep_count": null,
+                        "input": "tap",
+                        "is_imported": false,
+                        "label_count": null,
+                        "labels": [
+                            "btn_store"
+                        ],
+                        "stepIsOpen": false,
+                        "timeout": null,
+                        "type": "action",
+                        "widget": ""
+                    },
+                    {
+                        "continue_on_failure": false,
+                        "description": "",
+                        "grep": "bag",
+                        "grep_count": null,
+                        "input": "text_entry",
+                        "is_imported": false,
+                        "label_count": null,
+                        "labels": [
+                            "inp_search"
+                        ],
+                        "stepIsOpen": false,
+                        "timeout": null,
+                        "type": "action",
+                        "widget": ""
+                    },
+                    {
+                        "continue_on_failure": false,
+                        "description": "",
+                        "grep": "",
+                        "grep_count": null,
+                        "input": "tap",
+                        "is_imported": false,
+                        "label_count": null,
+                        "labels": [
+                            "img_red_bag"
+                        ],
+                        "scrollIntoView": false,
+                        "stepIsOpen": false,
+                        "type": "action",
+                        "widget": ""
+                    },
+                    {
+                        "continue_on_failure": false,
+                        "description": "",
+                        "grep": "",
+                        "grep_count": null,
+                        "input": "",
+                        "is_imported": false,
+                        "label_count": null,
+                        "labels": [
+                            "img_red_bag"
+                        ],
+                        "stepIsOpen": false,
+                        "timeout": null,
+                        "type": "verification",
+                        "widget": ""
+                    },
+                    {
+                        "continue_on_failure": false,
+                        "description": "",
+                        "grep": "Bright Red Bag",
+                        "grep_count": null,
+                        "input": "",
+                        "is_imported": false,
+                        "label_count": null,
+                        "labels": [],
+                        "stepIsOpen": false,
+                        "timeout": null,
+                        "type": "verification",
+                        "widget": ""
+                    },
+                    {
+                        "continue_on_failure": false,
+                        "description": "",
+                        "grep": "",
+                        "grep_count": null,
+                        "imported_from": "03a:subtest_add_to_cart",
+                        "input": "tap",
+                        "is_imported": true,
+                        "label_count": null,
+                        "labels": [
+                            "btn_add_to_cart"
+                        ],
+                        "original_step": {
+                            "continue_on_failure": false,
+                            "description": "",
+                            "grep": "03a:subtest_add_to_cart",
+                            "grep_count": null,
+                            "input": "",
+                            "label_count": null,
+                            "labels": [],
+                            "stepIsOpen": false,
+                            "timeout": null,
+                            "type": "test_case",
+                            "widget": ""
+                        },
+                        "stepIsOpen": true,
+                        "timeout": null,
+                        "type": "action",
+                        "widget": ""
+                    },
+                    {
+                        "continue_on_failure": false,
+                        "description": "",
+                        "grep": "",
+                        "grep_count": null,
+                        "imported_from": "03a:subtest_add_to_cart",
+                        "input": "tap",
+                        "is_imported": true,
+                        "label_count": null,
+                        "labels": [
+                            "btn_view_cart"
+                        ],
+                        "original_step": {
+                            "continue_on_failure": false,
+                            "description": "",
+                            "grep": "03a:subtest_add_to_cart",
+                            "grep_count": null,
+                            "input": "",
+                            "label_count": null,
+                            "labels": [],
+                            "stepIsOpen": false,
+                            "timeout": null,
+                            "type": "test_case",
+                            "widget": ""
+                        },
+                        "timeout": null,
+                        "type": "action",
+                        "widget": ""
+                    },
+                    {
+                        "continue_on_failure": false,
+                        "description": "",
+                        "dynamic_element": true,
+                        "grep": "bag",
+                        "grep_count": null,
+                        "input": "hover",
+                        "is_imported": false,
+                        "label_count": null,
+                        "labels": [
+                            "btn_cart"
+                        ],
+                        "timeout": null,
+                        "type": "action",
+                        "widget": ""
+                    }
+                ],
+                "tags": [],
+                "temp_id": "f148aa7e-9078-11ec-b7b0-149d997c13bb",
+                "timestamp_finished": "2022-02-17 22:20:09",
+                "timestamp_started": "2022-02-17 22:19:36",
+                "title": "05: Dynamic Content - d0cd1305-9399-4cfd-b4c1-15def6639b17",
+                "use_qlearning_matrix": true
+            }
+        ]
+    }
+}

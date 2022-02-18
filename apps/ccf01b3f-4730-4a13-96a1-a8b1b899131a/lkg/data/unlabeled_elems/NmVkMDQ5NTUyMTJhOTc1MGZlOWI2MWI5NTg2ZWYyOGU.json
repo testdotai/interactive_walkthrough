@@ -13,14 +13,13 @@
     "human_hash": "a_X911_Y16_W69_H70",
     "human_readable": "a_911_16_69_70_a_ffffffffffffffffffffffffe007e007e007e247ffffffffffffffffffffffff_7e969ed097f24f51534eeb756856e8ed",
     "image_path": "NmVkMDQ5NTUyMTJhOTc1MGZlOWI2MWI5NTg2ZWYyOGU.png",
-    "index": -1,
     "internal": {
         "elem_dict": {
             "attributes": {
                 "class": "menu-link",
                 "href": "https://testaistore.com/store/"
             },
-            "backend_node_id": 1712,
+            "backend_node_id": 4033,
             "flags": {
                 "checkable": false,
                 "clickable": true,
@@ -52,7 +51,7 @@
     "package": "",
     "password": false,
     "resource-id": "",
-    "screen_hash": "2b6db1d4ba7f23850646f8be7d6a961e",
+    "screen_hash": "17e15d5d4126019c51f098001255eb31",
     "scrollable": false,
     "tag_name": "a",
     "text": "Store",

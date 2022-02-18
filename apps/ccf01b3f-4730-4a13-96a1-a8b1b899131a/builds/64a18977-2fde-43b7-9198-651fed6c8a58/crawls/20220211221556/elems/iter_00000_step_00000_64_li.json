@@ -1,0 +1,56 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "li",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "4jEOSQ7a9hb3tnLMtVcO4A==\n",
+    "height": 89,
+    "hier_level": 0,
+    "human_hash": "li_X360_Y578_W239_H89",
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 525,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 89.0,
+            "key": "360_578_239_89_DNK Green Shoes Rated  0  out of 5 $ 150.00",
+            "tagName": "li",
+            "text": "DNK Green Shoes Rated  0  out of 5 $ 150.00",
+            "width": 239.0,
+            "x": 360.0,
+            "y": 578.0
+        },
+        "location": {
+            "x": 360.0,
+            "y": 578.0
+        },
+        "size": {
+            "height": 89.0,
+            "width": 239.0
+        },
+        "tag_name": "li",
+        "text": "DNK Green Shoes Rated  0  out of 5 $ 150.00"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "scrollable": false,
+    "tag_name": "li",
+    "text": "DNK Green Shoes Rated  0  out of 5 $ 150.00",
+    "transformed": true,
+    "width": 239,
+    "x": 360,
+    "y": 578
+}

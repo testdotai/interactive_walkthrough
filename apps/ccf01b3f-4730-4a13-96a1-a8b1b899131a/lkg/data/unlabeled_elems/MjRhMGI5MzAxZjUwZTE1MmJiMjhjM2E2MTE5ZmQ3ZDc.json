@@ -1,0 +1,61 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "iSwcAZVV411odFMzBzXKSg==\n",
+    "height": 17,
+    "hier_level": 0,
+    "human_hash": "a_X1055_Y166_W71_H17",
+    "human_readable": "a_1055_166_71_17_a_ffffffffffffffff3ff73fff20000000000008000a0202824000ffffffffffff_1b96cccba0cbb6b1c26d4d6db1c72a5d",
+    "image_path": "MjRhMGI5MzAxZjUwZTE1MmJiMjhjM2E2MTE5ZmQ3ZDc.png",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "https://testaistore.com/product-category/accessories/"
+            },
+            "backend_node_id": 4278,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 17.0,
+            "key": "1055_166_71_17_Accessories",
+            "tagName": "a",
+            "text": "Accessories",
+            "width": 71.0,
+            "x": 1055.0,
+            "y": 166.0
+        },
+        "location": {
+            "x": 1055.0,
+            "y": 166.0
+        },
+        "size": {
+            "height": 17.0,
+            "width": 71.0
+        },
+        "tag_name": "a",
+        "text": "Accessories"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "17e15d5d4126019c51f098001255eb31",
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Accessories",
+    "transformed": true,
+    "width": 71,
+    "x": 1055,
+    "y": 166
+}

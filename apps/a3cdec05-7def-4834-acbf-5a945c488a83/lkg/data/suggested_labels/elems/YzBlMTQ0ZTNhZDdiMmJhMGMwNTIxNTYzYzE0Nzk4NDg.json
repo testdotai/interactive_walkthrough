@@ -1,0 +1,9 @@
+{
+    "img_anchor_bracelet": {
+        "all_scores": {
+            "carbon_classifiers.perceptual.nn_classifier": 1.0
+        },
+        "score": 1.0,
+        "source": "carbon_classifiers.perceptual.nn_classifier"
+    }
+}

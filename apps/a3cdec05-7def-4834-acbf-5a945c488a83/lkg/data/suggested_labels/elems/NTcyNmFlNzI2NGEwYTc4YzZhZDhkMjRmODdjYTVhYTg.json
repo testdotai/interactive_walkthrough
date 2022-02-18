@@ -1,0 +1,9 @@
+{
+    "close": {
+        "all_scores": {
+            "kirfuzz-general-classifier:v2": 0.8124115467071533
+        },
+        "score": 0.8124115467071533,
+        "source": "kirfuzz-general-classifier:v2"
+    }
+}

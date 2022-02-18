@@ -1,0 +1,15 @@
+{
+    "desiredCaps": {
+        "app": "http://localhost:5000/api/v2/apps/a3cdec05-7def-4834-acbf-5a945c488a83/builds/7d741828-6a21-4cd3-b257-ed0561aa6d99/download?ext=.apk",
+        "appPackage": "com.coffye.jrosav",
+        "autoAcceptAlerts": true,
+        "deviceName": "Android Emulator",
+        "device_id": "0C251JEC201447",
+        "newCommandTimeout": 100,
+        "platformName": "Android",
+        "platformVersion": "7.0"
+    },
+    "deviceFriendlyName": "physical device",
+    "hostPlatformRelease": "21.3.0",
+    "hostPlatformSystem": "Darwin"
+}
