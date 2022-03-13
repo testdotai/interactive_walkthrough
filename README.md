@@ -1,7 +1,7 @@
 # Test.ai Interactive Walkthrough
 
 This repository contains the completed exercises from our interactive training walkthrough. You can access the training exercises via our online documentation portal here:
-https://docs.test.ai/training/interactive-training
+https://docs.test.ai/your-first-test/interactive-training
 
 ### Viewing examples in the test.ai application:
 To review the code in-app, clone this repository into your user directory, and rename the directory to 'test_ai':
